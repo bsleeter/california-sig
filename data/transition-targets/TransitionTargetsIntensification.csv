@@ -1,0 +1,7 @@
+Timestep,TransitionGroupID,Amount,DistributionType,DistributionFrequencyID,DistributionSD
+2002,Intensification: Open to Low [Type],3.4,Normal,Iteration and Timestep,1.311487705
+2002,Intensification: Open to Medium [Type],16.6,Normal,Iteration and Timestep,3.831448812
+2002,Intensification: Open to High [Type],5.2,Normal,Iteration and Timestep,3.67151195
+2002,Intensification: Low to Medium [Type],5.5,Normal,Iteration and Timestep,2.687005769
+2002,Intensification: Low to High [Type],7.4,Normal,Iteration and Timestep,1.414213562
+2002,Intensification: Medium to High [Type],1.2,Normal,Iteration and Timestep,1

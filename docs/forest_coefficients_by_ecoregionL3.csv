@@ -1,0 +1,2421 @@
+FIA_region,ecoregionL3,er3code,forest_type,a_volume,b_volume,forest_area_km2
+Pacific_Northwest,Puget Lowland,2,Alder_Maple,436.17,0.05,3304.125
+Pacific_Northwest,Coast Range,1,Alder_Maple,436.17,0.05,3003.625
+Pacific_Northwest,Coast Range,1,Alder_Maple,436.17,0.05,3003.625
+Pacific_Northwest,Coast Range,1,Alder_Maple,436.17,0.05,3003.625
+Pacific_Northwest,North Cascades,77,Alder_Maple,436.17,0.05,711.375
+Pacific_Northwest,Cascades,4,Alder_Maple,436.17,0.05,596.6875
+Pacific_Northwest,Cascades,4,Alder_Maple,436.17,0.05,596.6875
+Pacific_Northwest,Cascades,4,Alder_Maple,436.17,0.05,596.6875
+Pacific_Northwest,Willamette Valley,3,Alder_Maple,436.17,0.05,119.8125
+Pacific_Northwest,Willamette Valley,3,Alder_Maple,436.17,0.05,119.8125
+Pacific_Northwest,Klamath Mountains/California High North Coast Range,78,Alder_Maple,436.17,0.05,85.3125
+Pacific_Northwest,Klamath Mountains/California High North Coast Range,78,Alder_Maple,436.17,0.05,85.3125
+Pacific_Northwest,Central California Foothills and Coastal Mountains,6,Alder_Maple,436.17,0.05,9.25
+Pacific_Northwest,Eastern Cascades Slopes and Foothills,9,Alder_Maple,436.17,0.05,0.25
+Pacific_Northwest,Eastern Cascades Slopes and Foothills,9,Alder_Maple,436.17,0.05,0.25
+Pacific_Northwest,Eastern Cascades Slopes and Foothills,9,Alder_Maple,436.17,0.05,0.25
+Interior_West,Sierra Nevada,5,Alder_Maple,113.81,0.07,0.125
+Pacific_Northwest,Sierra Nevada,5,Alder_Maple,436.17,0.05,0.125
+North_Central,Northern Lakes and Forests,50,Aspen_Birch,146.48,0.04,71220
+North_Central,Northern Lakes and Forests,50,Aspen_Birch,146.48,0.04,71220
+North_Central,Northern Lakes and Forests,50,Aspen_Birch,146.48,0.04,71220
+Interior_West,Southern Rockies,21,Aspen_Birch,259.18,0.02,16611.5625
+Interior_West,Southern Rockies,21,Aspen_Birch,259.18,0.02,16611.5625
+Interior_West,Southern Rockies,21,Aspen_Birch,259.18,0.02,16611.5625
+Interior_West,Southern Rockies,21,Aspen_Birch,259.18,0.02,16611.5625
+Interior_West,Wasatch and Uinta Mountains,19,Aspen_Birch,259.18,0.02,7471.5625
+Interior_West,Wasatch and Uinta Mountains,19,Aspen_Birch,259.18,0.02,7471.5625
+Interior_West,Wasatch and Uinta Mountains,19,Aspen_Birch,259.18,0.02,7471.5625
+North_Central,Northern Minnesota Wetlands,49,Aspen_Birch,146.48,0.04,5880
+North_Central,Southern Michigan/Northern Indiana Drift Plains,56,Aspen_Birch,146.48,0.04,5718.0625
+North_Central,Southern Michigan/Northern Indiana Drift Plains,56,Aspen_Birch,146.48,0.04,5718.0625
+North_Central,North Central Hardwood Forests,51,Aspen_Birch,146.48,0.04,5618.6875
+North_Central,North Central Hardwood Forests,51,Aspen_Birch,146.48,0.04,5618.6875
+North_Central,North Central Hardwood Forests,51,Aspen_Birch,146.48,0.04,5618.6875
+Interior_West,Middle Rockies,17,Aspen_Birch,259.18,0.02,2793.8125
+Interior_West,Middle Rockies,17,Aspen_Birch,259.18,0.02,2793.8125
+Interior_West,Middle Rockies,17,Aspen_Birch,259.18,0.02,2793.8125
+North_Central,Middle Rockies,17,Aspen_Birch,146.48,0.04,2793.8125
+North_Central,Huron/Erie Lake Plains,57,Aspen_Birch,146.48,0.04,2386.9375
+North_Central,Huron/Erie Lake Plains,57,Aspen_Birch,146.48,0.04,2386.9375
+Northeast,Huron/Erie Lake Plains,57,Aspen_Birch,196.77,0.03,2386.9375
+Northeast,Acadian Plains and Hills,82,Aspen_Birch,196.77,0.03,1976.6875
+Northeast,Northeastern Highlands,58,Aspen_Birch,196.77,0.03,1499.625
+Northeast,Northeastern Highlands,58,Aspen_Birch,196.77,0.03,1499.625
+Northeast,Northeastern Highlands,58,Aspen_Birch,196.77,0.03,1499.625
+Northeast,Northeastern Highlands,58,Aspen_Birch,196.77,0.03,1499.625
+Northeast,Northeastern Highlands,58,Aspen_Birch,196.77,0.03,1499.625
+Northeast,Northeastern Highlands,58,Aspen_Birch,196.77,0.03,1499.625
+Northeast,Northeastern Highlands,58,Aspen_Birch,196.77,0.03,1499.625
+Northeast,Northeastern Highlands,58,Aspen_Birch,196.77,0.03,1499.625
+North_Central,Lake Agassiz Plain,48,Aspen_Birch,146.48,0.04,1000.9375
+North_Central,Lake Agassiz Plain,48,Aspen_Birch,146.48,0.04,1000.9375
+Interior_West,Colorado Plateaus,20,Aspen_Birch,259.18,0.02,981.25
+Interior_West,Colorado Plateaus,20,Aspen_Birch,259.18,0.02,981.25
+Interior_West,Colorado Plateaus,20,Aspen_Birch,259.18,0.02,981.25
+Interior_West,Colorado Plateaus,20,Aspen_Birch,259.18,0.02,981.25
+Interior_West,Northern Basin and Range,80,Aspen_Birch,259.18,0.02,844.125
+Interior_West,Northern Basin and Range,80,Aspen_Birch,259.18,0.02,844.125
+Interior_West,Northern Basin and Range,80,Aspen_Birch,259.18,0.02,844.125
+Pacific_Northwest,Northern Basin and Range,80,Aspen_Birch,191.8,0.04,844.125
+Pacific_Northwest,Northern Basin and Range,80,Aspen_Birch,191.8,0.04,844.125
+North_Central,Northern Glaciated Plains,46,Aspen_Birch,146.48,0.04,685.5625
+North_Central,Northern Glaciated Plains,46,Aspen_Birch,146.48,0.04,685.5625
+North_Central,Northern Glaciated Plains,46,Aspen_Birch,146.48,0.04,685.5625
+Interior_West,Arizona/New Mexico Mountains,23,Aspen_Birch,259.18,0.02,638.25
+Interior_West,Arizona/New Mexico Mountains,23,Aspen_Birch,259.18,0.02,638.25
+South,Arizona/New Mexico Mountains,23,Aspen_Birch,436.64,0.02,638.25
+Interior_West,Central Basin and Range,13,Aspen_Birch,259.18,0.02,432.625
+Interior_West,Central Basin and Range,13,Aspen_Birch,259.18,0.02,432.625
+Interior_West,Central Basin and Range,13,Aspen_Birch,259.18,0.02,432.625
+Pacific_Northwest,Central Basin and Range,13,Aspen_Birch,191.8,0.04,432.625
+Northeast,Eastern Great Lakes Lowlands,83,Aspen_Birch,196.77,0.03,231.25
+Northeast,Eastern Great Lakes Lowlands,83,Aspen_Birch,196.77,0.03,231.25
+Northeast,Eastern Great Lakes Lowlands,83,Aspen_Birch,196.77,0.03,231.25
+Northeast,Eastern Great Lakes Lowlands,83,Aspen_Birch,196.77,0.03,231.25
+Interior_West,Wyoming Basin,18,Aspen_Birch,259.18,0.02,200.8125
+Interior_West,Wyoming Basin,18,Aspen_Birch,259.18,0.02,200.8125
+Interior_West,Wyoming Basin,18,Aspen_Birch,259.18,0.02,200.8125
+Interior_West,Wyoming Basin,18,Aspen_Birch,259.18,0.02,200.8125
+Interior_West,Wyoming Basin,18,Aspen_Birch,259.18,0.02,200.8125
+Interior_West,Canadian Rockies,41,Aspen_Birch,259.18,0.02,196.5625
+North_Central,Eastern Corn Belt Plains,55,Aspen_Birch,146.48,0.04,183.8125
+North_Central,Eastern Corn Belt Plains,55,Aspen_Birch,146.48,0.04,183.8125
+Northeast,Eastern Corn Belt Plains,55,Aspen_Birch,196.77,0.03,183.8125
+Northeast,Central Appalachians,69,Aspen_Birch,196.77,0.03,149.5625
+Northeast,Central Appalachians,69,Aspen_Birch,196.77,0.03,149.5625
+South,Central Appalachians,69,Aspen_Birch,436.64,0.02,149.5625
+South,Central Appalachians,69,Aspen_Birch,436.64,0.02,149.5625
+South,Central Appalachians,69,Aspen_Birch,436.64,0.02,149.5625
+South,Central Appalachians,69,Aspen_Birch,436.64,0.02,149.5625
+North_Central,Driftless Area,52,Aspen_Birch,146.48,0.04,123.8125
+North_Central,Driftless Area,52,Aspen_Birch,146.48,0.04,123.8125
+North_Central,Driftless Area,52,Aspen_Birch,146.48,0.04,123.8125
+North_Central,Driftless Area,52,Aspen_Birch,146.48,0.04,123.8125
+North_Central,Western Corn Belt Plains,47,Aspen_Birch,146.48,0.04,107.6875
+North_Central,Western Corn Belt Plains,47,Aspen_Birch,146.48,0.04,107.6875
+North_Central,Western Corn Belt Plains,47,Aspen_Birch,146.48,0.04,107.6875
+North_Central,Western Corn Belt Plains,47,Aspen_Birch,146.48,0.04,107.6875
+North_Central,Western Corn Belt Plains,47,Aspen_Birch,146.48,0.04,107.6875
+North_Central,Western Corn Belt Plains,47,Aspen_Birch,146.48,0.04,107.6875
+North_Central,Western Corn Belt Plains,47,Aspen_Birch,146.48,0.04,107.6875
+Interior_West,Northern Rockies,15,Aspen_Birch,259.18,0.02,93.125
+Interior_West,Northern Rockies,15,Aspen_Birch,259.18,0.02,93.125
+Pacific_Northwest,Northern Rockies,15,Aspen_Birch,191.8,0.04,93.125
+Northeast,Northeastern Coastal Zone,59,Aspen_Birch,196.77,0.03,92.8125
+Northeast,Northeastern Coastal Zone,59,Aspen_Birch,196.77,0.03,92.8125
+Northeast,Northeastern Coastal Zone,59,Aspen_Birch,196.77,0.03,92.8125
+Northeast,Northeastern Coastal Zone,59,Aspen_Birch,196.77,0.03,92.8125
+Northeast,Northeastern Coastal Zone,59,Aspen_Birch,196.77,0.03,92.8125
+Northeast,Northeastern Coastal Zone,59,Aspen_Birch,196.77,0.03,92.8125
+Northeast,Northeastern Coastal Zone,59,Aspen_Birch,196.77,0.03,92.8125
+Interior_West,Snake River Plain,12,Aspen_Birch,259.18,0.02,74.4375
+Interior_West,Snake River Plain,12,Aspen_Birch,259.18,0.02,74.4375
+Pacific_Northwest,Snake River Plain,12,Aspen_Birch,191.8,0.04,74.4375
+Northeast,Erie Drift Plain,61,Aspen_Birch,196.77,0.03,72.125
+Northeast,Erie Drift Plain,61,Aspen_Birch,196.77,0.03,72.125
+Northeast,Erie Drift Plain,61,Aspen_Birch,196.77,0.03,72.125
+Interior_West,Sierra Nevada,5,Aspen_Birch,259.18,0.02,69.875
+Pacific_Northwest,Sierra Nevada,5,Aspen_Birch,191.8,0.04,69.875
+Interior_West,Idaho Batholith,16,Aspen_Birch,259.18,0.02,66.1875
+Interior_West,Idaho Batholith,16,Aspen_Birch,259.18,0.02,66.1875
+Northeast,Western Allegheny Plateau,70,Aspen_Birch,196.77,0.03,39.8125
+Northeast,Western Allegheny Plateau,70,Aspen_Birch,196.77,0.03,39.8125
+South,Western Allegheny Plateau,70,Aspen_Birch,436.64,0.02,39.8125
+South,Western Allegheny Plateau,70,Aspen_Birch,436.64,0.02,39.8125
+Northeast,Northern Allegheny Plateau,60,Aspen_Birch,196.77,0.03,38.0625
+Northeast,Northern Allegheny Plateau,60,Aspen_Birch,196.77,0.03,38.0625
+Northeast,North Central Appalachians,62,Aspen_Birch,196.77,0.03,30.3125
+Northeast,North Central Appalachians,62,Aspen_Birch,196.77,0.03,30.3125
+North_Central,Southeastern Wisconsin Till Plains,53,Aspen_Birch,146.48,0.04,26.9375
+North_Central,Southeastern Wisconsin Till Plains,53,Aspen_Birch,146.48,0.04,26.9375
+Interior_West,Blue Mountains,11,Aspen_Birch,259.18,0.02,26.625
+Pacific_Northwest,Blue Mountains,11,Aspen_Birch,191.8,0.04,26.625
+Pacific_Northwest,Blue Mountains,11,Aspen_Birch,191.8,0.04,26.625
+Interior_West,Northwestern Great Plains,43,Aspen_Birch,259.18,0.02,24.875
+Interior_West,Northwestern Great Plains,43,Aspen_Birch,259.18,0.02,24.875
+North_Central,Northwestern Great Plains,43,Aspen_Birch,146.48,0.04,24.875
+North_Central,Northwestern Great Plains,43,Aspen_Birch,146.48,0.04,24.875
+North_Central,Northwestern Great Plains,43,Aspen_Birch,146.48,0.04,24.875
+Interior_West,Northwestern Glaciated Plains,42,Aspen_Birch,259.18,0.02,24.4375
+North_Central,Northwestern Glaciated Plains,42,Aspen_Birch,146.48,0.04,24.4375
+North_Central,Northwestern Glaciated Plains,42,Aspen_Birch,146.48,0.04,24.4375
+North_Central,Northwestern Glaciated Plains,42,Aspen_Birch,146.48,0.04,24.4375
+Pacific_Northwest,Eastern Cascades Slopes and Foothills,9,Aspen_Birch,191.8,0.04,20.625
+Pacific_Northwest,Eastern Cascades Slopes and Foothills,9,Aspen_Birch,191.8,0.04,20.625
+Pacific_Northwest,Eastern Cascades Slopes and Foothills,9,Aspen_Birch,191.8,0.04,20.625
+Northeast,Ridge and Valley,67,Aspen_Birch,196.77,0.03,19.375
+Northeast,Ridge and Valley,67,Aspen_Birch,196.77,0.03,19.375
+Northeast,Ridge and Valley,67,Aspen_Birch,196.77,0.03,19.375
+Northeast,Ridge and Valley,67,Aspen_Birch,196.77,0.03,19.375
+South,Ridge and Valley,67,Aspen_Birch,436.64,0.02,19.375
+South,Ridge and Valley,67,Aspen_Birch,436.64,0.02,19.375
+South,Ridge and Valley,67,Aspen_Birch,436.64,0.02,19.375
+South,Ridge and Valley,67,Aspen_Birch,436.64,0.02,19.375
+South,Ridge and Valley,67,Aspen_Birch,436.64,0.02,19.375
+Northeast,Northern Piedmont,64,Aspen_Birch,196.77,0.03,10.75
+Northeast,Northern Piedmont,64,Aspen_Birch,196.77,0.03,10.75
+Northeast,Northern Piedmont,64,Aspen_Birch,196.77,0.03,10.75
+Northeast,Northern Piedmont,64,Aspen_Birch,196.77,0.03,10.75
+Northeast,Northern Piedmont,64,Aspen_Birch,196.77,0.03,10.75
+South,Northern Piedmont,64,Aspen_Birch,436.64,0.02,10.75
+Pacific_Northwest,North Cascades,77,Aspen_Birch,191.8,0.04,9.0625
+Interior_West,Chihuahuan Deserts,24,Aspen_Birch,259.18,0.02,7.625
+Interior_West,Chihuahuan Deserts,24,Aspen_Birch,259.18,0.02,7.625
+South,Chihuahuan Deserts,24,Aspen_Birch,436.64,0.02,7.625
+Pacific_Northwest,Cascades,4,Aspen_Birch,191.8,0.04,6.125
+Pacific_Northwest,Cascades,4,Aspen_Birch,191.8,0.04,6.125
+Pacific_Northwest,Cascades,4,Aspen_Birch,191.8,0.04,6.125
+Interior_West,Arizona/New Mexico Plateau,22,Aspen_Birch,259.18,0.02,5.875
+Interior_West,Arizona/New Mexico Plateau,22,Aspen_Birch,259.18,0.02,5.875
+Interior_West,Arizona/New Mexico Plateau,22,Aspen_Birch,259.18,0.02,5.875
+Interior_West,Arizona/New Mexico Plateau,22,Aspen_Birch,259.18,0.02,5.875
+Pacific_Northwest,Willamette Valley,3,Aspen_Birch,191.8,0.04,3.4375
+Pacific_Northwest,Willamette Valley,3,Aspen_Birch,191.8,0.04,3.4375
+Northeast,Atlantic Coastal Pine Barrens,84,Aspen_Birch,196.77,0.03,2.1875
+Northeast,Atlantic Coastal Pine Barrens,84,Aspen_Birch,196.77,0.03,2.1875
+Northeast,Atlantic Coastal Pine Barrens,84,Aspen_Birch,196.77,0.03,2.1875
+Interior_West,Madrean Archipelago,79,Aspen_Birch,259.18,0.02,2.0625
+Interior_West,Madrean Archipelago,79,Aspen_Birch,259.18,0.02,2.0625
+North_Central,Central Corn Belt Plains,54,Aspen_Birch,146.48,0.04,1.0625
+North_Central,Central Corn Belt Plains,54,Aspen_Birch,146.48,0.04,1.0625
+North_Central,Central Corn Belt Plains,54,Aspen_Birch,146.48,0.04,1.0625
+Pacific_Northwest,Klamath Mountains/California High North Coast Range,78,Aspen_Birch,191.8,0.04,0.25
+Pacific_Northwest,Klamath Mountains/California High North Coast Range,78,Aspen_Birch,191.8,0.04,0.25
+North_Central,Central Irregular Plains,40,Aspen_Birch,146.48,0.04,0.1875
+North_Central,Central Irregular Plains,40,Aspen_Birch,146.48,0.04,0.1875
+North_Central,Central Irregular Plains,40,Aspen_Birch,146.48,0.04,0.1875
+North_Central,Interior River Valleys and Hills,72,Aspen_Birch,146.48,0.04,0.1875
+North_Central,Interior River Valleys and Hills,72,Aspen_Birch,146.48,0.04,0.1875
+North_Central,Interior River Valleys and Hills,72,Aspen_Birch,146.48,0.04,0.1875
+North_Central,Interior River Valleys and Hills,72,Aspen_Birch,146.48,0.04,0.1875
+South,Central Irregular Plains,40,Aspen_Birch,436.64,0.02,0.1875
+South,Interior River Valleys and Hills,72,Aspen_Birch,436.64,0.02,0.1875
+Interior_West,Columbia Plateau,10,Aspen_Birch,259.18,0.02,0.125
+Interior_West,Mojave Basin and Range,14,Aspen_Birch,259.18,0.02,0.125
+Interior_West,Mojave Basin and Range,14,Aspen_Birch,259.18,0.02,0.125
+Interior_West,Mojave Basin and Range,14,Aspen_Birch,259.18,0.02,0.125
+Pacific_Northwest,Columbia Plateau,10,Aspen_Birch,191.8,0.04,0.125
+Pacific_Northwest,Columbia Plateau,10,Aspen_Birch,191.8,0.04,0.125
+Pacific_Northwest,Mojave Basin and Range,14,Aspen_Birch,191.8,0.04,0.125
+Pacific_Northwest,Puget Lowland,2,Aspen_Birch,191.8,0.04,0.125
+North_Central,Interior Plateau,71,Aspen_Birch,146.48,0.04,0.0625
+North_Central,Interior Plateau,71,Aspen_Birch,146.48,0.04,0.0625
+Northeast,Interior Plateau,71,Aspen_Birch,196.77,0.03,0.0625
+South,Interior Plateau,71,Aspen_Birch,436.64,0.02,0.0625
+South,Interior Plateau,71,Aspen_Birch,436.64,0.02,0.0625
+South,Interior Plateau,71,Aspen_Birch,436.64,0.02,0.0625
+Pacific_Northwest,Klamath Mountains/California High North Coast Range,78,California_Mixed_Conifer,477.09,0.02,18423.0625
+Pacific_Northwest,Klamath Mountains/California High North Coast Range,78,California_Mixed_Conifer,477.09,0.02,18423.0625
+Pacific_Northwest,Sierra Nevada,5,California_Mixed_Conifer,477.09,0.02,17578
+Pacific_Northwest,Cascades,4,California_Mixed_Conifer,477.09,0.02,6401.375
+Pacific_Northwest,Cascades,4,California_Mixed_Conifer,477.09,0.02,6401.375
+Pacific_Northwest,Cascades,4,California_Mixed_Conifer,477.09,0.02,6401.375
+Pacific_Northwest,Eastern Cascades Slopes and Foothills,9,California_Mixed_Conifer,477.09,0.02,1165.6875
+Pacific_Northwest,Eastern Cascades Slopes and Foothills,9,California_Mixed_Conifer,477.09,0.02,1165.6875
+Pacific_Northwest,Eastern Cascades Slopes and Foothills,9,California_Mixed_Conifer,477.09,0.02,1165.6875
+Pacific_Northwest,Southern California Mountains,8,California_Mixed_Conifer,477.09,0.02,1155.5
+Pacific_Northwest,Coast Range,1,California_Mixed_Conifer,477.09,0.02,351.6875
+Pacific_Northwest,Coast Range,1,California_Mixed_Conifer,477.09,0.02,351.6875
+Pacific_Northwest,Coast Range,1,California_Mixed_Conifer,477.09,0.02,351.6875
+Pacific_Northwest,Central California Foothills and Coastal Mountains,6,California_Mixed_Conifer,477.09,0.02,248.0625
+Pacific_Northwest,Blue Mountains,11,California_Mixed_Conifer,477.09,0.02,114.3125
+Pacific_Northwest,Blue Mountains,11,California_Mixed_Conifer,477.09,0.02,114.3125
+Pacific_Northwest,Northern Basin and Range,80,California_Mixed_Conifer,477.09,0.02,82.625
+Pacific_Northwest,Northern Basin and Range,80,California_Mixed_Conifer,477.09,0.02,82.625
+Pacific_Northwest,Snake River Plain,12,California_Mixed_Conifer,477.09,0.02,24.1875
+Pacific_Northwest,Columbia Plateau,10,California_Mixed_Conifer,477.09,0.02,13.6875
+Pacific_Northwest,Columbia Plateau,10,California_Mixed_Conifer,477.09,0.02,13.6875
+Pacific_Northwest,Central Basin and Range,13,California_Mixed_Conifer,477.09,0.02,11.6875
+Pacific_Northwest,Mojave Basin and Range,14,California_Mixed_Conifer,477.09,0.02,5.5625
+Pacific_Northwest,Sonoran Basin and Range,81,California_Mixed_Conifer,477.09,0.02,5.5625
+Pacific_Northwest,Southern California/Northern Baja Coast,85,California_Mixed_Conifer,477.09,0.02,0.25
+Interior_West,Arizona/New Mexico Mountains,23,Douglas_Fir,178.98,0.03,1445.4375
+Interior_West,Arizona/New Mexico Mountains,23,Douglas_Fir,178.98,0.03,1445.4375
+Interior_West,Arizona/New Mexico Plateau,22,Douglas_Fir,178.98,0.03,16.0625
+Interior_West,Arizona/New Mexico Plateau,22,Douglas_Fir,178.98,0.03,16.0625
+Interior_West,Arizona/New Mexico Plateau,22,Douglas_Fir,178.98,0.03,16.0625
+Interior_West,Arizona/New Mexico Plateau,22,Douglas_Fir,178.98,0.03,16.0625
+Interior_West,Blue Mountains,11,Douglas_Fir,178.98,0.03,7367.75
+Interior_West,Canadian Rockies,41,Douglas_Fir,178.98,0.03,3137
+Interior_West,Central Basin and Range,13,Douglas_Fir,178.98,0.03,80.375
+Interior_West,Central Basin and Range,13,Douglas_Fir,178.98,0.03,80.375
+Interior_West,Central Basin and Range,13,Douglas_Fir,178.98,0.03,80.375
+Interior_West,Colorado Plateaus,20,Douglas_Fir,178.98,0.03,691.5625
+Interior_West,Colorado Plateaus,20,Douglas_Fir,178.98,0.03,691.5625
+Interior_West,Colorado Plateaus,20,Douglas_Fir,178.98,0.03,691.5625
+Interior_West,Colorado Plateaus,20,Douglas_Fir,178.98,0.03,691.5625
+Interior_West,Columbia Plateau,10,Douglas_Fir,178.98,0.03,826.5625
+Interior_West,High Plains,25,Douglas_Fir,178.98,0.03,3.5625
+Interior_West,High Plains,25,Douglas_Fir,178.98,0.03,3.5625
+Interior_West,High Plains,25,Douglas_Fir,178.98,0.03,3.5625
+Interior_West,Idaho Batholith,16,Douglas_Fir,178.98,0.03,24019.8125
+Interior_West,Idaho Batholith,16,Douglas_Fir,178.98,0.03,24019.8125
+Interior_West,Madrean Archipelago,79,Douglas_Fir,178.98,0.03,94.9375
+Interior_West,Madrean Archipelago,79,Douglas_Fir,178.98,0.03,94.9375
+Interior_West,Middle Rockies,17,Douglas_Fir,178.98,0.03,26120.1875
+Interior_West,Middle Rockies,17,Douglas_Fir,178.98,0.03,26120.1875
+Interior_West,Middle Rockies,17,Douglas_Fir,178.98,0.03,26120.1875
+Interior_West,Mojave Basin and Range,14,Douglas_Fir,178.98,0.03,2.75
+Interior_West,Mojave Basin and Range,14,Douglas_Fir,178.98,0.03,2.75
+Interior_West,Mojave Basin and Range,14,Douglas_Fir,178.98,0.03,2.75
+Interior_West,Northern Basin and Range,80,Douglas_Fir,178.98,0.03,1266.1875
+Interior_West,Northern Basin and Range,80,Douglas_Fir,178.98,0.03,1266.1875
+Interior_West,Northern Basin and Range,80,Douglas_Fir,178.98,0.03,1266.1875
+Interior_West,Northern Rockies,15,Douglas_Fir,178.98,0.03,38487.25
+Interior_West,Northern Rockies,15,Douglas_Fir,178.98,0.03,38487.25
+Interior_West,Northwestern Glaciated Plains,42,Douglas_Fir,178.98,0.03,74.6875
+Interior_West,Northwestern Great Plains,43,Douglas_Fir,178.98,0.03,955.5
+Interior_West,Northwestern Great Plains,43,Douglas_Fir,178.98,0.03,955.5
+Interior_West,Snake River Plain,12,Douglas_Fir,178.98,0.03,84.6875
+Interior_West,Snake River Plain,12,Douglas_Fir,178.98,0.03,84.6875
+Interior_West,Southern Rockies,21,Douglas_Fir,178.98,0.03,7192.3125
+Interior_West,Southern Rockies,21,Douglas_Fir,178.98,0.03,7192.3125
+Interior_West,Southern Rockies,21,Douglas_Fir,178.98,0.03,7192.3125
+Interior_West,Southern Rockies,21,Douglas_Fir,178.98,0.03,7192.3125
+Interior_West,Southwestern Tablelands,26,Douglas_Fir,178.98,0.03,0.125
+Interior_West,Southwestern Tablelands,26,Douglas_Fir,178.98,0.03,0.125
+Interior_West,Wasatch and Uinta Mountains,19,Douglas_Fir,178.98,0.03,1621
+Interior_West,Wasatch and Uinta Mountains,19,Douglas_Fir,178.98,0.03,1621
+Interior_West,Wasatch and Uinta Mountains,19,Douglas_Fir,178.98,0.03,1621
+Interior_West,Wyoming Basin,18,Douglas_Fir,178.98,0.03,280.25
+Interior_West,Wyoming Basin,18,Douglas_Fir,178.98,0.03,280.25
+Interior_West,Wyoming Basin,18,Douglas_Fir,178.98,0.03,280.25
+Interior_West,Wyoming Basin,18,Douglas_Fir,178.98,0.03,280.25
+Interior_West,Wyoming Basin,18,Douglas_Fir,178.98,0.03,280.25
+Northeast,Northern Allegheny Plateau,60,Douglas_Fir,1088.6,0.02,5.3125
+Northeast,Northern Allegheny Plateau,60,Douglas_Fir,1088.6,0.02,5.3125
+Pacific_Northwest,Blue Mountains,11,Douglas_Fir,597.1,0.03,7367.75
+Pacific_Northwest,Blue Mountains,11,Douglas_Fir,597.1,0.03,7367.75
+Pacific_Northwest,Cascades,4,Douglas_Fir,597.1,0.03,29920.3125
+Pacific_Northwest,Cascades,4,Douglas_Fir,597.1,0.03,29920.3125
+Pacific_Northwest,Cascades,4,Douglas_Fir,597.1,0.03,29920.3125
+Pacific_Northwest,Central Basin and Range,13,Douglas_Fir,597.1,0.03,80.375
+Pacific_Northwest,Central California Foothills and Coastal Mountains,6,Douglas_Fir,597.1,0.03,55.8125
+Pacific_Northwest,Coast Range,1,Douglas_Fir,597.1,0.03,25429.75
+Pacific_Northwest,Coast Range,1,Douglas_Fir,597.1,0.03,25429.75
+Pacific_Northwest,Coast Range,1,Douglas_Fir,597.1,0.03,25429.75
+Pacific_Northwest,Columbia Plateau,10,Douglas_Fir,597.1,0.03,826.5625
+Pacific_Northwest,Columbia Plateau,10,Douglas_Fir,597.1,0.03,826.5625
+Pacific_Northwest,Eastern Cascades Slopes and Foothills,9,Douglas_Fir,597.1,0.03,4769.5625
+Pacific_Northwest,Eastern Cascades Slopes and Foothills,9,Douglas_Fir,597.1,0.03,4769.5625
+Pacific_Northwest,Eastern Cascades Slopes and Foothills,9,Douglas_Fir,597.1,0.03,4769.5625
+Pacific_Northwest,Klamath Mountains/California High North Coast Range,78,Douglas_Fir,597.1,0.03,11943
+Pacific_Northwest,Klamath Mountains/California High North Coast Range,78,Douglas_Fir,597.1,0.03,11943
+Pacific_Northwest,Mojave Basin and Range,14,Douglas_Fir,597.1,0.03,2.75
+Pacific_Northwest,North Cascades,77,Douglas_Fir,597.1,0.03,9390.0625
+Pacific_Northwest,Northern Basin and Range,80,Douglas_Fir,597.1,0.03,1266.1875
+Pacific_Northwest,Northern Basin and Range,80,Douglas_Fir,597.1,0.03,1266.1875
+Pacific_Northwest,Northern Rockies,15,Douglas_Fir,597.1,0.03,38487.25
+Pacific_Northwest,Puget Lowland,2,Douglas_Fir,597.1,0.03,6374.25
+Pacific_Northwest,Snake River Plain,12,Douglas_Fir,597.1,0.03,84.6875
+Pacific_Northwest,Southern California Mountains,8,Douglas_Fir,597.1,0.03,0.0625
+Pacific_Northwest,Willamette Valley,3,Douglas_Fir,597.1,0.03,2953.4375
+Pacific_Northwest,Willamette Valley,3,Douglas_Fir,597.1,0.03,2953.4375
+North_Central,Mississippi Alluvial Plain,73,Elm_Ash_Cottonwood,155.53,0.05,6434
+North_Central,Mississippi Alluvial Plain,73,Elm_Ash_Cottonwood,155.53,0.05,6434
+South,Mississippi Alluvial Plain,73,Elm_Ash_Cottonwood,229.1,0.04,6434
+South,Mississippi Alluvial Plain,73,Elm_Ash_Cottonwood,229.1,0.04,6434
+South,Mississippi Alluvial Plain,73,Elm_Ash_Cottonwood,229.1,0.04,6434
+South,Mississippi Alluvial Plain,73,Elm_Ash_Cottonwood,229.1,0.04,6434
+South,Mississippi Alluvial Plain,73,Elm_Ash_Cottonwood,229.1,0.04,6434
+North_Central,Central Irregular Plains,40,Elm_Ash_Cottonwood,155.53,0.05,3147.6875
+North_Central,Central Irregular Plains,40,Elm_Ash_Cottonwood,155.53,0.05,3147.6875
+North_Central,Central Irregular Plains,40,Elm_Ash_Cottonwood,155.53,0.05,3147.6875
+South,Central Irregular Plains,40,Elm_Ash_Cottonwood,229.1,0.04,3147.6875
+North_Central,Interior River Valleys and Hills,72,Elm_Ash_Cottonwood,155.53,0.05,2738.1875
+North_Central,Interior River Valleys and Hills,72,Elm_Ash_Cottonwood,155.53,0.05,2738.1875
+North_Central,Interior River Valleys and Hills,72,Elm_Ash_Cottonwood,155.53,0.05,2738.1875
+North_Central,Interior River Valleys and Hills,72,Elm_Ash_Cottonwood,155.53,0.05,2738.1875
+South,Interior River Valleys and Hills,72,Elm_Ash_Cottonwood,229.1,0.04,2738.1875
+South,East Central Texas Plains,33,Elm_Ash_Cottonwood,229.1,0.04,2408.3125
+South,East Central Texas Plains,33,Elm_Ash_Cottonwood,229.1,0.04,2408.3125
+North_Central,Western Corn Belt Plains,47,Elm_Ash_Cottonwood,155.53,0.05,2080.875
+North_Central,Western Corn Belt Plains,47,Elm_Ash_Cottonwood,155.53,0.05,2080.875
+North_Central,Western Corn Belt Plains,47,Elm_Ash_Cottonwood,155.53,0.05,2080.875
+North_Central,Western Corn Belt Plains,47,Elm_Ash_Cottonwood,155.53,0.05,2080.875
+North_Central,Western Corn Belt Plains,47,Elm_Ash_Cottonwood,155.53,0.05,2080.875
+North_Central,Western Corn Belt Plains,47,Elm_Ash_Cottonwood,155.53,0.05,2080.875
+North_Central,Western Corn Belt Plains,47,Elm_Ash_Cottonwood,155.53,0.05,2080.875
+North_Central,Central Great Plains,27,Elm_Ash_Cottonwood,155.53,0.05,2009.0625
+North_Central,Central Great Plains,27,Elm_Ash_Cottonwood,155.53,0.05,2009.0625
+South,Central Great Plains,27,Elm_Ash_Cottonwood,229.1,0.04,2009.0625
+South,Central Great Plains,27,Elm_Ash_Cottonwood,229.1,0.04,2009.0625
+Northeast,Southeastern Plains,65,Elm_Ash_Cottonwood,193.59,0.04,1679.3125
+Northeast,Southeastern Plains,65,Elm_Ash_Cottonwood,193.59,0.04,1679.3125
+South,Southeastern Plains,65,Elm_Ash_Cottonwood,229.1,0.04,1679.3125
+South,Southeastern Plains,65,Elm_Ash_Cottonwood,229.1,0.04,1679.3125
+South,Southeastern Plains,65,Elm_Ash_Cottonwood,229.1,0.04,1679.3125
+South,Southeastern Plains,65,Elm_Ash_Cottonwood,229.1,0.04,1679.3125
+South,Southeastern Plains,65,Elm_Ash_Cottonwood,229.1,0.04,1679.3125
+South,Southeastern Plains,65,Elm_Ash_Cottonwood,229.1,0.04,1679.3125
+South,Southeastern Plains,65,Elm_Ash_Cottonwood,229.1,0.04,1679.3125
+South,Southeastern Plains,65,Elm_Ash_Cottonwood,229.1,0.04,1679.3125
+South,Southeastern Plains,65,Elm_Ash_Cottonwood,229.1,0.04,1679.3125
+South,Edwards Plateau,30,Elm_Ash_Cottonwood,229.1,0.04,1673
+South,South Central Plains,35,Elm_Ash_Cottonwood,229.1,0.04,1524.75
+South,South Central Plains,35,Elm_Ash_Cottonwood,229.1,0.04,1524.75
+South,South Central Plains,35,Elm_Ash_Cottonwood,229.1,0.04,1524.75
+South,South Central Plains,35,Elm_Ash_Cottonwood,229.1,0.04,1524.75
+North_Central,Cross Timbers,29,Elm_Ash_Cottonwood,155.53,0.05,1496.4375
+South,Cross Timbers,29,Elm_Ash_Cottonwood,229.1,0.04,1496.4375
+South,Cross Timbers,29,Elm_Ash_Cottonwood,229.1,0.04,1496.4375
+North_Central,Northern Lakes and Forests,50,Elm_Ash_Cottonwood,155.53,0.05,1456.8125
+North_Central,Northern Lakes and Forests,50,Elm_Ash_Cottonwood,155.53,0.05,1456.8125
+North_Central,Northern Lakes and Forests,50,Elm_Ash_Cottonwood,155.53,0.05,1456.8125
+North_Central,North Central Hardwood Forests,51,Elm_Ash_Cottonwood,155.53,0.05,1355.0625
+North_Central,North Central Hardwood Forests,51,Elm_Ash_Cottonwood,155.53,0.05,1355.0625
+North_Central,North Central Hardwood Forests,51,Elm_Ash_Cottonwood,155.53,0.05,1355.0625
+North_Central,Interior Plateau,71,Elm_Ash_Cottonwood,155.53,0.05,1251.125
+North_Central,Interior Plateau,71,Elm_Ash_Cottonwood,155.53,0.05,1251.125
+Northeast,Interior Plateau,71,Elm_Ash_Cottonwood,193.59,0.04,1251.125
+South,Interior Plateau,71,Elm_Ash_Cottonwood,229.1,0.04,1251.125
+South,Interior Plateau,71,Elm_Ash_Cottonwood,229.1,0.04,1251.125
+South,Interior Plateau,71,Elm_Ash_Cottonwood,229.1,0.04,1251.125
+Northeast,Eastern Great Lakes Lowlands,83,Elm_Ash_Cottonwood,193.59,0.04,1111.625
+Northeast,Eastern Great Lakes Lowlands,83,Elm_Ash_Cottonwood,193.59,0.04,1111.625
+Northeast,Eastern Great Lakes Lowlands,83,Elm_Ash_Cottonwood,193.59,0.04,1111.625
+Northeast,Eastern Great Lakes Lowlands,83,Elm_Ash_Cottonwood,193.59,0.04,1111.625
+North_Central,Driftless Area,52,Elm_Ash_Cottonwood,155.53,0.05,714.5625
+North_Central,Driftless Area,52,Elm_Ash_Cottonwood,155.53,0.05,714.5625
+North_Central,Driftless Area,52,Elm_Ash_Cottonwood,155.53,0.05,714.5625
+North_Central,Driftless Area,52,Elm_Ash_Cottonwood,155.53,0.05,714.5625
+Northeast,Northeastern Coastal Zone,59,Elm_Ash_Cottonwood,193.59,0.04,710.5625
+Northeast,Northeastern Coastal Zone,59,Elm_Ash_Cottonwood,193.59,0.04,710.5625
+Northeast,Northeastern Coastal Zone,59,Elm_Ash_Cottonwood,193.59,0.04,710.5625
+Northeast,Northeastern Coastal Zone,59,Elm_Ash_Cottonwood,193.59,0.04,710.5625
+Northeast,Northeastern Coastal Zone,59,Elm_Ash_Cottonwood,193.59,0.04,710.5625
+Northeast,Northeastern Coastal Zone,59,Elm_Ash_Cottonwood,193.59,0.04,710.5625
+Northeast,Northeastern Coastal Zone,59,Elm_Ash_Cottonwood,193.59,0.04,710.5625
+South,Piedmont,45,Elm_Ash_Cottonwood,229.1,0.04,680.3125
+South,Piedmont,45,Elm_Ash_Cottonwood,229.1,0.04,680.3125
+South,Piedmont,45,Elm_Ash_Cottonwood,229.1,0.04,680.3125
+South,Piedmont,45,Elm_Ash_Cottonwood,229.1,0.04,680.3125
+South,Piedmont,45,Elm_Ash_Cottonwood,229.1,0.04,680.3125
+North_Central,Southern Michigan/Northern Indiana Drift Plains,56,Elm_Ash_Cottonwood,155.53,0.05,597.625
+North_Central,Southern Michigan/Northern Indiana Drift Plains,56,Elm_Ash_Cottonwood,155.53,0.05,597.625
+North_Central,Southeastern Wisconsin Till Plains,53,Elm_Ash_Cottonwood,155.53,0.05,452.0625
+North_Central,Southeastern Wisconsin Till Plains,53,Elm_Ash_Cottonwood,155.53,0.05,452.0625
+North_Central,Mississippi Valley Loess Plains,74,Elm_Ash_Cottonwood,155.53,0.05,416.6875
+South,Mississippi Valley Loess Plains,74,Elm_Ash_Cottonwood,229.1,0.04,416.6875
+South,Mississippi Valley Loess Plains,74,Elm_Ash_Cottonwood,229.1,0.04,416.6875
+South,Mississippi Valley Loess Plains,74,Elm_Ash_Cottonwood,229.1,0.04,416.6875
+South,Mississippi Valley Loess Plains,74,Elm_Ash_Cottonwood,229.1,0.04,416.6875
+South,Mississippi Valley Loess Plains,74,Elm_Ash_Cottonwood,229.1,0.04,416.6875
+North_Central,Eastern Corn Belt Plains,55,Elm_Ash_Cottonwood,155.53,0.05,402.5625
+North_Central,Eastern Corn Belt Plains,55,Elm_Ash_Cottonwood,155.53,0.05,402.5625
+Northeast,Eastern Corn Belt Plains,55,Elm_Ash_Cottonwood,193.59,0.04,402.5625
+Interior_West,High Plains,25,Elm_Ash_Cottonwood,338.75,0.01,385.375
+Interior_West,High Plains,25,Elm_Ash_Cottonwood,338.75,0.01,385.375
+Interior_West,High Plains,25,Elm_Ash_Cottonwood,338.75,0.01,385.375
+North_Central,High Plains,25,Elm_Ash_Cottonwood,155.53,0.05,385.375
+North_Central,High Plains,25,Elm_Ash_Cottonwood,155.53,0.05,385.375
+North_Central,High Plains,25,Elm_Ash_Cottonwood,155.53,0.05,385.375
+South,High Plains,25,Elm_Ash_Cottonwood,229.1,0.04,385.375
+South,High Plains,25,Elm_Ash_Cottonwood,229.1,0.04,385.375
+Northeast,Western Allegheny Plateau,70,Elm_Ash_Cottonwood,193.59,0.04,365
+Northeast,Western Allegheny Plateau,70,Elm_Ash_Cottonwood,193.59,0.04,365
+South,Western Allegheny Plateau,70,Elm_Ash_Cottonwood,229.1,0.04,365
+South,Western Allegheny Plateau,70,Elm_Ash_Cottonwood,229.1,0.04,365
+South,Texas Blackland Prairies,32,Elm_Ash_Cottonwood,229.1,0.04,348.8125
+North_Central,Flint Hills,28,Elm_Ash_Cottonwood,155.53,0.05,318.875
+South,Flint Hills,28,Elm_Ash_Cottonwood,229.1,0.04,318.875
+North_Central,Central Corn Belt Plains,54,Elm_Ash_Cottonwood,155.53,0.05,308.125
+North_Central,Central Corn Belt Plains,54,Elm_Ash_Cottonwood,155.53,0.05,308.125
+North_Central,Central Corn Belt Plains,54,Elm_Ash_Cottonwood,155.53,0.05,308.125
+South,Western Gulf Coastal Plain,34,Elm_Ash_Cottonwood,229.1,0.04,279.125
+South,Western Gulf Coastal Plain,34,Elm_Ash_Cottonwood,229.1,0.04,279.125
+South,Southern Texas Plains,31,Elm_Ash_Cottonwood,229.1,0.04,251.0625
+Northeast,Ridge and Valley,67,Elm_Ash_Cottonwood,193.59,0.04,225.625
+Northeast,Ridge and Valley,67,Elm_Ash_Cottonwood,193.59,0.04,225.625
+Northeast,Ridge and Valley,67,Elm_Ash_Cottonwood,193.59,0.04,225.625
+Northeast,Ridge and Valley,67,Elm_Ash_Cottonwood,193.59,0.04,225.625
+South,Ridge and Valley,67,Elm_Ash_Cottonwood,229.1,0.04,225.625
+South,Ridge and Valley,67,Elm_Ash_Cottonwood,229.1,0.04,225.625
+South,Ridge and Valley,67,Elm_Ash_Cottonwood,229.1,0.04,225.625
+South,Ridge and Valley,67,Elm_Ash_Cottonwood,229.1,0.04,225.625
+South,Ridge and Valley,67,Elm_Ash_Cottonwood,229.1,0.04,225.625
+Northeast,Northern Allegheny Plateau,60,Elm_Ash_Cottonwood,193.59,0.04,223.125
+Northeast,Northern Allegheny Plateau,60,Elm_Ash_Cottonwood,193.59,0.04,223.125
+Northeast,Middle Atlantic Coastal Plain,63,Elm_Ash_Cottonwood,193.59,0.04,223.0625
+Northeast,Middle Atlantic Coastal Plain,63,Elm_Ash_Cottonwood,193.59,0.04,223.0625
+Northeast,Middle Atlantic Coastal Plain,63,Elm_Ash_Cottonwood,193.59,0.04,223.0625
+Northeast,Middle Atlantic Coastal Plain,63,Elm_Ash_Cottonwood,193.59,0.04,223.0625
+South,Middle Atlantic Coastal Plain,63,Elm_Ash_Cottonwood,229.1,0.04,223.0625
+South,Middle Atlantic Coastal Plain,63,Elm_Ash_Cottonwood,229.1,0.04,223.0625
+South,Middle Atlantic Coastal Plain,63,Elm_Ash_Cottonwood,229.1,0.04,223.0625
+Northeast,Erie Drift Plain,61,Elm_Ash_Cottonwood,193.59,0.04,212.5625
+Northeast,Erie Drift Plain,61,Elm_Ash_Cottonwood,193.59,0.04,212.5625
+Northeast,Erie Drift Plain,61,Elm_Ash_Cottonwood,193.59,0.04,212.5625
+North_Central,Ozark Highlands,39,Elm_Ash_Cottonwood,155.53,0.05,184.5625
+North_Central,Ozark Highlands,39,Elm_Ash_Cottonwood,155.53,0.05,184.5625
+South,Ozark Highlands,39,Elm_Ash_Cottonwood,229.1,0.04,184.5625
+South,Ozark Highlands,39,Elm_Ash_Cottonwood,229.1,0.04,184.5625
+South,Arkansas Valley,37,Elm_Ash_Cottonwood,229.1,0.04,183.6875
+South,Arkansas Valley,37,Elm_Ash_Cottonwood,229.1,0.04,183.6875
+Interior_West,Columbia Plateau,10,Elm_Ash_Cottonwood,338.75,0.01,183.5625
+Pacific_Northwest,Columbia Plateau,10,Elm_Ash_Cottonwood,450.7,0.04,183.5625
+Pacific_Northwest,Columbia Plateau,10,Elm_Ash_Cottonwood,450.7,0.04,183.5625
+Interior_West,Northwestern Great Plains,43,Elm_Ash_Cottonwood,338.75,0.01,182.5
+Interior_West,Northwestern Great Plains,43,Elm_Ash_Cottonwood,338.75,0.01,182.5
+North_Central,Northwestern Great Plains,43,Elm_Ash_Cottonwood,155.53,0.05,182.5
+North_Central,Northwestern Great Plains,43,Elm_Ash_Cottonwood,155.53,0.05,182.5
+North_Central,Northwestern Great Plains,43,Elm_Ash_Cottonwood,155.53,0.05,182.5
+Northeast,Northeastern Highlands,58,Elm_Ash_Cottonwood,193.59,0.04,173.5625
+Northeast,Northeastern Highlands,58,Elm_Ash_Cottonwood,193.59,0.04,173.5625
+Northeast,Northeastern Highlands,58,Elm_Ash_Cottonwood,193.59,0.04,173.5625
+Northeast,Northeastern Highlands,58,Elm_Ash_Cottonwood,193.59,0.04,173.5625
+Northeast,Northeastern Highlands,58,Elm_Ash_Cottonwood,193.59,0.04,173.5625
+Northeast,Northeastern Highlands,58,Elm_Ash_Cottonwood,193.59,0.04,173.5625
+Northeast,Northeastern Highlands,58,Elm_Ash_Cottonwood,193.59,0.04,173.5625
+Northeast,Northeastern Highlands,58,Elm_Ash_Cottonwood,193.59,0.04,173.5625
+Interior_West,Northwestern Glaciated Plains,42,Elm_Ash_Cottonwood,338.75,0.01,141.3125
+North_Central,Northwestern Glaciated Plains,42,Elm_Ash_Cottonwood,155.53,0.05,141.3125
+North_Central,Northwestern Glaciated Plains,42,Elm_Ash_Cottonwood,155.53,0.05,141.3125
+North_Central,Northwestern Glaciated Plains,42,Elm_Ash_Cottonwood,155.53,0.05,141.3125
+South,Southern Coastal Plain,75,Elm_Ash_Cottonwood,229.1,0.04,130.625
+South,Southern Coastal Plain,75,Elm_Ash_Cottonwood,229.1,0.04,130.625
+South,Southern Coastal Plain,75,Elm_Ash_Cottonwood,229.1,0.04,130.625
+South,Southern Coastal Plain,75,Elm_Ash_Cottonwood,229.1,0.04,130.625
+South,Southern Coastal Plain,75,Elm_Ash_Cottonwood,229.1,0.04,130.625
+South,Southern Coastal Plain,75,Elm_Ash_Cottonwood,229.1,0.04,130.625
+North_Central,Northern Minnesota Wetlands,49,Elm_Ash_Cottonwood,155.53,0.05,125.875
+South,Ouachita Mountains,36,Elm_Ash_Cottonwood,229.1,0.04,121.4375
+South,Ouachita Mountains,36,Elm_Ash_Cottonwood,229.1,0.04,121.4375
+Interior_West,Southwestern Tablelands,26,Elm_Ash_Cottonwood,338.75,0.01,103.5625
+Interior_West,Southwestern Tablelands,26,Elm_Ash_Cottonwood,338.75,0.01,103.5625
+North_Central,Southwestern Tablelands,26,Elm_Ash_Cottonwood,155.53,0.05,103.5625
+South,Southwestern Tablelands,26,Elm_Ash_Cottonwood,229.1,0.04,103.5625
+South,Southwestern Tablelands,26,Elm_Ash_Cottonwood,229.1,0.04,103.5625
+Northeast,Northern Piedmont,64,Elm_Ash_Cottonwood,193.59,0.04,84.875
+Northeast,Northern Piedmont,64,Elm_Ash_Cottonwood,193.59,0.04,84.875
+Northeast,Northern Piedmont,64,Elm_Ash_Cottonwood,193.59,0.04,84.875
+Northeast,Northern Piedmont,64,Elm_Ash_Cottonwood,193.59,0.04,84.875
+Northeast,Northern Piedmont,64,Elm_Ash_Cottonwood,193.59,0.04,84.875
+South,Northern Piedmont,64,Elm_Ash_Cottonwood,229.1,0.04,84.875
+Northeast,Atlantic Coastal Pine Barrens,84,Elm_Ash_Cottonwood,193.59,0.04,78.25
+Northeast,Atlantic Coastal Pine Barrens,84,Elm_Ash_Cottonwood,193.59,0.04,78.25
+Northeast,Atlantic Coastal Pine Barrens,84,Elm_Ash_Cottonwood,193.59,0.04,78.25
+Northeast,North Central Appalachians,62,Elm_Ash_Cottonwood,193.59,0.04,59.3125
+Northeast,North Central Appalachians,62,Elm_Ash_Cottonwood,193.59,0.04,59.3125
+Interior_West,Canadian Rockies,41,Elm_Ash_Cottonwood,338.75,0.01,48.8125
+North_Central,Nebraska Sand Hills,44,Elm_Ash_Cottonwood,155.53,0.05,44.25
+North_Central,Nebraska Sand Hills,44,Elm_Ash_Cottonwood,155.53,0.05,44.25
+Northeast,Acadian Plains and Hills,82,Elm_Ash_Cottonwood,193.59,0.04,44.0625
+North_Central,Northern Glaciated Plains,46,Elm_Ash_Cottonwood,155.53,0.05,42.1875
+North_Central,Northern Glaciated Plains,46,Elm_Ash_Cottonwood,155.53,0.05,42.1875
+North_Central,Northern Glaciated Plains,46,Elm_Ash_Cottonwood,155.53,0.05,42.1875
+Pacific_Northwest,Puget Lowland,2,Elm_Ash_Cottonwood,450.7,0.04,41.125
+Interior_West,Southern Rockies,21,Elm_Ash_Cottonwood,338.75,0.01,37.9375
+Interior_West,Southern Rockies,21,Elm_Ash_Cottonwood,338.75,0.01,37.9375
+Interior_West,Southern Rockies,21,Elm_Ash_Cottonwood,338.75,0.01,37.9375
+Interior_West,Southern Rockies,21,Elm_Ash_Cottonwood,338.75,0.01,37.9375
+North_Central,Lake Agassiz Plain,48,Elm_Ash_Cottonwood,155.53,0.05,37.5625
+North_Central,Lake Agassiz Plain,48,Elm_Ash_Cottonwood,155.53,0.05,37.5625
+South,Southwestern Appalachians,68,Elm_Ash_Cottonwood,229.1,0.04,36.125
+South,Southwestern Appalachians,68,Elm_Ash_Cottonwood,229.1,0.04,36.125
+South,Southwestern Appalachians,68,Elm_Ash_Cottonwood,229.1,0.04,36.125
+South,Southwestern Appalachians,68,Elm_Ash_Cottonwood,229.1,0.04,36.125
+Northeast,Central Appalachians,69,Elm_Ash_Cottonwood,193.59,0.04,28.625
+Northeast,Central Appalachians,69,Elm_Ash_Cottonwood,193.59,0.04,28.625
+South,Central Appalachians,69,Elm_Ash_Cottonwood,229.1,0.04,28.625
+South,Central Appalachians,69,Elm_Ash_Cottonwood,229.1,0.04,28.625
+South,Central Appalachians,69,Elm_Ash_Cottonwood,229.1,0.04,28.625
+South,Central Appalachians,69,Elm_Ash_Cottonwood,229.1,0.04,28.625
+Interior_West,Northern Rockies,15,Elm_Ash_Cottonwood,338.75,0.01,23.1875
+Interior_West,Northern Rockies,15,Elm_Ash_Cottonwood,338.75,0.01,23.1875
+Pacific_Northwest,Northern Rockies,15,Elm_Ash_Cottonwood,450.7,0.04,23.1875
+Pacific_Northwest,Willamette Valley,3,Elm_Ash_Cottonwood,450.7,0.04,19.375
+Pacific_Northwest,Willamette Valley,3,Elm_Ash_Cottonwood,450.7,0.04,19.375
+Interior_West,Middle Rockies,17,Elm_Ash_Cottonwood,338.75,0.01,17
+Interior_West,Middle Rockies,17,Elm_Ash_Cottonwood,338.75,0.01,17
+Interior_West,Middle Rockies,17,Elm_Ash_Cottonwood,338.75,0.01,17
+North_Central,Middle Rockies,17,Elm_Ash_Cottonwood,155.53,0.05,17
+South,Southern Florida Coastal Plain,76,Elm_Ash_Cottonwood,229.1,0.04,16.5625
+Interior_West,Snake River Plain,12,Elm_Ash_Cottonwood,338.75,0.01,14
+Interior_West,Snake River Plain,12,Elm_Ash_Cottonwood,338.75,0.01,14
+Pacific_Northwest,Snake River Plain,12,Elm_Ash_Cottonwood,450.7,0.04,14
+North_Central,Huron/Erie Lake Plains,57,Elm_Ash_Cottonwood,155.53,0.05,11.875
+North_Central,Huron/Erie Lake Plains,57,Elm_Ash_Cottonwood,155.53,0.05,11.875
+Northeast,Huron/Erie Lake Plains,57,Elm_Ash_Cottonwood,193.59,0.04,11.875
+Interior_West,Arizona/New Mexico Mountains,23,Elm_Ash_Cottonwood,338.75,0.01,5
+Interior_West,Arizona/New Mexico Mountains,23,Elm_Ash_Cottonwood,338.75,0.01,5
+South,Arizona/New Mexico Mountains,23,Elm_Ash_Cottonwood,229.1,0.04,5
+Pacific_Northwest,North Cascades,77,Elm_Ash_Cottonwood,450.7,0.04,4.6875
+Interior_West,Wyoming Basin,18,Elm_Ash_Cottonwood,338.75,0.01,4.375
+Interior_West,Wyoming Basin,18,Elm_Ash_Cottonwood,338.75,0.01,4.375
+Interior_West,Wyoming Basin,18,Elm_Ash_Cottonwood,338.75,0.01,4.375
+Interior_West,Wyoming Basin,18,Elm_Ash_Cottonwood,338.75,0.01,4.375
+Interior_West,Wyoming Basin,18,Elm_Ash_Cottonwood,338.75,0.01,4.375
+Northeast,Blue Ridge,66,Elm_Ash_Cottonwood,193.59,0.04,4.3125
+Northeast,Blue Ridge,66,Elm_Ash_Cottonwood,193.59,0.04,4.3125
+South,Blue Ridge,66,Elm_Ash_Cottonwood,229.1,0.04,4.3125
+South,Blue Ridge,66,Elm_Ash_Cottonwood,229.1,0.04,4.3125
+South,Blue Ridge,66,Elm_Ash_Cottonwood,229.1,0.04,4.3125
+South,Blue Ridge,66,Elm_Ash_Cottonwood,229.1,0.04,4.3125
+South,Blue Ridge,66,Elm_Ash_Cottonwood,229.1,0.04,4.3125
+South,Blue Ridge,66,Elm_Ash_Cottonwood,229.1,0.04,4.3125
+Pacific_Northwest,Cascades,4,Elm_Ash_Cottonwood,450.7,0.04,3.3125
+Pacific_Northwest,Cascades,4,Elm_Ash_Cottonwood,450.7,0.04,3.3125
+Pacific_Northwest,Cascades,4,Elm_Ash_Cottonwood,450.7,0.04,3.3125
+South,Boston Mountains,38,Elm_Ash_Cottonwood,229.1,0.04,2
+South,Boston Mountains,38,Elm_Ash_Cottonwood,229.1,0.04,2
+Pacific_Northwest,Eastern Cascades Slopes and Foothills,9,Elm_Ash_Cottonwood,450.7,0.04,1.8125
+Pacific_Northwest,Eastern Cascades Slopes and Foothills,9,Elm_Ash_Cottonwood,450.7,0.04,1.8125
+Pacific_Northwest,Eastern Cascades Slopes and Foothills,9,Elm_Ash_Cottonwood,450.7,0.04,1.8125
+Interior_West,Arizona/New Mexico Plateau,22,Elm_Ash_Cottonwood,338.75,0.01,1.4375
+Interior_West,Arizona/New Mexico Plateau,22,Elm_Ash_Cottonwood,338.75,0.01,1.4375
+Interior_West,Arizona/New Mexico Plateau,22,Elm_Ash_Cottonwood,338.75,0.01,1.4375
+Interior_West,Arizona/New Mexico Plateau,22,Elm_Ash_Cottonwood,338.75,0.01,1.4375
+Interior_West,Colorado Plateaus,20,Elm_Ash_Cottonwood,338.75,0.01,1.1875
+Interior_West,Colorado Plateaus,20,Elm_Ash_Cottonwood,338.75,0.01,1.1875
+Interior_West,Colorado Plateaus,20,Elm_Ash_Cottonwood,338.75,0.01,1.1875
+Interior_West,Colorado Plateaus,20,Elm_Ash_Cottonwood,338.75,0.01,1.1875
+Interior_West,Idaho Batholith,16,Elm_Ash_Cottonwood,338.75,0.01,0.75
+Interior_West,Idaho Batholith,16,Elm_Ash_Cottonwood,338.75,0.01,0.75
+Interior_West,Madrean Archipelago,79,Elm_Ash_Cottonwood,338.75,0.01,0.6875
+Interior_West,Madrean Archipelago,79,Elm_Ash_Cottonwood,338.75,0.01,0.6875
+Interior_West,Chihuahuan Deserts,24,Elm_Ash_Cottonwood,338.75,0.01,0.5
+Interior_West,Chihuahuan Deserts,24,Elm_Ash_Cottonwood,338.75,0.01,0.5
+South,Chihuahuan Deserts,24,Elm_Ash_Cottonwood,229.1,0.04,0.5
+Interior_West,Northern Basin and Range,80,Elm_Ash_Cottonwood,338.75,0.01,0.4375
+Interior_West,Northern Basin and Range,80,Elm_Ash_Cottonwood,338.75,0.01,0.4375
+Interior_West,Northern Basin and Range,80,Elm_Ash_Cottonwood,338.75,0.01,0.4375
+Pacific_Northwest,Northern Basin and Range,80,Elm_Ash_Cottonwood,450.7,0.04,0.4375
+Pacific_Northwest,Northern Basin and Range,80,Elm_Ash_Cottonwood,450.7,0.04,0.4375
+Interior_West,Blue Mountains,11,Elm_Ash_Cottonwood,338.75,0.01,0.375
+Pacific_Northwest,Blue Mountains,11,Elm_Ash_Cottonwood,450.7,0.04,0.375
+Pacific_Northwest,Blue Mountains,11,Elm_Ash_Cottonwood,450.7,0.04,0.375
+Interior_West,Central Basin and Range,13,Elm_Ash_Cottonwood,338.75,0.01,0.25
+Interior_West,Central Basin and Range,13,Elm_Ash_Cottonwood,338.75,0.01,0.25
+Interior_West,Central Basin and Range,13,Elm_Ash_Cottonwood,338.75,0.01,0.25
+Pacific_Northwest,Central Basin and Range,13,Elm_Ash_Cottonwood,450.7,0.04,0.25
+Interior_West,Sierra Nevada,5,Elm_Ash_Cottonwood,338.75,0.01,0.1875
+Interior_West,Wasatch and Uinta Mountains,19,Elm_Ash_Cottonwood,338.75,0.01,0.1875
+Interior_West,Wasatch and Uinta Mountains,19,Elm_Ash_Cottonwood,338.75,0.01,0.1875
+Interior_West,Wasatch and Uinta Mountains,19,Elm_Ash_Cottonwood,338.75,0.01,0.1875
+Pacific_Northwest,Sierra Nevada,5,Elm_Ash_Cottonwood,450.7,0.04,0.1875
+Interior_West,Sonoran Basin and Range,81,Elm_Ash_Cottonwood,338.75,0.01,0.0625
+Pacific_Northwest,Sonoran Basin and Range,81,Elm_Ash_Cottonwood,450.7,0.04,0.0625
+Northeast,NA,NA,Exotic Softwoods,363.02,0.03,NA
+Northeast,NA,NA,Exotic_Hardwoods,112.13,0.07,NA
+North_Central,Mississippi Alluvial Plain,73,Exotic_Hardwoods,67.94,0.09,224.375
+North_Central,Mississippi Alluvial Plain,73,Exotic_Hardwoods,67.94,0.09,224.375
+South,Mississippi Alluvial Plain,73,Exotic_Hardwoods,69.87,0.08,224.375
+South,Mississippi Alluvial Plain,73,Exotic_Hardwoods,69.87,0.08,224.375
+South,Mississippi Alluvial Plain,73,Exotic_Hardwoods,69.87,0.08,224.375
+South,Mississippi Alluvial Plain,73,Exotic_Hardwoods,69.87,0.08,224.375
+South,Mississippi Alluvial Plain,73,Exotic_Hardwoods,69.87,0.08,224.375
+South,Western Gulf Coastal Plain,34,Exotic_Hardwoods,69.87,0.08,135.5
+South,Western Gulf Coastal Plain,34,Exotic_Hardwoods,69.87,0.08,135.5
+South,South Central Plains,35,Exotic_Hardwoods,69.87,0.08,53.4375
+South,South Central Plains,35,Exotic_Hardwoods,69.87,0.08,53.4375
+South,South Central Plains,35,Exotic_Hardwoods,69.87,0.08,53.4375
+South,South Central Plains,35,Exotic_Hardwoods,69.87,0.08,53.4375
+South,East Central Texas Plains,33,Exotic_Hardwoods,69.87,0.08,23.875
+South,East Central Texas Plains,33,Exotic_Hardwoods,69.87,0.08,23.875
+South,Southern Coastal Plain,75,Exotic_Hardwoods,69.87,0.08,12.5
+South,Southern Coastal Plain,75,Exotic_Hardwoods,69.87,0.08,12.5
+South,Southern Coastal Plain,75,Exotic_Hardwoods,69.87,0.08,12.5
+South,Southern Coastal Plain,75,Exotic_Hardwoods,69.87,0.08,12.5
+South,Southern Coastal Plain,75,Exotic_Hardwoods,69.87,0.08,12.5
+South,Southern Coastal Plain,75,Exotic_Hardwoods,69.87,0.08,12.5
+North_Central,Mississippi Valley Loess Plains,74,Exotic_Hardwoods,67.94,0.09,3.375
+South,Mississippi Valley Loess Plains,74,Exotic_Hardwoods,69.87,0.08,3.375
+South,Mississippi Valley Loess Plains,74,Exotic_Hardwoods,69.87,0.08,3.375
+South,Mississippi Valley Loess Plains,74,Exotic_Hardwoods,69.87,0.08,3.375
+South,Mississippi Valley Loess Plains,74,Exotic_Hardwoods,69.87,0.08,3.375
+South,Mississippi Valley Loess Plains,74,Exotic_Hardwoods,69.87,0.08,3.375
+South,Southern Texas Plains,31,Exotic_Hardwoods,69.87,0.08,3.125
+South,Southern Florida Coastal Plain,76,Exotic_Hardwoods,69.87,0.08,0.9375
+South,Texas Blackland Prairies,32,Exotic_Hardwoods,69.87,0.08,0.3125
+North_Central,Central Corn Belt Plains,54,Exotic_Softwoods,248.65,0.04,0.0625
+North_Central,Central Corn Belt Plains,54,Exotic_Softwoods,248.65,0.04,0.0625
+North_Central,Central Corn Belt Plains,54,Exotic_Softwoods,248.65,0.04,0.0625
+North_Central,Driftless Area,52,Exotic_Softwoods,248.65,0.04,1
+North_Central,Driftless Area,52,Exotic_Softwoods,248.65,0.04,1
+North_Central,Driftless Area,52,Exotic_Softwoods,248.65,0.04,1
+North_Central,Driftless Area,52,Exotic_Softwoods,248.65,0.04,1
+North_Central,North Central Hardwood Forests,51,Exotic_Softwoods,248.65,0.04,1.5
+North_Central,North Central Hardwood Forests,51,Exotic_Softwoods,248.65,0.04,1.5
+North_Central,North Central Hardwood Forests,51,Exotic_Softwoods,248.65,0.04,1.5
+North_Central,Northern Lakes and Forests,50,Exotic_Softwoods,248.65,0.04,0.8125
+North_Central,Northern Lakes and Forests,50,Exotic_Softwoods,248.65,0.04,0.8125
+North_Central,Northern Lakes and Forests,50,Exotic_Softwoods,248.65,0.04,0.8125
+North_Central,Southeastern Wisconsin Till Plains,53,Exotic_Softwoods,248.65,0.04,0.25
+North_Central,Southeastern Wisconsin Till Plains,53,Exotic_Softwoods,248.65,0.04,0.25
+Northeast,NA,NA,Fir_Spruce_Mountain_Hemlock,214.31,0.04,NA
+Interior_West,Southern Rockies,21,Fir_Spruce_Mountain_Hemlock,241.1,0.03,27774
+Interior_West,Southern Rockies,21,Fir_Spruce_Mountain_Hemlock,241.1,0.03,27774
+Interior_West,Southern Rockies,21,Fir_Spruce_Mountain_Hemlock,241.1,0.03,27774
+Interior_West,Southern Rockies,21,Fir_Spruce_Mountain_Hemlock,241.1,0.03,27774
+Interior_West,Middle Rockies,17,Fir_Spruce_Mountain_Hemlock,241.1,0.03,19916.25
+Interior_West,Middle Rockies,17,Fir_Spruce_Mountain_Hemlock,241.1,0.03,19916.25
+Interior_West,Middle Rockies,17,Fir_Spruce_Mountain_Hemlock,241.1,0.03,19916.25
+Interior_West,Northern Rockies,15,Fir_Spruce_Mountain_Hemlock,241.1,0.03,18226.625
+Interior_West,Northern Rockies,15,Fir_Spruce_Mountain_Hemlock,241.1,0.03,18226.625
+Pacific_Northwest,Northern Rockies,15,Fir_Spruce_Mountain_Hemlock,581.9,0.02,18226.625
+Interior_West,Idaho Batholith,16,Fir_Spruce_Mountain_Hemlock,241.1,0.03,16559.0625
+Interior_West,Idaho Batholith,16,Fir_Spruce_Mountain_Hemlock,241.1,0.03,16559.0625
+Pacific_Northwest,Cascades,4,Fir_Spruce_Mountain_Hemlock,581.9,0.02,12138.9375
+Pacific_Northwest,Cascades,4,Fir_Spruce_Mountain_Hemlock,581.9,0.02,12138.9375
+Pacific_Northwest,Cascades,4,Fir_Spruce_Mountain_Hemlock,581.9,0.02,12138.9375
+Interior_West,Blue Mountains,11,Fir_Spruce_Mountain_Hemlock,241.1,0.03,11089.125
+Pacific_Northwest,Blue Mountains,11,Fir_Spruce_Mountain_Hemlock,581.9,0.02,11089.125
+Pacific_Northwest,Blue Mountains,11,Fir_Spruce_Mountain_Hemlock,581.9,0.02,11089.125
+Pacific_Northwest,North Cascades,77,Fir_Spruce_Mountain_Hemlock,581.9,0.02,11035.125
+Interior_West,Canadian Rockies,41,Fir_Spruce_Mountain_Hemlock,241.1,0.03,9296.6875
+Interior_West,Wasatch and Uinta Mountains,19,Fir_Spruce_Mountain_Hemlock,241.1,0.03,7114
+Interior_West,Wasatch and Uinta Mountains,19,Fir_Spruce_Mountain_Hemlock,241.1,0.03,7114
+Interior_West,Wasatch and Uinta Mountains,19,Fir_Spruce_Mountain_Hemlock,241.1,0.03,7114
+Interior_West,Sierra Nevada,5,Fir_Spruce_Mountain_Hemlock,241.1,0.03,5398.25
+Pacific_Northwest,Sierra Nevada,5,Fir_Spruce_Mountain_Hemlock,581.9,0.02,5398.25
+Pacific_Northwest,Eastern Cascades Slopes and Foothills,9,Fir_Spruce_Mountain_Hemlock,581.9,0.02,3933.8125
+Pacific_Northwest,Eastern Cascades Slopes and Foothills,9,Fir_Spruce_Mountain_Hemlock,581.9,0.02,3933.8125
+Pacific_Northwest,Eastern Cascades Slopes and Foothills,9,Fir_Spruce_Mountain_Hemlock,581.9,0.02,3933.8125
+Interior_West,Arizona/New Mexico Mountains,23,Fir_Spruce_Mountain_Hemlock,241.1,0.03,1451.1875
+Interior_West,Arizona/New Mexico Mountains,23,Fir_Spruce_Mountain_Hemlock,241.1,0.03,1451.1875
+Pacific_Northwest,Klamath Mountains/California High North Coast Range,78,Fir_Spruce_Mountain_Hemlock,581.9,0.02,1398.75
+Pacific_Northwest,Klamath Mountains/California High North Coast Range,78,Fir_Spruce_Mountain_Hemlock,581.9,0.02,1398.75
+Pacific_Northwest,Coast Range,1,Fir_Spruce_Mountain_Hemlock,581.9,0.02,778.5
+Pacific_Northwest,Coast Range,1,Fir_Spruce_Mountain_Hemlock,581.9,0.02,778.5
+Pacific_Northwest,Coast Range,1,Fir_Spruce_Mountain_Hemlock,581.9,0.02,778.5
+Interior_West,Central Basin and Range,13,Fir_Spruce_Mountain_Hemlock,241.1,0.03,442.3125
+Interior_West,Central Basin and Range,13,Fir_Spruce_Mountain_Hemlock,241.1,0.03,442.3125
+Interior_West,Central Basin and Range,13,Fir_Spruce_Mountain_Hemlock,241.1,0.03,442.3125
+Pacific_Northwest,Central Basin and Range,13,Fir_Spruce_Mountain_Hemlock,581.9,0.02,442.3125
+Interior_West,Northern Basin and Range,80,Fir_Spruce_Mountain_Hemlock,241.1,0.03,412.5
+Interior_West,Northern Basin and Range,80,Fir_Spruce_Mountain_Hemlock,241.1,0.03,412.5
+Interior_West,Northern Basin and Range,80,Fir_Spruce_Mountain_Hemlock,241.1,0.03,412.5
+Pacific_Northwest,Northern Basin and Range,80,Fir_Spruce_Mountain_Hemlock,581.9,0.02,412.5
+Pacific_Northwest,Northern Basin and Range,80,Fir_Spruce_Mountain_Hemlock,581.9,0.02,412.5
+Interior_West,Colorado Plateaus,20,Fir_Spruce_Mountain_Hemlock,241.1,0.03,290.0625
+Interior_West,Colorado Plateaus,20,Fir_Spruce_Mountain_Hemlock,241.1,0.03,290.0625
+Interior_West,Colorado Plateaus,20,Fir_Spruce_Mountain_Hemlock,241.1,0.03,290.0625
+Interior_West,Colorado Plateaus,20,Fir_Spruce_Mountain_Hemlock,241.1,0.03,290.0625
+Interior_West,Wyoming Basin,18,Fir_Spruce_Mountain_Hemlock,241.1,0.03,116.125
+Interior_West,Wyoming Basin,18,Fir_Spruce_Mountain_Hemlock,241.1,0.03,116.125
+Interior_West,Wyoming Basin,18,Fir_Spruce_Mountain_Hemlock,241.1,0.03,116.125
+Interior_West,Wyoming Basin,18,Fir_Spruce_Mountain_Hemlock,241.1,0.03,116.125
+Interior_West,Wyoming Basin,18,Fir_Spruce_Mountain_Hemlock,241.1,0.03,116.125
+Interior_West,Columbia Plateau,10,Fir_Spruce_Mountain_Hemlock,241.1,0.03,78.5625
+Pacific_Northwest,Columbia Plateau,10,Fir_Spruce_Mountain_Hemlock,581.9,0.02,78.5625
+Pacific_Northwest,Columbia Plateau,10,Fir_Spruce_Mountain_Hemlock,581.9,0.02,78.5625
+Interior_West,Madrean Archipelago,79,Fir_Spruce_Mountain_Hemlock,241.1,0.03,56.6875
+Interior_West,Madrean Archipelago,79,Fir_Spruce_Mountain_Hemlock,241.1,0.03,56.6875
+Interior_West,Mojave Basin and Range,14,Fir_Spruce_Mountain_Hemlock,241.1,0.03,40
+Interior_West,Mojave Basin and Range,14,Fir_Spruce_Mountain_Hemlock,241.1,0.03,40
+Interior_West,Mojave Basin and Range,14,Fir_Spruce_Mountain_Hemlock,241.1,0.03,40
+Pacific_Northwest,Mojave Basin and Range,14,Fir_Spruce_Mountain_Hemlock,581.9,0.02,40
+Interior_West,Northwestern Great Plains,43,Fir_Spruce_Mountain_Hemlock,241.1,0.03,14.1875
+Interior_West,Northwestern Great Plains,43,Fir_Spruce_Mountain_Hemlock,241.1,0.03,14.1875
+Interior_West,Snake River Plain,12,Fir_Spruce_Mountain_Hemlock,241.1,0.03,6.375
+Interior_West,Snake River Plain,12,Fir_Spruce_Mountain_Hemlock,241.1,0.03,6.375
+Pacific_Northwest,Snake River Plain,12,Fir_Spruce_Mountain_Hemlock,581.9,0.02,6.375
+Pacific_Northwest,Puget Lowland,2,Fir_Spruce_Mountain_Hemlock,581.9,0.02,4.75
+Pacific_Northwest,Central California Foothills and Coastal Mountains,6,Fir_Spruce_Mountain_Hemlock,581.9,0.02,2.5
+Interior_West,Northwestern Glaciated Plains,42,Fir_Spruce_Mountain_Hemlock,241.1,0.03,2.25
+Pacific_Northwest,Willamette Valley,3,Fir_Spruce_Mountain_Hemlock,581.9,0.02,0.8125
+Pacific_Northwest,Willamette Valley,3,Fir_Spruce_Mountain_Hemlock,581.9,0.02,0.8125
+Interior_West,Arizona/New Mexico Plateau,22,Fir_Spruce_Mountain_Hemlock,241.1,0.03,0.5
+Interior_West,Arizona/New Mexico Plateau,22,Fir_Spruce_Mountain_Hemlock,241.1,0.03,0.5
+Interior_West,Arizona/New Mexico Plateau,22,Fir_Spruce_Mountain_Hemlock,241.1,0.03,0.5
+Interior_West,Arizona/New Mexico Plateau,22,Fir_Spruce_Mountain_Hemlock,241.1,0.03,0.5
+Pacific_Northwest,Southern California Mountains,8,Fir_Spruce_Mountain_Hemlock,581.9,0.02,0.1875
+Interior_West,Chihuahuan Deserts,24,Fir_Spruce_Mountain_Hemlock,241.1,0.03,0.125
+Interior_West,Chihuahuan Deserts,24,Fir_Spruce_Mountain_Hemlock,241.1,0.03,0.125
+Pacific_Northwest,Coast Range,1,Hemlock_Sitka_Spruce,736.44,0.04,8960.125
+Pacific_Northwest,Coast Range,1,Hemlock_Sitka_Spruce,736.44,0.04,8960.125
+Pacific_Northwest,Coast Range,1,Hemlock_Sitka_Spruce,736.44,0.04,8960.125
+Interior_West,Northern Rockies,15,Hemlock_Sitka_Spruce,583.31,0.02,3365.3125
+Interior_West,Northern Rockies,15,Hemlock_Sitka_Spruce,583.31,0.02,3365.3125
+Pacific_Northwest,Northern Rockies,15,Hemlock_Sitka_Spruce,736.44,0.04,3365.3125
+Pacific_Northwest,North Cascades,77,Hemlock_Sitka_Spruce,736.44,0.04,3344.6875
+Pacific_Northwest,Cascades,4,Hemlock_Sitka_Spruce,736.44,0.04,1307.875
+Pacific_Northwest,Cascades,4,Hemlock_Sitka_Spruce,736.44,0.04,1307.875
+Pacific_Northwest,Cascades,4,Hemlock_Sitka_Spruce,736.44,0.04,1307.875
+Pacific_Northwest,Puget Lowland,2,Hemlock_Sitka_Spruce,736.44,0.04,175.625
+Interior_West,Idaho Batholith,16,Hemlock_Sitka_Spruce,583.31,0.02,131.625
+Interior_West,Idaho Batholith,16,Hemlock_Sitka_Spruce,583.31,0.02,131.625
+Interior_West,Columbia Plateau,10,Hemlock_Sitka_Spruce,583.31,0.02,7.625
+Pacific_Northwest,Columbia Plateau,10,Hemlock_Sitka_Spruce,736.44,0.04,7.625
+Pacific_Northwest,Columbia Plateau,10,Hemlock_Sitka_Spruce,736.44,0.04,7.625
+Pacific_Northwest,Eastern Cascades Slopes and Foothills,9,Hemlock_Sitka_Spruce,736.44,0.04,2.1875
+Pacific_Northwest,Eastern Cascades Slopes and Foothills,9,Hemlock_Sitka_Spruce,736.44,0.04,2.1875
+Pacific_Northwest,Eastern Cascades Slopes and Foothills,9,Hemlock_Sitka_Spruce,736.44,0.04,2.1875
+Pacific_Northwest,Willamette Valley,3,Hemlock_Sitka_Spruce,736.44,0.04,2.125
+Pacific_Northwest,Willamette Valley,3,Hemlock_Sitka_Spruce,736.44,0.04,2.125
+Interior_West,Canadian Rockies,41,Hemlock_Sitka_Spruce,583.31,0.02,0.6875
+Interior_West,Northern Basin and Range,80,Hemlock_Sitka_Spruce,583.31,0.02,0.5625
+Interior_West,Northern Basin and Range,80,Hemlock_Sitka_Spruce,583.31,0.02,0.5625
+Interior_West,Northern Basin and Range,80,Hemlock_Sitka_Spruce,583.31,0.02,0.5625
+Pacific_Northwest,Klamath Mountains/California High North Coast Range,78,Hemlock_Sitka_Spruce,736.44,0.04,0.5625
+Pacific_Northwest,Klamath Mountains/California High North Coast Range,78,Hemlock_Sitka_Spruce,736.44,0.04,0.5625
+Pacific_Northwest,Northern Basin and Range,80,Hemlock_Sitka_Spruce,736.44,0.04,0.5625
+Pacific_Northwest,Northern Basin and Range,80,Hemlock_Sitka_Spruce,736.44,0.04,0.5625
+Interior_West,Blue Mountains,11,Hemlock_Sitka_Spruce,583.31,0.02,0.4375
+Pacific_Northwest,Blue Mountains,11,Hemlock_Sitka_Spruce,736.44,0.04,0.4375
+Pacific_Northwest,Blue Mountains,11,Hemlock_Sitka_Spruce,736.44,0.04,0.4375
+Northeast,Southeastern Plains,65,Loblolly_Shortleaf_Pine,135.43,0.1,101000
+Northeast,Southeastern Plains,65,Loblolly_Shortleaf_Pine,135.43,0.1,101000
+South,Southeastern Plains,65,Loblolly_Shortleaf_Pine,225.7,0.08,101000
+South,Southeastern Plains,65,Loblolly_Shortleaf_Pine,225.7,0.08,101000
+South,Southeastern Plains,65,Loblolly_Shortleaf_Pine,225.7,0.08,101000
+South,Southeastern Plains,65,Loblolly_Shortleaf_Pine,225.7,0.08,101000
+South,Southeastern Plains,65,Loblolly_Shortleaf_Pine,225.7,0.08,101000
+South,Southeastern Plains,65,Loblolly_Shortleaf_Pine,225.7,0.08,101000
+South,Southeastern Plains,65,Loblolly_Shortleaf_Pine,225.7,0.08,101000
+South,Southeastern Plains,65,Loblolly_Shortleaf_Pine,225.7,0.08,101000
+South,Southeastern Plains,65,Loblolly_Shortleaf_Pine,225.7,0.08,101000
+South,South Central Plains,35,Loblolly_Shortleaf_Pine,225.7,0.08,74756.5
+South,South Central Plains,35,Loblolly_Shortleaf_Pine,225.7,0.08,74756.5
+South,South Central Plains,35,Loblolly_Shortleaf_Pine,225.7,0.08,74756.5
+South,South Central Plains,35,Loblolly_Shortleaf_Pine,225.7,0.08,74756.5
+South,Piedmont,45,Loblolly_Shortleaf_Pine,225.7,0.08,48164.25
+South,Piedmont,45,Loblolly_Shortleaf_Pine,225.7,0.08,48164.25
+South,Piedmont,45,Loblolly_Shortleaf_Pine,225.7,0.08,48164.25
+South,Piedmont,45,Loblolly_Shortleaf_Pine,225.7,0.08,48164.25
+South,Piedmont,45,Loblolly_Shortleaf_Pine,225.7,0.08,48164.25
+Northeast,Middle Atlantic Coastal Plain,63,Loblolly_Shortleaf_Pine,135.43,0.1,32317.1875
+Northeast,Middle Atlantic Coastal Plain,63,Loblolly_Shortleaf_Pine,135.43,0.1,32317.1875
+Northeast,Middle Atlantic Coastal Plain,63,Loblolly_Shortleaf_Pine,135.43,0.1,32317.1875
+Northeast,Middle Atlantic Coastal Plain,63,Loblolly_Shortleaf_Pine,135.43,0.1,32317.1875
+South,Middle Atlantic Coastal Plain,63,Loblolly_Shortleaf_Pine,225.7,0.08,32317.1875
+South,Middle Atlantic Coastal Plain,63,Loblolly_Shortleaf_Pine,225.7,0.08,32317.1875
+South,Middle Atlantic Coastal Plain,63,Loblolly_Shortleaf_Pine,225.7,0.08,32317.1875
+South,Ouachita Mountains,36,Loblolly_Shortleaf_Pine,225.7,0.08,12009.5625
+South,Ouachita Mountains,36,Loblolly_Shortleaf_Pine,225.7,0.08,12009.5625
+South,Southern Coastal Plain,75,Loblolly_Shortleaf_Pine,225.7,0.08,8939.8125
+South,Southern Coastal Plain,75,Loblolly_Shortleaf_Pine,225.7,0.08,8939.8125
+South,Southern Coastal Plain,75,Loblolly_Shortleaf_Pine,225.7,0.08,8939.8125
+South,Southern Coastal Plain,75,Loblolly_Shortleaf_Pine,225.7,0.08,8939.8125
+South,Southern Coastal Plain,75,Loblolly_Shortleaf_Pine,225.7,0.08,8939.8125
+South,Southern Coastal Plain,75,Loblolly_Shortleaf_Pine,225.7,0.08,8939.8125
+South,Edwards Plateau,30,Loblolly_Shortleaf_Pine,225.7,0.08,7363.6875
+North_Central,Mississippi Valley Loess Plains,74,Loblolly_Shortleaf_Pine,192.88,0.06,5831.875
+South,Mississippi Valley Loess Plains,74,Loblolly_Shortleaf_Pine,225.7,0.08,5831.875
+South,Mississippi Valley Loess Plains,74,Loblolly_Shortleaf_Pine,225.7,0.08,5831.875
+South,Mississippi Valley Loess Plains,74,Loblolly_Shortleaf_Pine,225.7,0.08,5831.875
+South,Mississippi Valley Loess Plains,74,Loblolly_Shortleaf_Pine,225.7,0.08,5831.875
+South,Mississippi Valley Loess Plains,74,Loblolly_Shortleaf_Pine,225.7,0.08,5831.875
+Northeast,Ridge and Valley,67,Loblolly_Shortleaf_Pine,135.43,0.1,4479.6875
+Northeast,Ridge and Valley,67,Loblolly_Shortleaf_Pine,135.43,0.1,4479.6875
+Northeast,Ridge and Valley,67,Loblolly_Shortleaf_Pine,135.43,0.1,4479.6875
+Northeast,Ridge and Valley,67,Loblolly_Shortleaf_Pine,135.43,0.1,4479.6875
+South,Ridge and Valley,67,Loblolly_Shortleaf_Pine,225.7,0.08,4479.6875
+South,Ridge and Valley,67,Loblolly_Shortleaf_Pine,225.7,0.08,4479.6875
+South,Ridge and Valley,67,Loblolly_Shortleaf_Pine,225.7,0.08,4479.6875
+South,Ridge and Valley,67,Loblolly_Shortleaf_Pine,225.7,0.08,4479.6875
+South,Ridge and Valley,67,Loblolly_Shortleaf_Pine,225.7,0.08,4479.6875
+South,Southwestern Appalachians,68,Loblolly_Shortleaf_Pine,225.7,0.08,3662.25
+South,Southwestern Appalachians,68,Loblolly_Shortleaf_Pine,225.7,0.08,3662.25
+South,Southwestern Appalachians,68,Loblolly_Shortleaf_Pine,225.7,0.08,3662.25
+South,Southwestern Appalachians,68,Loblolly_Shortleaf_Pine,225.7,0.08,3662.25
+Northeast,Atlantic Coastal Pine Barrens,84,Loblolly_Shortleaf_Pine,135.43,0.1,2551.25
+Northeast,Atlantic Coastal Pine Barrens,84,Loblolly_Shortleaf_Pine,135.43,0.1,2551.25
+Northeast,Atlantic Coastal Pine Barrens,84,Loblolly_Shortleaf_Pine,135.43,0.1,2551.25
+North_Central,Cross Timbers,29,Loblolly_Shortleaf_Pine,192.88,0.06,2077.6875
+South,Cross Timbers,29,Loblolly_Shortleaf_Pine,225.7,0.08,2077.6875
+South,Cross Timbers,29,Loblolly_Shortleaf_Pine,225.7,0.08,2077.6875
+South,Arkansas Valley,37,Loblolly_Shortleaf_Pine,225.7,0.08,1985.625
+South,Arkansas Valley,37,Loblolly_Shortleaf_Pine,225.7,0.08,1985.625
+South,Western Gulf Coastal Plain,34,Loblolly_Shortleaf_Pine,225.7,0.08,1009.1875
+South,Western Gulf Coastal Plain,34,Loblolly_Shortleaf_Pine,225.7,0.08,1009.1875
+South,East Central Texas Plains,33,Loblolly_Shortleaf_Pine,225.7,0.08,898.9375
+South,East Central Texas Plains,33,Loblolly_Shortleaf_Pine,225.7,0.08,898.9375
+South,Southern Texas Plains,31,Loblolly_Shortleaf_Pine,225.7,0.08,466.6875
+South,Boston Mountains,38,Loblolly_Shortleaf_Pine,225.7,0.08,344.4375
+South,Boston Mountains,38,Loblolly_Shortleaf_Pine,225.7,0.08,344.4375
+North_Central,Central Great Plains,27,Loblolly_Shortleaf_Pine,192.88,0.06,306.625
+North_Central,Central Great Plains,27,Loblolly_Shortleaf_Pine,192.88,0.06,306.625
+South,Central Great Plains,27,Loblolly_Shortleaf_Pine,225.7,0.08,306.625
+South,Central Great Plains,27,Loblolly_Shortleaf_Pine,225.7,0.08,306.625
+North_Central,Mississippi Alluvial Plain,73,Loblolly_Shortleaf_Pine,192.88,0.06,278.5
+North_Central,Mississippi Alluvial Plain,73,Loblolly_Shortleaf_Pine,192.88,0.06,278.5
+South,Mississippi Alluvial Plain,73,Loblolly_Shortleaf_Pine,225.7,0.08,278.5
+South,Mississippi Alluvial Plain,73,Loblolly_Shortleaf_Pine,225.7,0.08,278.5
+South,Mississippi Alluvial Plain,73,Loblolly_Shortleaf_Pine,225.7,0.08,278.5
+South,Mississippi Alluvial Plain,73,Loblolly_Shortleaf_Pine,225.7,0.08,278.5
+South,Mississippi Alluvial Plain,73,Loblolly_Shortleaf_Pine,225.7,0.08,278.5
+North_Central,Interior Plateau,71,Loblolly_Shortleaf_Pine,192.88,0.06,257.125
+North_Central,Interior Plateau,71,Loblolly_Shortleaf_Pine,192.88,0.06,257.125
+Northeast,Interior Plateau,71,Loblolly_Shortleaf_Pine,135.43,0.1,257.125
+South,Interior Plateau,71,Loblolly_Shortleaf_Pine,225.7,0.08,257.125
+South,Interior Plateau,71,Loblolly_Shortleaf_Pine,225.7,0.08,257.125
+South,Interior Plateau,71,Loblolly_Shortleaf_Pine,225.7,0.08,257.125
+South,Texas Blackland Prairies,32,Loblolly_Shortleaf_Pine,225.7,0.08,145.125
+Northeast,Blue Ridge,66,Loblolly_Shortleaf_Pine,135.43,0.1,136.875
+Northeast,Blue Ridge,66,Loblolly_Shortleaf_Pine,135.43,0.1,136.875
+South,Blue Ridge,66,Loblolly_Shortleaf_Pine,225.7,0.08,136.875
+South,Blue Ridge,66,Loblolly_Shortleaf_Pine,225.7,0.08,136.875
+South,Blue Ridge,66,Loblolly_Shortleaf_Pine,225.7,0.08,136.875
+South,Blue Ridge,66,Loblolly_Shortleaf_Pine,225.7,0.08,136.875
+South,Blue Ridge,66,Loblolly_Shortleaf_Pine,225.7,0.08,136.875
+South,Blue Ridge,66,Loblolly_Shortleaf_Pine,225.7,0.08,136.875
+North_Central,Ozark Highlands,39,Loblolly_Shortleaf_Pine,192.88,0.06,129.5
+North_Central,Ozark Highlands,39,Loblolly_Shortleaf_Pine,192.88,0.06,129.5
+South,Ozark Highlands,39,Loblolly_Shortleaf_Pine,225.7,0.08,129.5
+South,Ozark Highlands,39,Loblolly_Shortleaf_Pine,225.7,0.08,129.5
+Northeast,Northern Piedmont,64,Loblolly_Shortleaf_Pine,135.43,0.1,82.9375
+Northeast,Northern Piedmont,64,Loblolly_Shortleaf_Pine,135.43,0.1,82.9375
+Northeast,Northern Piedmont,64,Loblolly_Shortleaf_Pine,135.43,0.1,82.9375
+Northeast,Northern Piedmont,64,Loblolly_Shortleaf_Pine,135.43,0.1,82.9375
+Northeast,Northern Piedmont,64,Loblolly_Shortleaf_Pine,135.43,0.1,82.9375
+South,Northern Piedmont,64,Loblolly_Shortleaf_Pine,225.7,0.08,82.9375
+Northeast,Western Allegheny Plateau,70,Loblolly_Shortleaf_Pine,135.43,0.1,81.75
+Northeast,Western Allegheny Plateau,70,Loblolly_Shortleaf_Pine,135.43,0.1,81.75
+South,Western Allegheny Plateau,70,Loblolly_Shortleaf_Pine,225.7,0.08,81.75
+South,Western Allegheny Plateau,70,Loblolly_Shortleaf_Pine,225.7,0.08,81.75
+Northeast,Northeastern Coastal Zone,59,Loblolly_Shortleaf_Pine,135.43,0.1,75.1875
+Northeast,Northeastern Coastal Zone,59,Loblolly_Shortleaf_Pine,135.43,0.1,75.1875
+Northeast,Northeastern Coastal Zone,59,Loblolly_Shortleaf_Pine,135.43,0.1,75.1875
+Northeast,Northeastern Coastal Zone,59,Loblolly_Shortleaf_Pine,135.43,0.1,75.1875
+Northeast,Northeastern Coastal Zone,59,Loblolly_Shortleaf_Pine,135.43,0.1,75.1875
+Northeast,Northeastern Coastal Zone,59,Loblolly_Shortleaf_Pine,135.43,0.1,75.1875
+Northeast,Northeastern Coastal Zone,59,Loblolly_Shortleaf_Pine,135.43,0.1,75.1875
+North_Central,Interior River Valleys and Hills,72,Loblolly_Shortleaf_Pine,192.88,0.06,24.1875
+North_Central,Interior River Valleys and Hills,72,Loblolly_Shortleaf_Pine,192.88,0.06,24.1875
+North_Central,Interior River Valleys and Hills,72,Loblolly_Shortleaf_Pine,192.88,0.06,24.1875
+North_Central,Interior River Valleys and Hills,72,Loblolly_Shortleaf_Pine,192.88,0.06,24.1875
+South,Interior River Valleys and Hills,72,Loblolly_Shortleaf_Pine,225.7,0.08,24.1875
+Northeast,Northeastern Highlands,58,Loblolly_Shortleaf_Pine,135.43,0.1,21.375
+Northeast,Northeastern Highlands,58,Loblolly_Shortleaf_Pine,135.43,0.1,21.375
+Northeast,Northeastern Highlands,58,Loblolly_Shortleaf_Pine,135.43,0.1,21.375
+Northeast,Northeastern Highlands,58,Loblolly_Shortleaf_Pine,135.43,0.1,21.375
+Northeast,Northeastern Highlands,58,Loblolly_Shortleaf_Pine,135.43,0.1,21.375
+Northeast,Northeastern Highlands,58,Loblolly_Shortleaf_Pine,135.43,0.1,21.375
+Northeast,Northeastern Highlands,58,Loblolly_Shortleaf_Pine,135.43,0.1,21.375
+Northeast,Northeastern Highlands,58,Loblolly_Shortleaf_Pine,135.43,0.1,21.375
+North_Central,Southwestern Tablelands,26,Loblolly_Shortleaf_Pine,192.88,0.06,15.4375
+South,Southwestern Tablelands,26,Loblolly_Shortleaf_Pine,225.7,0.08,15.4375
+South,Southwestern Tablelands,26,Loblolly_Shortleaf_Pine,225.7,0.08,15.4375
+Northeast,Central Appalachians,69,Loblolly_Shortleaf_Pine,135.43,0.1,5.25
+Northeast,Central Appalachians,69,Loblolly_Shortleaf_Pine,135.43,0.1,5.25
+South,Central Appalachians,69,Loblolly_Shortleaf_Pine,225.7,0.08,5.25
+South,Central Appalachians,69,Loblolly_Shortleaf_Pine,225.7,0.08,5.25
+South,Central Appalachians,69,Loblolly_Shortleaf_Pine,225.7,0.08,5.25
+South,Central Appalachians,69,Loblolly_Shortleaf_Pine,225.7,0.08,5.25
+Northeast,North Central Appalachians,62,Loblolly_Shortleaf_Pine,135.43,0.1,1.0625
+Northeast,North Central Appalachians,62,Loblolly_Shortleaf_Pine,135.43,0.1,1.0625
+Northeast,Northern Allegheny Plateau,60,Loblolly_Shortleaf_Pine,135.43,0.1,0.8125
+Northeast,Northern Allegheny Plateau,60,Loblolly_Shortleaf_Pine,135.43,0.1,0.8125
+Northeast,Eastern Great Lakes Lowlands,83,Loblolly_Shortleaf_Pine,135.43,0.1,0.5
+Northeast,Eastern Great Lakes Lowlands,83,Loblolly_Shortleaf_Pine,135.43,0.1,0.5
+Northeast,Eastern Great Lakes Lowlands,83,Loblolly_Shortleaf_Pine,135.43,0.1,0.5
+Northeast,Eastern Great Lakes Lowlands,83,Loblolly_Shortleaf_Pine,135.43,0.1,0.5
+South,Southern Florida Coastal Plain,76,Loblolly_Shortleaf_Pine,225.7,0.08,0.3125
+North_Central,Central Irregular Plains,40,Loblolly_Shortleaf_Pine,192.88,0.06,0.25
+North_Central,Central Irregular Plains,40,Loblolly_Shortleaf_Pine,192.88,0.06,0.25
+North_Central,Central Irregular Plains,40,Loblolly_Shortleaf_Pine,192.88,0.06,0.25
+South,Central Irregular Plains,40,Loblolly_Shortleaf_Pine,225.7,0.08,0.25
+Northeast,Erie Drift Plain,61,Loblolly_Shortleaf_Pine,135.43,0.1,0.1875
+Northeast,Erie Drift Plain,61,Loblolly_Shortleaf_Pine,135.43,0.1,0.1875
+Northeast,Erie Drift Plain,61,Loblolly_Shortleaf_Pine,135.43,0.1,0.1875
+Northeast,Acadian Plains and Hills,82,Loblolly_Shortleaf_Pine,135.43,0.1,0.0625
+Interior_West,Middle Rockies,17,Lodgepole_Pine,203.42,0.03,26732.1875
+Interior_West,Middle Rockies,17,Lodgepole_Pine,203.42,0.03,26732.1875
+Interior_West,Middle Rockies,17,Lodgepole_Pine,203.42,0.03,26732.1875
+Interior_West,Southern Rockies,21,Lodgepole_Pine,203.42,0.03,10927.6875
+Interior_West,Southern Rockies,21,Lodgepole_Pine,203.42,0.03,10927.6875
+Interior_West,Southern Rockies,21,Lodgepole_Pine,203.42,0.03,10927.6875
+Interior_West,Southern Rockies,21,Lodgepole_Pine,203.42,0.03,10927.6875
+Interior_West,Idaho Batholith,16,Lodgepole_Pine,203.42,0.03,5781.5
+Interior_West,Idaho Batholith,16,Lodgepole_Pine,203.42,0.03,5781.5
+Interior_West,Sierra Nevada,5,Lodgepole_Pine,203.42,0.03,5710
+Pacific_Northwest,Sierra Nevada,5,Lodgepole_Pine,292.6,0.02,5710
+Pacific_Northwest,Eastern Cascades Slopes and Foothills,9,Lodgepole_Pine,292.6,0.02,4147.0625
+Pacific_Northwest,Eastern Cascades Slopes and Foothills,9,Lodgepole_Pine,292.6,0.02,4147.0625
+Pacific_Northwest,Eastern Cascades Slopes and Foothills,9,Lodgepole_Pine,292.6,0.02,4147.0625
+Interior_West,Northern Rockies,15,Lodgepole_Pine,203.42,0.03,4040.3125
+Interior_West,Northern Rockies,15,Lodgepole_Pine,203.42,0.03,4040.3125
+Pacific_Northwest,Northern Rockies,15,Lodgepole_Pine,292.6,0.02,4040.3125
+Interior_West,Canadian Rockies,41,Lodgepole_Pine,203.42,0.03,2996.875
+Interior_West,Wasatch and Uinta Mountains,19,Lodgepole_Pine,203.42,0.03,2483.1875
+Interior_West,Wasatch and Uinta Mountains,19,Lodgepole_Pine,203.42,0.03,2483.1875
+Interior_West,Wasatch and Uinta Mountains,19,Lodgepole_Pine,203.42,0.03,2483.1875
+Pacific_Northwest,Cascades,4,Lodgepole_Pine,292.6,0.02,1019.25
+Pacific_Northwest,Cascades,4,Lodgepole_Pine,292.6,0.02,1019.25
+Pacific_Northwest,Cascades,4,Lodgepole_Pine,292.6,0.02,1019.25
+Interior_West,Blue Mountains,11,Lodgepole_Pine,203.42,0.03,751.3125
+Pacific_Northwest,Blue Mountains,11,Lodgepole_Pine,292.6,0.02,751.3125
+Pacific_Northwest,Blue Mountains,11,Lodgepole_Pine,292.6,0.02,751.3125
+Pacific_Northwest,North Cascades,77,Lodgepole_Pine,292.6,0.02,670.4375
+Interior_West,Wyoming Basin,18,Lodgepole_Pine,203.42,0.03,182.4375
+Interior_West,Wyoming Basin,18,Lodgepole_Pine,203.42,0.03,182.4375
+Interior_West,Wyoming Basin,18,Lodgepole_Pine,203.42,0.03,182.4375
+Interior_West,Wyoming Basin,18,Lodgepole_Pine,203.42,0.03,182.4375
+Interior_West,Wyoming Basin,18,Lodgepole_Pine,203.42,0.03,182.4375
+Interior_West,Northwestern Great Plains,43,Lodgepole_Pine,203.42,0.03,112.8125
+Interior_West,Northwestern Great Plains,43,Lodgepole_Pine,203.42,0.03,112.8125
+Pacific_Northwest,Southern California Mountains,8,Lodgepole_Pine,292.6,0.02,98
+Interior_West,Central Basin and Range,13,Lodgepole_Pine,203.42,0.03,54.625
+Interior_West,Central Basin and Range,13,Lodgepole_Pine,203.42,0.03,54.625
+Interior_West,Central Basin and Range,13,Lodgepole_Pine,203.42,0.03,54.625
+Pacific_Northwest,Central Basin and Range,13,Lodgepole_Pine,292.6,0.02,54.625
+Interior_West,Northern Basin and Range,80,Lodgepole_Pine,203.42,0.03,54.5
+Interior_West,Northern Basin and Range,80,Lodgepole_Pine,203.42,0.03,54.5
+Interior_West,Northern Basin and Range,80,Lodgepole_Pine,203.42,0.03,54.5
+Pacific_Northwest,Northern Basin and Range,80,Lodgepole_Pine,292.6,0.02,54.5
+Pacific_Northwest,Northern Basin and Range,80,Lodgepole_Pine,292.6,0.02,54.5
+Pacific_Northwest,Coast Range,1,Lodgepole_Pine,292.6,0.02,53.125
+Pacific_Northwest,Coast Range,1,Lodgepole_Pine,292.6,0.02,53.125
+Pacific_Northwest,Coast Range,1,Lodgepole_Pine,292.6,0.02,53.125
+Interior_West,Snake River Plain,12,Lodgepole_Pine,203.42,0.03,52.875
+Interior_West,Snake River Plain,12,Lodgepole_Pine,203.42,0.03,52.875
+Pacific_Northwest,Snake River Plain,12,Lodgepole_Pine,292.6,0.02,52.875
+Interior_West,Columbia Plateau,10,Lodgepole_Pine,203.42,0.03,28.5
+Pacific_Northwest,Columbia Plateau,10,Lodgepole_Pine,292.6,0.02,28.5
+Pacific_Northwest,Columbia Plateau,10,Lodgepole_Pine,292.6,0.02,28.5
+Interior_West,Colorado Plateaus,20,Lodgepole_Pine,203.42,0.03,14.9375
+Interior_West,Colorado Plateaus,20,Lodgepole_Pine,203.42,0.03,14.9375
+Interior_West,Colorado Plateaus,20,Lodgepole_Pine,203.42,0.03,14.9375
+Interior_West,Colorado Plateaus,20,Lodgepole_Pine,203.42,0.03,14.9375
+Interior_West,Northwestern Glaciated Plains,42,Lodgepole_Pine,203.42,0.03,13.75
+Pacific_Northwest,Willamette Valley,3,Lodgepole_Pine,292.6,0.02,1.625
+Pacific_Northwest,Willamette Valley,3,Lodgepole_Pine,292.6,0.02,1.625
+Pacific_Northwest,Puget Lowland,2,Lodgepole_Pine,292.6,0.02,1.125
+Pacific_Northwest,Central California Foothills and Coastal Mountains,6,Lodgepole_Pine,292.6,0.02,0.625
+Pacific_Northwest,Klamath Mountains/California High North Coast Range,78,Lodgepole_Pine,292.6,0.02,0.625
+Pacific_Northwest,Klamath Mountains/California High North Coast Range,78,Lodgepole_Pine,292.6,0.02,0.625
+South,Southern Coastal Plain,75,Longleaf_Slash_Pine,148.94,0.08,46400.6875
+South,Southern Coastal Plain,75,Longleaf_Slash_Pine,148.94,0.08,46400.6875
+South,Southern Coastal Plain,75,Longleaf_Slash_Pine,148.94,0.08,46400.6875
+South,Southern Coastal Plain,75,Longleaf_Slash_Pine,148.94,0.08,46400.6875
+South,Southern Coastal Plain,75,Longleaf_Slash_Pine,148.94,0.08,46400.6875
+South,Southern Coastal Plain,75,Longleaf_Slash_Pine,148.94,0.08,46400.6875
+South,Southeastern Plains,65,Longleaf_Slash_Pine,148.94,0.08,25352.125
+South,Southeastern Plains,65,Longleaf_Slash_Pine,148.94,0.08,25352.125
+South,Southeastern Plains,65,Longleaf_Slash_Pine,148.94,0.08,25352.125
+South,Southeastern Plains,65,Longleaf_Slash_Pine,148.94,0.08,25352.125
+South,Southeastern Plains,65,Longleaf_Slash_Pine,148.94,0.08,25352.125
+South,Southeastern Plains,65,Longleaf_Slash_Pine,148.94,0.08,25352.125
+South,Southeastern Plains,65,Longleaf_Slash_Pine,148.94,0.08,25352.125
+South,Southeastern Plains,65,Longleaf_Slash_Pine,148.94,0.08,25352.125
+South,Southeastern Plains,65,Longleaf_Slash_Pine,148.94,0.08,25352.125
+South,South Central Plains,35,Longleaf_Slash_Pine,148.94,0.08,3165.1875
+South,South Central Plains,35,Longleaf_Slash_Pine,148.94,0.08,3165.1875
+South,South Central Plains,35,Longleaf_Slash_Pine,148.94,0.08,3165.1875
+South,South Central Plains,35,Longleaf_Slash_Pine,148.94,0.08,3165.1875
+South,Middle Atlantic Coastal Plain,63,Longleaf_Slash_Pine,148.94,0.08,1064.25
+South,Middle Atlantic Coastal Plain,63,Longleaf_Slash_Pine,148.94,0.08,1064.25
+South,Middle Atlantic Coastal Plain,63,Longleaf_Slash_Pine,148.94,0.08,1064.25
+South,Piedmont,45,Longleaf_Slash_Pine,148.94,0.08,339
+South,Piedmont,45,Longleaf_Slash_Pine,148.94,0.08,339
+South,Piedmont,45,Longleaf_Slash_Pine,148.94,0.08,339
+South,Piedmont,45,Longleaf_Slash_Pine,148.94,0.08,339
+South,Piedmont,45,Longleaf_Slash_Pine,148.94,0.08,339
+South,Southern Florida Coastal Plain,76,Longleaf_Slash_Pine,148.94,0.08,314.5
+South,Ridge and Valley,67,Longleaf_Slash_Pine,148.94,0.08,104.4375
+South,Ridge and Valley,67,Longleaf_Slash_Pine,148.94,0.08,104.4375
+South,Ridge and Valley,67,Longleaf_Slash_Pine,148.94,0.08,104.4375
+South,Ridge and Valley,67,Longleaf_Slash_Pine,148.94,0.08,104.4375
+South,Ridge and Valley,67,Longleaf_Slash_Pine,148.94,0.08,104.4375
+South,Western Gulf Coastal Plain,34,Longleaf_Slash_Pine,148.94,0.08,91
+South,Western Gulf Coastal Plain,34,Longleaf_Slash_Pine,148.94,0.08,91
+South,Mississippi Valley Loess Plains,74,Longleaf_Slash_Pine,148.94,0.08,38.5
+South,Mississippi Valley Loess Plains,74,Longleaf_Slash_Pine,148.94,0.08,38.5
+South,Mississippi Valley Loess Plains,74,Longleaf_Slash_Pine,148.94,0.08,38.5
+South,Mississippi Valley Loess Plains,74,Longleaf_Slash_Pine,148.94,0.08,38.5
+South,Mississippi Valley Loess Plains,74,Longleaf_Slash_Pine,148.94,0.08,38.5
+South,Mississippi Alluvial Plain,73,Longleaf_Slash_Pine,148.94,0.08,2.8125
+South,Mississippi Alluvial Plain,73,Longleaf_Slash_Pine,148.94,0.08,2.8125
+South,Mississippi Alluvial Plain,73,Longleaf_Slash_Pine,148.94,0.08,2.8125
+South,Mississippi Alluvial Plain,73,Longleaf_Slash_Pine,148.94,0.08,2.8125
+South,Mississippi Alluvial Plain,73,Longleaf_Slash_Pine,148.94,0.08,2.8125
+South,East Central Texas Plains,33,Longleaf_Slash_Pine,148.94,0.08,0.3125
+South,East Central Texas Plains,33,Longleaf_Slash_Pine,148.94,0.08,0.3125
+South,Southwestern Appalachians,68,Longleaf_Slash_Pine,148.94,0.08,0.125
+South,Southwestern Appalachians,68,Longleaf_Slash_Pine,148.94,0.08,0.125
+South,Southwestern Appalachians,68,Longleaf_Slash_Pine,148.94,0.08,0.125
+South,Southwestern Appalachians,68,Longleaf_Slash_Pine,148.94,0.08,0.125
+Northeast,Northeastern Highlands,58,Maple_Beech_Birch,229.04,0.03,84505.25
+Northeast,Northeastern Highlands,58,Maple_Beech_Birch,229.04,0.03,84505.25
+Northeast,Northeastern Highlands,58,Maple_Beech_Birch,229.04,0.03,84505.25
+Northeast,Northeastern Highlands,58,Maple_Beech_Birch,229.04,0.03,84505.25
+Northeast,Northeastern Highlands,58,Maple_Beech_Birch,229.04,0.03,84505.25
+Northeast,Northeastern Highlands,58,Maple_Beech_Birch,229.04,0.03,84505.25
+Northeast,Northeastern Highlands,58,Maple_Beech_Birch,229.04,0.03,84505.25
+Northeast,Northeastern Highlands,58,Maple_Beech_Birch,229.04,0.03,84505.25
+North_Central,Northern Lakes and Forests,50,Maple_Beech_Birch,184.49,0.04,34656.1875
+North_Central,Northern Lakes and Forests,50,Maple_Beech_Birch,184.49,0.04,34656.1875
+North_Central,Northern Lakes and Forests,50,Maple_Beech_Birch,184.49,0.04,34656.1875
+Northeast,Northern Allegheny Plateau,60,Maple_Beech_Birch,229.04,0.03,26322.75
+Northeast,Northern Allegheny Plateau,60,Maple_Beech_Birch,229.04,0.03,26322.75
+Northeast,Acadian Plains and Hills,82,Maple_Beech_Birch,229.04,0.03,18556.8125
+Northeast,North Central Appalachians,62,Maple_Beech_Birch,229.04,0.03,16746.25
+Northeast,North Central Appalachians,62,Maple_Beech_Birch,229.04,0.03,16746.25
+Northeast,Eastern Great Lakes Lowlands,83,Maple_Beech_Birch,229.04,0.03,10661.875
+Northeast,Eastern Great Lakes Lowlands,83,Maple_Beech_Birch,229.04,0.03,10661.875
+Northeast,Eastern Great Lakes Lowlands,83,Maple_Beech_Birch,229.04,0.03,10661.875
+Northeast,Eastern Great Lakes Lowlands,83,Maple_Beech_Birch,229.04,0.03,10661.875
+North_Central,North Central Hardwood Forests,51,Maple_Beech_Birch,184.49,0.04,7286.375
+North_Central,North Central Hardwood Forests,51,Maple_Beech_Birch,184.49,0.04,7286.375
+North_Central,North Central Hardwood Forests,51,Maple_Beech_Birch,184.49,0.04,7286.375
+Northeast,Erie Drift Plain,61,Maple_Beech_Birch,229.04,0.03,6923.3125
+Northeast,Erie Drift Plain,61,Maple_Beech_Birch,229.04,0.03,6923.3125
+Northeast,Erie Drift Plain,61,Maple_Beech_Birch,229.04,0.03,6923.3125
+Northeast,Northeastern Coastal Zone,59,Maple_Beech_Birch,229.04,0.03,5519.5
+Northeast,Northeastern Coastal Zone,59,Maple_Beech_Birch,229.04,0.03,5519.5
+Northeast,Northeastern Coastal Zone,59,Maple_Beech_Birch,229.04,0.03,5519.5
+Northeast,Northeastern Coastal Zone,59,Maple_Beech_Birch,229.04,0.03,5519.5
+Northeast,Northeastern Coastal Zone,59,Maple_Beech_Birch,229.04,0.03,5519.5
+Northeast,Northeastern Coastal Zone,59,Maple_Beech_Birch,229.04,0.03,5519.5
+Northeast,Northeastern Coastal Zone,59,Maple_Beech_Birch,229.04,0.03,5519.5
+Northeast,Central Appalachians,69,Maple_Beech_Birch,229.04,0.03,5401.4375
+Northeast,Central Appalachians,69,Maple_Beech_Birch,229.04,0.03,5401.4375
+South,Central Appalachians,69,Maple_Beech_Birch,214.89,0.04,5401.4375
+South,Central Appalachians,69,Maple_Beech_Birch,214.89,0.04,5401.4375
+South,Central Appalachians,69,Maple_Beech_Birch,214.89,0.04,5401.4375
+South,Central Appalachians,69,Maple_Beech_Birch,214.89,0.04,5401.4375
+Northeast,Western Allegheny Plateau,70,Maple_Beech_Birch,229.04,0.03,4756.25
+Northeast,Western Allegheny Plateau,70,Maple_Beech_Birch,229.04,0.03,4756.25
+South,Western Allegheny Plateau,70,Maple_Beech_Birch,214.89,0.04,4756.25
+South,Western Allegheny Plateau,70,Maple_Beech_Birch,214.89,0.04,4756.25
+Northeast,Ridge and Valley,67,Maple_Beech_Birch,229.04,0.03,3807.4375
+Northeast,Ridge and Valley,67,Maple_Beech_Birch,229.04,0.03,3807.4375
+Northeast,Ridge and Valley,67,Maple_Beech_Birch,229.04,0.03,3807.4375
+Northeast,Ridge and Valley,67,Maple_Beech_Birch,229.04,0.03,3807.4375
+South,Ridge and Valley,67,Maple_Beech_Birch,214.89,0.04,3807.4375
+South,Ridge and Valley,67,Maple_Beech_Birch,214.89,0.04,3807.4375
+South,Ridge and Valley,67,Maple_Beech_Birch,214.89,0.04,3807.4375
+South,Ridge and Valley,67,Maple_Beech_Birch,214.89,0.04,3807.4375
+South,Ridge and Valley,67,Maple_Beech_Birch,214.89,0.04,3807.4375
+North_Central,Driftless Area,52,Maple_Beech_Birch,184.49,0.04,2273.375
+North_Central,Driftless Area,52,Maple_Beech_Birch,184.49,0.04,2273.375
+North_Central,Driftless Area,52,Maple_Beech_Birch,184.49,0.04,2273.375
+North_Central,Driftless Area,52,Maple_Beech_Birch,184.49,0.04,2273.375
+North_Central,Western Corn Belt Plains,47,Maple_Beech_Birch,184.49,0.04,1513.8125
+North_Central,Western Corn Belt Plains,47,Maple_Beech_Birch,184.49,0.04,1513.8125
+North_Central,Western Corn Belt Plains,47,Maple_Beech_Birch,184.49,0.04,1513.8125
+North_Central,Western Corn Belt Plains,47,Maple_Beech_Birch,184.49,0.04,1513.8125
+North_Central,Western Corn Belt Plains,47,Maple_Beech_Birch,184.49,0.04,1513.8125
+North_Central,Western Corn Belt Plains,47,Maple_Beech_Birch,184.49,0.04,1513.8125
+North_Central,Western Corn Belt Plains,47,Maple_Beech_Birch,184.49,0.04,1513.8125
+North_Central,Interior Plateau,71,Maple_Beech_Birch,184.49,0.04,1226.8125
+North_Central,Interior Plateau,71,Maple_Beech_Birch,184.49,0.04,1226.8125
+Northeast,Interior Plateau,71,Maple_Beech_Birch,229.04,0.03,1226.8125
+South,Interior Plateau,71,Maple_Beech_Birch,214.89,0.04,1226.8125
+South,Interior Plateau,71,Maple_Beech_Birch,214.89,0.04,1226.8125
+South,Interior Plateau,71,Maple_Beech_Birch,214.89,0.04,1226.8125
+North_Central,Eastern Corn Belt Plains,55,Maple_Beech_Birch,184.49,0.04,922.6875
+North_Central,Eastern Corn Belt Plains,55,Maple_Beech_Birch,184.49,0.04,922.6875
+Northeast,Eastern Corn Belt Plains,55,Maple_Beech_Birch,229.04,0.03,922.6875
+Northeast,Blue Ridge,66,Maple_Beech_Birch,229.04,0.03,891.5625
+Northeast,Blue Ridge,66,Maple_Beech_Birch,229.04,0.03,891.5625
+South,Blue Ridge,66,Maple_Beech_Birch,214.89,0.04,891.5625
+South,Blue Ridge,66,Maple_Beech_Birch,214.89,0.04,891.5625
+South,Blue Ridge,66,Maple_Beech_Birch,214.89,0.04,891.5625
+South,Blue Ridge,66,Maple_Beech_Birch,214.89,0.04,891.5625
+South,Blue Ridge,66,Maple_Beech_Birch,214.89,0.04,891.5625
+South,Blue Ridge,66,Maple_Beech_Birch,214.89,0.04,891.5625
+North_Central,Interior River Valleys and Hills,72,Maple_Beech_Birch,184.49,0.04,853.8125
+North_Central,Interior River Valleys and Hills,72,Maple_Beech_Birch,184.49,0.04,853.8125
+North_Central,Interior River Valleys and Hills,72,Maple_Beech_Birch,184.49,0.04,853.8125
+North_Central,Interior River Valleys and Hills,72,Maple_Beech_Birch,184.49,0.04,853.8125
+South,Interior River Valleys and Hills,72,Maple_Beech_Birch,214.89,0.04,853.8125
+North_Central,Central Irregular Plains,40,Maple_Beech_Birch,184.49,0.04,754.9375
+North_Central,Central Irregular Plains,40,Maple_Beech_Birch,184.49,0.04,754.9375
+North_Central,Central Irregular Plains,40,Maple_Beech_Birch,184.49,0.04,754.9375
+South,Central Irregular Plains,40,Maple_Beech_Birch,214.89,0.04,754.9375
+North_Central,Southeastern Wisconsin Till Plains,53,Maple_Beech_Birch,184.49,0.04,583.25
+North_Central,Southeastern Wisconsin Till Plains,53,Maple_Beech_Birch,184.49,0.04,583.25
+North_Central,Central Great Plains,27,Maple_Beech_Birch,184.49,0.04,456.125
+North_Central,Central Great Plains,27,Maple_Beech_Birch,184.49,0.04,456.125
+South,Central Great Plains,27,Maple_Beech_Birch,214.89,0.04,456.125
+South,Central Great Plains,27,Maple_Beech_Birch,214.89,0.04,456.125
+North_Central,Southern Michigan/Northern Indiana Drift Plains,56,Maple_Beech_Birch,184.49,0.04,399.375
+North_Central,Southern Michigan/Northern Indiana Drift Plains,56,Maple_Beech_Birch,184.49,0.04,399.375
+Northeast,Northern Piedmont,64,Maple_Beech_Birch,229.04,0.03,150
+Northeast,Northern Piedmont,64,Maple_Beech_Birch,229.04,0.03,150
+Northeast,Northern Piedmont,64,Maple_Beech_Birch,229.04,0.03,150
+Northeast,Northern Piedmont,64,Maple_Beech_Birch,229.04,0.03,150
+Northeast,Northern Piedmont,64,Maple_Beech_Birch,229.04,0.03,150
+South,Northern Piedmont,64,Maple_Beech_Birch,214.89,0.04,150
+North_Central,Flint Hills,28,Maple_Beech_Birch,184.49,0.04,121.9375
+South,Flint Hills,28,Maple_Beech_Birch,214.89,0.04,121.9375
+North_Central,Central Corn Belt Plains,54,Maple_Beech_Birch,184.49,0.04,95
+North_Central,Central Corn Belt Plains,54,Maple_Beech_Birch,184.49,0.04,95
+North_Central,Central Corn Belt Plains,54,Maple_Beech_Birch,184.49,0.04,95
+North_Central,Lake Agassiz Plain,48,Maple_Beech_Birch,184.49,0.04,88.75
+North_Central,Lake Agassiz Plain,48,Maple_Beech_Birch,184.49,0.04,88.75
+North_Central,Northern Glaciated Plains,46,Maple_Beech_Birch,184.49,0.04,83.25
+North_Central,Northern Glaciated Plains,46,Maple_Beech_Birch,184.49,0.04,83.25
+North_Central,Northern Glaciated Plains,46,Maple_Beech_Birch,184.49,0.04,83.25
+Northeast,Atlantic Coastal Pine Barrens,84,Maple_Beech_Birch,229.04,0.03,56.375
+Northeast,Atlantic Coastal Pine Barrens,84,Maple_Beech_Birch,229.04,0.03,56.375
+Northeast,Atlantic Coastal Pine Barrens,84,Maple_Beech_Birch,229.04,0.03,56.375
+South,Southwestern Appalachians,68,Maple_Beech_Birch,214.89,0.04,52
+South,Southwestern Appalachians,68,Maple_Beech_Birch,214.89,0.04,52
+South,Southwestern Appalachians,68,Maple_Beech_Birch,214.89,0.04,52
+South,Southwestern Appalachians,68,Maple_Beech_Birch,214.89,0.04,52
+North_Central,Ozark Highlands,39,Maple_Beech_Birch,184.49,0.04,34.125
+North_Central,Ozark Highlands,39,Maple_Beech_Birch,184.49,0.04,34.125
+South,Ozark Highlands,39,Maple_Beech_Birch,214.89,0.04,34.125
+South,Ozark Highlands,39,Maple_Beech_Birch,214.89,0.04,34.125
+North_Central,Northern Minnesota Wetlands,49,Maple_Beech_Birch,184.49,0.04,28.875
+North_Central,Mississippi Valley Loess Plains,74,Maple_Beech_Birch,184.49,0.04,23.75
+South,Mississippi Valley Loess Plains,74,Maple_Beech_Birch,214.89,0.04,23.75
+South,Mississippi Valley Loess Plains,74,Maple_Beech_Birch,214.89,0.04,23.75
+South,Mississippi Valley Loess Plains,74,Maple_Beech_Birch,214.89,0.04,23.75
+South,Mississippi Valley Loess Plains,74,Maple_Beech_Birch,214.89,0.04,23.75
+South,Mississippi Valley Loess Plains,74,Maple_Beech_Birch,214.89,0.04,23.75
+North_Central,Northwestern Glaciated Plains,42,Maple_Beech_Birch,184.49,0.04,17.875
+North_Central,Northwestern Glaciated Plains,42,Maple_Beech_Birch,184.49,0.04,17.875
+North_Central,Northwestern Glaciated Plains,42,Maple_Beech_Birch,184.49,0.04,17.875
+North_Central,Mississippi Alluvial Plain,73,Maple_Beech_Birch,184.49,0.04,11.5625
+North_Central,Mississippi Alluvial Plain,73,Maple_Beech_Birch,184.49,0.04,11.5625
+South,Mississippi Alluvial Plain,73,Maple_Beech_Birch,214.89,0.04,11.5625
+South,Mississippi Alluvial Plain,73,Maple_Beech_Birch,214.89,0.04,11.5625
+South,Mississippi Alluvial Plain,73,Maple_Beech_Birch,214.89,0.04,11.5625
+South,Mississippi Alluvial Plain,73,Maple_Beech_Birch,214.89,0.04,11.5625
+South,Mississippi Alluvial Plain,73,Maple_Beech_Birch,214.89,0.04,11.5625
+Northeast,Southeastern Plains,65,Maple_Beech_Birch,229.04,0.03,11.375
+Northeast,Southeastern Plains,65,Maple_Beech_Birch,229.04,0.03,11.375
+South,Southeastern Plains,65,Maple_Beech_Birch,214.89,0.04,11.375
+South,Southeastern Plains,65,Maple_Beech_Birch,214.89,0.04,11.375
+South,Southeastern Plains,65,Maple_Beech_Birch,214.89,0.04,11.375
+South,Southeastern Plains,65,Maple_Beech_Birch,214.89,0.04,11.375
+South,Southeastern Plains,65,Maple_Beech_Birch,214.89,0.04,11.375
+South,Southeastern Plains,65,Maple_Beech_Birch,214.89,0.04,11.375
+South,Southeastern Plains,65,Maple_Beech_Birch,214.89,0.04,11.375
+South,Southeastern Plains,65,Maple_Beech_Birch,214.89,0.04,11.375
+South,Southeastern Plains,65,Maple_Beech_Birch,214.89,0.04,11.375
+North_Central,Northwestern Great Plains,43,Maple_Beech_Birch,184.49,0.04,9.9375
+North_Central,Northwestern Great Plains,43,Maple_Beech_Birch,184.49,0.04,9.9375
+North_Central,Northwestern Great Plains,43,Maple_Beech_Birch,184.49,0.04,9.9375
+North_Central,Cross Timbers,29,Maple_Beech_Birch,184.49,0.04,5.25
+North_Central,Southwestern Tablelands,26,Maple_Beech_Birch,184.49,0.04,5.25
+South,Cross Timbers,29,Maple_Beech_Birch,214.89,0.04,5.25
+South,Cross Timbers,29,Maple_Beech_Birch,214.89,0.04,5.25
+South,Southwestern Tablelands,26,Maple_Beech_Birch,214.89,0.04,5.25
+South,Southwestern Tablelands,26,Maple_Beech_Birch,214.89,0.04,5.25
+North_Central,Huron/Erie Lake Plains,57,Maple_Beech_Birch,184.49,0.04,3.25
+North_Central,Huron/Erie Lake Plains,57,Maple_Beech_Birch,184.49,0.04,3.25
+Northeast,Huron/Erie Lake Plains,57,Maple_Beech_Birch,229.04,0.03,3.25
+Northeast,Middle Atlantic Coastal Plain,63,Maple_Beech_Birch,229.04,0.03,2.75
+Northeast,Middle Atlantic Coastal Plain,63,Maple_Beech_Birch,229.04,0.03,2.75
+Northeast,Middle Atlantic Coastal Plain,63,Maple_Beech_Birch,229.04,0.03,2.75
+Northeast,Middle Atlantic Coastal Plain,63,Maple_Beech_Birch,229.04,0.03,2.75
+South,Middle Atlantic Coastal Plain,63,Maple_Beech_Birch,214.89,0.04,2.75
+South,Middle Atlantic Coastal Plain,63,Maple_Beech_Birch,214.89,0.04,2.75
+South,Middle Atlantic Coastal Plain,63,Maple_Beech_Birch,214.89,0.04,2.75
+North_Central,Nebraska Sand Hills,44,Maple_Beech_Birch,184.49,0.04,0.9375
+North_Central,Nebraska Sand Hills,44,Maple_Beech_Birch,184.49,0.04,0.9375
+South,Southern Coastal Plain,75,Maple_Beech_Birch,214.89,0.04,0.9375
+South,Southern Coastal Plain,75,Maple_Beech_Birch,214.89,0.04,0.9375
+South,Southern Coastal Plain,75,Maple_Beech_Birch,214.89,0.04,0.9375
+South,Southern Coastal Plain,75,Maple_Beech_Birch,214.89,0.04,0.9375
+South,Southern Coastal Plain,75,Maple_Beech_Birch,214.89,0.04,0.9375
+South,Southern Coastal Plain,75,Maple_Beech_Birch,214.89,0.04,0.9375
+South,Boston Mountains,38,Maple_Beech_Birch,214.89,0.04,0.3125
+South,Boston Mountains,38,Maple_Beech_Birch,214.89,0.04,0.3125
+Northeast,Southeastern Plains,65,Oak_Gum_Cypress,264.26,0.03,36587.75
+Northeast,Southeastern Plains,65,Oak_Gum_Cypress,264.26,0.03,36587.75
+South,Southeastern Plains,65,Oak_Gum_Cypress,289.99,0.03,36587.75
+South,Southeastern Plains,65,Oak_Gum_Cypress,289.99,0.03,36587.75
+South,Southeastern Plains,65,Oak_Gum_Cypress,289.99,0.03,36587.75
+South,Southeastern Plains,65,Oak_Gum_Cypress,289.99,0.03,36587.75
+South,Southeastern Plains,65,Oak_Gum_Cypress,289.99,0.03,36587.75
+South,Southeastern Plains,65,Oak_Gum_Cypress,289.99,0.03,36587.75
+South,Southeastern Plains,65,Oak_Gum_Cypress,289.99,0.03,36587.75
+South,Southeastern Plains,65,Oak_Gum_Cypress,289.99,0.03,36587.75
+South,Southeastern Plains,65,Oak_Gum_Cypress,289.99,0.03,36587.75
+South,Southern Coastal Plain,75,Oak_Gum_Cypress,289.99,0.03,18874.5625
+South,Southern Coastal Plain,75,Oak_Gum_Cypress,289.99,0.03,18874.5625
+South,Southern Coastal Plain,75,Oak_Gum_Cypress,289.99,0.03,18874.5625
+South,Southern Coastal Plain,75,Oak_Gum_Cypress,289.99,0.03,18874.5625
+South,Southern Coastal Plain,75,Oak_Gum_Cypress,289.99,0.03,18874.5625
+South,Southern Coastal Plain,75,Oak_Gum_Cypress,289.99,0.03,18874.5625
+North_Central,Mississippi Alluvial Plain,73,Oak_Gum_Cypress,178.76,0.05,14078.0625
+North_Central,Mississippi Alluvial Plain,73,Oak_Gum_Cypress,178.76,0.05,14078.0625
+South,Mississippi Alluvial Plain,73,Oak_Gum_Cypress,289.99,0.03,14078.0625
+South,Mississippi Alluvial Plain,73,Oak_Gum_Cypress,289.99,0.03,14078.0625
+South,Mississippi Alluvial Plain,73,Oak_Gum_Cypress,289.99,0.03,14078.0625
+South,Mississippi Alluvial Plain,73,Oak_Gum_Cypress,289.99,0.03,14078.0625
+South,Mississippi Alluvial Plain,73,Oak_Gum_Cypress,289.99,0.03,14078.0625
+South,South Central Plains,35,Oak_Gum_Cypress,289.99,0.03,13964.375
+South,South Central Plains,35,Oak_Gum_Cypress,289.99,0.03,13964.375
+South,South Central Plains,35,Oak_Gum_Cypress,289.99,0.03,13964.375
+South,South Central Plains,35,Oak_Gum_Cypress,289.99,0.03,13964.375
+Northeast,Middle Atlantic Coastal Plain,63,Oak_Gum_Cypress,264.26,0.03,12513.375
+Northeast,Middle Atlantic Coastal Plain,63,Oak_Gum_Cypress,264.26,0.03,12513.375
+Northeast,Middle Atlantic Coastal Plain,63,Oak_Gum_Cypress,264.26,0.03,12513.375
+Northeast,Middle Atlantic Coastal Plain,63,Oak_Gum_Cypress,264.26,0.03,12513.375
+South,Middle Atlantic Coastal Plain,63,Oak_Gum_Cypress,289.99,0.03,12513.375
+South,Middle Atlantic Coastal Plain,63,Oak_Gum_Cypress,289.99,0.03,12513.375
+South,Middle Atlantic Coastal Plain,63,Oak_Gum_Cypress,289.99,0.03,12513.375
+South,Southern Florida Coastal Plain,76,Oak_Gum_Cypress,289.99,0.03,6529.6875
+North_Central,Mississippi Valley Loess Plains,74,Oak_Gum_Cypress,178.76,0.05,3306.25
+South,Mississippi Valley Loess Plains,74,Oak_Gum_Cypress,289.99,0.03,3306.25
+South,Mississippi Valley Loess Plains,74,Oak_Gum_Cypress,289.99,0.03,3306.25
+South,Mississippi Valley Loess Plains,74,Oak_Gum_Cypress,289.99,0.03,3306.25
+South,Mississippi Valley Loess Plains,74,Oak_Gum_Cypress,289.99,0.03,3306.25
+South,Mississippi Valley Loess Plains,74,Oak_Gum_Cypress,289.99,0.03,3306.25
+South,Edwards Plateau,30,Oak_Gum_Cypress,289.99,0.03,1417.75
+South,Piedmont,45,Oak_Gum_Cypress,289.99,0.03,1086.125
+South,Piedmont,45,Oak_Gum_Cypress,289.99,0.03,1086.125
+South,Piedmont,45,Oak_Gum_Cypress,289.99,0.03,1086.125
+South,Piedmont,45,Oak_Gum_Cypress,289.99,0.03,1086.125
+South,Piedmont,45,Oak_Gum_Cypress,289.99,0.03,1086.125
+South,East Central Texas Plains,33,Oak_Gum_Cypress,289.99,0.03,981.5625
+South,East Central Texas Plains,33,Oak_Gum_Cypress,289.99,0.03,981.5625
+South,Western Gulf Coastal Plain,34,Oak_Gum_Cypress,289.99,0.03,921.5625
+South,Western Gulf Coastal Plain,34,Oak_Gum_Cypress,289.99,0.03,921.5625
+North_Central,Cross Timbers,29,Oak_Gum_Cypress,178.76,0.05,817.75
+South,Cross Timbers,29,Oak_Gum_Cypress,289.99,0.03,817.75
+South,Cross Timbers,29,Oak_Gum_Cypress,289.99,0.03,817.75
+North_Central,Interior Plateau,71,Oak_Gum_Cypress,178.76,0.05,444.8125
+North_Central,Interior Plateau,71,Oak_Gum_Cypress,178.76,0.05,444.8125
+Northeast,Interior Plateau,71,Oak_Gum_Cypress,264.26,0.03,444.8125
+South,Interior Plateau,71,Oak_Gum_Cypress,289.99,0.03,444.8125
+South,Interior Plateau,71,Oak_Gum_Cypress,289.99,0.03,444.8125
+South,Interior Plateau,71,Oak_Gum_Cypress,289.99,0.03,444.8125
+South,Arkansas Valley,37,Oak_Gum_Cypress,289.99,0.03,441.625
+South,Arkansas Valley,37,Oak_Gum_Cypress,289.99,0.03,441.625
+North_Central,Interior River Valleys and Hills,72,Oak_Gum_Cypress,178.76,0.05,206.6875
+North_Central,Interior River Valleys and Hills,72,Oak_Gum_Cypress,178.76,0.05,206.6875
+North_Central,Interior River Valleys and Hills,72,Oak_Gum_Cypress,178.76,0.05,206.6875
+North_Central,Interior River Valleys and Hills,72,Oak_Gum_Cypress,178.76,0.05,206.6875
+South,Interior River Valleys and Hills,72,Oak_Gum_Cypress,289.99,0.03,206.6875
+Northeast,Ridge and Valley,67,Oak_Gum_Cypress,264.26,0.03,202.5625
+Northeast,Ridge and Valley,67,Oak_Gum_Cypress,264.26,0.03,202.5625
+Northeast,Ridge and Valley,67,Oak_Gum_Cypress,264.26,0.03,202.5625
+Northeast,Ridge and Valley,67,Oak_Gum_Cypress,264.26,0.03,202.5625
+South,Ridge and Valley,67,Oak_Gum_Cypress,289.99,0.03,202.5625
+South,Ridge and Valley,67,Oak_Gum_Cypress,289.99,0.03,202.5625
+South,Ridge and Valley,67,Oak_Gum_Cypress,289.99,0.03,202.5625
+South,Ridge and Valley,67,Oak_Gum_Cypress,289.99,0.03,202.5625
+South,Ridge and Valley,67,Oak_Gum_Cypress,289.99,0.03,202.5625
+North_Central,Central Great Plains,27,Oak_Gum_Cypress,178.76,0.05,177.8125
+North_Central,Central Great Plains,27,Oak_Gum_Cypress,178.76,0.05,177.8125
+South,Central Great Plains,27,Oak_Gum_Cypress,289.99,0.03,177.8125
+South,Central Great Plains,27,Oak_Gum_Cypress,289.99,0.03,177.8125
+South,Ouachita Mountains,36,Oak_Gum_Cypress,289.99,0.03,152.6875
+South,Ouachita Mountains,36,Oak_Gum_Cypress,289.99,0.03,152.6875
+Northeast,Atlantic Coastal Pine Barrens,84,Oak_Gum_Cypress,264.26,0.03,131.0625
+Northeast,Atlantic Coastal Pine Barrens,84,Oak_Gum_Cypress,264.26,0.03,131.0625
+Northeast,Atlantic Coastal Pine Barrens,84,Oak_Gum_Cypress,264.26,0.03,131.0625
+South,Southwestern Appalachians,68,Oak_Gum_Cypress,289.99,0.03,87
+South,Southwestern Appalachians,68,Oak_Gum_Cypress,289.99,0.03,87
+South,Southwestern Appalachians,68,Oak_Gum_Cypress,289.99,0.03,87
+South,Southwestern Appalachians,68,Oak_Gum_Cypress,289.99,0.03,87
+South,Texas Blackland Prairies,32,Oak_Gum_Cypress,289.99,0.03,50.0625
+South,Southern Texas Plains,31,Oak_Gum_Cypress,289.99,0.03,49.125
+North_Central,Ozark Highlands,39,Oak_Gum_Cypress,178.76,0.05,33.875
+North_Central,Ozark Highlands,39,Oak_Gum_Cypress,178.76,0.05,33.875
+South,Ozark Highlands,39,Oak_Gum_Cypress,289.99,0.03,33.875
+South,Ozark Highlands,39,Oak_Gum_Cypress,289.99,0.03,33.875
+Northeast,Northeastern Coastal Zone,59,Oak_Gum_Cypress,264.26,0.03,27.5
+Northeast,Northeastern Coastal Zone,59,Oak_Gum_Cypress,264.26,0.03,27.5
+Northeast,Northeastern Coastal Zone,59,Oak_Gum_Cypress,264.26,0.03,27.5
+Northeast,Northeastern Coastal Zone,59,Oak_Gum_Cypress,264.26,0.03,27.5
+Northeast,Northeastern Coastal Zone,59,Oak_Gum_Cypress,264.26,0.03,27.5
+Northeast,Northeastern Coastal Zone,59,Oak_Gum_Cypress,264.26,0.03,27.5
+Northeast,Northeastern Coastal Zone,59,Oak_Gum_Cypress,264.26,0.03,27.5
+North_Central,Central Irregular Plains,40,Oak_Gum_Cypress,178.76,0.05,13.25
+North_Central,Central Irregular Plains,40,Oak_Gum_Cypress,178.76,0.05,13.25
+North_Central,Central Irregular Plains,40,Oak_Gum_Cypress,178.76,0.05,13.25
+South,Central Irregular Plains,40,Oak_Gum_Cypress,289.99,0.03,13.25
+North_Central,Southwestern Tablelands,26,Oak_Gum_Cypress,178.76,0.05,2.3125
+South,Southwestern Tablelands,26,Oak_Gum_Cypress,289.99,0.03,2.3125
+South,Southwestern Tablelands,26,Oak_Gum_Cypress,289.99,0.03,2.3125
+Northeast,Northeastern Highlands,58,Oak_Gum_Cypress,264.26,0.03,2.0625
+Northeast,Northeastern Highlands,58,Oak_Gum_Cypress,264.26,0.03,2.0625
+Northeast,Northeastern Highlands,58,Oak_Gum_Cypress,264.26,0.03,2.0625
+Northeast,Northeastern Highlands,58,Oak_Gum_Cypress,264.26,0.03,2.0625
+Northeast,Northeastern Highlands,58,Oak_Gum_Cypress,264.26,0.03,2.0625
+Northeast,Northeastern Highlands,58,Oak_Gum_Cypress,264.26,0.03,2.0625
+Northeast,Northeastern Highlands,58,Oak_Gum_Cypress,264.26,0.03,2.0625
+Northeast,Northeastern Highlands,58,Oak_Gum_Cypress,264.26,0.03,2.0625
+North_Central,Central Corn Belt Plains,54,Oak_Gum_Cypress,178.76,0.05,2
+North_Central,Central Corn Belt Plains,54,Oak_Gum_Cypress,178.76,0.05,2
+North_Central,Central Corn Belt Plains,54,Oak_Gum_Cypress,178.76,0.05,2
+South,Boston Mountains,38,Oak_Gum_Cypress,289.99,0.03,0.875
+South,Boston Mountains,38,Oak_Gum_Cypress,289.99,0.03,0.875
+North_Central,Southeastern Wisconsin Till Plains,53,Oak_Gum_Cypress,178.76,0.05,0.5
+North_Central,Southeastern Wisconsin Till Plains,53,Oak_Gum_Cypress,178.76,0.05,0.5
+Northeast,Central Appalachians,69,Oak_Gum_Cypress,264.26,0.03,0.1875
+Northeast,Central Appalachians,69,Oak_Gum_Cypress,264.26,0.03,0.1875
+South,Central Appalachians,69,Oak_Gum_Cypress,289.99,0.03,0.1875
+South,Central Appalachians,69,Oak_Gum_Cypress,289.99,0.03,0.1875
+South,Central Appalachians,69,Oak_Gum_Cypress,289.99,0.03,0.1875
+South,Central Appalachians,69,Oak_Gum_Cypress,289.99,0.03,0.1875
+North_Central,Southern Michigan/Northern Indiana Drift Plains,56,Oak_Gum_Cypress,178.76,0.05,0.0625
+North_Central,Southern Michigan/Northern Indiana Drift Plains,56,Oak_Gum_Cypress,178.76,0.05,0.0625
+Northeast,Acadian Plains and Hills,82,Oak_Gum_Cypress,264.26,0.03,0.0625
+Northeast,Northern Piedmont,64,Oak_Gum_Cypress,264.26,0.03,0.0625
+Northeast,Northern Piedmont,64,Oak_Gum_Cypress,264.26,0.03,0.0625
+Northeast,Northern Piedmont,64,Oak_Gum_Cypress,264.26,0.03,0.0625
+Northeast,Northern Piedmont,64,Oak_Gum_Cypress,264.26,0.03,0.0625
+Northeast,Northern Piedmont,64,Oak_Gum_Cypress,264.26,0.03,0.0625
+South,Northern Piedmont,64,Oak_Gum_Cypress,289.99,0.03,0.0625
+South,Piedmont,45,Oak_Hickory,206.02,0.04,71656.625
+South,Piedmont,45,Oak_Hickory,206.02,0.04,71656.625
+South,Piedmont,45,Oak_Hickory,206.02,0.04,71656.625
+South,Piedmont,45,Oak_Hickory,206.02,0.04,71656.625
+South,Piedmont,45,Oak_Hickory,206.02,0.04,71656.625
+Northeast,Ridge and Valley,67,Oak_Hickory,207.74,0.04,57976.4375
+Northeast,Ridge and Valley,67,Oak_Hickory,207.74,0.04,57976.4375
+Northeast,Ridge and Valley,67,Oak_Hickory,207.74,0.04,57976.4375
+Northeast,Ridge and Valley,67,Oak_Hickory,207.74,0.04,57976.4375
+South,Ridge and Valley,67,Oak_Hickory,206.02,0.04,57976.4375
+South,Ridge and Valley,67,Oak_Hickory,206.02,0.04,57976.4375
+South,Ridge and Valley,67,Oak_Hickory,206.02,0.04,57976.4375
+South,Ridge and Valley,67,Oak_Hickory,206.02,0.04,57976.4375
+South,Ridge and Valley,67,Oak_Hickory,206.02,0.04,57976.4375
+North_Central,Ozark Highlands,39,Oak_Hickory,144.72,0.04,55988.3125
+North_Central,Ozark Highlands,39,Oak_Hickory,144.72,0.04,55988.3125
+South,Ozark Highlands,39,Oak_Hickory,206.02,0.04,55988.3125
+South,Ozark Highlands,39,Oak_Hickory,206.02,0.04,55988.3125
+Northeast,Southeastern Plains,65,Oak_Hickory,207.74,0.04,54906.0625
+Northeast,Southeastern Plains,65,Oak_Hickory,207.74,0.04,54906.0625
+South,Southeastern Plains,65,Oak_Hickory,206.02,0.04,54906.0625
+South,Southeastern Plains,65,Oak_Hickory,206.02,0.04,54906.0625
+South,Southeastern Plains,65,Oak_Hickory,206.02,0.04,54906.0625
+South,Southeastern Plains,65,Oak_Hickory,206.02,0.04,54906.0625
+South,Southeastern Plains,65,Oak_Hickory,206.02,0.04,54906.0625
+South,Southeastern Plains,65,Oak_Hickory,206.02,0.04,54906.0625
+South,Southeastern Plains,65,Oak_Hickory,206.02,0.04,54906.0625
+South,Southeastern Plains,65,Oak_Hickory,206.02,0.04,54906.0625
+South,Southeastern Plains,65,Oak_Hickory,206.02,0.04,54906.0625
+Northeast,Central Appalachians,69,Oak_Hickory,207.74,0.04,49337.9375
+Northeast,Central Appalachians,69,Oak_Hickory,207.74,0.04,49337.9375
+South,Central Appalachians,69,Oak_Hickory,206.02,0.04,49337.9375
+South,Central Appalachians,69,Oak_Hickory,206.02,0.04,49337.9375
+South,Central Appalachians,69,Oak_Hickory,206.02,0.04,49337.9375
+South,Central Appalachians,69,Oak_Hickory,206.02,0.04,49337.9375
+Northeast,Western Allegheny Plateau,70,Oak_Hickory,207.74,0.04,49093.4375
+Northeast,Western Allegheny Plateau,70,Oak_Hickory,207.74,0.04,49093.4375
+South,Western Allegheny Plateau,70,Oak_Hickory,206.02,0.04,49093.4375
+South,Western Allegheny Plateau,70,Oak_Hickory,206.02,0.04,49093.4375
+North_Central,Interior Plateau,71,Oak_Hickory,144.72,0.04,43691.8125
+North_Central,Interior Plateau,71,Oak_Hickory,144.72,0.04,43691.8125
+Northeast,Interior Plateau,71,Oak_Hickory,207.74,0.04,43691.8125
+South,Interior Plateau,71,Oak_Hickory,206.02,0.04,43691.8125
+South,Interior Plateau,71,Oak_Hickory,206.02,0.04,43691.8125
+South,Interior Plateau,71,Oak_Hickory,206.02,0.04,43691.8125
+Northeast,Blue Ridge,66,Oak_Hickory,207.74,0.04,38717.25
+Northeast,Blue Ridge,66,Oak_Hickory,207.74,0.04,38717.25
+South,Blue Ridge,66,Oak_Hickory,206.02,0.04,38717.25
+South,Blue Ridge,66,Oak_Hickory,206.02,0.04,38717.25
+South,Blue Ridge,66,Oak_Hickory,206.02,0.04,38717.25
+South,Blue Ridge,66,Oak_Hickory,206.02,0.04,38717.25
+South,Blue Ridge,66,Oak_Hickory,206.02,0.04,38717.25
+South,Blue Ridge,66,Oak_Hickory,206.02,0.04,38717.25
+North_Central,Cross Timbers,29,Oak_Hickory,144.72,0.04,33883.25
+South,Cross Timbers,29,Oak_Hickory,206.02,0.04,33883.25
+South,Cross Timbers,29,Oak_Hickory,206.02,0.04,33883.25
+South,Southwestern Appalachians,68,Oak_Hickory,206.02,0.04,24088.9375
+South,Southwestern Appalachians,68,Oak_Hickory,206.02,0.04,24088.9375
+South,Southwestern Appalachians,68,Oak_Hickory,206.02,0.04,24088.9375
+South,Southwestern Appalachians,68,Oak_Hickory,206.02,0.04,24088.9375
+North_Central,Interior River Valleys and Hills,72,Oak_Hickory,144.72,0.04,20892
+North_Central,Interior River Valleys and Hills,72,Oak_Hickory,144.72,0.04,20892
+North_Central,Interior River Valleys and Hills,72,Oak_Hickory,144.72,0.04,20892
+North_Central,Interior River Valleys and Hills,72,Oak_Hickory,144.72,0.04,20892
+South,Interior River Valleys and Hills,72,Oak_Hickory,206.02,0.04,20892
+North_Central,Central Irregular Plains,40,Oak_Hickory,144.72,0.04,15774.5
+North_Central,Central Irregular Plains,40,Oak_Hickory,144.72,0.04,15774.5
+North_Central,Central Irregular Plains,40,Oak_Hickory,144.72,0.04,15774.5
+South,Central Irregular Plains,40,Oak_Hickory,206.02,0.04,15774.5
+North_Central,Mississippi Valley Loess Plains,74,Oak_Hickory,144.72,0.04,13818.5625
+South,Mississippi Valley Loess Plains,74,Oak_Hickory,206.02,0.04,13818.5625
+South,Mississippi Valley Loess Plains,74,Oak_Hickory,206.02,0.04,13818.5625
+South,Mississippi Valley Loess Plains,74,Oak_Hickory,206.02,0.04,13818.5625
+South,Mississippi Valley Loess Plains,74,Oak_Hickory,206.02,0.04,13818.5625
+South,Mississippi Valley Loess Plains,74,Oak_Hickory,206.02,0.04,13818.5625
+Northeast,Northeastern Coastal Zone,59,Oak_Hickory,207.74,0.04,12477.375
+Northeast,Northeastern Coastal Zone,59,Oak_Hickory,207.74,0.04,12477.375
+Northeast,Northeastern Coastal Zone,59,Oak_Hickory,207.74,0.04,12477.375
+Northeast,Northeastern Coastal Zone,59,Oak_Hickory,207.74,0.04,12477.375
+Northeast,Northeastern Coastal Zone,59,Oak_Hickory,207.74,0.04,12477.375
+Northeast,Northeastern Coastal Zone,59,Oak_Hickory,207.74,0.04,12477.375
+Northeast,Northeastern Coastal Zone,59,Oak_Hickory,207.74,0.04,12477.375
+South,Boston Mountains,38,Oak_Hickory,206.02,0.04,11234.75
+South,Boston Mountains,38,Oak_Hickory,206.02,0.04,11234.75
+South,Arkansas Valley,37,Oak_Hickory,206.02,0.04,10734.0625
+South,Arkansas Valley,37,Oak_Hickory,206.02,0.04,10734.0625
+South,South Central Plains,35,Oak_Hickory,206.02,0.04,9030.4375
+South,South Central Plains,35,Oak_Hickory,206.02,0.04,9030.4375
+South,South Central Plains,35,Oak_Hickory,206.02,0.04,9030.4375
+South,South Central Plains,35,Oak_Hickory,206.02,0.04,9030.4375
+North_Central,Driftless Area,52,Oak_Hickory,144.72,0.04,8787.6875
+North_Central,Driftless Area,52,Oak_Hickory,144.72,0.04,8787.6875
+North_Central,Driftless Area,52,Oak_Hickory,144.72,0.04,8787.6875
+North_Central,Driftless Area,52,Oak_Hickory,144.72,0.04,8787.6875
+Northeast,North Central Appalachians,62,Oak_Hickory,207.74,0.04,7884.625
+Northeast,North Central Appalachians,62,Oak_Hickory,207.74,0.04,7884.625
+North_Central,Central Great Plains,27,Oak_Hickory,144.72,0.04,7540.25
+North_Central,Central Great Plains,27,Oak_Hickory,144.72,0.04,7540.25
+South,Central Great Plains,27,Oak_Hickory,206.02,0.04,7540.25
+South,Central Great Plains,27,Oak_Hickory,206.02,0.04,7540.25
+Northeast,Northern Piedmont,64,Oak_Hickory,207.74,0.04,7284.125
+Northeast,Northern Piedmont,64,Oak_Hickory,207.74,0.04,7284.125
+Northeast,Northern Piedmont,64,Oak_Hickory,207.74,0.04,7284.125
+Northeast,Northern Piedmont,64,Oak_Hickory,207.74,0.04,7284.125
+Northeast,Northern Piedmont,64,Oak_Hickory,207.74,0.04,7284.125
+South,Northern Piedmont,64,Oak_Hickory,206.02,0.04,7284.125
+South,East Central Texas Plains,33,Oak_Hickory,206.02,0.04,6516.5625
+South,East Central Texas Plains,33,Oak_Hickory,206.02,0.04,6516.5625
+South,Ouachita Mountains,36,Oak_Hickory,206.02,0.04,6251.5625
+South,Ouachita Mountains,36,Oak_Hickory,206.02,0.04,6251.5625
+Northeast,Northeastern Highlands,58,Oak_Hickory,207.74,0.04,5813.6875
+Northeast,Northeastern Highlands,58,Oak_Hickory,207.74,0.04,5813.6875
+Northeast,Northeastern Highlands,58,Oak_Hickory,207.74,0.04,5813.6875
+Northeast,Northeastern Highlands,58,Oak_Hickory,207.74,0.04,5813.6875
+Northeast,Northeastern Highlands,58,Oak_Hickory,207.74,0.04,5813.6875
+Northeast,Northeastern Highlands,58,Oak_Hickory,207.74,0.04,5813.6875
+Northeast,Northeastern Highlands,58,Oak_Hickory,207.74,0.04,5813.6875
+Northeast,Northeastern Highlands,58,Oak_Hickory,207.74,0.04,5813.6875
+Northeast,Middle Atlantic Coastal Plain,63,Oak_Hickory,207.74,0.04,4914.875
+Northeast,Middle Atlantic Coastal Plain,63,Oak_Hickory,207.74,0.04,4914.875
+Northeast,Middle Atlantic Coastal Plain,63,Oak_Hickory,207.74,0.04,4914.875
+Northeast,Middle Atlantic Coastal Plain,63,Oak_Hickory,207.74,0.04,4914.875
+South,Middle Atlantic Coastal Plain,63,Oak_Hickory,206.02,0.04,4914.875
+South,Middle Atlantic Coastal Plain,63,Oak_Hickory,206.02,0.04,4914.875
+South,Middle Atlantic Coastal Plain,63,Oak_Hickory,206.02,0.04,4914.875
+North_Central,North Central Hardwood Forests,51,Oak_Hickory,144.72,0.04,4810.625
+North_Central,North Central Hardwood Forests,51,Oak_Hickory,144.72,0.04,4810.625
+North_Central,North Central Hardwood Forests,51,Oak_Hickory,144.72,0.04,4810.625
+North_Central,Western Corn Belt Plains,47,Oak_Hickory,144.72,0.04,4245.0625
+North_Central,Western Corn Belt Plains,47,Oak_Hickory,144.72,0.04,4245.0625
+North_Central,Western Corn Belt Plains,47,Oak_Hickory,144.72,0.04,4245.0625
+North_Central,Western Corn Belt Plains,47,Oak_Hickory,144.72,0.04,4245.0625
+North_Central,Western Corn Belt Plains,47,Oak_Hickory,144.72,0.04,4245.0625
+North_Central,Western Corn Belt Plains,47,Oak_Hickory,144.72,0.04,4245.0625
+North_Central,Western Corn Belt Plains,47,Oak_Hickory,144.72,0.04,4245.0625
+South,Texas Blackland Prairies,32,Oak_Hickory,206.02,0.04,3935.3125
+South,Southern Coastal Plain,75,Oak_Hickory,206.02,0.04,3798.6875
+South,Southern Coastal Plain,75,Oak_Hickory,206.02,0.04,3798.6875
+South,Southern Coastal Plain,75,Oak_Hickory,206.02,0.04,3798.6875
+South,Southern Coastal Plain,75,Oak_Hickory,206.02,0.04,3798.6875
+South,Southern Coastal Plain,75,Oak_Hickory,206.02,0.04,3798.6875
+South,Southern Coastal Plain,75,Oak_Hickory,206.02,0.04,3798.6875
+North_Central,Eastern Corn Belt Plains,55,Oak_Hickory,144.72,0.04,3752.6875
+North_Central,Eastern Corn Belt Plains,55,Oak_Hickory,144.72,0.04,3752.6875
+Northeast,Eastern Corn Belt Plains,55,Oak_Hickory,207.74,0.04,3752.6875
+North_Central,Northern Lakes and Forests,50,Oak_Hickory,144.72,0.04,2925.3125
+North_Central,Northern Lakes and Forests,50,Oak_Hickory,144.72,0.04,2925.3125
+North_Central,Northern Lakes and Forests,50,Oak_Hickory,144.72,0.04,2925.3125
+Northeast,Erie Drift Plain,61,Oak_Hickory,207.74,0.04,2400.625
+Northeast,Erie Drift Plain,61,Oak_Hickory,207.74,0.04,2400.625
+Northeast,Erie Drift Plain,61,Oak_Hickory,207.74,0.04,2400.625
+North_Central,Central Corn Belt Plains,54,Oak_Hickory,144.72,0.04,2323.6875
+North_Central,Central Corn Belt Plains,54,Oak_Hickory,144.72,0.04,2323.6875
+North_Central,Central Corn Belt Plains,54,Oak_Hickory,144.72,0.04,2323.6875
+Northeast,Atlantic Coastal Pine Barrens,84,Oak_Hickory,207.74,0.04,2058.0625
+Northeast,Atlantic Coastal Pine Barrens,84,Oak_Hickory,207.74,0.04,2058.0625
+Northeast,Atlantic Coastal Pine Barrens,84,Oak_Hickory,207.74,0.04,2058.0625
+Northeast,Northern Allegheny Plateau,60,Oak_Hickory,207.74,0.04,1847.625
+Northeast,Northern Allegheny Plateau,60,Oak_Hickory,207.74,0.04,1847.625
+Northeast,Eastern Great Lakes Lowlands,83,Oak_Hickory,207.74,0.04,1296.6875
+Northeast,Eastern Great Lakes Lowlands,83,Oak_Hickory,207.74,0.04,1296.6875
+Northeast,Eastern Great Lakes Lowlands,83,Oak_Hickory,207.74,0.04,1296.6875
+Northeast,Eastern Great Lakes Lowlands,83,Oak_Hickory,207.74,0.04,1296.6875
+North_Central,Flint Hills,28,Oak_Hickory,144.72,0.04,1212.875
+South,Flint Hills,28,Oak_Hickory,206.02,0.04,1212.875
+North_Central,Southern Michigan/Northern Indiana Drift Plains,56,Oak_Hickory,144.72,0.04,893.3125
+North_Central,Southern Michigan/Northern Indiana Drift Plains,56,Oak_Hickory,144.72,0.04,893.3125
+North_Central,Mississippi Alluvial Plain,73,Oak_Hickory,144.72,0.04,835.6875
+North_Central,Mississippi Alluvial Plain,73,Oak_Hickory,144.72,0.04,835.6875
+South,Mississippi Alluvial Plain,73,Oak_Hickory,206.02,0.04,835.6875
+South,Mississippi Alluvial Plain,73,Oak_Hickory,206.02,0.04,835.6875
+South,Mississippi Alluvial Plain,73,Oak_Hickory,206.02,0.04,835.6875
+South,Mississippi Alluvial Plain,73,Oak_Hickory,206.02,0.04,835.6875
+South,Mississippi Alluvial Plain,73,Oak_Hickory,206.02,0.04,835.6875
+North_Central,Southeastern Wisconsin Till Plains,53,Oak_Hickory,144.72,0.04,691.625
+North_Central,Southeastern Wisconsin Till Plains,53,Oak_Hickory,144.72,0.04,691.625
+South,Edwards Plateau,30,Oak_Hickory,206.02,0.04,505.6875
+South,Western Gulf Coastal Plain,34,Oak_Hickory,206.02,0.04,220.375
+South,Western Gulf Coastal Plain,34,Oak_Hickory,206.02,0.04,220.375
+Northeast,Acadian Plains and Hills,82,Oak_Hickory,207.74,0.04,169.6875
+North_Central,Huron/Erie Lake Plains,57,Oak_Hickory,144.72,0.04,169.5625
+North_Central,Huron/Erie Lake Plains,57,Oak_Hickory,144.72,0.04,169.5625
+Northeast,Huron/Erie Lake Plains,57,Oak_Hickory,207.74,0.04,169.5625
+North_Central,Northern Glaciated Plains,46,Oak_Hickory,144.72,0.04,127.5625
+North_Central,Northern Glaciated Plains,46,Oak_Hickory,144.72,0.04,127.5625
+North_Central,Northern Glaciated Plains,46,Oak_Hickory,144.72,0.04,127.5625
+South,Southern Texas Plains,31,Oak_Hickory,206.02,0.04,83.25
+North_Central,Lake Agassiz Plain,48,Oak_Hickory,144.72,0.04,66.1875
+North_Central,Lake Agassiz Plain,48,Oak_Hickory,144.72,0.04,66.1875
+North_Central,Southwestern Tablelands,26,Oak_Hickory,144.72,0.04,37.625
+South,Southwestern Tablelands,26,Oak_Hickory,206.02,0.04,37.625
+South,Southwestern Tablelands,26,Oak_Hickory,206.02,0.04,37.625
+North_Central,Northwestern Great Plains,43,Oak_Hickory,144.72,0.04,36.625
+North_Central,Northwestern Great Plains,43,Oak_Hickory,144.72,0.04,36.625
+North_Central,Northwestern Great Plains,43,Oak_Hickory,144.72,0.04,36.625
+South,Southern Florida Coastal Plain,76,Oak_Hickory,206.02,0.04,36.1875
+North_Central,Northwestern Glaciated Plains,42,Oak_Hickory,144.72,0.04,22.8125
+North_Central,Northwestern Glaciated Plains,42,Oak_Hickory,144.72,0.04,22.8125
+North_Central,Northwestern Glaciated Plains,42,Oak_Hickory,144.72,0.04,22.8125
+North_Central,Northern Minnesota Wetlands,49,Oak_Hickory,144.72,0.04,14.625
+North_Central,Middle Rockies,17,Oak_Hickory,144.72,0.04,13.3125
+North_Central,Nebraska Sand Hills,44,Oak_Hickory,144.72,0.04,4.3125
+North_Central,Nebraska Sand Hills,44,Oak_Hickory,144.72,0.04,4.3125
+North_Central,High Plains,25,Oak_Hickory,144.72,0.04,2.75
+North_Central,High Plains,25,Oak_Hickory,144.72,0.04,2.75
+North_Central,High Plains,25,Oak_Hickory,144.72,0.04,2.75
+South,High Plains,25,Oak_Hickory,206.02,0.04,2.75
+South,High Plains,25,Oak_Hickory,206.02,0.04,2.75
+Northeast,Southeastern Plains,65,Oak_Pine,234.4,0.04,26181.5625
+Northeast,Southeastern Plains,65,Oak_Pine,234.4,0.04,26181.5625
+South,Southeastern Plains,65,Oak_Pine,191.02,0.05,26181.5625
+South,Southeastern Plains,65,Oak_Pine,191.02,0.05,26181.5625
+South,Southeastern Plains,65,Oak_Pine,191.02,0.05,26181.5625
+South,Southeastern Plains,65,Oak_Pine,191.02,0.05,26181.5625
+South,Southeastern Plains,65,Oak_Pine,191.02,0.05,26181.5625
+South,Southeastern Plains,65,Oak_Pine,191.02,0.05,26181.5625
+South,Southeastern Plains,65,Oak_Pine,191.02,0.05,26181.5625
+South,Southeastern Plains,65,Oak_Pine,191.02,0.05,26181.5625
+South,Southeastern Plains,65,Oak_Pine,191.02,0.05,26181.5625
+South,Piedmont,45,Oak_Pine,191.02,0.05,11504.25
+South,Piedmont,45,Oak_Pine,191.02,0.05,11504.25
+South,Piedmont,45,Oak_Pine,191.02,0.05,11504.25
+South,Piedmont,45,Oak_Pine,191.02,0.05,11504.25
+South,Piedmont,45,Oak_Pine,191.02,0.05,11504.25
+South,South Central Plains,35,Oak_Pine,191.02,0.05,11331.5
+South,South Central Plains,35,Oak_Pine,191.02,0.05,11331.5
+South,South Central Plains,35,Oak_Pine,191.02,0.05,11331.5
+South,South Central Plains,35,Oak_Pine,191.02,0.05,11331.5
+South,Edwards Plateau,30,Oak_Pine,191.02,0.05,7314.1875
+South,Southern Coastal Plain,75,Oak_Pine,191.02,0.05,4051.4375
+South,Southern Coastal Plain,75,Oak_Pine,191.02,0.05,4051.4375
+South,Southern Coastal Plain,75,Oak_Pine,191.02,0.05,4051.4375
+South,Southern Coastal Plain,75,Oak_Pine,191.02,0.05,4051.4375
+South,Southern Coastal Plain,75,Oak_Pine,191.02,0.05,4051.4375
+South,Southern Coastal Plain,75,Oak_Pine,191.02,0.05,4051.4375
+North_Central,Interior Plateau,71,Oak_Pine,163.42,0.04,3280.625
+North_Central,Interior Plateau,71,Oak_Pine,163.42,0.04,3280.625
+Northeast,Interior Plateau,71,Oak_Pine,234.4,0.04,3280.625
+South,Interior Plateau,71,Oak_Pine,191.02,0.05,3280.625
+South,Interior Plateau,71,Oak_Pine,191.02,0.05,3280.625
+South,Interior Plateau,71,Oak_Pine,191.02,0.05,3280.625
+South,Ouachita Mountains,36,Oak_Pine,191.02,0.05,2533.625
+South,Ouachita Mountains,36,Oak_Pine,191.02,0.05,2533.625
+Northeast,Middle Atlantic Coastal Plain,63,Oak_Pine,234.4,0.04,2275.4375
+Northeast,Middle Atlantic Coastal Plain,63,Oak_Pine,234.4,0.04,2275.4375
+Northeast,Middle Atlantic Coastal Plain,63,Oak_Pine,234.4,0.04,2275.4375
+Northeast,Middle Atlantic Coastal Plain,63,Oak_Pine,234.4,0.04,2275.4375
+South,Middle Atlantic Coastal Plain,63,Oak_Pine,191.02,0.05,2275.4375
+South,Middle Atlantic Coastal Plain,63,Oak_Pine,191.02,0.05,2275.4375
+South,Middle Atlantic Coastal Plain,63,Oak_Pine,191.02,0.05,2275.4375
+Northeast,Blue Ridge,66,Oak_Pine,234.4,0.04,2248.8125
+Northeast,Blue Ridge,66,Oak_Pine,234.4,0.04,2248.8125
+South,Blue Ridge,66,Oak_Pine,191.02,0.05,2248.8125
+South,Blue Ridge,66,Oak_Pine,191.02,0.05,2248.8125
+South,Blue Ridge,66,Oak_Pine,191.02,0.05,2248.8125
+South,Blue Ridge,66,Oak_Pine,191.02,0.05,2248.8125
+South,Blue Ridge,66,Oak_Pine,191.02,0.05,2248.8125
+South,Blue Ridge,66,Oak_Pine,191.02,0.05,2248.8125
+Northeast,Ridge and Valley,67,Oak_Pine,234.4,0.04,1393
+Northeast,Ridge and Valley,67,Oak_Pine,234.4,0.04,1393
+Northeast,Ridge and Valley,67,Oak_Pine,234.4,0.04,1393
+Northeast,Ridge and Valley,67,Oak_Pine,234.4,0.04,1393
+South,Ridge and Valley,67,Oak_Pine,191.02,0.05,1393
+South,Ridge and Valley,67,Oak_Pine,191.02,0.05,1393
+South,Ridge and Valley,67,Oak_Pine,191.02,0.05,1393
+South,Ridge and Valley,67,Oak_Pine,191.02,0.05,1393
+South,Ridge and Valley,67,Oak_Pine,191.02,0.05,1393
+North_Central,Mississippi Valley Loess Plains,74,Oak_Pine,163.42,0.04,1375.5
+South,Mississippi Valley Loess Plains,74,Oak_Pine,191.02,0.05,1375.5
+South,Mississippi Valley Loess Plains,74,Oak_Pine,191.02,0.05,1375.5
+South,Mississippi Valley Loess Plains,74,Oak_Pine,191.02,0.05,1375.5
+South,Mississippi Valley Loess Plains,74,Oak_Pine,191.02,0.05,1375.5
+South,Mississippi Valley Loess Plains,74,Oak_Pine,191.02,0.05,1375.5
+North_Central,Ozark Highlands,39,Oak_Pine,163.42,0.04,1010.0625
+North_Central,Ozark Highlands,39,Oak_Pine,163.42,0.04,1010.0625
+South,Ozark Highlands,39,Oak_Pine,191.02,0.05,1010.0625
+South,Ozark Highlands,39,Oak_Pine,191.02,0.05,1010.0625
+South,Arkansas Valley,37,Oak_Pine,191.02,0.05,1006.375
+South,Arkansas Valley,37,Oak_Pine,191.02,0.05,1006.375
+South,Southwestern Appalachians,68,Oak_Pine,191.02,0.05,922.4375
+South,Southwestern Appalachians,68,Oak_Pine,191.02,0.05,922.4375
+South,Southwestern Appalachians,68,Oak_Pine,191.02,0.05,922.4375
+South,Southwestern Appalachians,68,Oak_Pine,191.02,0.05,922.4375
+Northeast,Northeastern Coastal Zone,59,Oak_Pine,234.4,0.04,679.125
+Northeast,Northeastern Coastal Zone,59,Oak_Pine,234.4,0.04,679.125
+Northeast,Northeastern Coastal Zone,59,Oak_Pine,234.4,0.04,679.125
+Northeast,Northeastern Coastal Zone,59,Oak_Pine,234.4,0.04,679.125
+Northeast,Northeastern Coastal Zone,59,Oak_Pine,234.4,0.04,679.125
+Northeast,Northeastern Coastal Zone,59,Oak_Pine,234.4,0.04,679.125
+Northeast,Northeastern Coastal Zone,59,Oak_Pine,234.4,0.04,679.125
+South,East Central Texas Plains,33,Oak_Pine,191.02,0.05,588.375
+South,East Central Texas Plains,33,Oak_Pine,191.02,0.05,588.375
+Northeast,Atlantic Coastal Pine Barrens,84,Oak_Pine,234.4,0.04,537.75
+Northeast,Atlantic Coastal Pine Barrens,84,Oak_Pine,234.4,0.04,537.75
+Northeast,Atlantic Coastal Pine Barrens,84,Oak_Pine,234.4,0.04,537.75
+South,Western Gulf Coastal Plain,34,Oak_Pine,191.02,0.05,445.9375
+South,Western Gulf Coastal Plain,34,Oak_Pine,191.02,0.05,445.9375
+North_Central,Interior River Valleys and Hills,72,Oak_Pine,163.42,0.04,401.375
+North_Central,Interior River Valleys and Hills,72,Oak_Pine,163.42,0.04,401.375
+North_Central,Interior River Valleys and Hills,72,Oak_Pine,163.42,0.04,401.375
+North_Central,Interior River Valleys and Hills,72,Oak_Pine,163.42,0.04,401.375
+South,Interior River Valleys and Hills,72,Oak_Pine,191.02,0.05,401.375
+Northeast,Northeastern Highlands,58,Oak_Pine,234.4,0.04,378.5
+Northeast,Northeastern Highlands,58,Oak_Pine,234.4,0.04,378.5
+Northeast,Northeastern Highlands,58,Oak_Pine,234.4,0.04,378.5
+Northeast,Northeastern Highlands,58,Oak_Pine,234.4,0.04,378.5
+Northeast,Northeastern Highlands,58,Oak_Pine,234.4,0.04,378.5
+Northeast,Northeastern Highlands,58,Oak_Pine,234.4,0.04,378.5
+Northeast,Northeastern Highlands,58,Oak_Pine,234.4,0.04,378.5
+Northeast,Northeastern Highlands,58,Oak_Pine,234.4,0.04,378.5
+North_Central,Cross Timbers,29,Oak_Pine,163.42,0.04,193.8125
+South,Cross Timbers,29,Oak_Pine,191.02,0.05,193.8125
+South,Cross Timbers,29,Oak_Pine,191.02,0.05,193.8125
+Northeast,Western Allegheny Plateau,70,Oak_Pine,234.4,0.04,183.4375
+Northeast,Western Allegheny Plateau,70,Oak_Pine,234.4,0.04,183.4375
+South,Western Allegheny Plateau,70,Oak_Pine,191.02,0.05,183.4375
+South,Western Allegheny Plateau,70,Oak_Pine,191.02,0.05,183.4375
+North_Central,Central Irregular Plains,40,Oak_Pine,163.42,0.04,171.1875
+North_Central,Central Irregular Plains,40,Oak_Pine,163.42,0.04,171.1875
+North_Central,Central Irregular Plains,40,Oak_Pine,163.42,0.04,171.1875
+South,Central Irregular Plains,40,Oak_Pine,191.02,0.05,171.1875
+South,Boston Mountains,38,Oak_Pine,191.02,0.05,167.75
+South,Boston Mountains,38,Oak_Pine,191.02,0.05,167.75
+Northeast,Eastern Great Lakes Lowlands,83,Oak_Pine,234.4,0.04,164.3125
+Northeast,Eastern Great Lakes Lowlands,83,Oak_Pine,234.4,0.04,164.3125
+Northeast,Eastern Great Lakes Lowlands,83,Oak_Pine,234.4,0.04,164.3125
+Northeast,Eastern Great Lakes Lowlands,83,Oak_Pine,234.4,0.04,164.3125
+South,Texas Blackland Prairies,32,Oak_Pine,191.02,0.05,151.9375
+North_Central,Central Great Plains,27,Oak_Pine,163.42,0.04,134.4375
+North_Central,Central Great Plains,27,Oak_Pine,163.42,0.04,134.4375
+South,Central Great Plains,27,Oak_Pine,191.02,0.05,134.4375
+South,Central Great Plains,27,Oak_Pine,191.02,0.05,134.4375
+Northeast,Acadian Plains and Hills,82,Oak_Pine,234.4,0.04,133.125
+Northeast,Northern Allegheny Plateau,60,Oak_Pine,234.4,0.04,96.0625
+Northeast,Northern Allegheny Plateau,60,Oak_Pine,234.4,0.04,96.0625
+North_Central,Eastern Corn Belt Plains,55,Oak_Pine,163.42,0.04,95.0625
+North_Central,Eastern Corn Belt Plains,55,Oak_Pine,163.42,0.04,95.0625
+Northeast,Eastern Corn Belt Plains,55,Oak_Pine,234.4,0.04,95.0625
+North_Central,Mississippi Alluvial Plain,73,Oak_Pine,163.42,0.04,88.5625
+North_Central,Mississippi Alluvial Plain,73,Oak_Pine,163.42,0.04,88.5625
+South,Mississippi Alluvial Plain,73,Oak_Pine,191.02,0.05,88.5625
+South,Mississippi Alluvial Plain,73,Oak_Pine,191.02,0.05,88.5625
+South,Mississippi Alluvial Plain,73,Oak_Pine,191.02,0.05,88.5625
+South,Mississippi Alluvial Plain,73,Oak_Pine,191.02,0.05,88.5625
+South,Mississippi Alluvial Plain,73,Oak_Pine,191.02,0.05,88.5625
+Northeast,Northern Piedmont,64,Oak_Pine,234.4,0.04,88.375
+Northeast,Northern Piedmont,64,Oak_Pine,234.4,0.04,88.375
+Northeast,Northern Piedmont,64,Oak_Pine,234.4,0.04,88.375
+Northeast,Northern Piedmont,64,Oak_Pine,234.4,0.04,88.375
+Northeast,Northern Piedmont,64,Oak_Pine,234.4,0.04,88.375
+South,Northern Piedmont,64,Oak_Pine,191.02,0.05,88.375
+South,Southern Texas Plains,31,Oak_Pine,191.02,0.05,77.5625
+North_Central,Western Corn Belt Plains,47,Oak_Pine,163.42,0.04,70.875
+North_Central,Western Corn Belt Plains,47,Oak_Pine,163.42,0.04,70.875
+North_Central,Western Corn Belt Plains,47,Oak_Pine,163.42,0.04,70.875
+North_Central,Western Corn Belt Plains,47,Oak_Pine,163.42,0.04,70.875
+North_Central,Western Corn Belt Plains,47,Oak_Pine,163.42,0.04,70.875
+North_Central,Western Corn Belt Plains,47,Oak_Pine,163.42,0.04,70.875
+North_Central,Western Corn Belt Plains,47,Oak_Pine,163.42,0.04,70.875
+North_Central,Central Corn Belt Plains,54,Oak_Pine,163.42,0.04,56.5
+North_Central,Central Corn Belt Plains,54,Oak_Pine,163.42,0.04,56.5
+North_Central,Central Corn Belt Plains,54,Oak_Pine,163.42,0.04,56.5
+North_Central,North Central Hardwood Forests,51,Oak_Pine,163.42,0.04,39.0625
+North_Central,North Central Hardwood Forests,51,Oak_Pine,163.42,0.04,39.0625
+North_Central,North Central Hardwood Forests,51,Oak_Pine,163.42,0.04,39.0625
+Northeast,North Central Appalachians,62,Oak_Pine,234.4,0.04,37.3125
+Northeast,North Central Appalachians,62,Oak_Pine,234.4,0.04,37.3125
+Northeast,Central Appalachians,69,Oak_Pine,234.4,0.04,32.1875
+Northeast,Central Appalachians,69,Oak_Pine,234.4,0.04,32.1875
+South,Central Appalachians,69,Oak_Pine,191.02,0.05,32.1875
+South,Central Appalachians,69,Oak_Pine,191.02,0.05,32.1875
+South,Central Appalachians,69,Oak_Pine,191.02,0.05,32.1875
+South,Central Appalachians,69,Oak_Pine,191.02,0.05,32.1875
+North_Central,Driftless Area,52,Oak_Pine,163.42,0.04,29.875
+North_Central,Driftless Area,52,Oak_Pine,163.42,0.04,29.875
+North_Central,Driftless Area,52,Oak_Pine,163.42,0.04,29.875
+North_Central,Driftless Area,52,Oak_Pine,163.42,0.04,29.875
+North_Central,Northwestern Glaciated Plains,42,Oak_Pine,163.42,0.04,22.875
+North_Central,Northwestern Glaciated Plains,42,Oak_Pine,163.42,0.04,22.875
+North_Central,Northwestern Glaciated Plains,42,Oak_Pine,163.42,0.04,22.875
+North_Central,Northern Lakes and Forests,50,Oak_Pine,163.42,0.04,20.6875
+North_Central,Northern Lakes and Forests,50,Oak_Pine,163.42,0.04,20.6875
+North_Central,Northern Lakes and Forests,50,Oak_Pine,163.42,0.04,20.6875
+South,Southern Florida Coastal Plain,76,Oak_Pine,191.02,0.05,15.0625
+North_Central,Flint Hills,28,Oak_Pine,163.42,0.04,13.4375
+South,Flint Hills,28,Oak_Pine,191.02,0.05,13.4375
+North_Central,High Plains,25,Oak_Pine,163.42,0.04,6.375
+North_Central,High Plains,25,Oak_Pine,163.42,0.04,6.375
+North_Central,High Plains,25,Oak_Pine,163.42,0.04,6.375
+South,High Plains,25,Oak_Pine,191.02,0.05,6.375
+South,High Plains,25,Oak_Pine,191.02,0.05,6.375
+North_Central,Southern Michigan/Northern Indiana Drift Plains,56,Oak_Pine,163.42,0.04,6.25
+North_Central,Southern Michigan/Northern Indiana Drift Plains,56,Oak_Pine,163.42,0.04,6.25
+North_Central,Nebraska Sand Hills,44,Oak_Pine,163.42,0.04,4.4375
+North_Central,Nebraska Sand Hills,44,Oak_Pine,163.42,0.04,4.4375
+North_Central,Northwestern Great Plains,43,Oak_Pine,163.42,0.04,2
+North_Central,Northwestern Great Plains,43,Oak_Pine,163.42,0.04,2
+North_Central,Northwestern Great Plains,43,Oak_Pine,163.42,0.04,2
+North_Central,Northern Glaciated Plains,46,Oak_Pine,163.42,0.04,1
+North_Central,Northern Glaciated Plains,46,Oak_Pine,163.42,0.04,1
+North_Central,Northern Glaciated Plains,46,Oak_Pine,163.42,0.04,1
+North_Central,Southeastern Wisconsin Till Plains,53,Oak_Pine,163.42,0.04,0.875
+North_Central,Southeastern Wisconsin Till Plains,53,Oak_Pine,163.42,0.04,0.875
+Northeast,Erie Drift Plain,61,Oak_Pine,234.4,0.04,0.75
+Northeast,Erie Drift Plain,61,Oak_Pine,234.4,0.04,0.75
+Northeast,Erie Drift Plain,61,Oak_Pine,234.4,0.04,0.75
+North_Central,Middle Rockies,17,Oak_Pine,163.42,0.04,0.6875
+North_Central,Southwestern Tablelands,26,Oak_Pine,163.42,0.04,0.6875
+South,Southwestern Tablelands,26,Oak_Pine,191.02,0.05,0.6875
+South,Southwestern Tablelands,26,Oak_Pine,191.02,0.05,0.6875
+North_Central,Northern Minnesota Wetlands,49,Oak_Pine,163.42,0.04,0.4375
+Interior_West,Middle Rockies,17,Other_Western_Softwoods,138.36,0.01,5937.9375
+Interior_West,Middle Rockies,17,Other_Western_Softwoods,138.36,0.01,5937.9375
+Interior_West,Middle Rockies,17,Other_Western_Softwoods,138.36,0.01,5937.9375
+Interior_West,Idaho Batholith,16,Other_Western_Softwoods,138.36,0.01,1035.6875
+Interior_West,Idaho Batholith,16,Other_Western_Softwoods,138.36,0.01,1035.6875
+Interior_West,Sierra Nevada,5,Other_Western_Softwoods,138.36,0.01,712.25
+Pacific_Northwest,Sierra Nevada,5,Other_Western_Softwoods,74.38,0.02,712.25
+Pacific_Northwest,North Cascades,77,Other_Western_Softwoods,74.38,0.02,700.3125
+Interior_West,Southern Rockies,21,Other_Western_Softwoods,138.36,0.01,539.5
+Interior_West,Southern Rockies,21,Other_Western_Softwoods,138.36,0.01,539.5
+Interior_West,Southern Rockies,21,Other_Western_Softwoods,138.36,0.01,539.5
+Interior_West,Southern Rockies,21,Other_Western_Softwoods,138.36,0.01,539.5
+Interior_West,Central Basin and Range,13,Other_Western_Softwoods,138.36,0.01,523.75
+Interior_West,Central Basin and Range,13,Other_Western_Softwoods,138.36,0.01,523.75
+Interior_West,Central Basin and Range,13,Other_Western_Softwoods,138.36,0.01,523.75
+Pacific_Northwest,Central Basin and Range,13,Other_Western_Softwoods,74.38,0.02,523.75
+Interior_West,Wyoming Basin,18,Other_Western_Softwoods,138.36,0.01,389.4375
+Interior_West,Wyoming Basin,18,Other_Western_Softwoods,138.36,0.01,389.4375
+Interior_West,Wyoming Basin,18,Other_Western_Softwoods,138.36,0.01,389.4375
+Interior_West,Wyoming Basin,18,Other_Western_Softwoods,138.36,0.01,389.4375
+Interior_West,Wyoming Basin,18,Other_Western_Softwoods,138.36,0.01,389.4375
+Interior_West,Canadian Rockies,41,Other_Western_Softwoods,138.36,0.01,350.5625
+Interior_West,Arizona/New Mexico Mountains,23,Other_Western_Softwoods,138.36,0.01,100.6875
+Interior_West,Arizona/New Mexico Mountains,23,Other_Western_Softwoods,138.36,0.01,100.6875
+Pacific_Northwest,Klamath Mountains/California High North Coast Range,78,Other_Western_Softwoods,74.38,0.02,61.5
+Pacific_Northwest,Klamath Mountains/California High North Coast Range,78,Other_Western_Softwoods,74.38,0.02,61.5
+Pacific_Northwest,Coast Range,1,Other_Western_Softwoods,74.38,0.02,59.125
+Pacific_Northwest,Coast Range,1,Other_Western_Softwoods,74.38,0.02,59.125
+Pacific_Northwest,Coast Range,1,Other_Western_Softwoods,74.38,0.02,59.125
+Pacific_Northwest,Central California Foothills and Coastal Mountains,6,Other_Western_Softwoods,74.38,0.02,55.6875
+Pacific_Northwest,Eastern Cascades Slopes and Foothills,9,Other_Western_Softwoods,74.38,0.02,31.25
+Pacific_Northwest,Eastern Cascades Slopes and Foothills,9,Other_Western_Softwoods,74.38,0.02,31.25
+Pacific_Northwest,Eastern Cascades Slopes and Foothills,9,Other_Western_Softwoods,74.38,0.02,31.25
+Interior_West,Northern Basin and Range,80,Other_Western_Softwoods,138.36,0.01,30.3125
+Interior_West,Northern Basin and Range,80,Other_Western_Softwoods,138.36,0.01,30.3125
+Interior_West,Northern Basin and Range,80,Other_Western_Softwoods,138.36,0.01,30.3125
+Pacific_Northwest,Northern Basin and Range,80,Other_Western_Softwoods,74.38,0.02,30.3125
+Pacific_Northwest,Northern Basin and Range,80,Other_Western_Softwoods,74.38,0.02,30.3125
+Interior_West,Blue Mountains,11,Other_Western_Softwoods,138.36,0.01,29.4375
+Pacific_Northwest,Blue Mountains,11,Other_Western_Softwoods,74.38,0.02,29.4375
+Pacific_Northwest,Blue Mountains,11,Other_Western_Softwoods,74.38,0.02,29.4375
+Interior_West,Wasatch and Uinta Mountains,19,Other_Western_Softwoods,138.36,0.01,24.0625
+Interior_West,Wasatch and Uinta Mountains,19,Other_Western_Softwoods,138.36,0.01,24.0625
+Interior_West,Wasatch and Uinta Mountains,19,Other_Western_Softwoods,138.36,0.01,24.0625
+Interior_West,Madrean Archipelago,79,Other_Western_Softwoods,138.36,0.01,21.125
+Interior_West,Madrean Archipelago,79,Other_Western_Softwoods,138.36,0.01,21.125
+Interior_West,Colorado Plateaus,20,Other_Western_Softwoods,138.36,0.01,14.625
+Interior_West,Colorado Plateaus,20,Other_Western_Softwoods,138.36,0.01,14.625
+Interior_West,Colorado Plateaus,20,Other_Western_Softwoods,138.36,0.01,14.625
+Interior_West,Colorado Plateaus,20,Other_Western_Softwoods,138.36,0.01,14.625
+Pacific_Northwest,Cascades,4,Other_Western_Softwoods,74.38,0.02,14.625
+Pacific_Northwest,Cascades,4,Other_Western_Softwoods,74.38,0.02,14.625
+Pacific_Northwest,Cascades,4,Other_Western_Softwoods,74.38,0.02,14.625
+Interior_West,Northwestern Great Plains,43,Other_Western_Softwoods,138.36,0.01,10.8125
+Interior_West,Northwestern Great Plains,43,Other_Western_Softwoods,138.36,0.01,10.8125
+Interior_West,Northern Rockies,15,Other_Western_Softwoods,138.36,0.01,8.1875
+Interior_West,Northern Rockies,15,Other_Western_Softwoods,138.36,0.01,8.1875
+Pacific_Northwest,Northern Rockies,15,Other_Western_Softwoods,74.38,0.02,8.1875
+Interior_West,Mojave Basin and Range,14,Other_Western_Softwoods,138.36,0.01,0.25
+Interior_West,Mojave Basin and Range,14,Other_Western_Softwoods,138.36,0.01,0.25
+Interior_West,Mojave Basin and Range,14,Other_Western_Softwoods,138.36,0.01,0.25
+Interior_West,Northwestern Glaciated Plains,42,Other_Western_Softwoods,138.36,0.01,0.25
+Interior_West,Snake River Plain,12,Other_Western_Softwoods,138.36,0.01,0.25
+Interior_West,Snake River Plain,12,Other_Western_Softwoods,138.36,0.01,0.25
+Pacific_Northwest,Mojave Basin and Range,14,Other_Western_Softwoods,74.38,0.02,0.25
+Pacific_Northwest,Snake River Plain,12,Other_Western_Softwoods,74.38,0.02,0.25
+Interior_West,Arizona/New Mexico Mountains,23,Pinyon_Juniper,56.62,0.02,53683.5625
+Interior_West,Arizona/New Mexico Mountains,23,Pinyon_Juniper,56.62,0.02,53683.5625
+South,Arizona/New Mexico Mountains,23,Pinyon_Juniper,437.56,0.01,53683.5625
+Interior_West,Central Basin and Range,13,Pinyon_Juniper,56.62,0.02,42878.4375
+Interior_West,Central Basin and Range,13,Pinyon_Juniper,56.62,0.02,42878.4375
+Interior_West,Central Basin and Range,13,Pinyon_Juniper,56.62,0.02,42878.4375
+Interior_West,Colorado Plateaus,20,Pinyon_Juniper,56.62,0.02,39286.3125
+Interior_West,Colorado Plateaus,20,Pinyon_Juniper,56.62,0.02,39286.3125
+Interior_West,Colorado Plateaus,20,Pinyon_Juniper,56.62,0.02,39286.3125
+Interior_West,Colorado Plateaus,20,Pinyon_Juniper,56.62,0.02,39286.3125
+Interior_West,Arizona/New Mexico Plateau,22,Pinyon_Juniper,56.62,0.02,24662.75
+Interior_West,Arizona/New Mexico Plateau,22,Pinyon_Juniper,56.62,0.02,24662.75
+Interior_West,Arizona/New Mexico Plateau,22,Pinyon_Juniper,56.62,0.02,24662.75
+Interior_West,Arizona/New Mexico Plateau,22,Pinyon_Juniper,56.62,0.02,24662.75
+Interior_West,Southern Rockies,21,Pinyon_Juniper,56.62,0.02,14750.6875
+Interior_West,Southern Rockies,21,Pinyon_Juniper,56.62,0.02,14750.6875
+Interior_West,Southern Rockies,21,Pinyon_Juniper,56.62,0.02,14750.6875
+Interior_West,Southern Rockies,21,Pinyon_Juniper,56.62,0.02,14750.6875
+Interior_West,Wasatch and Uinta Mountains,19,Pinyon_Juniper,56.62,0.02,6862.5625
+Interior_West,Wasatch and Uinta Mountains,19,Pinyon_Juniper,56.62,0.02,6862.5625
+Interior_West,Wasatch and Uinta Mountains,19,Pinyon_Juniper,56.62,0.02,6862.5625
+Interior_West,Southwestern Tablelands,26,Pinyon_Juniper,56.62,0.02,6188.75
+Interior_West,Southwestern Tablelands,26,Pinyon_Juniper,56.62,0.02,6188.75
+North_Central,Southwestern Tablelands,26,Pinyon_Juniper,43.16,0.05,6188.75
+South,Southwestern Tablelands,26,Pinyon_Juniper,437.56,0.01,6188.75
+South,Southwestern Tablelands,26,Pinyon_Juniper,437.56,0.01,6188.75
+Interior_West,Blue Mountains,11,Pinyon_Juniper,56.62,0.02,5168.125
+Interior_West,Northern Basin and Range,80,Pinyon_Juniper,56.62,0.02,3673.0625
+Interior_West,Northern Basin and Range,80,Pinyon_Juniper,56.62,0.02,3673.0625
+Interior_West,Northern Basin and Range,80,Pinyon_Juniper,56.62,0.02,3673.0625
+Interior_West,Madrean Archipelago,79,Pinyon_Juniper,56.62,0.02,2937.625
+Interior_West,Madrean Archipelago,79,Pinyon_Juniper,56.62,0.02,2937.625
+Interior_West,Mojave Basin and Range,14,Pinyon_Juniper,56.62,0.02,2689.9375
+Interior_West,Mojave Basin and Range,14,Pinyon_Juniper,56.62,0.02,2689.9375
+Interior_West,Mojave Basin and Range,14,Pinyon_Juniper,56.62,0.02,2689.9375
+Interior_West,Wyoming Basin,18,Pinyon_Juniper,56.62,0.02,1769.25
+Interior_West,Wyoming Basin,18,Pinyon_Juniper,56.62,0.02,1769.25
+Interior_West,Wyoming Basin,18,Pinyon_Juniper,56.62,0.02,1769.25
+Interior_West,Wyoming Basin,18,Pinyon_Juniper,56.62,0.02,1769.25
+Interior_West,Wyoming Basin,18,Pinyon_Juniper,56.62,0.02,1769.25
+Interior_West,Sierra Nevada,5,Pinyon_Juniper,56.62,0.02,1692.125
+Interior_West,Chihuahuan Deserts,24,Pinyon_Juniper,56.62,0.02,1322.5625
+Interior_West,Chihuahuan Deserts,24,Pinyon_Juniper,56.62,0.02,1322.5625
+South,Chihuahuan Deserts,24,Pinyon_Juniper,437.56,0.01,1322.5625
+North_Central,Central Great Plains,27,Pinyon_Juniper,43.16,0.05,852.5
+North_Central,Central Great Plains,27,Pinyon_Juniper,43.16,0.05,852.5
+South,Central Great Plains,27,Pinyon_Juniper,437.56,0.01,852.5
+South,Central Great Plains,27,Pinyon_Juniper,437.56,0.01,852.5
+Interior_West,Sonoran Basin and Range,81,Pinyon_Juniper,56.62,0.02,673.375
+North_Central,Interior Plateau,71,Pinyon_Juniper,43.16,0.05,443.375
+North_Central,Interior Plateau,71,Pinyon_Juniper,43.16,0.05,443.375
+South,Interior Plateau,71,Pinyon_Juniper,437.56,0.01,443.375
+South,Interior Plateau,71,Pinyon_Juniper,437.56,0.01,443.375
+South,Interior Plateau,71,Pinyon_Juniper,437.56,0.01,443.375
+Interior_West,High Plains,25,Pinyon_Juniper,56.62,0.02,360
+Interior_West,High Plains,25,Pinyon_Juniper,56.62,0.02,360
+Interior_West,High Plains,25,Pinyon_Juniper,56.62,0.02,360
+North_Central,High Plains,25,Pinyon_Juniper,43.16,0.05,360
+North_Central,High Plains,25,Pinyon_Juniper,43.16,0.05,360
+North_Central,High Plains,25,Pinyon_Juniper,43.16,0.05,360
+South,High Plains,25,Pinyon_Juniper,437.56,0.01,360
+South,High Plains,25,Pinyon_Juniper,437.56,0.01,360
+North_Central,Central Irregular Plains,40,Pinyon_Juniper,43.16,0.05,327.9375
+North_Central,Central Irregular Plains,40,Pinyon_Juniper,43.16,0.05,327.9375
+North_Central,Central Irregular Plains,40,Pinyon_Juniper,43.16,0.05,327.9375
+South,Central Irregular Plains,40,Pinyon_Juniper,437.56,0.01,327.9375
+Interior_West,Northwestern Glaciated Plains,42,Pinyon_Juniper,56.62,0.02,276
+North_Central,Northwestern Glaciated Plains,42,Pinyon_Juniper,43.16,0.05,276
+North_Central,Northwestern Glaciated Plains,42,Pinyon_Juniper,43.16,0.05,276
+North_Central,Northwestern Glaciated Plains,42,Pinyon_Juniper,43.16,0.05,276
+North_Central,Ozark Highlands,39,Pinyon_Juniper,43.16,0.05,257.25
+North_Central,Ozark Highlands,39,Pinyon_Juniper,43.16,0.05,257.25
+South,Ozark Highlands,39,Pinyon_Juniper,437.56,0.01,257.25
+South,Ozark Highlands,39,Pinyon_Juniper,437.56,0.01,257.25
+South,Southeastern Plains,65,Pinyon_Juniper,437.56,0.01,220.75
+South,Southeastern Plains,65,Pinyon_Juniper,437.56,0.01,220.75
+South,Southeastern Plains,65,Pinyon_Juniper,437.56,0.01,220.75
+South,Southeastern Plains,65,Pinyon_Juniper,437.56,0.01,220.75
+South,Southeastern Plains,65,Pinyon_Juniper,437.56,0.01,220.75
+South,Southeastern Plains,65,Pinyon_Juniper,437.56,0.01,220.75
+South,Southeastern Plains,65,Pinyon_Juniper,437.56,0.01,220.75
+South,Southeastern Plains,65,Pinyon_Juniper,437.56,0.01,220.75
+South,Southeastern Plains,65,Pinyon_Juniper,437.56,0.01,220.75
+Interior_West,Northwestern Great Plains,43,Pinyon_Juniper,56.62,0.02,212.3125
+Interior_West,Northwestern Great Plains,43,Pinyon_Juniper,56.62,0.02,212.3125
+North_Central,Northwestern Great Plains,43,Pinyon_Juniper,43.16,0.05,212.3125
+North_Central,Northwestern Great Plains,43,Pinyon_Juniper,43.16,0.05,212.3125
+North_Central,Northwestern Great Plains,43,Pinyon_Juniper,43.16,0.05,212.3125
+North_Central,Western Corn Belt Plains,47,Pinyon_Juniper,43.16,0.05,133.5625
+North_Central,Western Corn Belt Plains,47,Pinyon_Juniper,43.16,0.05,133.5625
+North_Central,Western Corn Belt Plains,47,Pinyon_Juniper,43.16,0.05,133.5625
+North_Central,Western Corn Belt Plains,47,Pinyon_Juniper,43.16,0.05,133.5625
+North_Central,Western Corn Belt Plains,47,Pinyon_Juniper,43.16,0.05,133.5625
+North_Central,Western Corn Belt Plains,47,Pinyon_Juniper,43.16,0.05,133.5625
+North_Central,Western Corn Belt Plains,47,Pinyon_Juniper,43.16,0.05,133.5625
+Interior_West,Middle Rockies,17,Pinyon_Juniper,56.62,0.02,119.125
+Interior_West,Middle Rockies,17,Pinyon_Juniper,56.62,0.02,119.125
+Interior_West,Middle Rockies,17,Pinyon_Juniper,56.62,0.02,119.125
+North_Central,Middle Rockies,17,Pinyon_Juniper,43.16,0.05,119.125
+South,Northern Piedmont,64,Pinyon_Juniper,437.56,0.01,97.625
+North_Central,Flint Hills,28,Pinyon_Juniper,43.16,0.05,70.5
+South,Flint Hills,28,Pinyon_Juniper,437.56,0.01,70.5
+North_Central,Nebraska Sand Hills,44,Pinyon_Juniper,43.16,0.05,67.9375
+North_Central,Nebraska Sand Hills,44,Pinyon_Juniper,43.16,0.05,67.9375
+North_Central,Cross Timbers,29,Pinyon_Juniper,43.16,0.05,51.1875
+South,Cross Timbers,29,Pinyon_Juniper,437.56,0.01,51.1875
+South,Cross Timbers,29,Pinyon_Juniper,437.56,0.01,51.1875
+South,Piedmont,45,Pinyon_Juniper,437.56,0.01,32.0625
+South,Piedmont,45,Pinyon_Juniper,437.56,0.01,32.0625
+South,Piedmont,45,Pinyon_Juniper,437.56,0.01,32.0625
+South,Piedmont,45,Pinyon_Juniper,437.56,0.01,32.0625
+South,Piedmont,45,Pinyon_Juniper,437.56,0.01,32.0625
+Interior_West,Columbia Plateau,10,Pinyon_Juniper,56.62,0.02,31.625
+South,Arkansas Valley,37,Pinyon_Juniper,437.56,0.01,24.125
+South,Arkansas Valley,37,Pinyon_Juniper,437.56,0.01,24.125
+South,Ridge and Valley,67,Pinyon_Juniper,437.56,0.01,22.125
+South,Ridge and Valley,67,Pinyon_Juniper,437.56,0.01,22.125
+South,Ridge and Valley,67,Pinyon_Juniper,437.56,0.01,22.125
+South,Ridge and Valley,67,Pinyon_Juniper,437.56,0.01,22.125
+South,Ridge and Valley,67,Pinyon_Juniper,437.56,0.01,22.125
+North_Central,Interior River Valleys and Hills,72,Pinyon_Juniper,43.16,0.05,18.8125
+North_Central,Interior River Valleys and Hills,72,Pinyon_Juniper,43.16,0.05,18.8125
+North_Central,Interior River Valleys and Hills,72,Pinyon_Juniper,43.16,0.05,18.8125
+North_Central,Interior River Valleys and Hills,72,Pinyon_Juniper,43.16,0.05,18.8125
+South,Interior River Valleys and Hills,72,Pinyon_Juniper,437.56,0.01,18.8125
+Interior_West,Snake River Plain,12,Pinyon_Juniper,56.62,0.02,17
+Interior_West,Snake River Plain,12,Pinyon_Juniper,56.62,0.02,17
+North_Central,North Central Hardwood Forests,51,Pinyon_Juniper,43.16,0.05,16
+North_Central,North Central Hardwood Forests,51,Pinyon_Juniper,43.16,0.05,16
+North_Central,North Central Hardwood Forests,51,Pinyon_Juniper,43.16,0.05,16
+South,Boston Mountains,38,Pinyon_Juniper,437.56,0.01,14.8125
+South,Boston Mountains,38,Pinyon_Juniper,437.56,0.01,14.8125
+North_Central,Driftless Area,52,Pinyon_Juniper,43.16,0.05,12.3125
+North_Central,Driftless Area,52,Pinyon_Juniper,43.16,0.05,12.3125
+North_Central,Driftless Area,52,Pinyon_Juniper,43.16,0.05,12.3125
+North_Central,Driftless Area,52,Pinyon_Juniper,43.16,0.05,12.3125
+South,East Central Texas Plains,33,Pinyon_Juniper,437.56,0.01,11.5625
+South,East Central Texas Plains,33,Pinyon_Juniper,437.56,0.01,11.5625
+Interior_West,Idaho Batholith,16,Pinyon_Juniper,56.62,0.02,11
+Interior_West,Idaho Batholith,16,Pinyon_Juniper,56.62,0.02,11
+South,South Central Plains,35,Pinyon_Juniper,437.56,0.01,9.3125
+South,South Central Plains,35,Pinyon_Juniper,437.56,0.01,9.3125
+South,South Central Plains,35,Pinyon_Juniper,437.56,0.01,9.3125
+South,South Central Plains,35,Pinyon_Juniper,437.56,0.01,9.3125
+North_Central,Eastern Corn Belt Plains,55,Pinyon_Juniper,43.16,0.05,6.75
+North_Central,Eastern Corn Belt Plains,55,Pinyon_Juniper,43.16,0.05,6.75
+South,Ouachita Mountains,36,Pinyon_Juniper,437.56,0.01,5.1875
+South,Ouachita Mountains,36,Pinyon_Juniper,437.56,0.01,5.1875
+Interior_West,Northern Rockies,15,Pinyon_Juniper,56.62,0.02,2
+Interior_West,Northern Rockies,15,Pinyon_Juniper,56.62,0.02,2
+South,Blue Ridge,66,Pinyon_Juniper,437.56,0.01,0.375
+South,Blue Ridge,66,Pinyon_Juniper,437.56,0.01,0.375
+South,Blue Ridge,66,Pinyon_Juniper,437.56,0.01,0.375
+South,Blue Ridge,66,Pinyon_Juniper,437.56,0.01,0.375
+South,Blue Ridge,66,Pinyon_Juniper,437.56,0.01,0.375
+South,Blue Ridge,66,Pinyon_Juniper,437.56,0.01,0.375
+Interior_West,Canadian Rockies,41,Pinyon_Juniper,56.62,0.02,0.1875
+North_Central,Central Corn Belt Plains,54,Pinyon_Juniper,43.16,0.05,0.0625
+North_Central,Central Corn Belt Plains,54,Pinyon_Juniper,43.16,0.05,0.0625
+North_Central,Central Corn Belt Plains,54,Pinyon_Juniper,43.16,0.05,0.0625
+North_Central,Mississippi Valley Loess Plains,74,Pinyon_Juniper,43.16,0.05,0.0625
+South,Mississippi Valley Loess Plains,74,Pinyon_Juniper,437.56,0.01,0.0625
+South,Mississippi Valley Loess Plains,74,Pinyon_Juniper,437.56,0.01,0.0625
+South,Mississippi Valley Loess Plains,74,Pinyon_Juniper,437.56,0.01,0.0625
+South,Mississippi Valley Loess Plains,74,Pinyon_Juniper,437.56,0.01,0.0625
+South,Mississippi Valley Loess Plains,74,Pinyon_Juniper,437.56,0.01,0.0625
+South,Southwestern Appalachians,68,Pinyon_Juniper,437.56,0.01,0.0625
+South,Southwestern Appalachians,68,Pinyon_Juniper,437.56,0.01,0.0625
+South,Southwestern Appalachians,68,Pinyon_Juniper,437.56,0.01,0.0625
+South,Southwestern Appalachians,68,Pinyon_Juniper,437.56,0.01,0.0625
+Interior_West,Arizona/New Mexico Mountains,23,Ponderosa_Pine,152.73,0.03,21455.9375
+Interior_West,Arizona/New Mexico Mountains,23,Ponderosa_Pine,152.73,0.03,21455.9375
+Pacific_Northwest,Eastern Cascades Slopes and Foothills,9,Ponderosa_Pine,204.15,0.03,19761.625
+Pacific_Northwest,Eastern Cascades Slopes and Foothills,9,Ponderosa_Pine,204.15,0.03,19761.625
+Pacific_Northwest,Eastern Cascades Slopes and Foothills,9,Ponderosa_Pine,204.15,0.03,19761.625
+Interior_West,Blue Mountains,11,Ponderosa_Pine,152.73,0.03,17802.75
+Pacific_Northwest,Blue Mountains,11,Ponderosa_Pine,204.15,0.03,17802.75
+Pacific_Northwest,Blue Mountains,11,Ponderosa_Pine,204.15,0.03,17802.75
+Interior_West,Southern Rockies,21,Ponderosa_Pine,152.73,0.03,16519.1875
+Interior_West,Southern Rockies,21,Ponderosa_Pine,152.73,0.03,16519.1875
+Interior_West,Southern Rockies,21,Ponderosa_Pine,152.73,0.03,16519.1875
+Interior_West,Southern Rockies,21,Ponderosa_Pine,152.73,0.03,16519.1875
+Interior_West,Middle Rockies,17,Ponderosa_Pine,152.73,0.03,11040.5
+Interior_West,Middle Rockies,17,Ponderosa_Pine,152.73,0.03,11040.5
+Interior_West,Middle Rockies,17,Ponderosa_Pine,152.73,0.03,11040.5
+North_Central,Middle Rockies,17,Ponderosa_Pine,123.96,0.03,11040.5
+Interior_West,Northwestern Great Plains,43,Ponderosa_Pine,152.73,0.03,7089.125
+Interior_West,Northwestern Great Plains,43,Ponderosa_Pine,152.73,0.03,7089.125
+North_Central,Northwestern Great Plains,43,Ponderosa_Pine,123.96,0.03,7089.125
+North_Central,Northwestern Great Plains,43,Ponderosa_Pine,123.96,0.03,7089.125
+North_Central,Northwestern Great Plains,43,Ponderosa_Pine,123.96,0.03,7089.125
+Interior_West,Northern Rockies,15,Ponderosa_Pine,152.73,0.03,6173
+Interior_West,Northern Rockies,15,Ponderosa_Pine,152.73,0.03,6173
+Pacific_Northwest,Northern Rockies,15,Ponderosa_Pine,204.15,0.03,6173
+Interior_West,Sierra Nevada,5,Ponderosa_Pine,152.73,0.03,4684.375
+Pacific_Northwest,Sierra Nevada,5,Ponderosa_Pine,204.15,0.03,4684.375
+Interior_West,Idaho Batholith,16,Ponderosa_Pine,152.73,0.03,3346.3125
+Interior_West,Idaho Batholith,16,Ponderosa_Pine,152.73,0.03,3346.3125
+Pacific_Northwest,Cascades,4,Ponderosa_Pine,204.15,0.03,3271.0625
+Pacific_Northwest,Cascades,4,Ponderosa_Pine,204.15,0.03,3271.0625
+Pacific_Northwest,Cascades,4,Ponderosa_Pine,204.15,0.03,3271.0625
+Interior_West,Columbia Plateau,10,Ponderosa_Pine,152.73,0.03,2257.6875
+Pacific_Northwest,Columbia Plateau,10,Ponderosa_Pine,204.15,0.03,2257.6875
+Pacific_Northwest,Columbia Plateau,10,Ponderosa_Pine,204.15,0.03,2257.6875
+Pacific_Northwest,North Cascades,77,Ponderosa_Pine,204.15,0.03,1471.6875
+Interior_West,High Plains,25,Ponderosa_Pine,152.73,0.03,1185.5
+Interior_West,High Plains,25,Ponderosa_Pine,152.73,0.03,1185.5
+Interior_West,High Plains,25,Ponderosa_Pine,152.73,0.03,1185.5
+North_Central,High Plains,25,Ponderosa_Pine,123.96,0.03,1185.5
+North_Central,High Plains,25,Ponderosa_Pine,123.96,0.03,1185.5
+North_Central,High Plains,25,Ponderosa_Pine,123.96,0.03,1185.5
+Interior_West,Wasatch and Uinta Mountains,19,Ponderosa_Pine,152.73,0.03,1095.8125
+Interior_West,Wasatch and Uinta Mountains,19,Ponderosa_Pine,152.73,0.03,1095.8125
+Interior_West,Wasatch and Uinta Mountains,19,Ponderosa_Pine,152.73,0.03,1095.8125
+Interior_West,Colorado Plateaus,20,Ponderosa_Pine,152.73,0.03,993.1875
+Interior_West,Colorado Plateaus,20,Ponderosa_Pine,152.73,0.03,993.1875
+Interior_West,Colorado Plateaus,20,Ponderosa_Pine,152.73,0.03,993.1875
+Interior_West,Colorado Plateaus,20,Ponderosa_Pine,152.73,0.03,993.1875
+Interior_West,Northern Basin and Range,80,Ponderosa_Pine,152.73,0.03,763.875
+Interior_West,Northern Basin and Range,80,Ponderosa_Pine,152.73,0.03,763.875
+Interior_West,Northern Basin and Range,80,Ponderosa_Pine,152.73,0.03,763.875
+Pacific_Northwest,Northern Basin and Range,80,Ponderosa_Pine,204.15,0.03,763.875
+Pacific_Northwest,Northern Basin and Range,80,Ponderosa_Pine,204.15,0.03,763.875
+Pacific_Northwest,Klamath Mountains/California High North Coast Range,78,Ponderosa_Pine,204.15,0.03,754.4375
+Pacific_Northwest,Klamath Mountains/California High North Coast Range,78,Ponderosa_Pine,204.15,0.03,754.4375
+Interior_West,Southwestern Tablelands,26,Ponderosa_Pine,152.73,0.03,604.9375
+Interior_West,Southwestern Tablelands,26,Ponderosa_Pine,152.73,0.03,604.9375
+North_Central,Southwestern Tablelands,26,Ponderosa_Pine,123.96,0.03,604.9375
+Pacific_Northwest,Southern California Mountains,8,Ponderosa_Pine,204.15,0.03,545.0625
+Interior_West,Arizona/New Mexico Plateau,22,Ponderosa_Pine,152.73,0.03,430.3125
+Interior_West,Arizona/New Mexico Plateau,22,Ponderosa_Pine,152.73,0.03,430.3125
+Interior_West,Arizona/New Mexico Plateau,22,Ponderosa_Pine,152.73,0.03,430.3125
+Interior_West,Arizona/New Mexico Plateau,22,Ponderosa_Pine,152.73,0.03,430.3125
+Interior_West,Central Basin and Range,13,Ponderosa_Pine,152.73,0.03,271.4375
+Interior_West,Central Basin and Range,13,Ponderosa_Pine,152.73,0.03,271.4375
+Interior_West,Central Basin and Range,13,Ponderosa_Pine,152.73,0.03,271.4375
+Pacific_Northwest,Central Basin and Range,13,Ponderosa_Pine,204.15,0.03,271.4375
+Interior_West,Wyoming Basin,18,Ponderosa_Pine,152.73,0.03,179.375
+Interior_West,Wyoming Basin,18,Ponderosa_Pine,152.73,0.03,179.375
+Interior_West,Wyoming Basin,18,Ponderosa_Pine,152.73,0.03,179.375
+Interior_West,Wyoming Basin,18,Ponderosa_Pine,152.73,0.03,179.375
+Interior_West,Wyoming Basin,18,Ponderosa_Pine,152.73,0.03,179.375
+Interior_West,Northwestern Glaciated Plains,42,Ponderosa_Pine,152.73,0.03,125.1875
+North_Central,Northwestern Glaciated Plains,42,Ponderosa_Pine,123.96,0.03,125.1875
+North_Central,Northwestern Glaciated Plains,42,Ponderosa_Pine,123.96,0.03,125.1875
+North_Central,Northwestern Glaciated Plains,42,Ponderosa_Pine,123.96,0.03,125.1875
+Interior_West,Snake River Plain,12,Ponderosa_Pine,152.73,0.03,80.8125
+Interior_West,Snake River Plain,12,Ponderosa_Pine,152.73,0.03,80.8125
+Pacific_Northwest,Snake River Plain,12,Ponderosa_Pine,204.15,0.03,80.8125
+Interior_West,Madrean Archipelago,79,Ponderosa_Pine,152.73,0.03,71.1875
+Interior_West,Madrean Archipelago,79,Ponderosa_Pine,152.73,0.03,71.1875
+Interior_West,Mojave Basin and Range,14,Ponderosa_Pine,152.73,0.03,61.125
+Interior_West,Mojave Basin and Range,14,Ponderosa_Pine,152.73,0.03,61.125
+Interior_West,Mojave Basin and Range,14,Ponderosa_Pine,152.73,0.03,61.125
+Pacific_Northwest,Mojave Basin and Range,14,Ponderosa_Pine,204.15,0.03,61.125
+North_Central,Central Irregular Plains,40,Ponderosa_Pine,123.96,0.03,22.3125
+North_Central,Central Irregular Plains,40,Ponderosa_Pine,123.96,0.03,22.3125
+North_Central,Central Irregular Plains,40,Ponderosa_Pine,123.96,0.03,22.3125
+Pacific_Northwest,Coast Range,1,Ponderosa_Pine,204.15,0.03,17.625
+Pacific_Northwest,Coast Range,1,Ponderosa_Pine,204.15,0.03,17.625
+Pacific_Northwest,Coast Range,1,Ponderosa_Pine,204.15,0.03,17.625
+Pacific_Northwest,Central California Foothills and Coastal Mountains,6,Ponderosa_Pine,204.15,0.03,17.3125
+North_Central,Central Great Plains,27,Ponderosa_Pine,123.96,0.03,10.125
+North_Central,Central Great Plains,27,Ponderosa_Pine,123.96,0.03,10.125
+North_Central,Nebraska Sand Hills,44,Ponderosa_Pine,123.96,0.03,9.4375
+North_Central,Nebraska Sand Hills,44,Ponderosa_Pine,123.96,0.03,9.4375
+North_Central,Western Corn Belt Plains,47,Ponderosa_Pine,123.96,0.03,7.6875
+North_Central,Western Corn Belt Plains,47,Ponderosa_Pine,123.96,0.03,7.6875
+North_Central,Western Corn Belt Plains,47,Ponderosa_Pine,123.96,0.03,7.6875
+North_Central,Western Corn Belt Plains,47,Ponderosa_Pine,123.96,0.03,7.6875
+North_Central,Western Corn Belt Plains,47,Ponderosa_Pine,123.96,0.03,7.6875
+North_Central,Western Corn Belt Plains,47,Ponderosa_Pine,123.96,0.03,7.6875
+North_Central,Western Corn Belt Plains,47,Ponderosa_Pine,123.96,0.03,7.6875
+Interior_West,Sonoran Basin and Range,81,Ponderosa_Pine,152.73,0.03,5.5
+Pacific_Northwest,Sonoran Basin and Range,81,Ponderosa_Pine,204.15,0.03,5.5
+Interior_West,Canadian Rockies,41,Ponderosa_Pine,152.73,0.03,3.25
+North_Central,Cross Timbers,29,Ponderosa_Pine,123.96,0.03,1.25
+North_Central,Interior River Valleys and Hills,72,Ponderosa_Pine,123.96,0.03,0.6875
+North_Central,Interior River Valleys and Hills,72,Ponderosa_Pine,123.96,0.03,0.6875
+North_Central,Interior River Valleys and Hills,72,Ponderosa_Pine,123.96,0.03,0.6875
+North_Central,Interior River Valleys and Hills,72,Ponderosa_Pine,123.96,0.03,0.6875
+Pacific_Northwest,Willamette Valley,3,Ponderosa_Pine,204.15,0.03,0.5625
+Pacific_Northwest,Willamette Valley,3,Ponderosa_Pine,204.15,0.03,0.5625
+North_Central,Driftless Area,52,Ponderosa_Pine,123.96,0.03,0.25
+North_Central,Driftless Area,52,Ponderosa_Pine,123.96,0.03,0.25
+North_Central,Driftless Area,52,Ponderosa_Pine,123.96,0.03,0.25
+North_Central,Driftless Area,52,Ponderosa_Pine,123.96,0.03,0.25
+Interior_West,Chihuahuan Deserts,24,Ponderosa_Pine,152.73,0.03,0.0625
+Interior_West,Chihuahuan Deserts,24,Ponderosa_Pine,152.73,0.03,0.0625
+Pacific_Northwest,Coast Range,1,Redwood,1907.28,0.01,2710.25
+Pacific_Northwest,Coast Range,1,Redwood,1907.28,0.01,2710.25
+Pacific_Northwest,Coast Range,1,Redwood,1907.28,0.01,2710.25
+Pacific_Northwest,Central California Foothills and Coastal Mountains,6,Redwood,1907.28,0.01,25.4375
+Pacific_Northwest,Sierra Nevada,5,Redwood,1907.28,0.01,8.625
+Pacific_Northwest,Klamath Mountains/California High North Coast Range,78,Redwood,1907.28,0.01,6.25
+Pacific_Northwest,Klamath Mountains/California High North Coast Range,78,Redwood,1907.28,0.01,6.25
+North_Central,Northern Lakes and Forests,50,Spruce_Fir,120.32,0.03,26009.1875
+North_Central,Northern Lakes and Forests,50,Spruce_Fir,120.32,0.03,26009.1875
+North_Central,Northern Lakes and Forests,50,Spruce_Fir,120.32,0.03,26009.1875
+Northeast,Acadian Plains and Hills,82,Spruce_Fir,173.18,0.03,16578.625
+Northeast,Northeastern Highlands,58,Spruce_Fir,173.18,0.03,13719.125
+Northeast,Northeastern Highlands,58,Spruce_Fir,173.18,0.03,13719.125
+Northeast,Northeastern Highlands,58,Spruce_Fir,173.18,0.03,13719.125
+Northeast,Northeastern Highlands,58,Spruce_Fir,173.18,0.03,13719.125
+Northeast,Northeastern Highlands,58,Spruce_Fir,173.18,0.03,13719.125
+Northeast,Northeastern Highlands,58,Spruce_Fir,173.18,0.03,13719.125
+Northeast,Northeastern Highlands,58,Spruce_Fir,173.18,0.03,13719.125
+Northeast,Northeastern Highlands,58,Spruce_Fir,173.18,0.03,13719.125
+North_Central,Northern Minnesota Wetlands,49,Spruce_Fir,120.32,0.03,7354.625
+North_Central,North Central Hardwood Forests,51,Spruce_Fir,120.32,0.03,725.3125
+North_Central,North Central Hardwood Forests,51,Spruce_Fir,120.32,0.03,725.3125
+North_Central,North Central Hardwood Forests,51,Spruce_Fir,120.32,0.03,725.3125
+Northeast,Northeastern Coastal Zone,59,Spruce_Fir,173.18,0.03,61.75
+Northeast,Northeastern Coastal Zone,59,Spruce_Fir,173.18,0.03,61.75
+Northeast,Northeastern Coastal Zone,59,Spruce_Fir,173.18,0.03,61.75
+Northeast,Northeastern Coastal Zone,59,Spruce_Fir,173.18,0.03,61.75
+Northeast,Northeastern Coastal Zone,59,Spruce_Fir,173.18,0.03,61.75
+Northeast,Northeastern Coastal Zone,59,Spruce_Fir,173.18,0.03,61.75
+Northeast,Northeastern Coastal Zone,59,Spruce_Fir,173.18,0.03,61.75
+North_Central,Southeastern Wisconsin Till Plains,53,Spruce_Fir,120.32,0.03,59.1875
+North_Central,Southeastern Wisconsin Till Plains,53,Spruce_Fir,120.32,0.03,59.1875
+Northeast,Central Appalachians,69,Spruce_Fir,173.18,0.03,26.5
+Northeast,Central Appalachians,69,Spruce_Fir,173.18,0.03,26.5
+South,Central Appalachians,69,Spruce_Fir,277.95,0.08,26.5
+South,Central Appalachians,69,Spruce_Fir,277.95,0.08,26.5
+South,Central Appalachians,69,Spruce_Fir,277.95,0.08,26.5
+South,Central Appalachians,69,Spruce_Fir,277.95,0.08,26.5
+Northeast,Eastern Great Lakes Lowlands,83,Spruce_Fir,173.18,0.03,22.6875
+Northeast,Eastern Great Lakes Lowlands,83,Spruce_Fir,173.18,0.03,22.6875
+Northeast,Eastern Great Lakes Lowlands,83,Spruce_Fir,173.18,0.03,22.6875
+Northeast,Eastern Great Lakes Lowlands,83,Spruce_Fir,173.18,0.03,22.6875
+Northeast,North Central Appalachians,62,Spruce_Fir,173.18,0.03,12.4375
+Northeast,North Central Appalachians,62,Spruce_Fir,173.18,0.03,12.4375
+Northeast,Ridge and Valley,67,Spruce_Fir,173.18,0.03,10.3125
+Northeast,Ridge and Valley,67,Spruce_Fir,173.18,0.03,10.3125
+Northeast,Ridge and Valley,67,Spruce_Fir,173.18,0.03,10.3125
+Northeast,Ridge and Valley,67,Spruce_Fir,173.18,0.03,10.3125
+South,Ridge and Valley,67,Spruce_Fir,277.95,0.08,10.3125
+South,Ridge and Valley,67,Spruce_Fir,277.95,0.08,10.3125
+South,Ridge and Valley,67,Spruce_Fir,277.95,0.08,10.3125
+South,Ridge and Valley,67,Spruce_Fir,277.95,0.08,10.3125
+South,Ridge and Valley,67,Spruce_Fir,277.95,0.08,10.3125
+North_Central,Huron/Erie Lake Plains,57,Spruce_Fir,120.32,0.03,9.5
+North_Central,Huron/Erie Lake Plains,57,Spruce_Fir,120.32,0.03,9.5
+Northeast,Huron/Erie Lake Plains,57,Spruce_Fir,173.18,0.03,9.5
+North_Central,Lake Agassiz Plain,48,Spruce_Fir,120.32,0.03,7.1875
+North_Central,Lake Agassiz Plain,48,Spruce_Fir,120.32,0.03,7.1875
+North_Central,Southern Michigan/Northern Indiana Drift Plains,56,Spruce_Fir,120.32,0.03,4.875
+North_Central,Southern Michigan/Northern Indiana Drift Plains,56,Spruce_Fir,120.32,0.03,4.875
+Northeast,Atlantic Coastal Pine Barrens,84,Spruce_Fir,173.18,0.03,3.5
+Northeast,Atlantic Coastal Pine Barrens,84,Spruce_Fir,173.18,0.03,3.5
+Northeast,Atlantic Coastal Pine Barrens,84,Spruce_Fir,173.18,0.03,3.5
+Northeast,Northern Allegheny Plateau,60,Spruce_Fir,173.18,0.03,2.6875
+Northeast,Northern Allegheny Plateau,60,Spruce_Fir,173.18,0.03,2.6875
+North_Central,Driftless Area,52,Spruce_Fir,120.32,0.03,1.625
+North_Central,Driftless Area,52,Spruce_Fir,120.32,0.03,1.625
+North_Central,Driftless Area,52,Spruce_Fir,120.32,0.03,1.625
+North_Central,Driftless Area,52,Spruce_Fir,120.32,0.03,1.625
+North_Central,Middle Rockies,17,Spruce_Fir,120.32,0.03,0.6875
+North_Central,Central Corn Belt Plains,54,Spruce_Fir,120.32,0.03,0.0625
+North_Central,Central Corn Belt Plains,54,Spruce_Fir,120.32,0.03,0.0625
+North_Central,Central Corn Belt Plains,54,Spruce_Fir,120.32,0.03,0.0625
+Pacific_Northwest,Cascades,4,Tanoak_Laurel,476.9,0.04,0.4375
+Pacific_Northwest,Cascades,4,Tanoak_Laurel,476.9,0.04,0.4375
+Pacific_Northwest,Cascades,4,Tanoak_Laurel,476.9,0.04,0.4375
+Pacific_Northwest,Central California Foothills and Coastal Mountains,6,Tanoak_Laurel,476.9,0.04,144.375
+Pacific_Northwest,Coast Range,1,Tanoak_Laurel,476.9,0.04,4922
+Pacific_Northwest,Coast Range,1,Tanoak_Laurel,476.9,0.04,4922
+Pacific_Northwest,Coast Range,1,Tanoak_Laurel,476.9,0.04,4922
+Pacific_Northwest,Eastern Cascades Slopes and Foothills,9,Tanoak_Laurel,476.9,0.04,1.5
+Pacific_Northwest,Eastern Cascades Slopes and Foothills,9,Tanoak_Laurel,476.9,0.04,1.5
+Pacific_Northwest,Eastern Cascades Slopes and Foothills,9,Tanoak_Laurel,476.9,0.04,1.5
+Pacific_Northwest,Klamath Mountains/California High North Coast Range,78,Tanoak_Laurel,476.9,0.04,2444.3125
+Pacific_Northwest,Klamath Mountains/California High North Coast Range,78,Tanoak_Laurel,476.9,0.04,2444.3125
+Pacific_Northwest,Sierra Nevada,5,Tanoak_Laurel,476.9,0.04,8.25
+Pacific_Northwest,Southern California Mountains,8,Tanoak_Laurel,476.9,0.04,42.25
+Pacific_Northwest,Southern California/Northern Baja Coast,85,Tanoak_Laurel,476.9,0.04,0.25
+Pacific_Northwest,Willamette Valley,3,Tanoak_Laurel,476.9,0.04,0.625
+Pacific_Northwest,Willamette Valley,3,Tanoak_Laurel,476.9,0.04,0.625
+South,Southern Coastal Plain,75,Tropical_Hardwoods,206.48,0.02,611
+South,Southern Coastal Plain,75,Tropical_Hardwoods,206.48,0.02,611
+South,Southern Coastal Plain,75,Tropical_Hardwoods,206.48,0.02,611
+South,Southern Coastal Plain,75,Tropical_Hardwoods,206.48,0.02,611
+South,Southern Coastal Plain,75,Tropical_Hardwoods,206.48,0.02,611
+South,Southern Coastal Plain,75,Tropical_Hardwoods,206.48,0.02,611
+South,Southern Florida Coastal Plain,76,Tropical_Hardwoods,206.48,0.02,241.875
+Interior_West,Northern Rockies,15,Western_Larch,298.51,0.03,1094.75
+Interior_West,Northern Rockies,15,Western_Larch,298.51,0.03,1094.75
+Pacific_Northwest,Northern Rockies,15,Western_Larch,307.72,0.03,1094.75
+Interior_West,Canadian Rockies,41,Western_Larch,298.51,0.03,273.125
+Interior_West,Blue Mountains,11,Western_Larch,298.51,0.03,130.875
+Pacific_Northwest,Blue Mountains,11,Western_Larch,307.72,0.03,130.875
+Pacific_Northwest,Blue Mountains,11,Western_Larch,307.72,0.03,130.875
+Interior_West,Idaho Batholith,16,Western_Larch,298.51,0.03,60.625
+Interior_West,Idaho Batholith,16,Western_Larch,298.51,0.03,60.625
+Pacific_Northwest,North Cascades,77,Western_Larch,307.72,0.03,21.875
+Interior_West,Middle Rockies,17,Western_Larch,298.51,0.03,17.125
+Interior_West,Middle Rockies,17,Western_Larch,298.51,0.03,17.125
+Interior_West,Middle Rockies,17,Western_Larch,298.51,0.03,17.125
+Interior_West,Northwestern Glaciated Plains,42,Western_Larch,298.51,0.03,0.375
+Pacific_Northwest,Eastern Cascades Slopes and Foothills,9,Western_Larch,307.72,0.03,0.25
+Pacific_Northwest,Eastern Cascades Slopes and Foothills,9,Western_Larch,307.72,0.03,0.25
+Pacific_Northwest,Eastern Cascades Slopes and Foothills,9,Western_Larch,307.72,0.03,0.25
+Interior_West,Columbia Plateau,10,Western_Larch,298.51,0.03,0.1875
+Pacific_Northwest,Columbia Plateau,10,Western_Larch,307.72,0.03,0.1875
+Pacific_Northwest,Columbia Plateau,10,Western_Larch,307.72,0.03,0.1875
+Interior_West,Northwestern Great Plains,43,Western_Larch,298.51,0.03,0.0625
+Interior_West,Northwestern Great Plains,43,Western_Larch,298.51,0.03,0.0625
+Pacific_Northwest,Central California Foothills and Coastal Mountains,6,Western_Oak,130.24,0.37,8616.625
+Pacific_Northwest,Sierra Nevada,5,Western_Oak,130.24,0.37,7676.8125
+Pacific_Northwest,Klamath Mountains/California High North Coast Range,78,Western_Oak,130.24,0.37,5571.5
+Pacific_Northwest,Klamath Mountains/California High North Coast Range,78,Western_Oak,130.24,0.37,5571.5
+Pacific_Northwest,Southern California Mountains,8,Western_Oak,130.24,0.37,2455.875
+Pacific_Northwest,Cascades,4,Western_Oak,130.24,0.37,891.0625
+Pacific_Northwest,Cascades,4,Western_Oak,130.24,0.37,891.0625
+Pacific_Northwest,Cascades,4,Western_Oak,130.24,0.37,891.0625
+Pacific_Northwest,Coast Range,1,Western_Oak,130.24,0.37,823.1875
+Pacific_Northwest,Coast Range,1,Western_Oak,130.24,0.37,823.1875
+Pacific_Northwest,Coast Range,1,Western_Oak,130.24,0.37,823.1875
+Pacific_Northwest,Eastern Cascades Slopes and Foothills,9,Western_Oak,130.24,0.37,411.625
+Pacific_Northwest,Eastern Cascades Slopes and Foothills,9,Western_Oak,130.24,0.37,411.625
+Pacific_Northwest,Eastern Cascades Slopes and Foothills,9,Western_Oak,130.24,0.37,411.625
+Pacific_Northwest,Central Basin and Range,13,Western_Oak,130.24,0.37,267.3125
+Pacific_Northwest,Columbia Plateau,10,Western_Oak,130.24,0.37,245.8125
+Pacific_Northwest,Columbia Plateau,10,Western_Oak,130.24,0.37,245.8125
+Pacific_Northwest,Southern California/Northern Baja Coast,85,Western_Oak,130.24,0.37,136.375
+Pacific_Northwest,Blue Mountains,11,Western_Oak,130.24,0.37,39.1875
+Pacific_Northwest,Blue Mountains,11,Western_Oak,130.24,0.37,39.1875
+Pacific_Northwest,Willamette Valley,3,Western_Oak,130.24,0.37,28.4375
+Pacific_Northwest,Willamette Valley,3,Western_Oak,130.24,0.37,28.4375
+Pacific_Northwest,Sonoran Basin and Range,81,Western_Oak,130.24,0.37,26.0625
+Pacific_Northwest,Mojave Basin and Range,14,Western_Oak,130.24,0.37,24
+Pacific_Northwest,Central California Valley,7,Western_Oak,130.24,0.37,5.875
+Pacific_Northwest,Northern Basin and Range,80,Western_Oak,130.24,0.37,1.3125
+Pacific_Northwest,Northern Basin and Range,80,Western_Oak,130.24,0.37,1.3125
+Pacific_Northwest,Snake River Plain,12,Western_Oak,130.24,0.37,1.125
+Pacific_Northwest,North Cascades,77,Western_Oak,130.24,0.37,0.25
+Interior_West,Blue Mountains,11,Western_White_Pine,292.16,0.03,0.3125
+Interior_West,Central Basin and Range,13,Western_White_Pine,292.16,0.03,1.4375
+Interior_West,Central Basin and Range,13,Western_White_Pine,292.16,0.03,1.4375
+Interior_West,Central Basin and Range,13,Western_White_Pine,292.16,0.03,1.4375
+Interior_West,Northern Rockies,15,Western_White_Pine,292.16,0.03,9.125
+Interior_West,Northern Rockies,15,Western_White_Pine,292.16,0.03,9.125
+Interior_West,Sierra Nevada,5,Western_White_Pine,292.16,0.03,99.5625
+Pacific_Northwest,Blue Mountains,11,Western_White_Pine,228.52,0.02,0.3125
+Pacific_Northwest,Blue Mountains,11,Western_White_Pine,228.52,0.02,0.3125
+Pacific_Northwest,Cascades,4,Western_White_Pine,228.52,0.02,3.375
+Pacific_Northwest,Cascades,4,Western_White_Pine,228.52,0.02,3.375
+Pacific_Northwest,Cascades,4,Western_White_Pine,228.52,0.02,3.375
+Pacific_Northwest,Central Basin and Range,13,Western_White_Pine,228.52,0.02,1.4375
+Pacific_Northwest,Central California Foothills and Coastal Mountains,6,Western_White_Pine,228.52,0.02,0.125
+Pacific_Northwest,Eastern Cascades Slopes and Foothills,9,Western_White_Pine,228.52,0.02,3.625
+Pacific_Northwest,Eastern Cascades Slopes and Foothills,9,Western_White_Pine,228.52,0.02,3.625
+Pacific_Northwest,Eastern Cascades Slopes and Foothills,9,Western_White_Pine,228.52,0.02,3.625
+Pacific_Northwest,Klamath Mountains/California High North Coast Range,78,Western_White_Pine,228.52,0.02,392.9375
+Pacific_Northwest,Klamath Mountains/California High North Coast Range,78,Western_White_Pine,228.52,0.02,392.9375
+Pacific_Northwest,Northern Rockies,15,Western_White_Pine,228.52,0.02,9.125
+Pacific_Northwest,Sierra Nevada,5,Western_White_Pine,228.52,0.02,99.5625
+North_Central,Northern Lakes and Forests,50,White_Red_Jack_Pine,233.99,0.04,13541.375
+North_Central,Northern Lakes and Forests,50,White_Red_Jack_Pine,233.99,0.04,13541.375
+North_Central,Northern Lakes and Forests,50,White_Red_Jack_Pine,233.99,0.04,13541.375
+Northeast,Northeastern Highlands,58,White_Red_Jack_Pine,267.17,0.05,5402.6875
+Northeast,Northeastern Highlands,58,White_Red_Jack_Pine,267.17,0.05,5402.6875
+Northeast,Northeastern Highlands,58,White_Red_Jack_Pine,267.17,0.05,5402.6875
+Northeast,Northeastern Highlands,58,White_Red_Jack_Pine,267.17,0.05,5402.6875
+Northeast,Northeastern Highlands,58,White_Red_Jack_Pine,267.17,0.05,5402.6875
+Northeast,Northeastern Highlands,58,White_Red_Jack_Pine,267.17,0.05,5402.6875
+Northeast,Northeastern Highlands,58,White_Red_Jack_Pine,267.17,0.05,5402.6875
+Northeast,Northeastern Highlands,58,White_Red_Jack_Pine,267.17,0.05,5402.6875
+North_Central,North Central Hardwood Forests,51,White_Red_Jack_Pine,233.99,0.04,2907.6875
+North_Central,North Central Hardwood Forests,51,White_Red_Jack_Pine,233.99,0.04,2907.6875
+North_Central,North Central Hardwood Forests,51,White_Red_Jack_Pine,233.99,0.04,2907.6875
+Northeast,Northeastern Coastal Zone,59,White_Red_Jack_Pine,267.17,0.05,2565.0625
+Northeast,Northeastern Coastal Zone,59,White_Red_Jack_Pine,267.17,0.05,2565.0625
+Northeast,Northeastern Coastal Zone,59,White_Red_Jack_Pine,267.17,0.05,2565.0625
+Northeast,Northeastern Coastal Zone,59,White_Red_Jack_Pine,267.17,0.05,2565.0625
+Northeast,Northeastern Coastal Zone,59,White_Red_Jack_Pine,267.17,0.05,2565.0625
+Northeast,Northeastern Coastal Zone,59,White_Red_Jack_Pine,267.17,0.05,2565.0625
+Northeast,Northeastern Coastal Zone,59,White_Red_Jack_Pine,267.17,0.05,2565.0625
+Northeast,Acadian Plains and Hills,82,White_Red_Jack_Pine,267.17,0.05,1897.125
+Northeast,Blue Ridge,66,White_Red_Jack_Pine,267.17,0.05,778
+Northeast,Blue Ridge,66,White_Red_Jack_Pine,267.17,0.05,778
+South,Blue Ridge,66,White_Red_Jack_Pine,369.52,0.05,778
+South,Blue Ridge,66,White_Red_Jack_Pine,369.52,0.05,778
+South,Blue Ridge,66,White_Red_Jack_Pine,369.52,0.05,778
+South,Blue Ridge,66,White_Red_Jack_Pine,369.52,0.05,778
+South,Blue Ridge,66,White_Red_Jack_Pine,369.52,0.05,778
+South,Blue Ridge,66,White_Red_Jack_Pine,369.52,0.05,778
+North_Central,Southern Michigan/Northern Indiana Drift Plains,56,White_Red_Jack_Pine,233.99,0.04,445.75
+North_Central,Southern Michigan/Northern Indiana Drift Plains,56,White_Red_Jack_Pine,233.99,0.04,445.75
+Northeast,Eastern Great Lakes Lowlands,83,White_Red_Jack_Pine,267.17,0.05,442.3125
+Northeast,Eastern Great Lakes Lowlands,83,White_Red_Jack_Pine,267.17,0.05,442.3125
+Northeast,Eastern Great Lakes Lowlands,83,White_Red_Jack_Pine,267.17,0.05,442.3125
+Northeast,Eastern Great Lakes Lowlands,83,White_Red_Jack_Pine,267.17,0.05,442.3125
+North_Central,Driftless Area,52,White_Red_Jack_Pine,233.99,0.04,282.375
+North_Central,Driftless Area,52,White_Red_Jack_Pine,233.99,0.04,282.375
+North_Central,Driftless Area,52,White_Red_Jack_Pine,233.99,0.04,282.375
+North_Central,Driftless Area,52,White_Red_Jack_Pine,233.99,0.04,282.375
+North_Central,Northern Minnesota Wetlands,49,White_Red_Jack_Pine,233.99,0.04,273.4375
+Northeast,Northern Allegheny Plateau,60,White_Red_Jack_Pine,267.17,0.05,248.125
+Northeast,Northern Allegheny Plateau,60,White_Red_Jack_Pine,267.17,0.05,248.125
+Northeast,Ridge and Valley,67,White_Red_Jack_Pine,267.17,0.05,170.6875
+Northeast,Ridge and Valley,67,White_Red_Jack_Pine,267.17,0.05,170.6875
+Northeast,Ridge and Valley,67,White_Red_Jack_Pine,267.17,0.05,170.6875
+Northeast,Ridge and Valley,67,White_Red_Jack_Pine,267.17,0.05,170.6875
+South,Ridge and Valley,67,White_Red_Jack_Pine,369.52,0.05,170.6875
+South,Ridge and Valley,67,White_Red_Jack_Pine,369.52,0.05,170.6875
+South,Ridge and Valley,67,White_Red_Jack_Pine,369.52,0.05,170.6875
+South,Ridge and Valley,67,White_Red_Jack_Pine,369.52,0.05,170.6875
+South,Ridge and Valley,67,White_Red_Jack_Pine,369.52,0.05,170.6875
+South,Piedmont,45,White_Red_Jack_Pine,369.52,0.05,92.5625
+South,Piedmont,45,White_Red_Jack_Pine,369.52,0.05,92.5625
+South,Piedmont,45,White_Red_Jack_Pine,369.52,0.05,92.5625
+South,Piedmont,45,White_Red_Jack_Pine,369.52,0.05,92.5625
+South,Piedmont,45,White_Red_Jack_Pine,369.52,0.05,92.5625
+Northeast,North Central Appalachians,62,White_Red_Jack_Pine,267.17,0.05,68.5
+Northeast,North Central Appalachians,62,White_Red_Jack_Pine,267.17,0.05,68.5
+Northeast,Central Appalachians,69,White_Red_Jack_Pine,267.17,0.05,67.75
+Northeast,Central Appalachians,69,White_Red_Jack_Pine,267.17,0.05,67.75
+South,Central Appalachians,69,White_Red_Jack_Pine,369.52,0.05,67.75
+South,Central Appalachians,69,White_Red_Jack_Pine,369.52,0.05,67.75
+South,Central Appalachians,69,White_Red_Jack_Pine,369.52,0.05,67.75
+South,Central Appalachians,69,White_Red_Jack_Pine,369.52,0.05,67.75
+North_Central,Southeastern Wisconsin Till Plains,53,White_Red_Jack_Pine,233.99,0.04,65.375
+North_Central,Southeastern Wisconsin Till Plains,53,White_Red_Jack_Pine,233.99,0.04,65.375
+Northeast,Western Allegheny Plateau,70,White_Red_Jack_Pine,267.17,0.05,62
+Northeast,Western Allegheny Plateau,70,White_Red_Jack_Pine,267.17,0.05,62
+South,Western Allegheny Plateau,70,White_Red_Jack_Pine,369.52,0.05,62
+South,Western Allegheny Plateau,70,White_Red_Jack_Pine,369.52,0.05,62
+South,Southwestern Appalachians,68,White_Red_Jack_Pine,369.52,0.05,36.75
+South,Southwestern Appalachians,68,White_Red_Jack_Pine,369.52,0.05,36.75
+South,Southwestern Appalachians,68,White_Red_Jack_Pine,369.52,0.05,36.75
+South,Southwestern Appalachians,68,White_Red_Jack_Pine,369.52,0.05,36.75
+North_Central,Huron/Erie Lake Plains,57,White_Red_Jack_Pine,233.99,0.04,35.75
+North_Central,Huron/Erie Lake Plains,57,White_Red_Jack_Pine,233.99,0.04,35.75
+Northeast,Huron/Erie Lake Plains,57,White_Red_Jack_Pine,267.17,0.05,35.75
+North_Central,Eastern Corn Belt Plains,55,White_Red_Jack_Pine,233.99,0.04,33.5625
+North_Central,Eastern Corn Belt Plains,55,White_Red_Jack_Pine,233.99,0.04,33.5625
+Northeast,Eastern Corn Belt Plains,55,White_Red_Jack_Pine,267.17,0.05,33.5625
+Northeast,Erie Drift Plain,61,White_Red_Jack_Pine,267.17,0.05,28.8125
+Northeast,Erie Drift Plain,61,White_Red_Jack_Pine,267.17,0.05,28.8125
+Northeast,Erie Drift Plain,61,White_Red_Jack_Pine,267.17,0.05,28.8125
+Northeast,Atlantic Coastal Pine Barrens,84,White_Red_Jack_Pine,267.17,0.05,28.3125
+Northeast,Atlantic Coastal Pine Barrens,84,White_Red_Jack_Pine,267.17,0.05,28.3125
+Northeast,Atlantic Coastal Pine Barrens,84,White_Red_Jack_Pine,267.17,0.05,28.3125
+South,Southern Coastal Plain,75,White_Red_Jack_Pine,369.52,0.05,25.4375
+South,Southern Coastal Plain,75,White_Red_Jack_Pine,369.52,0.05,25.4375
+South,Southern Coastal Plain,75,White_Red_Jack_Pine,369.52,0.05,25.4375
+South,Southern Coastal Plain,75,White_Red_Jack_Pine,369.52,0.05,25.4375
+South,Southern Coastal Plain,75,White_Red_Jack_Pine,369.52,0.05,25.4375
+South,Southern Coastal Plain,75,White_Red_Jack_Pine,369.52,0.05,25.4375
+North_Central,Interior River Valleys and Hills,72,White_Red_Jack_Pine,233.99,0.04,11.5625
+North_Central,Interior River Valleys and Hills,72,White_Red_Jack_Pine,233.99,0.04,11.5625
+North_Central,Interior River Valleys and Hills,72,White_Red_Jack_Pine,233.99,0.04,11.5625
+North_Central,Interior River Valleys and Hills,72,White_Red_Jack_Pine,233.99,0.04,11.5625
+South,Interior River Valleys and Hills,72,White_Red_Jack_Pine,369.52,0.05,11.5625
+South,Southern Florida Coastal Plain,76,White_Red_Jack_Pine,369.52,0.05,3
+North_Central,Central Corn Belt Plains,54,White_Red_Jack_Pine,233.99,0.04,2.75
+North_Central,Central Corn Belt Plains,54,White_Red_Jack_Pine,233.99,0.04,2.75
+North_Central,Central Corn Belt Plains,54,White_Red_Jack_Pine,233.99,0.04,2.75
+Northeast,Middle Atlantic Coastal Plain,63,White_Red_Jack_Pine,267.17,0.05,2.25
+Northeast,Middle Atlantic Coastal Plain,63,White_Red_Jack_Pine,267.17,0.05,2.25
+Northeast,Middle Atlantic Coastal Plain,63,White_Red_Jack_Pine,267.17,0.05,2.25
+Northeast,Middle Atlantic Coastal Plain,63,White_Red_Jack_Pine,267.17,0.05,2.25
+South,Middle Atlantic Coastal Plain,63,White_Red_Jack_Pine,369.52,0.05,2.25
+South,Middle Atlantic Coastal Plain,63,White_Red_Jack_Pine,369.52,0.05,2.25
+South,Middle Atlantic Coastal Plain,63,White_Red_Jack_Pine,369.52,0.05,2.25
+North_Central,Western Corn Belt Plains,47,White_Red_Jack_Pine,233.99,0.04,1.875
+North_Central,Western Corn Belt Plains,47,White_Red_Jack_Pine,233.99,0.04,1.875
+North_Central,Western Corn Belt Plains,47,White_Red_Jack_Pine,233.99,0.04,1.875
+North_Central,Western Corn Belt Plains,47,White_Red_Jack_Pine,233.99,0.04,1.875
+North_Central,Western Corn Belt Plains,47,White_Red_Jack_Pine,233.99,0.04,1.875
+North_Central,Western Corn Belt Plains,47,White_Red_Jack_Pine,233.99,0.04,1.875
+North_Central,Western Corn Belt Plains,47,White_Red_Jack_Pine,233.99,0.04,1.875
+Northeast,Northern Piedmont,64,White_Red_Jack_Pine,267.17,0.05,0.5
+Northeast,Northern Piedmont,64,White_Red_Jack_Pine,267.17,0.05,0.5
+Northeast,Northern Piedmont,64,White_Red_Jack_Pine,267.17,0.05,0.5
+Northeast,Northern Piedmont,64,White_Red_Jack_Pine,267.17,0.05,0.5
+Northeast,Northern Piedmont,64,White_Red_Jack_Pine,267.17,0.05,0.5
+South,Northern Piedmont,64,White_Red_Jack_Pine,369.52,0.05,0.5
+North_Central,Interior Plateau,71,White_Red_Jack_Pine,233.99,0.04,0.375
+North_Central,Interior Plateau,71,White_Red_Jack_Pine,233.99,0.04,0.375
+Northeast,Interior Plateau,71,White_Red_Jack_Pine,267.17,0.05,0.375
+South,Interior Plateau,71,White_Red_Jack_Pine,369.52,0.05,0.375
+South,Interior Plateau,71,White_Red_Jack_Pine,369.52,0.05,0.375
+South,Interior Plateau,71,White_Red_Jack_Pine,369.52,0.05,0.375
+North_Central,Lake Agassiz Plain,48,White_Red_Jack_Pine,233.99,0.04,0.125
+North_Central,Lake Agassiz Plain,48,White_Red_Jack_Pine,233.99,0.04,0.125
+North_Central,Central Irregular Plains,40,White_Red_Jack_Pine,233.99,0.04,0.0625
+North_Central,Central Irregular Plains,40,White_Red_Jack_Pine,233.99,0.04,0.0625
+North_Central,Central Irregular Plains,40,White_Red_Jack_Pine,233.99,0.04,0.0625
+South,Central Irregular Plains,40,White_Red_Jack_Pine,369.52,0.05,0.0625

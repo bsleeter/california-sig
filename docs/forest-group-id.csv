@@ -1,0 +1,29 @@
+ForestGroupID,ForestGroup,Type,Region
+100,White/Red/Jack Pine Group,Softwood,Eastern
+120,Spruce/Fir Group,Softwood,Eastern
+140,Longleaf/Slash Pine Group,Softwood,Eastern
+160,Loblolly/Shortleaf Pine Group,Softwood,Eastern
+180,Pinyon/Juniper Group,Softwood,Western
+200,Douglas-fir Group,Softwood,Western
+220,Ponderosa Pine Group,Softwood,Western
+240,Western White Pine Group,Softwood,Western
+260,Fir/Spruce/Mountain Hemlock Group,Softwood,Western
+280,Lodgepole Pine Group,Softwood,Western
+300,Hemlock/Sitka Spruce Group,Softwood,Western
+320,Western Larch Group,Softwood,Western
+340,Redwood Group,Softwood,Western
+360,Other Western Softwood Group,Softwood,Western
+370,California Mixed Conifer Group,Softwood,Western
+380,Exotic Softwoods Group,Softwood,Eastern
+400,Oak/Pine Group,Hardwood,Eastern
+500,Oak/Hickory Group,Hardwood,Eastern
+600,Oak/Gum/Cypress Group,Hardwood,Eastern
+700,Elm/Ash/Cottonwood Group,Hardwood,Eastern
+800,Maple/Beech/Birch Group,Hardwood,Eastern
+900,Aspen/Birch Group,Hardwood,Eastern
+910,Alder/Maple Group,Hardwood,Western
+920,Western Oak Group,Hardwood,Western
+940,Tanoak/Laurel Group,Hardwood,Western
+950,Other Western Hardwoods Group,Hardwood,Western
+980,Tropical Hardwoods Group,Hardwood,Eastern
+990,Exotic Hardwoods Group,Hardwood,Eastern

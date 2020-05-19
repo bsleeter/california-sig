@@ -1,0 +1,29 @@
+CBM-CFS3 Ecological Boundary,CBM-CFS3 Administrative Boundary,CBM-CFS3 Species Type,ST-Sim Stratum,ST-Sim Secondary Stratum,ST-Sim Tertiary Stratum,ST-Sim State Class,CBMSimulationDataFileName
+Mixedwood Plains,Ontario,Jack pine,Pacific Maritime,British Columbia,,White/Red/Jack Pine Group,white-red-jack-pine-group.txt
+Atlantic Maritime,Quebec,Spruce - Genus type,Pacific Maritime,British Columbia,,Spruce/Fir Group,spruce-fir-group.txt
+Mixedwood Plains,Ontario,Pine - Genus type,Pacific Maritime,British Columbia,,Longleaf/Slash Pine Group,longleaf-slash-pine-group.txt
+Mixedwood Plains,Ontario,Pine - Genus type,Pacific Maritime,British Columbia,,Loblolly/Shortleaf Pine Group,loblolly-shortleaf-pine-group.txt
+Montane Cordillera,British Columbia,Other softwoods,Pacific Maritime,British Columbia,,Pinyon/Juniper Group,pinyon-juniper-group.txt
+Pacific Maritime,British Columbia,Douglas-fir - Genus type,Pacific Maritime,British Columbia,,Douglas-fir Group,douglas-fir-group.txt
+Montane Cordillera,British Columbia,Ponderosa pine,Pacific Maritime,British Columbia,,Ponderosa Pine Group,ponderosa-pine-group.txt
+Pacific Maritime,British Columbia,Western white pine,Pacific Maritime,British Columbia,,Western White Pine Group,western-white-pine-group.txt
+Montane Cordillera,British Columbia,Mountain hemlock,Pacific Maritime,British Columbia,,Fir/Spruce/Mountain Hemlock Group,fir-spruce-mountain-hemlock-group.txt
+Montane Cordillera,British Columbia,Lodgepole pine,Pacific Maritime,British Columbia,,Lodgepole Pine Group,lodgepole-pine-group.txt
+Pacific Maritime,British Columbia,Sitka spruce,Pacific Maritime,British Columbia,,Hemlock/Sitka Spruce Group,hemlock-sitka-spruce-group.txt
+Montane Cordillera,British Columbia,Western larch,Pacific Maritime,British Columbia,,Western Larch Group,western-larch-group.txt
+Pacific Maritime,British Columbia,Other softwoods,Pacific Maritime,British Columbia,,Redwood Group,redwood-group.txt
+Montane Cordillera,British Columbia,Other softwoods,Pacific Maritime,British Columbia,,Other Western Softwood Group,other-western-softwoods-group.txt
+Montane Cordillera,British Columbia,Other softwoods,Pacific Maritime,British Columbia,,California Mixed Conifer Group,california-mixed-conifer-group.txt
+Montane Cordillera,British Columbia,Other softwoods,Pacific Maritime,British Columbia,,Exotic Softwoods Group,exotic-softwoods-group.txt
+Mixedwood Plains,Ontario,Oak,Pacific Maritime,British Columbia,,Oak/Pine Group,oak-pine-group.txt
+Mixedwood Plains,Ontario,Hickory,Pacific Maritime,British Columbia,,Oak/Hickory Group,oak-hickory-group.txt
+Mixedwood Plains,Ontario,Cypress,Pacific Maritime,British Columbia,,Oak/Gum/Cypress Group,oak-gum-cyprus-group.txt
+Mixedwood Plains,Ontario,Ash,Pacific Maritime,British Columbia,,Elm/Ash/Cottonwood Group,elm-ash-cottonwood-group.txt
+Atlantic Maritime,Quebec,Maple,Pacific Maritime,British Columbia,,Maple/Beech/Birch Group,maple-beech-birch-group.txt
+Boreal Shield West,Ontario,Birch,Pacific Maritime,British Columbia,,Aspen/Birch Group,aspen-birch-group.txt
+Pacific Maritime,British Columbia,Alder,Pacific Maritime,British Columbia,,Alder/Maple Group,alder-maple-group.txt
+Montane Cordillera,British Columbia,Oak,Pacific Maritime,British Columbia,,Western Oak Group,western-oak-group-b2.txt
+Pacific Maritime,British Columbia,Other hardwoods,Pacific Maritime,British Columbia,,Tanoak/Laurel Group,tanoak-laurel-group.txt
+Montane Cordillera,British Columbia,Other hardwoods,Pacific Maritime,British Columbia,,Other Western Hardwoods Group,other-western-hardwoods-group-b2.txt
+Mixedwood Plains,Ontario,Other hardwoods,Pacific Maritime,British Columbia,,Tropical Hardwoods Group,tropical-hardwoods-group.txt
+Mixedwood Plains,Ontario,Other hardwoods,Pacific Maritime,British Columbia,,Exotic Hardwoods Group,exotic-hardwoods-group.txt
