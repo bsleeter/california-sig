@@ -1,0 +1,37 @@
+Mang_Name,Agency,ID
+BLM,Bureau of Land Management,1
+USBR,Bureau of Reclamation,2
+DOD,Department of Defense,3
+DOE,Department of Energy,4
+JNT,Joint,5
+CNTY,Local,6
+CITY,Local,6
+UNKL,Local,6
+NPS,National Park Service,7
+NRCS,Natural Resources Conservation Service,8
+NGO,Non-Governmental Organization,9
+NOAA,Other Federal,10
+ARS,Other Federal,10
+TVA,Other Federal,10
+OTHF,Other Federal,10
+USACE,Other Federal,10
+PVT,Private,11
+RWD,Regional,12
+REG,Regional,12
+OTHR,Regional,12
+SDC,State,13
+SPR,State,13
+SDNR,State,13
+SFW,State,13
+OTHS,State,13
+SDOL,State,13
+SLB,State,13
+GU,State,13
+MP,State,13
+PW,State,13
+FM,State,13
+TRIB,Tribal,14
+BIA,Tribal,14
+FWS,U.S. Fish and Wildlife Service,15
+USFS,U.S. Forest Service,16
+UNK,Unknown,17

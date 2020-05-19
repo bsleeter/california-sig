@@ -1,0 +1,1531 @@
+Timestep,StratumID,DistributionTypeID,ExternalVariableTypeID,ExternalVariableMin,ExternalVariableMax,Amount
+2001,Coast Range,Intensification: Open to Low,Intensification,2001,2006,40
+2001,Puget Lowland,Intensification: Open to Low,Intensification,2001,2006,20
+2001,Willamette Valley,Intensification: Open to Low,Intensification,2001,2006,0
+2001,Cascades,Intensification: Open to Low,Intensification,2001,2006,0
+2001,Sierra Nevada,Intensification: Open to Low,Intensification,2001,2006,0
+2001,Central California Foothills and Coastal Mountains,Intensification: Open to Low,Intensification,2001,2006,100
+2001,Central California Valley,Intensification: Open to Low,Intensification,2001,2006,100
+2001,Southern California Mountains,Intensification: Open to Low,Intensification,2001,2006,0
+2001,Eastern Cascades Slopes and Foothills,Intensification: Open to Low,Intensification,2001,2006,0
+2001,Columbia Plateau,Intensification: Open to Low,Intensification,2001,2006,0
+2001,Blue Mountains,Intensification: Open to Low,Intensification,2001,2006,0
+2001,Snake River Plain,Intensification: Open to Low,Intensification,2001,2006,20
+2001,Central Basin and Range,Intensification: Open to Low,Intensification,2001,2006,40
+2001,Mojave Basin and Range,Intensification: Open to Low,Intensification,2001,2006,40
+2001,Northern Rockies,Intensification: Open to Low,Intensification,2001,2006,40
+2001,Idaho Batholith,Intensification: Open to Low,Intensification,2001,2006,0
+2001,Middle Rockies,Intensification: Open to Low,Intensification,2001,2006,0
+2001,Wyoming Basin,Intensification: Open to Low,Intensification,2001,2006,0
+2001,Wasatch and Uinta Mountains,Intensification: Open to Low,Intensification,2001,2006,20
+2001,Colorado Plateaus,Intensification: Open to Low,Intensification,2001,2006,0
+2001,Southern Rockies,Intensification: Open to Low,Intensification,2001,2006,0
+2001,Arizona/New Mexico Plateau,Intensification: Open to Low,Intensification,2001,2006,0
+2001,Arizona/New Mexico Mountains,Intensification: Open to Low,Intensification,2001,2006,0
+2001,Chihuahuan Deserts,Intensification: Open to Low,Intensification,2001,2006,0
+2001,High Plains,Intensification: Open to Low,Intensification,2001,2006,20
+2001,Southwestern Tablelands,Intensification: Open to Low,Intensification,2001,2006,0
+2001,Central Great Plains,Intensification: Open to Low,Intensification,2001,2006,60
+2001,Flint Hills,Intensification: Open to Low,Intensification,2001,2006,0
+2001,Cross Timbers,Intensification: Open to Low,Intensification,2001,2006,40
+2001,Edwards Plateau,Intensification: Open to Low,Intensification,2001,2006,100
+2001,Southern Texas Plains,Intensification: Open to Low,Intensification,2001,2006,20
+2001,Texas Blackland Prairies,Intensification: Open to Low,Intensification,2001,2006,220.00000000000003
+2001,East Central Texas Plains,Intensification: Open to Low,Intensification,2001,2006,0
+2001,Western Gulf Coastal Plain,Intensification: Open to Low,Intensification,2001,2006,180
+2001,South Central Plains,Intensification: Open to Low,Intensification,2001,2006,20
+2001,Ouachita Mountains,Intensification: Open to Low,Intensification,2001,2006,0
+2001,Arkansas Valley,Intensification: Open to Low,Intensification,2001,2006,0
+2001,Boston Mountains,Intensification: Open to Low,Intensification,2001,2006,0
+2001,Ozark Highlands,Intensification: Open to Low,Intensification,2001,2006,0
+2001,Central Irregular Plains,Intensification: Open to Low,Intensification,2001,2006,20
+2001,Canadian Rockies,Intensification: Open to Low,Intensification,2001,2006,0
+2001,Northwestern Glaciated Plains,Intensification: Open to Low,Intensification,2001,2006,20
+2001,Northwestern Great Plains,Intensification: Open to Low,Intensification,2001,2006,20
+2001,Nebraska Sand Hills,Intensification: Open to Low,Intensification,2001,2006,0
+2001,Piedmont,Intensification: Open to Low,Intensification,2001,2006,260
+2001,Northern Glaciated Plains,Intensification: Open to Low,Intensification,2001,2006,20
+2001,Western Corn Belt Plains,Intensification: Open to Low,Intensification,2001,2006,80
+2001,Lake Agassiz Plain,Intensification: Open to Low,Intensification,2001,2006,0
+2001,Northern Minnesota Wetlands,Intensification: Open to Low,Intensification,2001,2006,0
+2001,Northern Lakes and Forests,Intensification: Open to Low,Intensification,2001,2006,0
+2001,North Central Hardwood Forests,Intensification: Open to Low,Intensification,2001,2006,120
+2001,Driftless Area,Intensification: Open to Low,Intensification,2001,2006,20
+2001,Southeastern Wisconsin Till Plains,Intensification: Open to Low,Intensification,2001,2006,20
+2001,Central Corn Belt Plains,Intensification: Open to Low,Intensification,2001,2006,60
+2001,Eastern Corn Belt Plains,Intensification: Open to Low,Intensification,2001,2006,140
+2001,Southern Michigan/Northern Indiana Drift Plains,Intensification: Open to Low,Intensification,2001,2006,60
+2001,Huron/Erie Lake Plains,Intensification: Open to Low,Intensification,2001,2006,40
+2001,Northeastern Highlands,Intensification: Open to Low,Intensification,2001,2006,20
+2001,Northeastern Coastal Zone,Intensification: Open to Low,Intensification,2001,2006,180
+2001,Northern Allegheny Plateau,Intensification: Open to Low,Intensification,2001,2006,0
+2001,Erie Drift Plain,Intensification: Open to Low,Intensification,2001,2006,60
+2001,North Central Appalachians,Intensification: Open to Low,Intensification,2001,2006,0
+2001,Middle Atlantic Coastal Plain,Intensification: Open to Low,Intensification,2001,2006,180
+2001,Northern Piedmont,Intensification: Open to Low,Intensification,2001,2006,240
+2001,Southeastern Plains,Intensification: Open to Low,Intensification,2001,2006,360
+2001,Blue Ridge,Intensification: Open to Low,Intensification,2001,2006,60
+2001,Ridge and Valley,Intensification: Open to Low,Intensification,2001,2006,200
+2001,Southwestern Appalachians,Intensification: Open to Low,Intensification,2001,2006,0
+2001,Central Appalachians,Intensification: Open to Low,Intensification,2001,2006,20
+2001,Western Allegheny Plateau,Intensification: Open to Low,Intensification,2001,2006,60
+2001,Interior Plateau,Intensification: Open to Low,Intensification,2001,2006,100
+2001,Interior River Valleys and Hills,Intensification: Open to Low,Intensification,2001,2006,20
+2001,Mississippi Alluvial Plain,Intensification: Open to Low,Intensification,2001,2006,120
+2001,Mississippi Valley Loess Plains,Intensification: Open to Low,Intensification,2001,2006,60
+2001,Southern Coastal Plain,Intensification: Open to Low,Intensification,2001,2006,459.99999999999994
+2001,Southern Florida Coastal Plain,Intensification: Open to Low,Intensification,2001,2006,180
+2001,North Cascades,Intensification: Open to Low,Intensification,2001,2006,0
+2001,Klamath Mountains/California High North Coast Range,Intensification: Open to Low,Intensification,2001,2006,20
+2001,Madrean Archipelago,Intensification: Open to Low,Intensification,2001,2006,0
+2001,Northern Basin and Range,Intensification: Open to Low,Intensification,2001,2006,0
+2001,Sonoran Basin and Range,Intensification: Open to Low,Intensification,2001,2006,120
+2001,Acadian Plains and Hills,Intensification: Open to Low,Intensification,2001,2006,20
+2001,Eastern Great Lakes Lowlands,Intensification: Open to Low,Intensification,2001,2006,40
+2001,Atlantic Coastal Pine Barrens,Intensification: Open to Low,Intensification,2001,2006,140
+2001,Southern California/Northern Baja Coast,Intensification: Open to Low,Intensification,2001,2006,140
+2007,Coast Range,Intensification: Open to Low,Intensification,2007,2012,20
+2007,Puget Lowland,Intensification: Open to Low,Intensification,2007,2012,120
+2007,Willamette Valley,Intensification: Open to Low,Intensification,2007,2012,0
+2007,Cascades,Intensification: Open to Low,Intensification,2007,2012,0
+2007,Sierra Nevada,Intensification: Open to Low,Intensification,2007,2012,0
+2007,Central California Foothills and Coastal Mountains,Intensification: Open to Low,Intensification,2007,2012,20
+2007,Central California Valley,Intensification: Open to Low,Intensification,2007,2012,100
+2007,Southern California Mountains,Intensification: Open to Low,Intensification,2007,2012,0
+2007,Eastern Cascades Slopes and Foothills,Intensification: Open to Low,Intensification,2007,2012,0
+2007,Columbia Plateau,Intensification: Open to Low,Intensification,2007,2012,60
+2007,Blue Mountains,Intensification: Open to Low,Intensification,2007,2012,0
+2007,Snake River Plain,Intensification: Open to Low,Intensification,2007,2012,20
+2007,Central Basin and Range,Intensification: Open to Low,Intensification,2007,2012,20
+2007,Mojave Basin and Range,Intensification: Open to Low,Intensification,2007,2012,40
+2007,Northern Rockies,Intensification: Open to Low,Intensification,2007,2012,0
+2007,Idaho Batholith,Intensification: Open to Low,Intensification,2007,2012,0
+2007,Middle Rockies,Intensification: Open to Low,Intensification,2007,2012,0
+2007,Wyoming Basin,Intensification: Open to Low,Intensification,2007,2012,20
+2007,Wasatch and Uinta Mountains,Intensification: Open to Low,Intensification,2007,2012,20
+2007,Colorado Plateaus,Intensification: Open to Low,Intensification,2007,2012,0
+2007,Southern Rockies,Intensification: Open to Low,Intensification,2007,2012,0
+2007,Arizona/New Mexico Plateau,Intensification: Open to Low,Intensification,2007,2012,0
+2007,Arizona/New Mexico Mountains,Intensification: Open to Low,Intensification,2007,2012,0
+2007,Chihuahuan Deserts,Intensification: Open to Low,Intensification,2007,2012,20
+2007,High Plains,Intensification: Open to Low,Intensification,2007,2012,100
+2007,Southwestern Tablelands,Intensification: Open to Low,Intensification,2007,2012,20
+2007,Central Great Plains,Intensification: Open to Low,Intensification,2007,2012,80
+2007,Flint Hills,Intensification: Open to Low,Intensification,2007,2012,20
+2007,Cross Timbers,Intensification: Open to Low,Intensification,2007,2012,60
+2007,Edwards Plateau,Intensification: Open to Low,Intensification,2007,2012,80
+2007,Southern Texas Plains,Intensification: Open to Low,Intensification,2007,2012,0
+2007,Texas Blackland Prairies,Intensification: Open to Low,Intensification,2007,2012,160
+2007,East Central Texas Plains,Intensification: Open to Low,Intensification,2007,2012,20
+2007,Western Gulf Coastal Plain,Intensification: Open to Low,Intensification,2007,2012,280
+2007,South Central Plains,Intensification: Open to Low,Intensification,2007,2012,40
+2007,Ouachita Mountains,Intensification: Open to Low,Intensification,2007,2012,0
+2007,Arkansas Valley,Intensification: Open to Low,Intensification,2007,2012,0
+2007,Boston Mountains,Intensification: Open to Low,Intensification,2007,2012,0
+2007,Ozark Highlands,Intensification: Open to Low,Intensification,2007,2012,0
+2007,Central Irregular Plains,Intensification: Open to Low,Intensification,2007,2012,20
+2007,Canadian Rockies,Intensification: Open to Low,Intensification,2007,2012,0
+2007,Northwestern Glaciated Plains,Intensification: Open to Low,Intensification,2007,2012,40
+2007,Northwestern Great Plains,Intensification: Open to Low,Intensification,2007,2012,0
+2007,Nebraska Sand Hills,Intensification: Open to Low,Intensification,2007,2012,0
+2007,Piedmont,Intensification: Open to Low,Intensification,2007,2012,240
+2007,Northern Glaciated Plains,Intensification: Open to Low,Intensification,2007,2012,0
+2007,Western Corn Belt Plains,Intensification: Open to Low,Intensification,2007,2012,80
+2007,Lake Agassiz Plain,Intensification: Open to Low,Intensification,2007,2012,0
+2007,Northern Minnesota Wetlands,Intensification: Open to Low,Intensification,2007,2012,0
+2007,Northern Lakes and Forests,Intensification: Open to Low,Intensification,2007,2012,20
+2007,North Central Hardwood Forests,Intensification: Open to Low,Intensification,2007,2012,60
+2007,Driftless Area,Intensification: Open to Low,Intensification,2007,2012,0
+2007,Southeastern Wisconsin Till Plains,Intensification: Open to Low,Intensification,2007,2012,60
+2007,Central Corn Belt Plains,Intensification: Open to Low,Intensification,2007,2012,20
+2007,Eastern Corn Belt Plains,Intensification: Open to Low,Intensification,2007,2012,80
+2007,Southern Michigan/Northern Indiana Drift Plains,Intensification: Open to Low,Intensification,2007,2012,80
+2007,Huron/Erie Lake Plains,Intensification: Open to Low,Intensification,2007,2012,80
+2007,Northeastern Highlands,Intensification: Open to Low,Intensification,2007,2012,0
+2007,Northeastern Coastal Zone,Intensification: Open to Low,Intensification,2007,2012,100
+2007,Northern Allegheny Plateau,Intensification: Open to Low,Intensification,2007,2012,0
+2007,Erie Drift Plain,Intensification: Open to Low,Intensification,2007,2012,20
+2007,North Central Appalachians,Intensification: Open to Low,Intensification,2007,2012,20
+2007,Middle Atlantic Coastal Plain,Intensification: Open to Low,Intensification,2007,2012,80
+2007,Northern Piedmont,Intensification: Open to Low,Intensification,2007,2012,120
+2007,Southeastern Plains,Intensification: Open to Low,Intensification,2007,2012,360
+2007,Blue Ridge,Intensification: Open to Low,Intensification,2007,2012,40
+2007,Ridge and Valley,Intensification: Open to Low,Intensification,2007,2012,80
+2007,Southwestern Appalachians,Intensification: Open to Low,Intensification,2007,2012,0
+2007,Central Appalachians,Intensification: Open to Low,Intensification,2007,2012,0
+2007,Western Allegheny Plateau,Intensification: Open to Low,Intensification,2007,2012,60
+2007,Interior Plateau,Intensification: Open to Low,Intensification,2007,2012,60
+2007,Interior River Valleys and Hills,Intensification: Open to Low,Intensification,2007,2012,0
+2007,Mississippi Alluvial Plain,Intensification: Open to Low,Intensification,2007,2012,60
+2007,Mississippi Valley Loess Plains,Intensification: Open to Low,Intensification,2007,2012,60
+2007,Southern Coastal Plain,Intensification: Open to Low,Intensification,2007,2012,440.00000000000006
+2007,Southern Florida Coastal Plain,Intensification: Open to Low,Intensification,2007,2012,80
+2007,North Cascades,Intensification: Open to Low,Intensification,2007,2012,0
+2007,Klamath Mountains/California High North Coast Range,Intensification: Open to Low,Intensification,2007,2012,0
+2007,Madrean Archipelago,Intensification: Open to Low,Intensification,2007,2012,0
+2007,Northern Basin and Range,Intensification: Open to Low,Intensification,2007,2012,0
+2007,Sonoran Basin and Range,Intensification: Open to Low,Intensification,2007,2012,160
+2007,Acadian Plains and Hills,Intensification: Open to Low,Intensification,2007,2012,40
+2007,Eastern Great Lakes Lowlands,Intensification: Open to Low,Intensification,2007,2012,40
+2007,Atlantic Coastal Pine Barrens,Intensification: Open to Low,Intensification,2007,2012,60
+2007,Southern California/Northern Baja Coast,Intensification: Open to Low,Intensification,2007,2012,60
+2012,Coast Range,Intensification: Open to Low,Intensification,2012,2017,0
+2012,Puget Lowland,Intensification: Open to Low,Intensification,2012,2017,100
+2012,Willamette Valley,Intensification: Open to Low,Intensification,2012,2017,0
+2012,Cascades,Intensification: Open to Low,Intensification,2012,2017,0
+2012,Sierra Nevada,Intensification: Open to Low,Intensification,2012,2017,0
+2012,Central California Foothills and Coastal Mountains,Intensification: Open to Low,Intensification,2012,2017,120
+2012,Central California Valley,Intensification: Open to Low,Intensification,2012,2017,140
+2012,Southern California Mountains,Intensification: Open to Low,Intensification,2012,2017,0
+2012,Eastern Cascades Slopes and Foothills,Intensification: Open to Low,Intensification,2012,2017,0
+2012,Columbia Plateau,Intensification: Open to Low,Intensification,2012,2017,20
+2012,Blue Mountains,Intensification: Open to Low,Intensification,2012,2017,0
+2012,Snake River Plain,Intensification: Open to Low,Intensification,2012,2017,100
+2012,Central Basin and Range,Intensification: Open to Low,Intensification,2012,2017,80
+2012,Mojave Basin and Range,Intensification: Open to Low,Intensification,2012,2017,40
+2012,Northern Rockies,Intensification: Open to Low,Intensification,2012,2017,20
+2012,Idaho Batholith,Intensification: Open to Low,Intensification,2012,2017,0
+2012,Middle Rockies,Intensification: Open to Low,Intensification,2012,2017,20
+2012,Wyoming Basin,Intensification: Open to Low,Intensification,2012,2017,0
+2012,Wasatch and Uinta Mountains,Intensification: Open to Low,Intensification,2012,2017,20
+2012,Colorado Plateaus,Intensification: Open to Low,Intensification,2012,2017,20
+2012,Southern Rockies,Intensification: Open to Low,Intensification,2012,2017,0
+2012,Arizona/New Mexico Plateau,Intensification: Open to Low,Intensification,2012,2017,40
+2012,Arizona/New Mexico Mountains,Intensification: Open to Low,Intensification,2012,2017,0
+2012,Chihuahuan Deserts,Intensification: Open to Low,Intensification,2012,2017,0
+2012,High Plains,Intensification: Open to Low,Intensification,2012,2017,100
+2012,Southwestern Tablelands,Intensification: Open to Low,Intensification,2012,2017,0
+2012,Central Great Plains,Intensification: Open to Low,Intensification,2012,2017,180
+2012,Flint Hills,Intensification: Open to Low,Intensification,2012,2017,0
+2012,Cross Timbers,Intensification: Open to Low,Intensification,2012,2017,180
+2012,Edwards Plateau,Intensification: Open to Low,Intensification,2012,2017,160
+2012,Southern Texas Plains,Intensification: Open to Low,Intensification,2012,2017,0
+2012,Texas Blackland Prairies,Intensification: Open to Low,Intensification,2012,2017,300
+2012,East Central Texas Plains,Intensification: Open to Low,Intensification,2012,2017,20
+2012,Western Gulf Coastal Plain,Intensification: Open to Low,Intensification,2012,2017,180
+2012,South Central Plains,Intensification: Open to Low,Intensification,2012,2017,40
+2012,Ouachita Mountains,Intensification: Open to Low,Intensification,2012,2017,20
+2012,Arkansas Valley,Intensification: Open to Low,Intensification,2012,2017,40
+2012,Boston Mountains,Intensification: Open to Low,Intensification,2012,2017,0
+2012,Ozark Highlands,Intensification: Open to Low,Intensification,2012,2017,80
+2012,Central Irregular Plains,Intensification: Open to Low,Intensification,2012,2017,60
+2012,Canadian Rockies,Intensification: Open to Low,Intensification,2012,2017,0
+2012,Northwestern Glaciated Plains,Intensification: Open to Low,Intensification,2012,2017,0
+2012,Northwestern Great Plains,Intensification: Open to Low,Intensification,2012,2017,20
+2012,Nebraska Sand Hills,Intensification: Open to Low,Intensification,2012,2017,0
+2012,Piedmont,Intensification: Open to Low,Intensification,2012,2017,520
+2012,Northern Glaciated Plains,Intensification: Open to Low,Intensification,2012,2017,40
+2012,Western Corn Belt Plains,Intensification: Open to Low,Intensification,2012,2017,220.00000000000003
+2012,Lake Agassiz Plain,Intensification: Open to Low,Intensification,2012,2017,40
+2012,Northern Minnesota Wetlands,Intensification: Open to Low,Intensification,2012,2017,0
+2012,Northern Lakes and Forests,Intensification: Open to Low,Intensification,2012,2017,40
+2012,North Central Hardwood Forests,Intensification: Open to Low,Intensification,2012,2017,100
+2012,Driftless Area,Intensification: Open to Low,Intensification,2012,2017,40
+2012,Southeastern Wisconsin Till Plains,Intensification: Open to Low,Intensification,2012,2017,60
+2012,Central Corn Belt Plains,Intensification: Open to Low,Intensification,2012,2017,80
+2012,Eastern Corn Belt Plains,Intensification: Open to Low,Intensification,2012,2017,200
+2012,Southern Michigan/Northern Indiana Drift Plains,Intensification: Open to Low,Intensification,2012,2017,220.00000000000003
+2012,Huron/Erie Lake Plains,Intensification: Open to Low,Intensification,2012,2017,140
+2012,Northeastern Highlands,Intensification: Open to Low,Intensification,2012,2017,0
+2012,Northeastern Coastal Zone,Intensification: Open to Low,Intensification,2012,2017,340
+2012,Northern Allegheny Plateau,Intensification: Open to Low,Intensification,2012,2017,20
+2012,Erie Drift Plain,Intensification: Open to Low,Intensification,2012,2017,80
+2012,North Central Appalachians,Intensification: Open to Low,Intensification,2012,2017,0
+2012,Middle Atlantic Coastal Plain,Intensification: Open to Low,Intensification,2012,2017,200
+2012,Northern Piedmont,Intensification: Open to Low,Intensification,2012,2017,220.00000000000003
+2012,Southeastern Plains,Intensification: Open to Low,Intensification,2012,2017,500
+2012,Blue Ridge,Intensification: Open to Low,Intensification,2012,2017,40
+2012,Ridge and Valley,Intensification: Open to Low,Intensification,2012,2017,180
+2012,Southwestern Appalachians,Intensification: Open to Low,Intensification,2012,2017,20
+2012,Central Appalachians,Intensification: Open to Low,Intensification,2012,2017,0
+2012,Western Allegheny Plateau,Intensification: Open to Low,Intensification,2012,2017,100
+2012,Interior Plateau,Intensification: Open to Low,Intensification,2012,2017,220.00000000000003
+2012,Interior River Valleys and Hills,Intensification: Open to Low,Intensification,2012,2017,220.00000000000003
+2012,Mississippi Alluvial Plain,Intensification: Open to Low,Intensification,2012,2017,40
+2012,Mississippi Valley Loess Plains,Intensification: Open to Low,Intensification,2012,2017,140
+2012,Southern Coastal Plain,Intensification: Open to Low,Intensification,2012,2017,700
+2012,Southern Florida Coastal Plain,Intensification: Open to Low,Intensification,2012,2017,200
+2012,North Cascades,Intensification: Open to Low,Intensification,2012,2017,0
+2012,Klamath Mountains/California High North Coast Range,Intensification: Open to Low,Intensification,2012,2017,20
+2012,Madrean Archipelago,Intensification: Open to Low,Intensification,2012,2017,0
+2012,Northern Basin and Range,Intensification: Open to Low,Intensification,2012,2017,0
+2012,Sonoran Basin and Range,Intensification: Open to Low,Intensification,2012,2017,140
+2012,Acadian Plains and Hills,Intensification: Open to Low,Intensification,2012,2017,40
+2012,Eastern Great Lakes Lowlands,Intensification: Open to Low,Intensification,2012,2017,160
+2012,Atlantic Coastal Pine Barrens,Intensification: Open to Low,Intensification,2012,2017,160
+2012,Southern California/Northern Baja Coast,Intensification: Open to Low,Intensification,2012,2017,200
+2001,Coast Range,Intensification: Open to Medium,Intensification,2001,2006,20
+2001,Puget Lowland,Intensification: Open to Medium,Intensification,2001,2006,240
+2001,Willamette Valley,Intensification: Open to Medium,Intensification,2001,2006,120
+2001,Cascades,Intensification: Open to Medium,Intensification,2001,2006,0
+2001,Sierra Nevada,Intensification: Open to Medium,Intensification,2001,2006,0
+2001,Central California Foothills and Coastal Mountains,Intensification: Open to Medium,Intensification,2001,2006,320
+2001,Central California Valley,Intensification: Open to Medium,Intensification,2001,2006,540
+2001,Southern California Mountains,Intensification: Open to Medium,Intensification,2001,2006,0
+2001,Eastern Cascades Slopes and Foothills,Intensification: Open to Medium,Intensification,2001,2006,0
+2001,Columbia Plateau,Intensification: Open to Medium,Intensification,2001,2006,260
+2001,Blue Mountains,Intensification: Open to Medium,Intensification,2001,2006,0
+2001,Snake River Plain,Intensification: Open to Medium,Intensification,2001,2006,240
+2001,Central Basin and Range,Intensification: Open to Medium,Intensification,2001,2006,80
+2001,Mojave Basin and Range,Intensification: Open to Medium,Intensification,2001,2006,280
+2001,Northern Rockies,Intensification: Open to Medium,Intensification,2001,2006,20
+2001,Idaho Batholith,Intensification: Open to Medium,Intensification,2001,2006,0
+2001,Middle Rockies,Intensification: Open to Medium,Intensification,2001,2006,20
+2001,Wyoming Basin,Intensification: Open to Medium,Intensification,2001,2006,0
+2001,Wasatch and Uinta Mountains,Intensification: Open to Medium,Intensification,2001,2006,0
+2001,Colorado Plateaus,Intensification: Open to Medium,Intensification,2001,2006,20
+2001,Southern Rockies,Intensification: Open to Medium,Intensification,2001,2006,40
+2001,Arizona/New Mexico Plateau,Intensification: Open to Medium,Intensification,2001,2006,80
+2001,Arizona/New Mexico Mountains,Intensification: Open to Medium,Intensification,2001,2006,40
+2001,Chihuahuan Deserts,Intensification: Open to Medium,Intensification,2001,2006,80
+2001,High Plains,Intensification: Open to Medium,Intensification,2001,2006,340
+2001,Southwestern Tablelands,Intensification: Open to Medium,Intensification,2001,2006,40
+2001,Central Great Plains,Intensification: Open to Medium,Intensification,2001,2006,500
+2001,Flint Hills,Intensification: Open to Medium,Intensification,2001,2006,20
+2001,Cross Timbers,Intensification: Open to Medium,Intensification,2001,2006,459.99999999999994
+2001,Edwards Plateau,Intensification: Open to Medium,Intensification,2001,2006,180
+2001,Southern Texas Plains,Intensification: Open to Medium,Intensification,2001,2006,100
+2001,Texas Blackland Prairies,Intensification: Open to Medium,Intensification,2001,2006,860
+2001,East Central Texas Plains,Intensification: Open to Medium,Intensification,2001,2006,120
+2001,Western Gulf Coastal Plain,Intensification: Open to Medium,Intensification,2001,2006,960
+2001,South Central Plains,Intensification: Open to Medium,Intensification,2001,2006,280
+2001,Ouachita Mountains,Intensification: Open to Medium,Intensification,2001,2006,40
+2001,Arkansas Valley,Intensification: Open to Medium,Intensification,2001,2006,140
+2001,Boston Mountains,Intensification: Open to Medium,Intensification,2001,2006,0
+2001,Ozark Highlands,Intensification: Open to Medium,Intensification,2001,2006,180
+2001,Central Irregular Plains,Intensification: Open to Medium,Intensification,2001,2006,160
+2001,Canadian Rockies,Intensification: Open to Medium,Intensification,2001,2006,0
+2001,Northwestern Glaciated Plains,Intensification: Open to Medium,Intensification,2001,2006,60
+2001,Northwestern Great Plains,Intensification: Open to Medium,Intensification,2001,2006,80
+2001,Nebraska Sand Hills,Intensification: Open to Medium,Intensification,2001,2006,0
+2001,Piedmont,Intensification: Open to Medium,Intensification,2001,2006,1680
+2001,Northern Glaciated Plains,Intensification: Open to Medium,Intensification,2001,2006,140
+2001,Western Corn Belt Plains,Intensification: Open to Medium,Intensification,2001,2006,620
+2001,Lake Agassiz Plain,Intensification: Open to Medium,Intensification,2001,2006,40
+2001,Northern Minnesota Wetlands,Intensification: Open to Medium,Intensification,2001,2006,0
+2001,Northern Lakes and Forests,Intensification: Open to Medium,Intensification,2001,2006,240
+2001,North Central Hardwood Forests,Intensification: Open to Medium,Intensification,2001,2006,620
+2001,Driftless Area,Intensification: Open to Medium,Intensification,2001,2006,160
+2001,Southeastern Wisconsin Till Plains,Intensification: Open to Medium,Intensification,2001,2006,300
+2001,Central Corn Belt Plains,Intensification: Open to Medium,Intensification,2001,2006,280
+2001,Eastern Corn Belt Plains,Intensification: Open to Medium,Intensification,2001,2006,700
+2001,Southern Michigan/Northern Indiana Drift Plains,Intensification: Open to Medium,Intensification,2001,2006,360
+2001,Huron/Erie Lake Plains,Intensification: Open to Medium,Intensification,2001,2006,240
+2001,Northeastern Highlands,Intensification: Open to Medium,Intensification,2001,2006,80
+2001,Northeastern Coastal Zone,Intensification: Open to Medium,Intensification,2001,2006,880.0000000000001
+2001,Northern Allegheny Plateau,Intensification: Open to Medium,Intensification,2001,2006,40
+2001,Erie Drift Plain,Intensification: Open to Medium,Intensification,2001,2006,340
+2001,North Central Appalachians,Intensification: Open to Medium,Intensification,2001,2006,20
+2001,Middle Atlantic Coastal Plain,Intensification: Open to Medium,Intensification,2001,2006,700
+2001,Northern Piedmont,Intensification: Open to Medium,Intensification,2001,2006,580
+2001,Southeastern Plains,Intensification: Open to Medium,Intensification,2001,2006,1060
+2001,Blue Ridge,Intensification: Open to Medium,Intensification,2001,2006,40
+2001,Ridge and Valley,Intensification: Open to Medium,Intensification,2001,2006,960
+2001,Southwestern Appalachians,Intensification: Open to Medium,Intensification,2001,2006,100
+2001,Central Appalachians,Intensification: Open to Medium,Intensification,2001,2006,60
+2001,Western Allegheny Plateau,Intensification: Open to Medium,Intensification,2001,2006,240
+2001,Interior Plateau,Intensification: Open to Medium,Intensification,2001,2006,600
+2001,Interior River Valleys and Hills,Intensification: Open to Medium,Intensification,2001,2006,320
+2001,Mississippi Alluvial Plain,Intensification: Open to Medium,Intensification,2001,2006,540
+2001,Mississippi Valley Loess Plains,Intensification: Open to Medium,Intensification,2001,2006,440.00000000000006
+2001,Southern Coastal Plain,Intensification: Open to Medium,Intensification,2001,2006,2140
+2001,Southern Florida Coastal Plain,Intensification: Open to Medium,Intensification,2001,2006,320
+2001,North Cascades,Intensification: Open to Medium,Intensification,2001,2006,20
+2001,Klamath Mountains/California High North Coast Range,Intensification: Open to Medium,Intensification,2001,2006,60
+2001,Madrean Archipelago,Intensification: Open to Medium,Intensification,2001,2006,0
+2001,Northern Basin and Range,Intensification: Open to Medium,Intensification,2001,2006,0
+2001,Sonoran Basin and Range,Intensification: Open to Medium,Intensification,2001,2006,400
+2001,Acadian Plains and Hills,Intensification: Open to Medium,Intensification,2001,2006,20
+2001,Eastern Great Lakes Lowlands,Intensification: Open to Medium,Intensification,2001,2006,400
+2001,Atlantic Coastal Pine Barrens,Intensification: Open to Medium,Intensification,2001,2006,600
+2001,Southern California/Northern Baja Coast,Intensification: Open to Medium,Intensification,2001,2006,1100
+2007,Coast Range,Intensification: Open to Medium,Intensification,2007,2012,80
+2007,Puget Lowland,Intensification: Open to Medium,Intensification,2007,2012,220.00000000000003
+2007,Willamette Valley,Intensification: Open to Medium,Intensification,2007,2012,0
+2007,Cascades,Intensification: Open to Medium,Intensification,2007,2012,0
+2007,Sierra Nevada,Intensification: Open to Medium,Intensification,2007,2012,0
+2007,Central California Foothills and Coastal Mountains,Intensification: Open to Medium,Intensification,2007,2012,180
+2007,Central California Valley,Intensification: Open to Medium,Intensification,2007,2012,340
+2007,Southern California Mountains,Intensification: Open to Medium,Intensification,2007,2012,40
+2007,Eastern Cascades Slopes and Foothills,Intensification: Open to Medium,Intensification,2007,2012,0
+2007,Columbia Plateau,Intensification: Open to Medium,Intensification,2007,2012,200
+2007,Blue Mountains,Intensification: Open to Medium,Intensification,2007,2012,0
+2007,Snake River Plain,Intensification: Open to Medium,Intensification,2007,2012,120
+2007,Central Basin and Range,Intensification: Open to Medium,Intensification,2007,2012,300
+2007,Mojave Basin and Range,Intensification: Open to Medium,Intensification,2007,2012,240
+2007,Northern Rockies,Intensification: Open to Medium,Intensification,2007,2012,40
+2007,Idaho Batholith,Intensification: Open to Medium,Intensification,2007,2012,0
+2007,Middle Rockies,Intensification: Open to Medium,Intensification,2007,2012,100
+2007,Wyoming Basin,Intensification: Open to Medium,Intensification,2007,2012,20
+2007,Wasatch and Uinta Mountains,Intensification: Open to Medium,Intensification,2007,2012,20
+2007,Colorado Plateaus,Intensification: Open to Medium,Intensification,2007,2012,20
+2007,Southern Rockies,Intensification: Open to Medium,Intensification,2007,2012,0
+2007,Arizona/New Mexico Plateau,Intensification: Open to Medium,Intensification,2007,2012,80
+2007,Arizona/New Mexico Mountains,Intensification: Open to Medium,Intensification,2007,2012,20
+2007,Chihuahuan Deserts,Intensification: Open to Medium,Intensification,2007,2012,40
+2007,High Plains,Intensification: Open to Medium,Intensification,2007,2012,360
+2007,Southwestern Tablelands,Intensification: Open to Medium,Intensification,2007,2012,40
+2007,Central Great Plains,Intensification: Open to Medium,Intensification,2007,2012,360
+2007,Flint Hills,Intensification: Open to Medium,Intensification,2007,2012,0
+2007,Cross Timbers,Intensification: Open to Medium,Intensification,2007,2012,300
+2007,Edwards Plateau,Intensification: Open to Medium,Intensification,2007,2012,140
+2007,Southern Texas Plains,Intensification: Open to Medium,Intensification,2007,2012,60
+2007,Texas Blackland Prairies,Intensification: Open to Medium,Intensification,2007,2012,700
+2007,East Central Texas Plains,Intensification: Open to Medium,Intensification,2007,2012,100
+2007,Western Gulf Coastal Plain,Intensification: Open to Medium,Intensification,2007,2012,1220
+2007,South Central Plains,Intensification: Open to Medium,Intensification,2007,2012,260
+2007,Ouachita Mountains,Intensification: Open to Medium,Intensification,2007,2012,80
+2007,Arkansas Valley,Intensification: Open to Medium,Intensification,2007,2012,20
+2007,Boston Mountains,Intensification: Open to Medium,Intensification,2007,2012,0
+2007,Ozark Highlands,Intensification: Open to Medium,Intensification,2007,2012,80
+2007,Central Irregular Plains,Intensification: Open to Medium,Intensification,2007,2012,280
+2007,Canadian Rockies,Intensification: Open to Medium,Intensification,2007,2012,0
+2007,Northwestern Glaciated Plains,Intensification: Open to Medium,Intensification,2007,2012,20
+2007,Northwestern Great Plains,Intensification: Open to Medium,Intensification,2007,2012,120
+2007,Nebraska Sand Hills,Intensification: Open to Medium,Intensification,2007,2012,0
+2007,Piedmont,Intensification: Open to Medium,Intensification,2007,2012,1340
+2007,Northern Glaciated Plains,Intensification: Open to Medium,Intensification,2007,2012,0
+2007,Western Corn Belt Plains,Intensification: Open to Medium,Intensification,2007,2012,459.99999999999994
+2007,Lake Agassiz Plain,Intensification: Open to Medium,Intensification,2007,2012,40
+2007,Northern Minnesota Wetlands,Intensification: Open to Medium,Intensification,2007,2012,0
+2007,Northern Lakes and Forests,Intensification: Open to Medium,Intensification,2007,2012,100
+2007,North Central Hardwood Forests,Intensification: Open to Medium,Intensification,2007,2012,480
+2007,Driftless Area,Intensification: Open to Medium,Intensification,2007,2012,20
+2007,Southeastern Wisconsin Till Plains,Intensification: Open to Medium,Intensification,2007,2012,60
+2007,Central Corn Belt Plains,Intensification: Open to Medium,Intensification,2007,2012,360
+2007,Eastern Corn Belt Plains,Intensification: Open to Medium,Intensification,2007,2012,340
+2007,Southern Michigan/Northern Indiana Drift Plains,Intensification: Open to Medium,Intensification,2007,2012,340
+2007,Huron/Erie Lake Plains,Intensification: Open to Medium,Intensification,2007,2012,160
+2007,Northeastern Highlands,Intensification: Open to Medium,Intensification,2007,2012,100
+2007,Northeastern Coastal Zone,Intensification: Open to Medium,Intensification,2007,2012,780
+2007,Northern Allegheny Plateau,Intensification: Open to Medium,Intensification,2007,2012,40
+2007,Erie Drift Plain,Intensification: Open to Medium,Intensification,2007,2012,140
+2007,North Central Appalachians,Intensification: Open to Medium,Intensification,2007,2012,20
+2007,Middle Atlantic Coastal Plain,Intensification: Open to Medium,Intensification,2007,2012,360
+2007,Northern Piedmont,Intensification: Open to Medium,Intensification,2007,2012,500
+2007,Southeastern Plains,Intensification: Open to Medium,Intensification,2007,2012,1019.9999999999999
+2007,Blue Ridge,Intensification: Open to Medium,Intensification,2007,2012,100
+2007,Ridge and Valley,Intensification: Open to Medium,Intensification,2007,2012,700
+2007,Southwestern Appalachians,Intensification: Open to Medium,Intensification,2007,2012,40
+2007,Central Appalachians,Intensification: Open to Medium,Intensification,2007,2012,60
+2007,Western Allegheny Plateau,Intensification: Open to Medium,Intensification,2007,2012,120
+2007,Interior Plateau,Intensification: Open to Medium,Intensification,2007,2012,360
+2007,Interior River Valleys and Hills,Intensification: Open to Medium,Intensification,2007,2012,260
+2007,Mississippi Alluvial Plain,Intensification: Open to Medium,Intensification,2007,2012,240
+2007,Mississippi Valley Loess Plains,Intensification: Open to Medium,Intensification,2007,2012,459.99999999999994
+2007,Southern Coastal Plain,Intensification: Open to Medium,Intensification,2007,2012,1680
+2007,Southern Florida Coastal Plain,Intensification: Open to Medium,Intensification,2007,2012,260
+2007,North Cascades,Intensification: Open to Medium,Intensification,2007,2012,0
+2007,Klamath Mountains/California High North Coast Range,Intensification: Open to Medium,Intensification,2007,2012,40
+2007,Madrean Archipelago,Intensification: Open to Medium,Intensification,2007,2012,20
+2007,Northern Basin and Range,Intensification: Open to Medium,Intensification,2007,2012,20
+2007,Sonoran Basin and Range,Intensification: Open to Medium,Intensification,2007,2012,520
+2007,Acadian Plains and Hills,Intensification: Open to Medium,Intensification,2007,2012,40
+2007,Eastern Great Lakes Lowlands,Intensification: Open to Medium,Intensification,2007,2012,180
+2007,Atlantic Coastal Pine Barrens,Intensification: Open to Medium,Intensification,2007,2012,380
+2007,Southern California/Northern Baja Coast,Intensification: Open to Medium,Intensification,2007,2012,740
+2012,Coast Range,Intensification: Open to Medium,Intensification,2012,2017,20
+2012,Puget Lowland,Intensification: Open to Medium,Intensification,2012,2017,280
+2012,Willamette Valley,Intensification: Open to Medium,Intensification,2012,2017,20
+2012,Cascades,Intensification: Open to Medium,Intensification,2012,2017,0
+2012,Sierra Nevada,Intensification: Open to Medium,Intensification,2012,2017,0
+2012,Central California Foothills and Coastal Mountains,Intensification: Open to Medium,Intensification,2012,2017,160
+2012,Central California Valley,Intensification: Open to Medium,Intensification,2012,2017,340
+2012,Southern California Mountains,Intensification: Open to Medium,Intensification,2012,2017,60
+2012,Eastern Cascades Slopes and Foothills,Intensification: Open to Medium,Intensification,2012,2017,0
+2012,Columbia Plateau,Intensification: Open to Medium,Intensification,2012,2017,100
+2012,Blue Mountains,Intensification: Open to Medium,Intensification,2012,2017,0
+2012,Snake River Plain,Intensification: Open to Medium,Intensification,2012,2017,60
+2012,Central Basin and Range,Intensification: Open to Medium,Intensification,2012,2017,160
+2012,Mojave Basin and Range,Intensification: Open to Medium,Intensification,2012,2017,60
+2012,Northern Rockies,Intensification: Open to Medium,Intensification,2012,2017,40
+2012,Idaho Batholith,Intensification: Open to Medium,Intensification,2012,2017,0
+2012,Middle Rockies,Intensification: Open to Medium,Intensification,2012,2017,60
+2012,Wyoming Basin,Intensification: Open to Medium,Intensification,2012,2017,40
+2012,Wasatch and Uinta Mountains,Intensification: Open to Medium,Intensification,2012,2017,0
+2012,Colorado Plateaus,Intensification: Open to Medium,Intensification,2012,2017,20
+2012,Southern Rockies,Intensification: Open to Medium,Intensification,2012,2017,40
+2012,Arizona/New Mexico Plateau,Intensification: Open to Medium,Intensification,2012,2017,60
+2012,Arizona/New Mexico Mountains,Intensification: Open to Medium,Intensification,2012,2017,20
+2012,Chihuahuan Deserts,Intensification: Open to Medium,Intensification,2012,2017,120
+2012,High Plains,Intensification: Open to Medium,Intensification,2012,2017,360
+2012,Southwestern Tablelands,Intensification: Open to Medium,Intensification,2012,2017,80
+2012,Central Great Plains,Intensification: Open to Medium,Intensification,2012,2017,360
+2012,Flint Hills,Intensification: Open to Medium,Intensification,2012,2017,0
+2012,Cross Timbers,Intensification: Open to Medium,Intensification,2012,2017,480
+2012,Edwards Plateau,Intensification: Open to Medium,Intensification,2012,2017,300
+2012,Southern Texas Plains,Intensification: Open to Medium,Intensification,2012,2017,80
+2012,Texas Blackland Prairies,Intensification: Open to Medium,Intensification,2012,2017,720
+2012,East Central Texas Plains,Intensification: Open to Medium,Intensification,2012,2017,160
+2012,Western Gulf Coastal Plain,Intensification: Open to Medium,Intensification,2012,2017,680
+2012,South Central Plains,Intensification: Open to Medium,Intensification,2012,2017,220.00000000000003
+2012,Ouachita Mountains,Intensification: Open to Medium,Intensification,2012,2017,20
+2012,Arkansas Valley,Intensification: Open to Medium,Intensification,2012,2017,80
+2012,Boston Mountains,Intensification: Open to Medium,Intensification,2012,2017,0
+2012,Ozark Highlands,Intensification: Open to Medium,Intensification,2012,2017,160
+2012,Central Irregular Plains,Intensification: Open to Medium,Intensification,2012,2017,180
+2012,Canadian Rockies,Intensification: Open to Medium,Intensification,2012,2017,0
+2012,Northwestern Glaciated Plains,Intensification: Open to Medium,Intensification,2012,2017,0
+2012,Northwestern Great Plains,Intensification: Open to Medium,Intensification,2012,2017,120
+2012,Nebraska Sand Hills,Intensification: Open to Medium,Intensification,2012,2017,0
+2012,Piedmont,Intensification: Open to Medium,Intensification,2012,2017,880.0000000000001
+2012,Northern Glaciated Plains,Intensification: Open to Medium,Intensification,2012,2017,60
+2012,Western Corn Belt Plains,Intensification: Open to Medium,Intensification,2012,2017,200
+2012,Lake Agassiz Plain,Intensification: Open to Medium,Intensification,2012,2017,60
+2012,Northern Minnesota Wetlands,Intensification: Open to Medium,Intensification,2012,2017,0
+2012,Northern Lakes and Forests,Intensification: Open to Medium,Intensification,2012,2017,200
+2012,North Central Hardwood Forests,Intensification: Open to Medium,Intensification,2012,2017,380
+2012,Driftless Area,Intensification: Open to Medium,Intensification,2012,2017,40
+2012,Southeastern Wisconsin Till Plains,Intensification: Open to Medium,Intensification,2012,2017,160
+2012,Central Corn Belt Plains,Intensification: Open to Medium,Intensification,2012,2017,180
+2012,Eastern Corn Belt Plains,Intensification: Open to Medium,Intensification,2012,2017,640
+2012,Southern Michigan/Northern Indiana Drift Plains,Intensification: Open to Medium,Intensification,2012,2017,459.99999999999994
+2012,Huron/Erie Lake Plains,Intensification: Open to Medium,Intensification,2012,2017,200
+2012,Northeastern Highlands,Intensification: Open to Medium,Intensification,2012,2017,60
+2012,Northeastern Coastal Zone,Intensification: Open to Medium,Intensification,2012,2017,500
+2012,Northern Allegheny Plateau,Intensification: Open to Medium,Intensification,2012,2017,20
+2012,Erie Drift Plain,Intensification: Open to Medium,Intensification,2012,2017,220.00000000000003
+2012,North Central Appalachians,Intensification: Open to Medium,Intensification,2012,2017,60
+2012,Middle Atlantic Coastal Plain,Intensification: Open to Medium,Intensification,2012,2017,480
+2012,Northern Piedmont,Intensification: Open to Medium,Intensification,2012,2017,459.99999999999994
+2012,Southeastern Plains,Intensification: Open to Medium,Intensification,2012,2017,980.0000000000001
+2012,Blue Ridge,Intensification: Open to Medium,Intensification,2012,2017,60
+2012,Ridge and Valley,Intensification: Open to Medium,Intensification,2012,2017,560
+2012,Southwestern Appalachians,Intensification: Open to Medium,Intensification,2012,2017,120
+2012,Central Appalachians,Intensification: Open to Medium,Intensification,2012,2017,100
+2012,Western Allegheny Plateau,Intensification: Open to Medium,Intensification,2012,2017,340
+2012,Interior Plateau,Intensification: Open to Medium,Intensification,2012,2017,560
+2012,Interior River Valleys and Hills,Intensification: Open to Medium,Intensification,2012,2017,200
+2012,Mississippi Alluvial Plain,Intensification: Open to Medium,Intensification,2012,2017,220.00000000000003
+2012,Mississippi Valley Loess Plains,Intensification: Open to Medium,Intensification,2012,2017,300
+2012,Southern Coastal Plain,Intensification: Open to Medium,Intensification,2012,2017,1620
+2012,Southern Florida Coastal Plain,Intensification: Open to Medium,Intensification,2012,2017,240
+2012,North Cascades,Intensification: Open to Medium,Intensification,2012,2017,0
+2012,Klamath Mountains/California High North Coast Range,Intensification: Open to Medium,Intensification,2012,2017,20
+2012,Madrean Archipelago,Intensification: Open to Medium,Intensification,2012,2017,0
+2012,Northern Basin and Range,Intensification: Open to Medium,Intensification,2012,2017,0
+2012,Sonoran Basin and Range,Intensification: Open to Medium,Intensification,2012,2017,220.00000000000003
+2012,Acadian Plains and Hills,Intensification: Open to Medium,Intensification,2012,2017,100
+2012,Eastern Great Lakes Lowlands,Intensification: Open to Medium,Intensification,2012,2017,100
+2012,Atlantic Coastal Pine Barrens,Intensification: Open to Medium,Intensification,2012,2017,300
+2012,Southern California/Northern Baja Coast,Intensification: Open to Medium,Intensification,2012,2017,760
+2001,Coast Range,Intensification: Open to High,Intensification,2001,2006,0
+2001,Puget Lowland,Intensification: Open to High,Intensification,2001,2006,60
+2001,Willamette Valley,Intensification: Open to High,Intensification,2001,2006,60
+2001,Cascades,Intensification: Open to High,Intensification,2001,2006,0
+2001,Sierra Nevada,Intensification: Open to High,Intensification,2001,2006,0
+2001,Central California Foothills and Coastal Mountains,Intensification: Open to High,Intensification,2001,2006,280
+2001,Central California Valley,Intensification: Open to High,Intensification,2001,2006,240
+2001,Southern California Mountains,Intensification: Open to High,Intensification,2001,2006,0
+2001,Eastern Cascades Slopes and Foothills,Intensification: Open to High,Intensification,2001,2006,0
+2001,Columbia Plateau,Intensification: Open to High,Intensification,2001,2006,20
+2001,Blue Mountains,Intensification: Open to High,Intensification,2001,2006,0
+2001,Snake River Plain,Intensification: Open to High,Intensification,2001,2006,0
+2001,Central Basin and Range,Intensification: Open to High,Intensification,2001,2006,60
+2001,Mojave Basin and Range,Intensification: Open to High,Intensification,2001,2006,100
+2001,Northern Rockies,Intensification: Open to High,Intensification,2001,2006,0
+2001,Idaho Batholith,Intensification: Open to High,Intensification,2001,2006,0
+2001,Middle Rockies,Intensification: Open to High,Intensification,2001,2006,20
+2001,Wyoming Basin,Intensification: Open to High,Intensification,2001,2006,0
+2001,Wasatch and Uinta Mountains,Intensification: Open to High,Intensification,2001,2006,0
+2001,Colorado Plateaus,Intensification: Open to High,Intensification,2001,2006,0
+2001,Southern Rockies,Intensification: Open to High,Intensification,2001,2006,0
+2001,Arizona/New Mexico Plateau,Intensification: Open to High,Intensification,2001,2006,40
+2001,Arizona/New Mexico Mountains,Intensification: Open to High,Intensification,2001,2006,0
+2001,Chihuahuan Deserts,Intensification: Open to High,Intensification,2001,2006,20
+2001,High Plains,Intensification: Open to High,Intensification,2001,2006,60
+2001,Southwestern Tablelands,Intensification: Open to High,Intensification,2001,2006,0
+2001,Central Great Plains,Intensification: Open to High,Intensification,2001,2006,120
+2001,Flint Hills,Intensification: Open to High,Intensification,2001,2006,0
+2001,Cross Timbers,Intensification: Open to High,Intensification,2001,2006,140
+2001,Edwards Plateau,Intensification: Open to High,Intensification,2001,2006,100
+2001,Southern Texas Plains,Intensification: Open to High,Intensification,2001,2006,0
+2001,Texas Blackland Prairies,Intensification: Open to High,Intensification,2001,2006,160
+2001,East Central Texas Plains,Intensification: Open to High,Intensification,2001,2006,20
+2001,Western Gulf Coastal Plain,Intensification: Open to High,Intensification,2001,2006,280
+2001,South Central Plains,Intensification: Open to High,Intensification,2001,2006,80
+2001,Ouachita Mountains,Intensification: Open to High,Intensification,2001,2006,40
+2001,Arkansas Valley,Intensification: Open to High,Intensification,2001,2006,40
+2001,Boston Mountains,Intensification: Open to High,Intensification,2001,2006,0
+2001,Ozark Highlands,Intensification: Open to High,Intensification,2001,2006,80
+2001,Central Irregular Plains,Intensification: Open to High,Intensification,2001,2006,100
+2001,Canadian Rockies,Intensification: Open to High,Intensification,2001,2006,0
+2001,Northwestern Glaciated Plains,Intensification: Open to High,Intensification,2001,2006,0
+2001,Northwestern Great Plains,Intensification: Open to High,Intensification,2001,2006,40
+2001,Nebraska Sand Hills,Intensification: Open to High,Intensification,2001,2006,0
+2001,Piedmont,Intensification: Open to High,Intensification,2001,2006,80
+2001,Northern Glaciated Plains,Intensification: Open to High,Intensification,2001,2006,60
+2001,Western Corn Belt Plains,Intensification: Open to High,Intensification,2001,2006,80
+2001,Lake Agassiz Plain,Intensification: Open to High,Intensification,2001,2006,20
+2001,Northern Minnesota Wetlands,Intensification: Open to High,Intensification,2001,2006,0
+2001,Northern Lakes and Forests,Intensification: Open to High,Intensification,2001,2006,20
+2001,North Central Hardwood Forests,Intensification: Open to High,Intensification,2001,2006,180
+2001,Driftless Area,Intensification: Open to High,Intensification,2001,2006,20
+2001,Southeastern Wisconsin Till Plains,Intensification: Open to High,Intensification,2001,2006,160
+2001,Central Corn Belt Plains,Intensification: Open to High,Intensification,2001,2006,140
+2001,Eastern Corn Belt Plains,Intensification: Open to High,Intensification,2001,2006,140
+2001,Southern Michigan/Northern Indiana Drift Plains,Intensification: Open to High,Intensification,2001,2006,200
+2001,Huron/Erie Lake Plains,Intensification: Open to High,Intensification,2001,2006,40
+2001,Northeastern Highlands,Intensification: Open to High,Intensification,2001,2006,0
+2001,Northeastern Coastal Zone,Intensification: Open to High,Intensification,2001,2006,180
+2001,Northern Allegheny Plateau,Intensification: Open to High,Intensification,2001,2006,0
+2001,Erie Drift Plain,Intensification: Open to High,Intensification,2001,2006,80
+2001,North Central Appalachians,Intensification: Open to High,Intensification,2001,2006,20
+2001,Middle Atlantic Coastal Plain,Intensification: Open to High,Intensification,2001,2006,220.00000000000003
+2001,Northern Piedmont,Intensification: Open to High,Intensification,2001,2006,220.00000000000003
+2001,Southeastern Plains,Intensification: Open to High,Intensification,2001,2006,180
+2001,Blue Ridge,Intensification: Open to High,Intensification,2001,2006,20
+2001,Ridge and Valley,Intensification: Open to High,Intensification,2001,2006,160
+2001,Southwestern Appalachians,Intensification: Open to High,Intensification,2001,2006,0
+2001,Central Appalachians,Intensification: Open to High,Intensification,2001,2006,20
+2001,Western Allegheny Plateau,Intensification: Open to High,Intensification,2001,2006,80
+2001,Interior Plateau,Intensification: Open to High,Intensification,2001,2006,260
+2001,Interior River Valleys and Hills,Intensification: Open to High,Intensification,2001,2006,40
+2001,Mississippi Alluvial Plain,Intensification: Open to High,Intensification,2001,2006,100
+2001,Mississippi Valley Loess Plains,Intensification: Open to High,Intensification,2001,2006,120
+2001,Southern Coastal Plain,Intensification: Open to High,Intensification,2001,2006,440.00000000000006
+2001,Southern Florida Coastal Plain,Intensification: Open to High,Intensification,2001,2006,60
+2001,North Cascades,Intensification: Open to High,Intensification,2001,2006,0
+2001,Klamath Mountains/California High North Coast Range,Intensification: Open to High,Intensification,2001,2006,20
+2001,Madrean Archipelago,Intensification: Open to High,Intensification,2001,2006,0
+2001,Northern Basin and Range,Intensification: Open to High,Intensification,2001,2006,0
+2001,Sonoran Basin and Range,Intensification: Open to High,Intensification,2001,2006,80
+2001,Acadian Plains and Hills,Intensification: Open to High,Intensification,2001,2006,40
+2001,Eastern Great Lakes Lowlands,Intensification: Open to High,Intensification,2001,2006,100
+2001,Atlantic Coastal Pine Barrens,Intensification: Open to High,Intensification,2001,2006,100
+2001,Southern California/Northern Baja Coast,Intensification: Open to High,Intensification,2001,2006,380
+2007,Coast Range,Intensification: Open to High,Intensification,2007,2012,0
+2007,Puget Lowland,Intensification: Open to High,Intensification,2007,2012,0
+2007,Willamette Valley,Intensification: Open to High,Intensification,2007,2012,0
+2007,Cascades,Intensification: Open to High,Intensification,2007,2012,0
+2007,Sierra Nevada,Intensification: Open to High,Intensification,2007,2012,0
+2007,Central California Foothills and Coastal Mountains,Intensification: Open to High,Intensification,2007,2012,0
+2007,Central California Valley,Intensification: Open to High,Intensification,2007,2012,160
+2007,Southern California Mountains,Intensification: Open to High,Intensification,2007,2012,0
+2007,Eastern Cascades Slopes and Foothills,Intensification: Open to High,Intensification,2007,2012,0
+2007,Columbia Plateau,Intensification: Open to High,Intensification,2007,2012,0
+2007,Blue Mountains,Intensification: Open to High,Intensification,2007,2012,0
+2007,Snake River Plain,Intensification: Open to High,Intensification,2007,2012,20
+2007,Central Basin and Range,Intensification: Open to High,Intensification,2007,2012,80
+2007,Mojave Basin and Range,Intensification: Open to High,Intensification,2007,2012,60
+2007,Northern Rockies,Intensification: Open to High,Intensification,2007,2012,0
+2007,Idaho Batholith,Intensification: Open to High,Intensification,2007,2012,0
+2007,Middle Rockies,Intensification: Open to High,Intensification,2007,2012,0
+2007,Wyoming Basin,Intensification: Open to High,Intensification,2007,2012,20
+2007,Wasatch and Uinta Mountains,Intensification: Open to High,Intensification,2007,2012,20
+2007,Colorado Plateaus,Intensification: Open to High,Intensification,2007,2012,20
+2007,Southern Rockies,Intensification: Open to High,Intensification,2007,2012,0
+2007,Arizona/New Mexico Plateau,Intensification: Open to High,Intensification,2007,2012,0
+2007,Arizona/New Mexico Mountains,Intensification: Open to High,Intensification,2007,2012,0
+2007,Chihuahuan Deserts,Intensification: Open to High,Intensification,2007,2012,0
+2007,High Plains,Intensification: Open to High,Intensification,2007,2012,60
+2007,Southwestern Tablelands,Intensification: Open to High,Intensification,2007,2012,0
+2007,Central Great Plains,Intensification: Open to High,Intensification,2007,2012,100
+2007,Flint Hills,Intensification: Open to High,Intensification,2007,2012,20
+2007,Cross Timbers,Intensification: Open to High,Intensification,2007,2012,60
+2007,Edwards Plateau,Intensification: Open to High,Intensification,2007,2012,20
+2007,Southern Texas Plains,Intensification: Open to High,Intensification,2007,2012,40
+2007,Texas Blackland Prairies,Intensification: Open to High,Intensification,2007,2012,140
+2007,East Central Texas Plains,Intensification: Open to High,Intensification,2007,2012,20
+2007,Western Gulf Coastal Plain,Intensification: Open to High,Intensification,2007,2012,440.00000000000006
+2007,South Central Plains,Intensification: Open to High,Intensification,2007,2012,120
+2007,Ouachita Mountains,Intensification: Open to High,Intensification,2007,2012,0
+2007,Arkansas Valley,Intensification: Open to High,Intensification,2007,2012,0
+2007,Boston Mountains,Intensification: Open to High,Intensification,2007,2012,0
+2007,Ozark Highlands,Intensification: Open to High,Intensification,2007,2012,40
+2007,Central Irregular Plains,Intensification: Open to High,Intensification,2007,2012,60
+2007,Canadian Rockies,Intensification: Open to High,Intensification,2007,2012,0
+2007,Northwestern Glaciated Plains,Intensification: Open to High,Intensification,2007,2012,0
+2007,Northwestern Great Plains,Intensification: Open to High,Intensification,2007,2012,0
+2007,Nebraska Sand Hills,Intensification: Open to High,Intensification,2007,2012,0
+2007,Piedmont,Intensification: Open to High,Intensification,2007,2012,220.00000000000003
+2007,Northern Glaciated Plains,Intensification: Open to High,Intensification,2007,2012,0
+2007,Western Corn Belt Plains,Intensification: Open to High,Intensification,2007,2012,140
+2007,Lake Agassiz Plain,Intensification: Open to High,Intensification,2007,2012,20
+2007,Northern Minnesota Wetlands,Intensification: Open to High,Intensification,2007,2012,0
+2007,Northern Lakes and Forests,Intensification: Open to High,Intensification,2007,2012,40
+2007,North Central Hardwood Forests,Intensification: Open to High,Intensification,2007,2012,100
+2007,Driftless Area,Intensification: Open to High,Intensification,2007,2012,20
+2007,Southeastern Wisconsin Till Plains,Intensification: Open to High,Intensification,2007,2012,40
+2007,Central Corn Belt Plains,Intensification: Open to High,Intensification,2007,2012,80
+2007,Eastern Corn Belt Plains,Intensification: Open to High,Intensification,2007,2012,220.00000000000003
+2007,Southern Michigan/Northern Indiana Drift Plains,Intensification: Open to High,Intensification,2007,2012,180
+2007,Huron/Erie Lake Plains,Intensification: Open to High,Intensification,2007,2012,160
+2007,Northeastern Highlands,Intensification: Open to High,Intensification,2007,2012,0
+2007,Northeastern Coastal Zone,Intensification: Open to High,Intensification,2007,2012,160
+2007,Northern Allegheny Plateau,Intensification: Open to High,Intensification,2007,2012,0
+2007,Erie Drift Plain,Intensification: Open to High,Intensification,2007,2012,60
+2007,North Central Appalachians,Intensification: Open to High,Intensification,2007,2012,0
+2007,Middle Atlantic Coastal Plain,Intensification: Open to High,Intensification,2007,2012,100
+2007,Northern Piedmont,Intensification: Open to High,Intensification,2007,2012,60
+2007,Southeastern Plains,Intensification: Open to High,Intensification,2007,2012,160
+2007,Blue Ridge,Intensification: Open to High,Intensification,2007,2012,20
+2007,Ridge and Valley,Intensification: Open to High,Intensification,2007,2012,120
+2007,Southwestern Appalachians,Intensification: Open to High,Intensification,2007,2012,0
+2007,Central Appalachians,Intensification: Open to High,Intensification,2007,2012,20
+2007,Western Allegheny Plateau,Intensification: Open to High,Intensification,2007,2012,40
+2007,Interior Plateau,Intensification: Open to High,Intensification,2007,2012,140
+2007,Interior River Valleys and Hills,Intensification: Open to High,Intensification,2007,2012,80
+2007,Mississippi Alluvial Plain,Intensification: Open to High,Intensification,2007,2012,60
+2007,Mississippi Valley Loess Plains,Intensification: Open to High,Intensification,2007,2012,100
+2007,Southern Coastal Plain,Intensification: Open to High,Intensification,2007,2012,380
+2007,Southern Florida Coastal Plain,Intensification: Open to High,Intensification,2007,2012,40
+2007,North Cascades,Intensification: Open to High,Intensification,2007,2012,0
+2007,Klamath Mountains/California High North Coast Range,Intensification: Open to High,Intensification,2007,2012,0
+2007,Madrean Archipelago,Intensification: Open to High,Intensification,2007,2012,0
+2007,Northern Basin and Range,Intensification: Open to High,Intensification,2007,2012,0
+2007,Sonoran Basin and Range,Intensification: Open to High,Intensification,2007,2012,80
+2007,Acadian Plains and Hills,Intensification: Open to High,Intensification,2007,2012,20
+2007,Eastern Great Lakes Lowlands,Intensification: Open to High,Intensification,2007,2012,40
+2007,Atlantic Coastal Pine Barrens,Intensification: Open to High,Intensification,2007,2012,0
+2007,Southern California/Northern Baja Coast,Intensification: Open to High,Intensification,2007,2012,180
+2012,Coast Range,Intensification: Open to High,Intensification,2012,2017,0
+2012,Puget Lowland,Intensification: Open to High,Intensification,2012,2017,0
+2012,Willamette Valley,Intensification: Open to High,Intensification,2012,2017,0
+2012,Cascades,Intensification: Open to High,Intensification,2012,2017,0
+2012,Sierra Nevada,Intensification: Open to High,Intensification,2012,2017,0
+2012,Central California Foothills and Coastal Mountains,Intensification: Open to High,Intensification,2012,2017,0
+2012,Central California Valley,Intensification: Open to High,Intensification,2012,2017,0
+2012,Southern California Mountains,Intensification: Open to High,Intensification,2012,2017,0
+2012,Eastern Cascades Slopes and Foothills,Intensification: Open to High,Intensification,2012,2017,0
+2012,Columbia Plateau,Intensification: Open to High,Intensification,2012,2017,0
+2012,Blue Mountains,Intensification: Open to High,Intensification,2012,2017,0
+2012,Snake River Plain,Intensification: Open to High,Intensification,2012,2017,0
+2012,Central Basin and Range,Intensification: Open to High,Intensification,2012,2017,0
+2012,Mojave Basin and Range,Intensification: Open to High,Intensification,2012,2017,0
+2012,Northern Rockies,Intensification: Open to High,Intensification,2012,2017,0
+2012,Idaho Batholith,Intensification: Open to High,Intensification,2012,2017,0
+2012,Middle Rockies,Intensification: Open to High,Intensification,2012,2017,0
+2012,Wyoming Basin,Intensification: Open to High,Intensification,2012,2017,0
+2012,Wasatch and Uinta Mountains,Intensification: Open to High,Intensification,2012,2017,0
+2012,Colorado Plateaus,Intensification: Open to High,Intensification,2012,2017,0
+2012,Southern Rockies,Intensification: Open to High,Intensification,2012,2017,0
+2012,Arizona/New Mexico Plateau,Intensification: Open to High,Intensification,2012,2017,0
+2012,Arizona/New Mexico Mountains,Intensification: Open to High,Intensification,2012,2017,0
+2012,Chihuahuan Deserts,Intensification: Open to High,Intensification,2012,2017,0
+2012,High Plains,Intensification: Open to High,Intensification,2012,2017,0
+2012,Southwestern Tablelands,Intensification: Open to High,Intensification,2012,2017,0
+2012,Central Great Plains,Intensification: Open to High,Intensification,2012,2017,0
+2012,Flint Hills,Intensification: Open to High,Intensification,2012,2017,0
+2012,Cross Timbers,Intensification: Open to High,Intensification,2012,2017,0
+2012,Edwards Plateau,Intensification: Open to High,Intensification,2012,2017,0
+2012,Southern Texas Plains,Intensification: Open to High,Intensification,2012,2017,0
+2012,Texas Blackland Prairies,Intensification: Open to High,Intensification,2012,2017,0
+2012,East Central Texas Plains,Intensification: Open to High,Intensification,2012,2017,0
+2012,Western Gulf Coastal Plain,Intensification: Open to High,Intensification,2012,2017,0
+2012,South Central Plains,Intensification: Open to High,Intensification,2012,2017,0
+2012,Ouachita Mountains,Intensification: Open to High,Intensification,2012,2017,0
+2012,Arkansas Valley,Intensification: Open to High,Intensification,2012,2017,0
+2012,Boston Mountains,Intensification: Open to High,Intensification,2012,2017,0
+2012,Ozark Highlands,Intensification: Open to High,Intensification,2012,2017,0
+2012,Central Irregular Plains,Intensification: Open to High,Intensification,2012,2017,0
+2012,Canadian Rockies,Intensification: Open to High,Intensification,2012,2017,0
+2012,Northwestern Glaciated Plains,Intensification: Open to High,Intensification,2012,2017,0
+2012,Northwestern Great Plains,Intensification: Open to High,Intensification,2012,2017,0
+2012,Nebraska Sand Hills,Intensification: Open to High,Intensification,2012,2017,0
+2012,Piedmont,Intensification: Open to High,Intensification,2012,2017,0
+2012,Northern Glaciated Plains,Intensification: Open to High,Intensification,2012,2017,0
+2012,Western Corn Belt Plains,Intensification: Open to High,Intensification,2012,2017,0
+2012,Lake Agassiz Plain,Intensification: Open to High,Intensification,2012,2017,0
+2012,Northern Minnesota Wetlands,Intensification: Open to High,Intensification,2012,2017,0
+2012,Northern Lakes and Forests,Intensification: Open to High,Intensification,2012,2017,0
+2012,North Central Hardwood Forests,Intensification: Open to High,Intensification,2012,2017,0
+2012,Driftless Area,Intensification: Open to High,Intensification,2012,2017,0
+2012,Southeastern Wisconsin Till Plains,Intensification: Open to High,Intensification,2012,2017,0
+2012,Central Corn Belt Plains,Intensification: Open to High,Intensification,2012,2017,0
+2012,Eastern Corn Belt Plains,Intensification: Open to High,Intensification,2012,2017,0
+2012,Southern Michigan/Northern Indiana Drift Plains,Intensification: Open to High,Intensification,2012,2017,0
+2012,Huron/Erie Lake Plains,Intensification: Open to High,Intensification,2012,2017,0
+2012,Northeastern Highlands,Intensification: Open to High,Intensification,2012,2017,0
+2012,Northeastern Coastal Zone,Intensification: Open to High,Intensification,2012,2017,0
+2012,Northern Allegheny Plateau,Intensification: Open to High,Intensification,2012,2017,0
+2012,Erie Drift Plain,Intensification: Open to High,Intensification,2012,2017,0
+2012,North Central Appalachians,Intensification: Open to High,Intensification,2012,2017,0
+2012,Middle Atlantic Coastal Plain,Intensification: Open to High,Intensification,2012,2017,0
+2012,Northern Piedmont,Intensification: Open to High,Intensification,2012,2017,0
+2012,Southeastern Plains,Intensification: Open to High,Intensification,2012,2017,0
+2012,Blue Ridge,Intensification: Open to High,Intensification,2012,2017,0
+2012,Ridge and Valley,Intensification: Open to High,Intensification,2012,2017,0
+2012,Southwestern Appalachians,Intensification: Open to High,Intensification,2012,2017,0
+2012,Central Appalachians,Intensification: Open to High,Intensification,2012,2017,0
+2012,Western Allegheny Plateau,Intensification: Open to High,Intensification,2012,2017,0
+2012,Interior Plateau,Intensification: Open to High,Intensification,2012,2017,0
+2012,Interior River Valleys and Hills,Intensification: Open to High,Intensification,2012,2017,0
+2012,Mississippi Alluvial Plain,Intensification: Open to High,Intensification,2012,2017,0
+2012,Mississippi Valley Loess Plains,Intensification: Open to High,Intensification,2012,2017,0
+2012,Southern Coastal Plain,Intensification: Open to High,Intensification,2012,2017,0
+2012,Southern Florida Coastal Plain,Intensification: Open to High,Intensification,2012,2017,0
+2012,North Cascades,Intensification: Open to High,Intensification,2012,2017,0
+2012,Klamath Mountains/California High North Coast Range,Intensification: Open to High,Intensification,2012,2017,0
+2012,Madrean Archipelago,Intensification: Open to High,Intensification,2012,2017,0
+2012,Northern Basin and Range,Intensification: Open to High,Intensification,2012,2017,0
+2012,Sonoran Basin and Range,Intensification: Open to High,Intensification,2012,2017,0
+2012,Acadian Plains and Hills,Intensification: Open to High,Intensification,2012,2017,0
+2012,Eastern Great Lakes Lowlands,Intensification: Open to High,Intensification,2012,2017,0
+2012,Atlantic Coastal Pine Barrens,Intensification: Open to High,Intensification,2012,2017,0
+2012,Southern California/Northern Baja Coast,Intensification: Open to High,Intensification,2012,2017,0
+2001,Coast Range,Intensification: Low to Medium,Intensification,2001,2006,60
+2001,Puget Lowland,Intensification: Low to Medium,Intensification,2001,2006,400
+2001,Willamette Valley,Intensification: Low to Medium,Intensification,2001,2006,60
+2001,Cascades,Intensification: Low to Medium,Intensification,2001,2006,0
+2001,Sierra Nevada,Intensification: Low to Medium,Intensification,2001,2006,20
+2001,Central California Foothills and Coastal Mountains,Intensification: Low to Medium,Intensification,2001,2006,180
+2001,Central California Valley,Intensification: Low to Medium,Intensification,2001,2006,100
+2001,Southern California Mountains,Intensification: Low to Medium,Intensification,2001,2006,0
+2001,Eastern Cascades Slopes and Foothills,Intensification: Low to Medium,Intensification,2001,2006,20
+2001,Columbia Plateau,Intensification: Low to Medium,Intensification,2001,2006,60
+2001,Blue Mountains,Intensification: Low to Medium,Intensification,2001,2006,20
+2001,Snake River Plain,Intensification: Low to Medium,Intensification,2001,2006,80
+2001,Central Basin and Range,Intensification: Low to Medium,Intensification,2001,2006,80
+2001,Mojave Basin and Range,Intensification: Low to Medium,Intensification,2001,2006,180
+2001,Northern Rockies,Intensification: Low to Medium,Intensification,2001,2006,20
+2001,Idaho Batholith,Intensification: Low to Medium,Intensification,2001,2006,0
+2001,Middle Rockies,Intensification: Low to Medium,Intensification,2001,2006,0
+2001,Wyoming Basin,Intensification: Low to Medium,Intensification,2001,2006,40
+2001,Wasatch and Uinta Mountains,Intensification: Low to Medium,Intensification,2001,2006,0
+2001,Colorado Plateaus,Intensification: Low to Medium,Intensification,2001,2006,0
+2001,Southern Rockies,Intensification: Low to Medium,Intensification,2001,2006,20
+2001,Arizona/New Mexico Plateau,Intensification: Low to Medium,Intensification,2001,2006,80
+2001,Arizona/New Mexico Mountains,Intensification: Low to Medium,Intensification,2001,2006,80
+2001,Chihuahuan Deserts,Intensification: Low to Medium,Intensification,2001,2006,80
+2001,High Plains,Intensification: Low to Medium,Intensification,2001,2006,200
+2001,Southwestern Tablelands,Intensification: Low to Medium,Intensification,2001,2006,20
+2001,Central Great Plains,Intensification: Low to Medium,Intensification,2001,2006,240
+2001,Flint Hills,Intensification: Low to Medium,Intensification,2001,2006,0
+2001,Cross Timbers,Intensification: Low to Medium,Intensification,2001,2006,100
+2001,Edwards Plateau,Intensification: Low to Medium,Intensification,2001,2006,40
+2001,Southern Texas Plains,Intensification: Low to Medium,Intensification,2001,2006,40
+2001,Texas Blackland Prairies,Intensification: Low to Medium,Intensification,2001,2006,280
+2001,East Central Texas Plains,Intensification: Low to Medium,Intensification,2001,2006,40
+2001,Western Gulf Coastal Plain,Intensification: Low to Medium,Intensification,2001,2006,360
+2001,South Central Plains,Intensification: Low to Medium,Intensification,2001,2006,240
+2001,Ouachita Mountains,Intensification: Low to Medium,Intensification,2001,2006,0
+2001,Arkansas Valley,Intensification: Low to Medium,Intensification,2001,2006,60
+2001,Boston Mountains,Intensification: Low to Medium,Intensification,2001,2006,0
+2001,Ozark Highlands,Intensification: Low to Medium,Intensification,2001,2006,120
+2001,Central Irregular Plains,Intensification: Low to Medium,Intensification,2001,2006,80
+2001,Canadian Rockies,Intensification: Low to Medium,Intensification,2001,2006,0
+2001,Northwestern Glaciated Plains,Intensification: Low to Medium,Intensification,2001,2006,40
+2001,Northwestern Great Plains,Intensification: Low to Medium,Intensification,2001,2006,0
+2001,Nebraska Sand Hills,Intensification: Low to Medium,Intensification,2001,2006,0
+2001,Piedmont,Intensification: Low to Medium,Intensification,2001,2006,459.99999999999994
+2001,Northern Glaciated Plains,Intensification: Low to Medium,Intensification,2001,2006,40
+2001,Western Corn Belt Plains,Intensification: Low to Medium,Intensification,2001,2006,360
+2001,Lake Agassiz Plain,Intensification: Low to Medium,Intensification,2001,2006,20
+2001,Northern Minnesota Wetlands,Intensification: Low to Medium,Intensification,2001,2006,0
+2001,Northern Lakes and Forests,Intensification: Low to Medium,Intensification,2001,2006,20
+2001,North Central Hardwood Forests,Intensification: Low to Medium,Intensification,2001,2006,240
+2001,Driftless Area,Intensification: Low to Medium,Intensification,2001,2006,40
+2001,Southeastern Wisconsin Till Plains,Intensification: Low to Medium,Intensification,2001,2006,80
+2001,Central Corn Belt Plains,Intensification: Low to Medium,Intensification,2001,2006,340
+2001,Eastern Corn Belt Plains,Intensification: Low to Medium,Intensification,2001,2006,320
+2001,Southern Michigan/Northern Indiana Drift Plains,Intensification: Low to Medium,Intensification,2001,2006,140
+2001,Huron/Erie Lake Plains,Intensification: Low to Medium,Intensification,2001,2006,180
+2001,Northeastern Highlands,Intensification: Low to Medium,Intensification,2001,2006,80
+2001,Northeastern Coastal Zone,Intensification: Low to Medium,Intensification,2001,2006,540
+2001,Northern Allegheny Plateau,Intensification: Low to Medium,Intensification,2001,2006,20
+2001,Erie Drift Plain,Intensification: Low to Medium,Intensification,2001,2006,120
+2001,North Central Appalachians,Intensification: Low to Medium,Intensification,2001,2006,0
+2001,Middle Atlantic Coastal Plain,Intensification: Low to Medium,Intensification,2001,2006,220.00000000000003
+2001,Northern Piedmont,Intensification: Low to Medium,Intensification,2001,2006,240
+2001,Southeastern Plains,Intensification: Low to Medium,Intensification,2001,2006,480
+2001,Blue Ridge,Intensification: Low to Medium,Intensification,2001,2006,40
+2001,Ridge and Valley,Intensification: Low to Medium,Intensification,2001,2006,480
+2001,Southwestern Appalachians,Intensification: Low to Medium,Intensification,2001,2006,20
+2001,Central Appalachians,Intensification: Low to Medium,Intensification,2001,2006,20
+2001,Western Allegheny Plateau,Intensification: Low to Medium,Intensification,2001,2006,80
+2001,Interior Plateau,Intensification: Low to Medium,Intensification,2001,2006,300
+2001,Interior River Valleys and Hills,Intensification: Low to Medium,Intensification,2001,2006,140
+2001,Mississippi Alluvial Plain,Intensification: Low to Medium,Intensification,2001,2006,100
+2001,Mississippi Valley Loess Plains,Intensification: Low to Medium,Intensification,2001,2006,120
+2001,Southern Coastal Plain,Intensification: Low to Medium,Intensification,2001,2006,680
+2001,Southern Florida Coastal Plain,Intensification: Low to Medium,Intensification,2001,2006,220.00000000000003
+2001,North Cascades,Intensification: Low to Medium,Intensification,2001,2006,0
+2001,Klamath Mountains/California High North Coast Range,Intensification: Low to Medium,Intensification,2001,2006,20
+2001,Madrean Archipelago,Intensification: Low to Medium,Intensification,2001,2006,0
+2001,Northern Basin and Range,Intensification: Low to Medium,Intensification,2001,2006,20
+2001,Sonoran Basin and Range,Intensification: Low to Medium,Intensification,2001,2006,80
+2001,Acadian Plains and Hills,Intensification: Low to Medium,Intensification,2001,2006,40
+2001,Eastern Great Lakes Lowlands,Intensification: Low to Medium,Intensification,2001,2006,260
+2001,Atlantic Coastal Pine Barrens,Intensification: Low to Medium,Intensification,2001,2006,100
+2001,Southern California/Northern Baja Coast,Intensification: Low to Medium,Intensification,2001,2006,320
+2007,Coast Range,Intensification: Low to Medium,Intensification,2007,2012,20
+2007,Puget Lowland,Intensification: Low to Medium,Intensification,2007,2012,80
+2007,Willamette Valley,Intensification: Low to Medium,Intensification,2007,2012,20
+2007,Cascades,Intensification: Low to Medium,Intensification,2007,2012,0
+2007,Sierra Nevada,Intensification: Low to Medium,Intensification,2007,2012,0
+2007,Central California Foothills and Coastal Mountains,Intensification: Low to Medium,Intensification,2007,2012,60
+2007,Central California Valley,Intensification: Low to Medium,Intensification,2007,2012,60
+2007,Southern California Mountains,Intensification: Low to Medium,Intensification,2007,2012,0
+2007,Eastern Cascades Slopes and Foothills,Intensification: Low to Medium,Intensification,2007,2012,0
+2007,Columbia Plateau,Intensification: Low to Medium,Intensification,2007,2012,20
+2007,Blue Mountains,Intensification: Low to Medium,Intensification,2007,2012,0
+2007,Snake River Plain,Intensification: Low to Medium,Intensification,2007,2012,40
+2007,Central Basin and Range,Intensification: Low to Medium,Intensification,2007,2012,100
+2007,Mojave Basin and Range,Intensification: Low to Medium,Intensification,2007,2012,40
+2007,Northern Rockies,Intensification: Low to Medium,Intensification,2007,2012,20
+2007,Idaho Batholith,Intensification: Low to Medium,Intensification,2007,2012,0
+2007,Middle Rockies,Intensification: Low to Medium,Intensification,2007,2012,40
+2007,Wyoming Basin,Intensification: Low to Medium,Intensification,2007,2012,40
+2007,Wasatch and Uinta Mountains,Intensification: Low to Medium,Intensification,2007,2012,0
+2007,Colorado Plateaus,Intensification: Low to Medium,Intensification,2007,2012,0
+2007,Southern Rockies,Intensification: Low to Medium,Intensification,2007,2012,0
+2007,Arizona/New Mexico Plateau,Intensification: Low to Medium,Intensification,2007,2012,120
+2007,Arizona/New Mexico Mountains,Intensification: Low to Medium,Intensification,2007,2012,20
+2007,Chihuahuan Deserts,Intensification: Low to Medium,Intensification,2007,2012,20
+2007,High Plains,Intensification: Low to Medium,Intensification,2007,2012,120
+2007,Southwestern Tablelands,Intensification: Low to Medium,Intensification,2007,2012,0
+2007,Central Great Plains,Intensification: Low to Medium,Intensification,2007,2012,120
+2007,Flint Hills,Intensification: Low to Medium,Intensification,2007,2012,0
+2007,Cross Timbers,Intensification: Low to Medium,Intensification,2007,2012,240
+2007,Edwards Plateau,Intensification: Low to Medium,Intensification,2007,2012,20
+2007,Southern Texas Plains,Intensification: Low to Medium,Intensification,2007,2012,40
+2007,Texas Blackland Prairies,Intensification: Low to Medium,Intensification,2007,2012,220.00000000000003
+2007,East Central Texas Plains,Intensification: Low to Medium,Intensification,2007,2012,40
+2007,Western Gulf Coastal Plain,Intensification: Low to Medium,Intensification,2007,2012,220.00000000000003
+2007,South Central Plains,Intensification: Low to Medium,Intensification,2007,2012,180
+2007,Ouachita Mountains,Intensification: Low to Medium,Intensification,2007,2012,60
+2007,Arkansas Valley,Intensification: Low to Medium,Intensification,2007,2012,40
+2007,Boston Mountains,Intensification: Low to Medium,Intensification,2007,2012,0
+2007,Ozark Highlands,Intensification: Low to Medium,Intensification,2007,2012,40
+2007,Central Irregular Plains,Intensification: Low to Medium,Intensification,2007,2012,60
+2007,Canadian Rockies,Intensification: Low to Medium,Intensification,2007,2012,0
+2007,Northwestern Glaciated Plains,Intensification: Low to Medium,Intensification,2007,2012,20
+2007,Northwestern Great Plains,Intensification: Low to Medium,Intensification,2007,2012,60
+2007,Nebraska Sand Hills,Intensification: Low to Medium,Intensification,2007,2012,0
+2007,Piedmont,Intensification: Low to Medium,Intensification,2007,2012,400
+2007,Northern Glaciated Plains,Intensification: Low to Medium,Intensification,2007,2012,20
+2007,Western Corn Belt Plains,Intensification: Low to Medium,Intensification,2007,2012,240
+2007,Lake Agassiz Plain,Intensification: Low to Medium,Intensification,2007,2012,40
+2007,Northern Minnesota Wetlands,Intensification: Low to Medium,Intensification,2007,2012,0
+2007,Northern Lakes and Forests,Intensification: Low to Medium,Intensification,2007,2012,140
+2007,North Central Hardwood Forests,Intensification: Low to Medium,Intensification,2007,2012,200
+2007,Driftless Area,Intensification: Low to Medium,Intensification,2007,2012,40
+2007,Southeastern Wisconsin Till Plains,Intensification: Low to Medium,Intensification,2007,2012,60
+2007,Central Corn Belt Plains,Intensification: Low to Medium,Intensification,2007,2012,300
+2007,Eastern Corn Belt Plains,Intensification: Low to Medium,Intensification,2007,2012,120
+2007,Southern Michigan/Northern Indiana Drift Plains,Intensification: Low to Medium,Intensification,2007,2012,100
+2007,Huron/Erie Lake Plains,Intensification: Low to Medium,Intensification,2007,2012,140
+2007,Northeastern Highlands,Intensification: Low to Medium,Intensification,2007,2012,80
+2007,Northeastern Coastal Zone,Intensification: Low to Medium,Intensification,2007,2012,400
+2007,Northern Allegheny Plateau,Intensification: Low to Medium,Intensification,2007,2012,60
+2007,Erie Drift Plain,Intensification: Low to Medium,Intensification,2007,2012,80
+2007,North Central Appalachians,Intensification: Low to Medium,Intensification,2007,2012,0
+2007,Middle Atlantic Coastal Plain,Intensification: Low to Medium,Intensification,2007,2012,80
+2007,Northern Piedmont,Intensification: Low to Medium,Intensification,2007,2012,100
+2007,Southeastern Plains,Intensification: Low to Medium,Intensification,2007,2012,180
+2007,Blue Ridge,Intensification: Low to Medium,Intensification,2007,2012,100
+2007,Ridge and Valley,Intensification: Low to Medium,Intensification,2007,2012,160
+2007,Southwestern Appalachians,Intensification: Low to Medium,Intensification,2007,2012,20
+2007,Central Appalachians,Intensification: Low to Medium,Intensification,2007,2012,20
+2007,Western Allegheny Plateau,Intensification: Low to Medium,Intensification,2007,2012,160
+2007,Interior Plateau,Intensification: Low to Medium,Intensification,2007,2012,80
+2007,Interior River Valleys and Hills,Intensification: Low to Medium,Intensification,2007,2012,160
+2007,Mississippi Alluvial Plain,Intensification: Low to Medium,Intensification,2007,2012,180
+2007,Mississippi Valley Loess Plains,Intensification: Low to Medium,Intensification,2007,2012,0
+2007,Southern Coastal Plain,Intensification: Low to Medium,Intensification,2007,2012,440.00000000000006
+2007,Southern Florida Coastal Plain,Intensification: Low to Medium,Intensification,2007,2012,100
+2007,North Cascades,Intensification: Low to Medium,Intensification,2007,2012,0
+2007,Klamath Mountains/California High North Coast Range,Intensification: Low to Medium,Intensification,2007,2012,0
+2007,Madrean Archipelago,Intensification: Low to Medium,Intensification,2007,2012,20
+2007,Northern Basin and Range,Intensification: Low to Medium,Intensification,2007,2012,0
+2007,Sonoran Basin and Range,Intensification: Low to Medium,Intensification,2007,2012,240
+2007,Acadian Plains and Hills,Intensification: Low to Medium,Intensification,2007,2012,20
+2007,Eastern Great Lakes Lowlands,Intensification: Low to Medium,Intensification,2007,2012,120
+2007,Atlantic Coastal Pine Barrens,Intensification: Low to Medium,Intensification,2007,2012,80
+2007,Southern California/Northern Baja Coast,Intensification: Low to Medium,Intensification,2007,2012,200
+2012,Coast Range,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Puget Lowland,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Willamette Valley,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Cascades,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Sierra Nevada,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Central California Foothills and Coastal Mountains,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Central California Valley,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Southern California Mountains,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Eastern Cascades Slopes and Foothills,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Columbia Plateau,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Blue Mountains,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Snake River Plain,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Central Basin and Range,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Mojave Basin and Range,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Northern Rockies,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Idaho Batholith,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Middle Rockies,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Wyoming Basin,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Wasatch and Uinta Mountains,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Colorado Plateaus,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Southern Rockies,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Arizona/New Mexico Plateau,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Arizona/New Mexico Mountains,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Chihuahuan Deserts,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,High Plains,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Southwestern Tablelands,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Central Great Plains,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Flint Hills,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Cross Timbers,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Edwards Plateau,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Southern Texas Plains,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Texas Blackland Prairies,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,East Central Texas Plains,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Western Gulf Coastal Plain,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,South Central Plains,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Ouachita Mountains,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Arkansas Valley,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Boston Mountains,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Ozark Highlands,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Central Irregular Plains,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Canadian Rockies,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Northwestern Glaciated Plains,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Northwestern Great Plains,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Nebraska Sand Hills,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Piedmont,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Northern Glaciated Plains,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Western Corn Belt Plains,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Lake Agassiz Plain,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Northern Minnesota Wetlands,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Northern Lakes and Forests,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,North Central Hardwood Forests,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Driftless Area,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Southeastern Wisconsin Till Plains,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Central Corn Belt Plains,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Eastern Corn Belt Plains,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Southern Michigan/Northern Indiana Drift Plains,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Huron/Erie Lake Plains,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Northeastern Highlands,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Northeastern Coastal Zone,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Northern Allegheny Plateau,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Erie Drift Plain,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,North Central Appalachians,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Middle Atlantic Coastal Plain,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Northern Piedmont,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Southeastern Plains,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Blue Ridge,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Ridge and Valley,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Southwestern Appalachians,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Central Appalachians,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Western Allegheny Plateau,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Interior Plateau,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Interior River Valleys and Hills,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Mississippi Alluvial Plain,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Mississippi Valley Loess Plains,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Southern Coastal Plain,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Southern Florida Coastal Plain,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,North Cascades,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Klamath Mountains/California High North Coast Range,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Madrean Archipelago,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Northern Basin and Range,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Sonoran Basin and Range,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Acadian Plains and Hills,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Eastern Great Lakes Lowlands,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Atlantic Coastal Pine Barrens,Intensification: Low to Medium,Intensification,2012,2017,0
+2012,Southern California/Northern Baja Coast,Intensification: Low to Medium,Intensification,2012,2017,0
+2001,Coast Range,Intensification: Low to High,Intensification,2001,2006,40
+2001,Puget Lowland,Intensification: Low to High,Intensification,2001,2006,340
+2001,Willamette Valley,Intensification: Low to High,Intensification,2001,2006,100
+2001,Cascades,Intensification: Low to High,Intensification,2001,2006,0
+2001,Sierra Nevada,Intensification: Low to High,Intensification,2001,2006,0
+2001,Central California Foothills and Coastal Mountains,Intensification: Low to High,Intensification,2001,2006,300
+2001,Central California Valley,Intensification: Low to High,Intensification,2001,2006,140
+2001,Southern California Mountains,Intensification: Low to High,Intensification,2001,2006,0
+2001,Eastern Cascades Slopes and Foothills,Intensification: Low to High,Intensification,2001,2006,0
+2001,Columbia Plateau,Intensification: Low to High,Intensification,2001,2006,60
+2001,Blue Mountains,Intensification: Low to High,Intensification,2001,2006,0
+2001,Snake River Plain,Intensification: Low to High,Intensification,2001,2006,80
+2001,Central Basin and Range,Intensification: Low to High,Intensification,2001,2006,80
+2001,Mojave Basin and Range,Intensification: Low to High,Intensification,2001,2006,180
+2001,Northern Rockies,Intensification: Low to High,Intensification,2001,2006,20
+2001,Idaho Batholith,Intensification: Low to High,Intensification,2001,2006,0
+2001,Middle Rockies,Intensification: Low to High,Intensification,2001,2006,40
+2001,Wyoming Basin,Intensification: Low to High,Intensification,2001,2006,0
+2001,Wasatch and Uinta Mountains,Intensification: Low to High,Intensification,2001,2006,0
+2001,Colorado Plateaus,Intensification: Low to High,Intensification,2001,2006,0
+2001,Southern Rockies,Intensification: Low to High,Intensification,2001,2006,0
+2001,Arizona/New Mexico Plateau,Intensification: Low to High,Intensification,2001,2006,100
+2001,Arizona/New Mexico Mountains,Intensification: Low to High,Intensification,2001,2006,20
+2001,Chihuahuan Deserts,Intensification: Low to High,Intensification,2001,2006,100
+2001,High Plains,Intensification: Low to High,Intensification,2001,2006,260
+2001,Southwestern Tablelands,Intensification: Low to High,Intensification,2001,2006,40
+2001,Central Great Plains,Intensification: Low to High,Intensification,2001,2006,240
+2001,Flint Hills,Intensification: Low to High,Intensification,2001,2006,0
+2001,Cross Timbers,Intensification: Low to High,Intensification,2001,2006,40
+2001,Edwards Plateau,Intensification: Low to High,Intensification,2001,2006,40
+2001,Southern Texas Plains,Intensification: Low to High,Intensification,2001,2006,20
+2001,Texas Blackland Prairies,Intensification: Low to High,Intensification,2001,2006,600
+2001,East Central Texas Plains,Intensification: Low to High,Intensification,2001,2006,80
+2001,Western Gulf Coastal Plain,Intensification: Low to High,Intensification,2001,2006,500
+2001,South Central Plains,Intensification: Low to High,Intensification,2001,2006,200
+2001,Ouachita Mountains,Intensification: Low to High,Intensification,2001,2006,0
+2001,Arkansas Valley,Intensification: Low to High,Intensification,2001,2006,20
+2001,Boston Mountains,Intensification: Low to High,Intensification,2001,2006,0
+2001,Ozark Highlands,Intensification: Low to High,Intensification,2001,2006,120
+2001,Central Irregular Plains,Intensification: Low to High,Intensification,2001,2006,200
+2001,Canadian Rockies,Intensification: Low to High,Intensification,2001,2006,0
+2001,Northwestern Glaciated Plains,Intensification: Low to High,Intensification,2001,2006,20
+2001,Northwestern Great Plains,Intensification: Low to High,Intensification,2001,2006,20
+2001,Nebraska Sand Hills,Intensification: Low to High,Intensification,2001,2006,0
+2001,Piedmont,Intensification: Low to High,Intensification,2001,2006,500
+2001,Northern Glaciated Plains,Intensification: Low to High,Intensification,2001,2006,20
+2001,Western Corn Belt Plains,Intensification: Low to High,Intensification,2001,2006,280
+2001,Lake Agassiz Plain,Intensification: Low to High,Intensification,2001,2006,40
+2001,Northern Minnesota Wetlands,Intensification: Low to High,Intensification,2001,2006,20
+2001,Northern Lakes and Forests,Intensification: Low to High,Intensification,2001,2006,100
+2001,North Central Hardwood Forests,Intensification: Low to High,Intensification,2001,2006,240
+2001,Driftless Area,Intensification: Low to High,Intensification,2001,2006,60
+2001,Southeastern Wisconsin Till Plains,Intensification: Low to High,Intensification,2001,2006,120
+2001,Central Corn Belt Plains,Intensification: Low to High,Intensification,2001,2006,360
+2001,Eastern Corn Belt Plains,Intensification: Low to High,Intensification,2001,2006,420
+2001,Southern Michigan/Northern Indiana Drift Plains,Intensification: Low to High,Intensification,2001,2006,160
+2001,Huron/Erie Lake Plains,Intensification: Low to High,Intensification,2001,2006,160
+2001,Northeastern Highlands,Intensification: Low to High,Intensification,2001,2006,20
+2001,Northeastern Coastal Zone,Intensification: Low to High,Intensification,2001,2006,440.00000000000006
+2001,Northern Allegheny Plateau,Intensification: Low to High,Intensification,2001,2006,60
+2001,Erie Drift Plain,Intensification: Low to High,Intensification,2001,2006,200
+2001,North Central Appalachians,Intensification: Low to High,Intensification,2001,2006,0
+2001,Middle Atlantic Coastal Plain,Intensification: Low to High,Intensification,2001,2006,240
+2001,Northern Piedmont,Intensification: Low to High,Intensification,2001,2006,160
+2001,Southeastern Plains,Intensification: Low to High,Intensification,2001,2006,400
+2001,Blue Ridge,Intensification: Low to High,Intensification,2001,2006,40
+2001,Ridge and Valley,Intensification: Low to High,Intensification,2001,2006,360
+2001,Southwestern Appalachians,Intensification: Low to High,Intensification,2001,2006,20
+2001,Central Appalachians,Intensification: Low to High,Intensification,2001,2006,0
+2001,Western Allegheny Plateau,Intensification: Low to High,Intensification,2001,2006,80
+2001,Interior Plateau,Intensification: Low to High,Intensification,2001,2006,400
+2001,Interior River Valleys and Hills,Intensification: Low to High,Intensification,2001,2006,200
+2001,Mississippi Alluvial Plain,Intensification: Low to High,Intensification,2001,2006,220.00000000000003
+2001,Mississippi Valley Loess Plains,Intensification: Low to High,Intensification,2001,2006,260
+2001,Southern Coastal Plain,Intensification: Low to High,Intensification,2001,2006,400
+2001,Southern Florida Coastal Plain,Intensification: Low to High,Intensification,2001,2006,220.00000000000003
+2001,North Cascades,Intensification: Low to High,Intensification,2001,2006,0
+2001,Klamath Mountains/California High North Coast Range,Intensification: Low to High,Intensification,2001,2006,0
+2001,Madrean Archipelago,Intensification: Low to High,Intensification,2001,2006,40
+2001,Northern Basin and Range,Intensification: Low to High,Intensification,2001,2006,0
+2001,Sonoran Basin and Range,Intensification: Low to High,Intensification,2001,2006,459.99999999999994
+2001,Acadian Plains and Hills,Intensification: Low to High,Intensification,2001,2006,0
+2001,Eastern Great Lakes Lowlands,Intensification: Low to High,Intensification,2001,2006,160
+2001,Atlantic Coastal Pine Barrens,Intensification: Low to High,Intensification,2001,2006,40
+2001,Southern California/Northern Baja Coast,Intensification: Low to High,Intensification,2001,2006,340
+2007,Coast Range,Intensification: Low to High,Intensification,2007,2012,20
+2007,Puget Lowland,Intensification: Low to High,Intensification,2007,2012,80
+2007,Willamette Valley,Intensification: Low to High,Intensification,2007,2012,80
+2007,Cascades,Intensification: Low to High,Intensification,2007,2012,0
+2007,Sierra Nevada,Intensification: Low to High,Intensification,2007,2012,20
+2007,Central California Foothills and Coastal Mountains,Intensification: Low to High,Intensification,2007,2012,40
+2007,Central California Valley,Intensification: Low to High,Intensification,2007,2012,80
+2007,Southern California Mountains,Intensification: Low to High,Intensification,2007,2012,0
+2007,Eastern Cascades Slopes and Foothills,Intensification: Low to High,Intensification,2007,2012,20
+2007,Columbia Plateau,Intensification: Low to High,Intensification,2007,2012,40
+2007,Blue Mountains,Intensification: Low to High,Intensification,2007,2012,0
+2007,Snake River Plain,Intensification: Low to High,Intensification,2007,2012,60
+2007,Central Basin and Range,Intensification: Low to High,Intensification,2007,2012,120
+2007,Mojave Basin and Range,Intensification: Low to High,Intensification,2007,2012,80
+2007,Northern Rockies,Intensification: Low to High,Intensification,2007,2012,20
+2007,Idaho Batholith,Intensification: Low to High,Intensification,2007,2012,0
+2007,Middle Rockies,Intensification: Low to High,Intensification,2007,2012,0
+2007,Wyoming Basin,Intensification: Low to High,Intensification,2007,2012,0
+2007,Wasatch and Uinta Mountains,Intensification: Low to High,Intensification,2007,2012,0
+2007,Colorado Plateaus,Intensification: Low to High,Intensification,2007,2012,20
+2007,Southern Rockies,Intensification: Low to High,Intensification,2007,2012,20
+2007,Arizona/New Mexico Plateau,Intensification: Low to High,Intensification,2007,2012,80
+2007,Arizona/New Mexico Mountains,Intensification: Low to High,Intensification,2007,2012,40
+2007,Chihuahuan Deserts,Intensification: Low to High,Intensification,2007,2012,40
+2007,High Plains,Intensification: Low to High,Intensification,2007,2012,100
+2007,Southwestern Tablelands,Intensification: Low to High,Intensification,2007,2012,40
+2007,Central Great Plains,Intensification: Low to High,Intensification,2007,2012,140
+2007,Flint Hills,Intensification: Low to High,Intensification,2007,2012,0
+2007,Cross Timbers,Intensification: Low to High,Intensification,2007,2012,20
+2007,Edwards Plateau,Intensification: Low to High,Intensification,2007,2012,0
+2007,Southern Texas Plains,Intensification: Low to High,Intensification,2007,2012,20
+2007,Texas Blackland Prairies,Intensification: Low to High,Intensification,2007,2012,220.00000000000003
+2007,East Central Texas Plains,Intensification: Low to High,Intensification,2007,2012,60
+2007,Western Gulf Coastal Plain,Intensification: Low to High,Intensification,2007,2012,300
+2007,South Central Plains,Intensification: Low to High,Intensification,2007,2012,160
+2007,Ouachita Mountains,Intensification: Low to High,Intensification,2007,2012,40
+2007,Arkansas Valley,Intensification: Low to High,Intensification,2007,2012,0
+2007,Boston Mountains,Intensification: Low to High,Intensification,2007,2012,20
+2007,Ozark Highlands,Intensification: Low to High,Intensification,2007,2012,40
+2007,Central Irregular Plains,Intensification: Low to High,Intensification,2007,2012,120
+2007,Canadian Rockies,Intensification: Low to High,Intensification,2007,2012,0
+2007,Northwestern Glaciated Plains,Intensification: Low to High,Intensification,2007,2012,0
+2007,Northwestern Great Plains,Intensification: Low to High,Intensification,2007,2012,40
+2007,Nebraska Sand Hills,Intensification: Low to High,Intensification,2007,2012,0
+2007,Piedmont,Intensification: Low to High,Intensification,2007,2012,420
+2007,Northern Glaciated Plains,Intensification: Low to High,Intensification,2007,2012,40
+2007,Western Corn Belt Plains,Intensification: Low to High,Intensification,2007,2012,220.00000000000003
+2007,Lake Agassiz Plain,Intensification: Low to High,Intensification,2007,2012,20
+2007,Northern Minnesota Wetlands,Intensification: Low to High,Intensification,2007,2012,0
+2007,Northern Lakes and Forests,Intensification: Low to High,Intensification,2007,2012,0
+2007,North Central Hardwood Forests,Intensification: Low to High,Intensification,2007,2012,100
+2007,Driftless Area,Intensification: Low to High,Intensification,2007,2012,80
+2007,Southeastern Wisconsin Till Plains,Intensification: Low to High,Intensification,2007,2012,60
+2007,Central Corn Belt Plains,Intensification: Low to High,Intensification,2007,2012,240
+2007,Eastern Corn Belt Plains,Intensification: Low to High,Intensification,2007,2012,180
+2007,Southern Michigan/Northern Indiana Drift Plains,Intensification: Low to High,Intensification,2007,2012,160
+2007,Huron/Erie Lake Plains,Intensification: Low to High,Intensification,2007,2012,200
+2007,Northeastern Highlands,Intensification: Low to High,Intensification,2007,2012,40
+2007,Northeastern Coastal Zone,Intensification: Low to High,Intensification,2007,2012,280
+2007,Northern Allegheny Plateau,Intensification: Low to High,Intensification,2007,2012,40
+2007,Erie Drift Plain,Intensification: Low to High,Intensification,2007,2012,20
+2007,North Central Appalachians,Intensification: Low to High,Intensification,2007,2012,0
+2007,Middle Atlantic Coastal Plain,Intensification: Low to High,Intensification,2007,2012,120
+2007,Northern Piedmont,Intensification: Low to High,Intensification,2007,2012,180
+2007,Southeastern Plains,Intensification: Low to High,Intensification,2007,2012,280
+2007,Blue Ridge,Intensification: Low to High,Intensification,2007,2012,40
+2007,Ridge and Valley,Intensification: Low to High,Intensification,2007,2012,260
+2007,Southwestern Appalachians,Intensification: Low to High,Intensification,2007,2012,40
+2007,Central Appalachians,Intensification: Low to High,Intensification,2007,2012,0
+2007,Western Allegheny Plateau,Intensification: Low to High,Intensification,2007,2012,100
+2007,Interior Plateau,Intensification: Low to High,Intensification,2007,2012,160
+2007,Interior River Valleys and Hills,Intensification: Low to High,Intensification,2007,2012,140
+2007,Mississippi Alluvial Plain,Intensification: Low to High,Intensification,2007,2012,160
+2007,Mississippi Valley Loess Plains,Intensification: Low to High,Intensification,2007,2012,100
+2007,Southern Coastal Plain,Intensification: Low to High,Intensification,2007,2012,360
+2007,Southern Florida Coastal Plain,Intensification: Low to High,Intensification,2007,2012,120
+2007,North Cascades,Intensification: Low to High,Intensification,2007,2012,0
+2007,Klamath Mountains/California High North Coast Range,Intensification: Low to High,Intensification,2007,2012,20
+2007,Madrean Archipelago,Intensification: Low to High,Intensification,2007,2012,0
+2007,Northern Basin and Range,Intensification: Low to High,Intensification,2007,2012,0
+2007,Sonoran Basin and Range,Intensification: Low to High,Intensification,2007,2012,160
+2007,Acadian Plains and Hills,Intensification: Low to High,Intensification,2007,2012,20
+2007,Eastern Great Lakes Lowlands,Intensification: Low to High,Intensification,2007,2012,100
+2007,Atlantic Coastal Pine Barrens,Intensification: Low to High,Intensification,2007,2012,100
+2007,Southern California/Northern Baja Coast,Intensification: Low to High,Intensification,2007,2012,480
+2012,Coast Range,Intensification: Low to High,Intensification,2012,2017,0
+2012,Puget Lowland,Intensification: Low to High,Intensification,2012,2017,0
+2012,Willamette Valley,Intensification: Low to High,Intensification,2012,2017,0
+2012,Cascades,Intensification: Low to High,Intensification,2012,2017,0
+2012,Sierra Nevada,Intensification: Low to High,Intensification,2012,2017,0
+2012,Central California Foothills and Coastal Mountains,Intensification: Low to High,Intensification,2012,2017,0
+2012,Central California Valley,Intensification: Low to High,Intensification,2012,2017,0
+2012,Southern California Mountains,Intensification: Low to High,Intensification,2012,2017,0
+2012,Eastern Cascades Slopes and Foothills,Intensification: Low to High,Intensification,2012,2017,0
+2012,Columbia Plateau,Intensification: Low to High,Intensification,2012,2017,0
+2012,Blue Mountains,Intensification: Low to High,Intensification,2012,2017,0
+2012,Snake River Plain,Intensification: Low to High,Intensification,2012,2017,0
+2012,Central Basin and Range,Intensification: Low to High,Intensification,2012,2017,0
+2012,Mojave Basin and Range,Intensification: Low to High,Intensification,2012,2017,0
+2012,Northern Rockies,Intensification: Low to High,Intensification,2012,2017,0
+2012,Idaho Batholith,Intensification: Low to High,Intensification,2012,2017,0
+2012,Middle Rockies,Intensification: Low to High,Intensification,2012,2017,0
+2012,Wyoming Basin,Intensification: Low to High,Intensification,2012,2017,0
+2012,Wasatch and Uinta Mountains,Intensification: Low to High,Intensification,2012,2017,0
+2012,Colorado Plateaus,Intensification: Low to High,Intensification,2012,2017,0
+2012,Southern Rockies,Intensification: Low to High,Intensification,2012,2017,0
+2012,Arizona/New Mexico Plateau,Intensification: Low to High,Intensification,2012,2017,0
+2012,Arizona/New Mexico Mountains,Intensification: Low to High,Intensification,2012,2017,0
+2012,Chihuahuan Deserts,Intensification: Low to High,Intensification,2012,2017,0
+2012,High Plains,Intensification: Low to High,Intensification,2012,2017,0
+2012,Southwestern Tablelands,Intensification: Low to High,Intensification,2012,2017,0
+2012,Central Great Plains,Intensification: Low to High,Intensification,2012,2017,0
+2012,Flint Hills,Intensification: Low to High,Intensification,2012,2017,0
+2012,Cross Timbers,Intensification: Low to High,Intensification,2012,2017,0
+2012,Edwards Plateau,Intensification: Low to High,Intensification,2012,2017,0
+2012,Southern Texas Plains,Intensification: Low to High,Intensification,2012,2017,0
+2012,Texas Blackland Prairies,Intensification: Low to High,Intensification,2012,2017,0
+2012,East Central Texas Plains,Intensification: Low to High,Intensification,2012,2017,0
+2012,Western Gulf Coastal Plain,Intensification: Low to High,Intensification,2012,2017,0
+2012,South Central Plains,Intensification: Low to High,Intensification,2012,2017,0
+2012,Ouachita Mountains,Intensification: Low to High,Intensification,2012,2017,0
+2012,Arkansas Valley,Intensification: Low to High,Intensification,2012,2017,0
+2012,Boston Mountains,Intensification: Low to High,Intensification,2012,2017,0
+2012,Ozark Highlands,Intensification: Low to High,Intensification,2012,2017,0
+2012,Central Irregular Plains,Intensification: Low to High,Intensification,2012,2017,0
+2012,Canadian Rockies,Intensification: Low to High,Intensification,2012,2017,0
+2012,Northwestern Glaciated Plains,Intensification: Low to High,Intensification,2012,2017,0
+2012,Northwestern Great Plains,Intensification: Low to High,Intensification,2012,2017,0
+2012,Nebraska Sand Hills,Intensification: Low to High,Intensification,2012,2017,0
+2012,Piedmont,Intensification: Low to High,Intensification,2012,2017,0
+2012,Northern Glaciated Plains,Intensification: Low to High,Intensification,2012,2017,0
+2012,Western Corn Belt Plains,Intensification: Low to High,Intensification,2012,2017,0
+2012,Lake Agassiz Plain,Intensification: Low to High,Intensification,2012,2017,0
+2012,Northern Minnesota Wetlands,Intensification: Low to High,Intensification,2012,2017,0
+2012,Northern Lakes and Forests,Intensification: Low to High,Intensification,2012,2017,0
+2012,North Central Hardwood Forests,Intensification: Low to High,Intensification,2012,2017,0
+2012,Driftless Area,Intensification: Low to High,Intensification,2012,2017,0
+2012,Southeastern Wisconsin Till Plains,Intensification: Low to High,Intensification,2012,2017,0
+2012,Central Corn Belt Plains,Intensification: Low to High,Intensification,2012,2017,0
+2012,Eastern Corn Belt Plains,Intensification: Low to High,Intensification,2012,2017,0
+2012,Southern Michigan/Northern Indiana Drift Plains,Intensification: Low to High,Intensification,2012,2017,0
+2012,Huron/Erie Lake Plains,Intensification: Low to High,Intensification,2012,2017,0
+2012,Northeastern Highlands,Intensification: Low to High,Intensification,2012,2017,0
+2012,Northeastern Coastal Zone,Intensification: Low to High,Intensification,2012,2017,0
+2012,Northern Allegheny Plateau,Intensification: Low to High,Intensification,2012,2017,0
+2012,Erie Drift Plain,Intensification: Low to High,Intensification,2012,2017,0
+2012,North Central Appalachians,Intensification: Low to High,Intensification,2012,2017,0
+2012,Middle Atlantic Coastal Plain,Intensification: Low to High,Intensification,2012,2017,0
+2012,Northern Piedmont,Intensification: Low to High,Intensification,2012,2017,0
+2012,Southeastern Plains,Intensification: Low to High,Intensification,2012,2017,0
+2012,Blue Ridge,Intensification: Low to High,Intensification,2012,2017,0
+2012,Ridge and Valley,Intensification: Low to High,Intensification,2012,2017,0
+2012,Southwestern Appalachians,Intensification: Low to High,Intensification,2012,2017,0
+2012,Central Appalachians,Intensification: Low to High,Intensification,2012,2017,0
+2012,Western Allegheny Plateau,Intensification: Low to High,Intensification,2012,2017,0
+2012,Interior Plateau,Intensification: Low to High,Intensification,2012,2017,0
+2012,Interior River Valleys and Hills,Intensification: Low to High,Intensification,2012,2017,0
+2012,Mississippi Alluvial Plain,Intensification: Low to High,Intensification,2012,2017,0
+2012,Mississippi Valley Loess Plains,Intensification: Low to High,Intensification,2012,2017,0
+2012,Southern Coastal Plain,Intensification: Low to High,Intensification,2012,2017,0
+2012,Southern Florida Coastal Plain,Intensification: Low to High,Intensification,2012,2017,0
+2012,North Cascades,Intensification: Low to High,Intensification,2012,2017,0
+2012,Klamath Mountains/California High North Coast Range,Intensification: Low to High,Intensification,2012,2017,0
+2012,Madrean Archipelago,Intensification: Low to High,Intensification,2012,2017,0
+2012,Northern Basin and Range,Intensification: Low to High,Intensification,2012,2017,0
+2012,Sonoran Basin and Range,Intensification: Low to High,Intensification,2012,2017,0
+2012,Acadian Plains and Hills,Intensification: Low to High,Intensification,2012,2017,0
+2012,Eastern Great Lakes Lowlands,Intensification: Low to High,Intensification,2012,2017,0
+2012,Atlantic Coastal Pine Barrens,Intensification: Low to High,Intensification,2012,2017,0
+2012,Southern California/Northern Baja Coast,Intensification: Low to High,Intensification,2012,2017,0
+2001,Coast Range,Intensification: Medium to High,Intensification,2001,2006,20
+2001,Puget Lowland,Intensification: Medium to High,Intensification,2001,2006,60
+2001,Willamette Valley,Intensification: Medium to High,Intensification,2001,2006,0
+2001,Cascades,Intensification: Medium to High,Intensification,2001,2006,0
+2001,Sierra Nevada,Intensification: Medium to High,Intensification,2001,2006,0
+2001,Central California Foothills and Coastal Mountains,Intensification: Medium to High,Intensification,2001,2006,0
+2001,Central California Valley,Intensification: Medium to High,Intensification,2001,2006,40
+2001,Southern California Mountains,Intensification: Medium to High,Intensification,2001,2006,0
+2001,Eastern Cascades Slopes and Foothills,Intensification: Medium to High,Intensification,2001,2006,0
+2001,Columbia Plateau,Intensification: Medium to High,Intensification,2001,2006,0
+2001,Blue Mountains,Intensification: Medium to High,Intensification,2001,2006,0
+2001,Snake River Plain,Intensification: Medium to High,Intensification,2001,2006,0
+2001,Central Basin and Range,Intensification: Medium to High,Intensification,2001,2006,0
+2001,Mojave Basin and Range,Intensification: Medium to High,Intensification,2001,2006,20
+2001,Northern Rockies,Intensification: Medium to High,Intensification,2001,2006,0
+2001,Idaho Batholith,Intensification: Medium to High,Intensification,2001,2006,0
+2001,Middle Rockies,Intensification: Medium to High,Intensification,2001,2006,0
+2001,Wyoming Basin,Intensification: Medium to High,Intensification,2001,2006,0
+2001,Wasatch and Uinta Mountains,Intensification: Medium to High,Intensification,2001,2006,0
+2001,Colorado Plateaus,Intensification: Medium to High,Intensification,2001,2006,0
+2001,Southern Rockies,Intensification: Medium to High,Intensification,2001,2006,0
+2001,Arizona/New Mexico Plateau,Intensification: Medium to High,Intensification,2001,2006,0
+2001,Arizona/New Mexico Mountains,Intensification: Medium to High,Intensification,2001,2006,0
+2001,Chihuahuan Deserts,Intensification: Medium to High,Intensification,2001,2006,20
+2001,High Plains,Intensification: Medium to High,Intensification,2001,2006,20
+2001,Southwestern Tablelands,Intensification: Medium to High,Intensification,2001,2006,0
+2001,Central Great Plains,Intensification: Medium to High,Intensification,2001,2006,120
+2001,Flint Hills,Intensification: Medium to High,Intensification,2001,2006,0
+2001,Cross Timbers,Intensification: Medium to High,Intensification,2001,2006,0
+2001,Edwards Plateau,Intensification: Medium to High,Intensification,2001,2006,0
+2001,Southern Texas Plains,Intensification: Medium to High,Intensification,2001,2006,0
+2001,Texas Blackland Prairies,Intensification: Medium to High,Intensification,2001,2006,60
+2001,East Central Texas Plains,Intensification: Medium to High,Intensification,2001,2006,0
+2001,Western Gulf Coastal Plain,Intensification: Medium to High,Intensification,2001,2006,40
+2001,South Central Plains,Intensification: Medium to High,Intensification,2001,2006,0
+2001,Ouachita Mountains,Intensification: Medium to High,Intensification,2001,2006,0
+2001,Arkansas Valley,Intensification: Medium to High,Intensification,2001,2006,0
+2001,Boston Mountains,Intensification: Medium to High,Intensification,2001,2006,0
+2001,Ozark Highlands,Intensification: Medium to High,Intensification,2001,2006,0
+2001,Central Irregular Plains,Intensification: Medium to High,Intensification,2001,2006,60
+2001,Canadian Rockies,Intensification: Medium to High,Intensification,2001,2006,0
+2001,Northwestern Glaciated Plains,Intensification: Medium to High,Intensification,2001,2006,0
+2001,Northwestern Great Plains,Intensification: Medium to High,Intensification,2001,2006,0
+2001,Nebraska Sand Hills,Intensification: Medium to High,Intensification,2001,2006,0
+2001,Piedmont,Intensification: Medium to High,Intensification,2001,2006,0
+2001,Northern Glaciated Plains,Intensification: Medium to High,Intensification,2001,2006,0
+2001,Western Corn Belt Plains,Intensification: Medium to High,Intensification,2001,2006,0
+2001,Lake Agassiz Plain,Intensification: Medium to High,Intensification,2001,2006,0
+2001,Northern Minnesota Wetlands,Intensification: Medium to High,Intensification,2001,2006,0
+2001,Northern Lakes and Forests,Intensification: Medium to High,Intensification,2001,2006,20
+2001,North Central Hardwood Forests,Intensification: Medium to High,Intensification,2001,2006,20
+2001,Driftless Area,Intensification: Medium to High,Intensification,2001,2006,20
+2001,Southeastern Wisconsin Till Plains,Intensification: Medium to High,Intensification,2001,2006,20
+2001,Central Corn Belt Plains,Intensification: Medium to High,Intensification,2001,2006,40
+2001,Eastern Corn Belt Plains,Intensification: Medium to High,Intensification,2001,2006,40
+2001,Southern Michigan/Northern Indiana Drift Plains,Intensification: Medium to High,Intensification,2001,2006,0
+2001,Huron/Erie Lake Plains,Intensification: Medium to High,Intensification,2001,2006,20
+2001,Northeastern Highlands,Intensification: Medium to High,Intensification,2001,2006,0
+2001,Northeastern Coastal Zone,Intensification: Medium to High,Intensification,2001,2006,60
+2001,Northern Allegheny Plateau,Intensification: Medium to High,Intensification,2001,2006,0
+2001,Erie Drift Plain,Intensification: Medium to High,Intensification,2001,2006,0
+2001,North Central Appalachians,Intensification: Medium to High,Intensification,2001,2006,0
+2001,Middle Atlantic Coastal Plain,Intensification: Medium to High,Intensification,2001,2006,60
+2001,Northern Piedmont,Intensification: Medium to High,Intensification,2001,2006,0
+2001,Southeastern Plains,Intensification: Medium to High,Intensification,2001,2006,40
+2001,Blue Ridge,Intensification: Medium to High,Intensification,2001,2006,0
+2001,Ridge and Valley,Intensification: Medium to High,Intensification,2001,2006,120
+2001,Southwestern Appalachians,Intensification: Medium to High,Intensification,2001,2006,20
+2001,Central Appalachians,Intensification: Medium to High,Intensification,2001,2006,0
+2001,Western Allegheny Plateau,Intensification: Medium to High,Intensification,2001,2006,0
+2001,Interior Plateau,Intensification: Medium to High,Intensification,2001,2006,20
+2001,Interior River Valleys and Hills,Intensification: Medium to High,Intensification,2001,2006,20
+2001,Mississippi Alluvial Plain,Intensification: Medium to High,Intensification,2001,2006,0
+2001,Mississippi Valley Loess Plains,Intensification: Medium to High,Intensification,2001,2006,40
+2001,Southern Coastal Plain,Intensification: Medium to High,Intensification,2001,2006,100
+2001,Southern Florida Coastal Plain,Intensification: Medium to High,Intensification,2001,2006,20
+2001,North Cascades,Intensification: Medium to High,Intensification,2001,2006,0
+2001,Klamath Mountains/California High North Coast Range,Intensification: Medium to High,Intensification,2001,2006,0
+2001,Madrean Archipelago,Intensification: Medium to High,Intensification,2001,2006,0
+2001,Northern Basin and Range,Intensification: Medium to High,Intensification,2001,2006,0
+2001,Sonoran Basin and Range,Intensification: Medium to High,Intensification,2001,2006,0
+2001,Acadian Plains and Hills,Intensification: Medium to High,Intensification,2001,2006,0
+2001,Eastern Great Lakes Lowlands,Intensification: Medium to High,Intensification,2001,2006,0
+2001,Atlantic Coastal Pine Barrens,Intensification: Medium to High,Intensification,2001,2006,40
+2001,Southern California/Northern Baja Coast,Intensification: Medium to High,Intensification,2001,2006,80
+2007,Coast Range,Intensification: Medium to High,Intensification,2007,2012,0
+2007,Puget Lowland,Intensification: Medium to High,Intensification,2007,2012,0
+2007,Willamette Valley,Intensification: Medium to High,Intensification,2007,2012,20
+2007,Cascades,Intensification: Medium to High,Intensification,2007,2012,0
+2007,Sierra Nevada,Intensification: Medium to High,Intensification,2007,2012,0
+2007,Central California Foothills and Coastal Mountains,Intensification: Medium to High,Intensification,2007,2012,20
+2007,Central California Valley,Intensification: Medium to High,Intensification,2007,2012,0
+2007,Southern California Mountains,Intensification: Medium to High,Intensification,2007,2012,0
+2007,Eastern Cascades Slopes and Foothills,Intensification: Medium to High,Intensification,2007,2012,0
+2007,Columbia Plateau,Intensification: Medium to High,Intensification,2007,2012,0
+2007,Blue Mountains,Intensification: Medium to High,Intensification,2007,2012,0
+2007,Snake River Plain,Intensification: Medium to High,Intensification,2007,2012,20
+2007,Central Basin and Range,Intensification: Medium to High,Intensification,2007,2012,100
+2007,Mojave Basin and Range,Intensification: Medium to High,Intensification,2007,2012,0
+2007,Northern Rockies,Intensification: Medium to High,Intensification,2007,2012,0
+2007,Idaho Batholith,Intensification: Medium to High,Intensification,2007,2012,0
+2007,Middle Rockies,Intensification: Medium to High,Intensification,2007,2012,0
+2007,Wyoming Basin,Intensification: Medium to High,Intensification,2007,2012,0
+2007,Wasatch and Uinta Mountains,Intensification: Medium to High,Intensification,2007,2012,0
+2007,Colorado Plateaus,Intensification: Medium to High,Intensification,2007,2012,0
+2007,Southern Rockies,Intensification: Medium to High,Intensification,2007,2012,0
+2007,Arizona/New Mexico Plateau,Intensification: Medium to High,Intensification,2007,2012,0
+2007,Arizona/New Mexico Mountains,Intensification: Medium to High,Intensification,2007,2012,0
+2007,Chihuahuan Deserts,Intensification: Medium to High,Intensification,2007,2012,0
+2007,High Plains,Intensification: Medium to High,Intensification,2007,2012,0
+2007,Southwestern Tablelands,Intensification: Medium to High,Intensification,2007,2012,0
+2007,Central Great Plains,Intensification: Medium to High,Intensification,2007,2012,0
+2007,Flint Hills,Intensification: Medium to High,Intensification,2007,2012,0
+2007,Cross Timbers,Intensification: Medium to High,Intensification,2007,2012,0
+2007,Edwards Plateau,Intensification: Medium to High,Intensification,2007,2012,0
+2007,Southern Texas Plains,Intensification: Medium to High,Intensification,2007,2012,0
+2007,Texas Blackland Prairies,Intensification: Medium to High,Intensification,2007,2012,80
+2007,East Central Texas Plains,Intensification: Medium to High,Intensification,2007,2012,0
+2007,Western Gulf Coastal Plain,Intensification: Medium to High,Intensification,2007,2012,80
+2007,South Central Plains,Intensification: Medium to High,Intensification,2007,2012,120
+2007,Ouachita Mountains,Intensification: Medium to High,Intensification,2007,2012,0
+2007,Arkansas Valley,Intensification: Medium to High,Intensification,2007,2012,20
+2007,Boston Mountains,Intensification: Medium to High,Intensification,2007,2012,0
+2007,Ozark Highlands,Intensification: Medium to High,Intensification,2007,2012,0
+2007,Central Irregular Plains,Intensification: Medium to High,Intensification,2007,2012,0
+2007,Canadian Rockies,Intensification: Medium to High,Intensification,2007,2012,0
+2007,Northwestern Glaciated Plains,Intensification: Medium to High,Intensification,2007,2012,0
+2007,Northwestern Great Plains,Intensification: Medium to High,Intensification,2007,2012,0
+2007,Nebraska Sand Hills,Intensification: Medium to High,Intensification,2007,2012,0
+2007,Piedmont,Intensification: Medium to High,Intensification,2007,2012,40
+2007,Northern Glaciated Plains,Intensification: Medium to High,Intensification,2007,2012,0
+2007,Western Corn Belt Plains,Intensification: Medium to High,Intensification,2007,2012,40
+2007,Lake Agassiz Plain,Intensification: Medium to High,Intensification,2007,2012,0
+2007,Northern Minnesota Wetlands,Intensification: Medium to High,Intensification,2007,2012,0
+2007,Northern Lakes and Forests,Intensification: Medium to High,Intensification,2007,2012,0
+2007,North Central Hardwood Forests,Intensification: Medium to High,Intensification,2007,2012,0
+2007,Driftless Area,Intensification: Medium to High,Intensification,2007,2012,20
+2007,Southeastern Wisconsin Till Plains,Intensification: Medium to High,Intensification,2007,2012,0
+2007,Central Corn Belt Plains,Intensification: Medium to High,Intensification,2007,2012,40
+2007,Eastern Corn Belt Plains,Intensification: Medium to High,Intensification,2007,2012,20
+2007,Southern Michigan/Northern Indiana Drift Plains,Intensification: Medium to High,Intensification,2007,2012,20
+2007,Huron/Erie Lake Plains,Intensification: Medium to High,Intensification,2007,2012,20
+2007,Northeastern Highlands,Intensification: Medium to High,Intensification,2007,2012,0
+2007,Northeastern Coastal Zone,Intensification: Medium to High,Intensification,2007,2012,100
+2007,Northern Allegheny Plateau,Intensification: Medium to High,Intensification,2007,2012,0
+2007,Erie Drift Plain,Intensification: Medium to High,Intensification,2007,2012,20
+2007,North Central Appalachians,Intensification: Medium to High,Intensification,2007,2012,0
+2007,Middle Atlantic Coastal Plain,Intensification: Medium to High,Intensification,2007,2012,20
+2007,Northern Piedmont,Intensification: Medium to High,Intensification,2007,2012,40
+2007,Southeastern Plains,Intensification: Medium to High,Intensification,2007,2012,100
+2007,Blue Ridge,Intensification: Medium to High,Intensification,2007,2012,0
+2007,Ridge and Valley,Intensification: Medium to High,Intensification,2007,2012,80
+2007,Southwestern Appalachians,Intensification: Medium to High,Intensification,2007,2012,0
+2007,Central Appalachians,Intensification: Medium to High,Intensification,2007,2012,20
+2007,Western Allegheny Plateau,Intensification: Medium to High,Intensification,2007,2012,20
+2007,Interior Plateau,Intensification: Medium to High,Intensification,2007,2012,20
+2007,Interior River Valleys and Hills,Intensification: Medium to High,Intensification,2007,2012,80
+2007,Mississippi Alluvial Plain,Intensification: Medium to High,Intensification,2007,2012,40
+2007,Mississippi Valley Loess Plains,Intensification: Medium to High,Intensification,2007,2012,20
+2007,Southern Coastal Plain,Intensification: Medium to High,Intensification,2007,2012,60
+2007,Southern Florida Coastal Plain,Intensification: Medium to High,Intensification,2007,2012,40
+2007,North Cascades,Intensification: Medium to High,Intensification,2007,2012,0
+2007,Klamath Mountains/California High North Coast Range,Intensification: Medium to High,Intensification,2007,2012,20
+2007,Madrean Archipelago,Intensification: Medium to High,Intensification,2007,2012,0
+2007,Northern Basin and Range,Intensification: Medium to High,Intensification,2007,2012,0
+2007,Sonoran Basin and Range,Intensification: Medium to High,Intensification,2007,2012,40
+2007,Acadian Plains and Hills,Intensification: Medium to High,Intensification,2007,2012,0
+2007,Eastern Great Lakes Lowlands,Intensification: Medium to High,Intensification,2007,2012,20
+2007,Atlantic Coastal Pine Barrens,Intensification: Medium to High,Intensification,2007,2012,40
+2007,Southern California/Northern Baja Coast,Intensification: Medium to High,Intensification,2007,2012,60
+2012,Coast Range,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Puget Lowland,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Willamette Valley,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Cascades,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Sierra Nevada,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Central California Foothills and Coastal Mountains,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Central California Valley,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Southern California Mountains,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Eastern Cascades Slopes and Foothills,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Columbia Plateau,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Blue Mountains,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Snake River Plain,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Central Basin and Range,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Mojave Basin and Range,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Northern Rockies,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Idaho Batholith,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Middle Rockies,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Wyoming Basin,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Wasatch and Uinta Mountains,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Colorado Plateaus,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Southern Rockies,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Arizona/New Mexico Plateau,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Arizona/New Mexico Mountains,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Chihuahuan Deserts,Intensification: Medium to High,Intensification,2012,2017,0
+2012,High Plains,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Southwestern Tablelands,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Central Great Plains,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Flint Hills,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Cross Timbers,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Edwards Plateau,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Southern Texas Plains,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Texas Blackland Prairies,Intensification: Medium to High,Intensification,2012,2017,0
+2012,East Central Texas Plains,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Western Gulf Coastal Plain,Intensification: Medium to High,Intensification,2012,2017,0
+2012,South Central Plains,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Ouachita Mountains,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Arkansas Valley,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Boston Mountains,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Ozark Highlands,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Central Irregular Plains,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Canadian Rockies,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Northwestern Glaciated Plains,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Northwestern Great Plains,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Nebraska Sand Hills,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Piedmont,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Northern Glaciated Plains,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Western Corn Belt Plains,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Lake Agassiz Plain,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Northern Minnesota Wetlands,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Northern Lakes and Forests,Intensification: Medium to High,Intensification,2012,2017,0
+2012,North Central Hardwood Forests,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Driftless Area,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Southeastern Wisconsin Till Plains,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Central Corn Belt Plains,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Eastern Corn Belt Plains,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Southern Michigan/Northern Indiana Drift Plains,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Huron/Erie Lake Plains,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Northeastern Highlands,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Northeastern Coastal Zone,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Northern Allegheny Plateau,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Erie Drift Plain,Intensification: Medium to High,Intensification,2012,2017,0
+2012,North Central Appalachians,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Middle Atlantic Coastal Plain,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Northern Piedmont,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Southeastern Plains,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Blue Ridge,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Ridge and Valley,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Southwestern Appalachians,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Central Appalachians,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Western Allegheny Plateau,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Interior Plateau,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Interior River Valleys and Hills,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Mississippi Alluvial Plain,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Mississippi Valley Loess Plains,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Southern Coastal Plain,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Southern Florida Coastal Plain,Intensification: Medium to High,Intensification,2012,2017,0
+2012,North Cascades,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Klamath Mountains/California High North Coast Range,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Madrean Archipelago,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Northern Basin and Range,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Sonoran Basin and Range,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Acadian Plains and Hills,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Eastern Great Lakes Lowlands,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Atlantic Coastal Pine Barrens,Intensification: Medium to High,Intensification,2012,2017,0
+2012,Southern California/Northern Baja Coast,Intensification: Medium to High,Intensification,2012,2017,0

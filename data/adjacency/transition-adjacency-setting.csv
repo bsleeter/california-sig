@@ -1,0 +1,111 @@
+TransitionGroupID,StateAttributeTypeID,NeighborhoodRadius,UpdateFrequency
+Urbanization: Open [Type],Developed: Open Space,1500,5
+Urbanization: Low [Type],Developed: Low Intensity,1500,5
+Urbanization: Medium [Type],Developed: Medium Intensity,1500,5
+Urbanization: High [Type],Developed: High Intensity,1500,5
+Intensification: Open to Low [Type],Developed: Low Intensity,1500,5
+Intensification: Open to Medium [Type],Developed: Medium Intensity,1500,5
+Intensification: Open to High [Type],Developed: High Intensity,1500,5
+Intensification: Low to Medium [Type],Developed: Medium Intensity,1500,5
+Intensification: Low to High [Type],Developed: High Intensity,1500,5
+Intensification: Medium to High [Type],Developed: High Intensity,1500,5
+Ag Expansion: Pasture [Type],Agriculture: Pasture,1500,5
+Ag Expansion: Cropland [Type],Agriculture: Cropland,1500,5
+Ag Expansion: Orchard [Type],Agriculture: Orchard,1500,5
+Ag Expansion: Vineyard [Type],Agriculture: Vineyard,1500,5
+Ag Change: Cropland to Pasture [Type],Agriculture: Pasture,1500,5
+Ag Change: Pasture to Cropland [Type],Agriculture: Cropland,1500,5
+Ag Contraction: Pasture to Forest: Alder/Maple Group [Type],Forest: Alder/Maple Group,1500,5
+Ag Contraction: Pasture to Forest: Aspen/Birch Group [Type],Forest: Aspen/Birch Group,1500,5
+Ag Contraction: Pasture to Forest: California Mixed Conifer Group [Type],Forest: California Mixed Conifer Group,1500,5
+Ag Contraction: Pasture to Forest: Douglas-fir Group [Type],Forest: Douglas-fir Group,1500,5
+Ag Contraction: Pasture to Forest: Elm/Ash/Cottonwood Group [Type],Forest: Elm/Ash/Cottonwood Group,1500,5
+Ag Contraction: Pasture to Forest: Exotic Hardwoods Group [Type],Forest: Exotic Hardwoods Group,1500,5
+Ag Contraction: Pasture to Forest: Exotic Softwoods Group [Type],Forest: Exotic Softwoods Group,1500,5
+Ag Contraction: Pasture to Forest: Fir/Spruce/Mountain Hemlock Group [Type],Forest: Fir/Spruce/Mountain Hemlock Group,1500,5
+Ag Contraction: Pasture to Forest: Hemlock/Sitka Spruce Group [Type],Forest: Hemlock/Sitka Spruce Group,1500,5
+Ag Contraction: Pasture to Forest: Loblolly/Shortleaf Pine Group [Type],Forest: Loblolly/Shortleaf Pine Group,1500,5
+Ag Contraction: Pasture to Forest: Lodgepole Pine Group [Type],Forest: Lodgepole Pine Group,1500,5
+Ag Contraction: Pasture to Forest: Longleaf/Slash Pine Group [Type],Forest: Longleaf/Slash Pine Group,1500,5
+Ag Contraction: Pasture to Forest: Maple/Beech/Birch Group [Type],Forest: Maple/Beech/Birch Group,1500,5
+Ag Contraction: Pasture to Forest: Oak/Gum/Cypress Group [Type],Forest: Oak/Gum/Cypress Group,1500,5
+Ag Contraction: Pasture to Forest: Oak/Hickory Group [Type],Forest: Oak/Hickory Group,1500,5
+Ag Contraction: Pasture to Forest: Oak/Pine Group [Type],Forest: Oak/Pine Group,1500,5
+Ag Contraction: Pasture to Forest: Other Western Hardwoods Group [Type],Forest: Other Western Hardwoods Group,1500,5
+Ag Contraction: Pasture to Forest: Other Western Softwood Group [Type],Forest: Other Western Softwood Group,1500,5
+Ag Contraction: Pasture to Forest: Pinyon/Juniper Group [Type],Forest: Pinyon/Juniper Group,1500,5
+Ag Contraction: Pasture to Forest: Ponderosa Pine Group [Type],Forest: Ponderosa Pine Group,1500,5
+Ag Contraction: Pasture to Forest: Redwood Group [Type],Forest: Redwood Group,1500,5
+Ag Contraction: Pasture to Forest: Spruce/Fir Group [Type],Forest: Spruce/Fir Group,1500,5
+Ag Contraction: Pasture to Forest: Tanoak/Laurel Group [Type],Forest: Tanoak/Laurel Group,1500,5
+Ag Contraction: Pasture to Forest: Tropical Hardwoods Group [Type],Forest: Tropical Hardwoods Group,1500,5
+Ag Contraction: Pasture to Forest: Western Larch Group [Type],Forest: Western Larch Group,1500,5
+Ag Contraction: Pasture to Forest: Western Oak Group [Type],Forest: Western Oak Group,1500,5
+Ag Contraction: Pasture to Forest: Western White Pine Group [Type],Forest: Western White Pine Group,1500,5
+Ag Contraction: Pasture to Forest: White/Red/Jack Pine Group [Type],Forest: White/Red/Jack Pine Group,1500,5
+Ag Contraction: Pasture to Grassland: All [Type],Grassland: All,1500,5
+Ag Contraction: Pasture to Shrubland: Big Sagebrush [Type],Shrubland: Big Sagebrush,1500,5
+Ag Contraction: Pasture to Shrubland: Blackbrush [Type],Shrubland: Blackbrush,1500,5
+Ag Contraction: Pasture to Shrubland: Chaparral [Type],Shrubland: Chaparral,1500,5
+Ag Contraction: Pasture to Shrubland: Creosotebush [Type],Shrubland: Creosotebush,1500,5
+Ag Contraction: Pasture to Shrubland: Deciduous Shrub [Type],Shrubland: Deciduous Shrub,1500,5
+Ag Contraction: Pasture to Shrubland: Desert Scrub [Type],Shrubland: Desert Scrub,1500,5
+Ag Contraction: Pasture to Shrubland: Grassland and Steppe [Type],Shrubland: Grassland and Steppe,1500,5
+Ag Contraction: Pasture to Shrubland: Greasewood [Type],Shrubland: Greasewood,1500,5
+Ag Contraction: Pasture to Shrubland: Low Sagebrush [Type],Shrubland: Low Sagebrush,1500,5
+Ag Contraction: Pasture to Shrubland: Mesquite [Type],Shrubland: Mesquite,1500,5
+Ag Contraction: Pasture to Shrubland: Pacific Coastal Shrub [Type],Shrubland: Pacific Coastal Shrub,1500,5
+Ag Contraction: Pasture to Shrubland: Pinyon Juniper Shrubland [Type],Shrubland: Pinyon Juniper Shrubland,1500,5
+Ag Contraction: Pasture to Shrubland: Pocosin [Type],Shrubland: Pocosin,1500,5
+Ag Contraction: Pasture to Shrubland: Salt Desert Scrub [Type],Shrubland: Salt Desert Scrub,1500,5
+Ag Contraction: Pasture to Shrubland: Sand Shrubland [Type],Shrubland: Sand Shrubland,1500,5
+Ag Contraction: Pasture to Shrubland: Succulent [Type],Shrubland: Succulent,1500,5
+Ag Contraction: Pasture to Wetland: Herbaceous [Type],Wetland: Herbaceous,1500,5
+Ag Contraction: Pasture to Wetland: Woody [Type],Wetland: Woody,1500,5
+Ag Contraction: Cropland to Forest: Alder/Maple Group [Type],Forest: Alder/Maple Group,1500,5
+Ag Contraction: Cropland to Forest: Aspen/Birch Group [Type],Forest: Aspen/Birch Group,1500,5
+Ag Contraction: Cropland to Forest: California Mixed Conifer Group [Type],Forest: California Mixed Conifer Group,1500,5
+Ag Contraction: Cropland to Forest: Douglas-fir Group [Type],Forest: Douglas-fir Group,1500,5
+Ag Contraction: Cropland to Forest: Elm/Ash/Cottonwood Group [Type],Forest: Elm/Ash/Cottonwood Group,1500,5
+Ag Contraction: Cropland to Forest: Exotic Hardwoods Group [Type],Forest: Exotic Hardwoods Group,1500,5
+Ag Contraction: Cropland to Forest: Exotic Softwoods Group [Type],Forest: Exotic Softwoods Group,1500,5
+Ag Contraction: Cropland to Forest: Fir/Spruce/Mountain Hemlock Group [Type],Forest: Fir/Spruce/Mountain Hemlock Group,1500,5
+Ag Contraction: Cropland to Forest: Hemlock/Sitka Spruce Group [Type],Forest: Hemlock/Sitka Spruce Group,1500,5
+Ag Contraction: Cropland to Forest: Loblolly/Shortleaf Pine Group [Type],Forest: Loblolly/Shortleaf Pine Group,1500,5
+Ag Contraction: Cropland to Forest: Lodgepole Pine Group [Type],Forest: Lodgepole Pine Group,1500,5
+Ag Contraction: Cropland to Forest: Longleaf/Slash Pine Group [Type],Forest: Longleaf/Slash Pine Group,1500,5
+Ag Contraction: Cropland to Forest: Maple/Beech/Birch Group [Type],Forest: Maple/Beech/Birch Group,1500,5
+Ag Contraction: Cropland to Forest: Oak/Gum/Cypress Group [Type],Forest: Oak/Gum/Cypress Group,1500,5
+Ag Contraction: Cropland to Forest: Oak/Hickory Group [Type],Forest: Oak/Hickory Group,1500,5
+Ag Contraction: Cropland to Forest: Oak/Pine Group [Type],Forest: Oak/Pine Group,1500,5
+Ag Contraction: Cropland to Forest: Other Western Hardwoods Group [Type],Forest: Other Western Hardwoods Group,1500,5
+Ag Contraction: Cropland to Forest: Other Western Softwood Group [Type],Forest: Other Western Softwood Group,1500,5
+Ag Contraction: Cropland to Forest: Pinyon/Juniper Group [Type],Forest: Pinyon/Juniper Group,1500,5
+Ag Contraction: Cropland to Forest: Ponderosa Pine Group [Type],Forest: Ponderosa Pine Group,1500,5
+Ag Contraction: Cropland to Forest: Redwood Group [Type],Forest: Redwood Group,1500,5
+Ag Contraction: Cropland to Forest: Spruce/Fir Group [Type],Forest: Spruce/Fir Group,1500,5
+Ag Contraction: Cropland to Forest: Tanoak/Laurel Group [Type],Forest: Tanoak/Laurel Group,1500,5
+Ag Contraction: Cropland to Forest: Tropical Hardwoods Group [Type],Forest: Tropical Hardwoods Group,1500,5
+Ag Contraction: Cropland to Forest: Western Larch Group [Type],Forest: Western Larch Group,1500,5
+Ag Contraction: Cropland to Forest: Western Oak Group [Type],Forest: Western Oak Group,1500,5
+Ag Contraction: Cropland to Forest: Western White Pine Group [Type],Forest: Western White Pine Group,1500,5
+Ag Contraction: Cropland to Forest: White/Red/Jack Pine Group [Type],Forest: White/Red/Jack Pine Group,1500,5
+Ag Contraction: Cropland to Grassland: All [Type],Grassland: All,1500,5
+Ag Contraction: Cropland to Shrubland: Big Sagebrush [Type],Shrubland: Big Sagebrush,1500,5
+Ag Contraction: Cropland to Shrubland: Blackbrush [Type],Shrubland: Blackbrush,1500,5
+Ag Contraction: Cropland to Shrubland: Chaparral [Type],Shrubland: Chaparral,1500,5
+Ag Contraction: Cropland to Shrubland: Creosotebush [Type],Shrubland: Creosotebush,1500,5
+Ag Contraction: Cropland to Shrubland: Deciduous Shrub [Type],Shrubland: Deciduous Shrub,1500,5
+Ag Contraction: Cropland to Shrubland: Desert Scrub [Type],Shrubland: Desert Scrub,1500,5
+Ag Contraction: Cropland to Shrubland: Grassland and Steppe [Type],Shrubland: Grassland and Steppe,1500,5
+Ag Contraction: Cropland to Shrubland: Greasewood [Type],Shrubland: Greasewood,1500,5
+Ag Contraction: Cropland to Shrubland: Low Sagebrush [Type],Shrubland: Low Sagebrush,1500,5
+Ag Contraction: Cropland to Shrubland: Mesquite [Type],Shrubland: Mesquite,1500,5
+Ag Contraction: Cropland to Shrubland: Pacific Coastal Shrub [Type],Shrubland: Pacific Coastal Shrub,1500,5
+Ag Contraction: Cropland to Shrubland: Pinyon Juniper Shrubland [Type],Shrubland: Pinyon Juniper Shrubland,1500,5
+Ag Contraction: Cropland to Shrubland: Pocosin [Type],Shrubland: Pocosin,1500,5
+Ag Contraction: Cropland to Shrubland: Salt Desert Scrub [Type],Shrubland: Salt Desert Scrub,1500,5
+Ag Contraction: Cropland to Shrubland: Sand Shrubland [Type],Shrubland: Sand Shrubland,1500,5
+Ag Contraction: Cropland to Shrubland: Succulent [Type],Shrubland: Succulent,1500,5
+Ag Contraction: Cropland to Wetland: Herbaceous [Type],Wetland: Herbaceous,1500,5
+Ag Contraction: Cropland to Wetland: Woody [Type],Wetland: Woody,1500,5

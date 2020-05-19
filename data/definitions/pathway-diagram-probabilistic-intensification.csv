@@ -1,0 +1,7 @@
+Iteration,Timestep,StratumIDSource,StateClassIDSource,StratumIDDest,StateClassIDDest,SecondaryStratumID,TertiaryStratumID,TransitionTypeID,Probability,Proportion,AgeMin,AgeMax,AgeRelative,AgeReset,TSTMin,TSTMax,TSTRelative
+,,,Developed: Open Space,,Developed: Low Intensity,,,Intensification: Open to Low,1,,,,,,,,
+,,,Developed: Open Space,,Developed: Medium Intensity,,,Intensification: Open to Medium,1,,,,,,,,
+,,,Developed: Open Space,,Developed: High Intensity,,,Intensification: Open to High,1,,,,,,,,
+,,,Developed: Low Intensity,,Developed: Medium Intensity,,,Intensification: Low to Medium,1,,,,,,,,
+,,,Developed: Low Intensity,,Developed: High Intensity,,,Intensification: Low to High,1,,,,,,,,
+,,,Developed: Medium Intensity,,Developed: High Intensity,,,Intensification: Medium to High,1,,,,,,,,

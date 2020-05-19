@@ -1,0 +1,183 @@
+FromStockTypeID,ToStockTypeID,TransitionGroupID,DistTypeName,FlowTypeID,Multiplier
+Biomass: Merchantable,DOM: Snag Stem,Fire: High Severity [Type],Wildfire,,1
+Biomass: Foliage,DOM: Aboveground Very Fast,Fire: High Severity [Type],Wildfire,,0.0164
+Biomass: Foliage,Atmosphere CO2,Fire: High Severity [Type],Wildfire,,0.8852
+Biomass: Foliage,Atmosphere CH4,Fire: High Severity [Type],Wildfire,,0.0098
+Biomass: Foliage,Atmosphere CO,Fire: High Severity [Type],Wildfire,,0.0885
+Biomass: Other Wood,DOM: Snag Branch,Fire: High Severity [Type],Wildfire,,0.908
+Biomass: Other Wood,Atmosphere CO2,Fire: High Severity [Type],Wildfire,,0.0828
+Biomass: Other Wood,Atmosphere CH4,Fire: High Severity [Type],Wildfire,,9e-4
+Biomass: Other Wood,Atmosphere CO,Fire: High Severity [Type],Wildfire,,0.0083
+Biomass: Coarse Root,DOM: Aboveground Fast,Fire: High Severity [Type],Wildfire,,0.5
+Biomass: Coarse Root,DOM: Belowground Fast,Fire: High Severity [Type],Wildfire,,0.5
+Biomass: Fine Root,DOM: Aboveground Very Fast,Fire: High Severity [Type],Wildfire,,0.2731
+Biomass: Fine Root,DOM: Belowground Very Fast,Fire: High Severity [Type],Wildfire,,0.5
+Biomass: Fine Root,Atmosphere CO2,Fire: High Severity [Type],Wildfire,,0.2042
+Biomass: Fine Root,Atmosphere CH4,Fire: High Severity [Type],Wildfire,,0.0023
+Biomass: Fine Root,Atmosphere CO,Fire: High Severity [Type],Wildfire,,0.0204
+DOM: Aboveground Very Fast,Atmosphere CO2,Fire: High Severity [Type],Wildfire,,0.9
+DOM: Aboveground Very Fast,Atmosphere CH4,Fire: High Severity [Type],Wildfire,,0.01
+DOM: Aboveground Very Fast,Atmosphere CO,Fire: High Severity [Type],Wildfire,,0.09
+DOM: Aboveground Fast,Atmosphere CO2,Fire: High Severity [Type],Wildfire,,0.5028
+DOM: Aboveground Fast,Atmosphere CH4,Fire: High Severity [Type],Wildfire,,0.0056
+DOM: Aboveground Fast,Atmosphere CO,Fire: High Severity [Type],Wildfire,,0.0503
+DOM: Aboveground Medium,Atmosphere CO2,Fire: High Severity [Type],Wildfire,,0.1255
+DOM: Aboveground Medium,Atmosphere CH4,Fire: High Severity [Type],Wildfire,,0.0014
+DOM: Aboveground Medium,Atmosphere CO,Fire: High Severity [Type],Wildfire,,0.0125
+DOM: Aboveground Slow,Atmosphere CO2,Fire: High Severity [Type],Wildfire,,0.4072
+DOM: Aboveground Slow,Atmosphere CH4,Fire: High Severity [Type],Wildfire,,0.0045
+DOM: Aboveground Slow,Atmosphere CO,Fire: High Severity [Type],Wildfire,,0.0407
+DOM: Snag Stem,DOM: Aboveground Medium,Fire: High Severity [Type],Wildfire,,1
+DOM: Snag Branch,DOM: Aboveground Fast,Fire: High Severity [Type],Wildfire,,1
+Peat,Black Carbon,Fire: High Severity [Type],Wildfire,,1
+Biomass: Merchantable,DOM: Aboveground Medium,Management: Salvage Logging [Type],Salvage logging after insects,,0.15
+Biomass: Merchantable,Forestry Sector,Management: Salvage Logging [Type],Salvage logging after insects,,0.85
+Biomass: Foliage,DOM: Aboveground Very Fast,Management: Salvage Logging [Type],Salvage logging after insects,,1
+Biomass: Other Wood,DOM: Aboveground Fast,Management: Salvage Logging [Type],Salvage logging after insects,,1
+Biomass: Coarse Root,DOM: Aboveground Fast,Management: Salvage Logging [Type],Salvage logging after insects,,0.5
+Biomass: Coarse Root,DOM: Belowground Fast,Management: Salvage Logging [Type],Salvage logging after insects,,0.5
+Biomass: Fine Root,DOM: Aboveground Very Fast,Management: Salvage Logging [Type],Salvage logging after insects,,0.5
+Biomass: Fine Root,DOM: Belowground Very Fast,Management: Salvage Logging [Type],Salvage logging after insects,,0.5
+DOM: Snag Stem,DOM: Aboveground Medium,Management: Salvage Logging [Type],Salvage logging after insects,,0.28
+DOM: Snag Stem,Forestry Sector,Management: Salvage Logging [Type],Salvage logging after insects,,0.72
+DOM: Snag Branch,DOM: Aboveground Fast,Management: Salvage Logging [Type],Salvage logging after insects,,1
+Biomass: Merchantable,DOM: Snag Stem,Insect: Low Severity [Type],Mountain pine beetle — Low impact,,0.05
+Biomass: Foliage,DOM: Aboveground Very Fast,Insect: Low Severity [Type],Mountain pine beetle — Low impact,,0.05
+Biomass: Other Wood,DOM: Snag Branch,Insect: Low Severity [Type],Mountain pine beetle — Low impact,,0.05
+Biomass: Coarse Root,DOM: Aboveground Fast,Insect: Low Severity [Type],Mountain pine beetle — Low impact,,0.025
+Biomass: Coarse Root,DOM: Belowground Fast,Insect: Low Severity [Type],Mountain pine beetle — Low impact,,0.025
+Biomass: Fine Root,DOM: Aboveground Very Fast,Insect: Low Severity [Type],Mountain pine beetle — Low impact,,0.025
+Biomass: Fine Root,DOM: Belowground Very Fast,Insect: Low Severity [Type],Mountain pine beetle — Low impact,,0.025
+Biomass: Merchantable,DOM: Snag Stem,Insect: Medium Severity [Type],Mountain pine beetle — Moderate impact,,0.1
+Biomass: Foliage,DOM: Aboveground Very Fast,Insect: Medium Severity [Type],Mountain pine beetle — Moderate impact,,0.1
+Biomass: Other Wood,DOM: Snag Branch,Insect: Medium Severity [Type],Mountain pine beetle — Moderate impact,,0.1
+Biomass: Coarse Root,DOM: Aboveground Fast,Insect: Medium Severity [Type],Mountain pine beetle — Moderate impact,,0.05
+Biomass: Coarse Root,DOM: Belowground Fast,Insect: Medium Severity [Type],Mountain pine beetle — Moderate impact,,0.05
+Biomass: Fine Root,DOM: Aboveground Very Fast,Insect: Medium Severity [Type],Mountain pine beetle — Moderate impact,,0.05
+Biomass: Fine Root,DOM: Belowground Very Fast,Insect: Medium Severity [Type],Mountain pine beetle — Moderate impact,,0.05
+Biomass: Merchantable,DOM: Snag Stem,Insect: High Severity [Type],Mountain pine beetle — Severe impact,,0.3
+Biomass: Foliage,DOM: Aboveground Very Fast,Insect: High Severity [Type],Mountain pine beetle — Severe impact,,0.3
+Biomass: Other Wood,DOM: Snag Branch,Insect: High Severity [Type],Mountain pine beetle — Severe impact,,0.3
+Biomass: Coarse Root,DOM: Aboveground Fast,Insect: High Severity [Type],Mountain pine beetle — Severe impact,,0.15
+Biomass: Coarse Root,DOM: Belowground Fast,Insect: High Severity [Type],Mountain pine beetle — Severe impact,,0.15
+Biomass: Fine Root,DOM: Aboveground Very Fast,Insect: High Severity [Type],Mountain pine beetle — Severe impact,,0.15
+Biomass: Fine Root,DOM: Belowground Very Fast,Insect: High Severity [Type],Mountain pine beetle — Severe impact,,0.15
+Biomass: Merchantable,Forestry Sector,Management: Forest Selection 50% [Type],50% commercial thinning,,0.5
+Biomass: Foliage,DOM: Aboveground Very Fast,Management: Forest Selection 50% [Type],50% commercial thinning,,0.5
+Biomass: Other Wood,DOM: Aboveground Fast,Management: Forest Selection 50% [Type],50% commercial thinning,,0.5
+Biomass: Coarse Root,DOM: Aboveground Fast,Management: Forest Selection 50% [Type],50% commercial thinning,,0.25
+Biomass: Coarse Root,DOM: Belowground Fast,Management: Forest Selection 50% [Type],50% commercial thinning,,0.25
+Biomass: Fine Root,DOM: Aboveground Very Fast,Management: Forest Selection 50% [Type],50% commercial thinning,,0.25
+Biomass: Fine Root,DOM: Belowground Very Fast,Management: Forest Selection 50% [Type],50% commercial thinning,,0.25
+Biomass: Merchantable,DOM: Aboveground Medium,Management: Forest Clearcut [Type],97% clear-cut,,0.03
+Biomass: Merchantable,Forestry Sector,Management: Forest Clearcut [Type],97% clear-cut,,0.97
+Biomass: Foliage,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],97% clear-cut,,1
+Biomass: Other Wood,DOM: Aboveground Fast,Management: Forest Clearcut [Type],97% clear-cut,,1
+Biomass: Coarse Root,DOM: Aboveground Fast,Management: Forest Clearcut [Type],97% clear-cut,,0.5
+Biomass: Coarse Root,DOM: Belowground Fast,Management: Forest Clearcut [Type],97% clear-cut,,0.5
+Biomass: Fine Root,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],97% clear-cut,,0.5
+Biomass: Fine Root,DOM: Belowground Very Fast,Management: Forest Clearcut [Type],97% clear-cut,,0.5
+DOM: Snag Stem,DOM: Aboveground Medium,Management: Forest Clearcut [Type],97% clear-cut,,1
+DOM: Snag Branch,DOM: Aboveground Fast,Management: Forest Clearcut [Type],97% clear-cut,,1
+Biomass: Merchantable,DOM: Aboveground Medium,Management: Forest Selection 85% [Type],85% precommercial thinning,,0.85
+Biomass: Foliage,DOM: Aboveground Very Fast,Management: Forest Selection 85% [Type],85% precommercial thinning,,0.85
+Biomass: Other Wood,DOM: Aboveground Fast,Management: Forest Selection 85% [Type],85% precommercial thinning,,0.85
+Biomass: Coarse Root,DOM: Aboveground Fast,Management: Forest Selection 85% [Type],85% precommercial thinning,,0.45
+Biomass: Coarse Root,DOM: Belowground Fast,Management: Forest Selection 85% [Type],85% precommercial thinning,,0.4
+Biomass: Fine Root,DOM: Aboveground Very Fast,Management: Forest Selection 85% [Type],85% precommercial thinning,,0.45
+Biomass: Fine Root,DOM: Belowground Very Fast,Management: Forest Selection 85% [Type],85% precommercial thinning,,0.4
+Biomass: Merchantable,Forestry Sector,Management: Forest Selection 20% [Type],20% commercial thinning,,0.2
+Biomass: Foliage,DOM: Aboveground Very Fast,Management: Forest Selection 20% [Type],20% commercial thinning,,0.2
+Biomass: Other Wood,DOM: Aboveground Fast,Management: Forest Selection 20% [Type],20% commercial thinning,,0.2
+Biomass: Coarse Root,DOM: Aboveground Fast,Management: Forest Selection 20% [Type],20% commercial thinning,,0.1
+Biomass: Coarse Root,DOM: Belowground Fast,Management: Forest Selection 20% [Type],20% commercial thinning,,0.1
+Biomass: Fine Root,DOM: Aboveground Very Fast,Management: Forest Selection 20% [Type],20% commercial thinning,,0.1
+Biomass: Fine Root,DOM: Belowground Very Fast,Management: Forest Selection 20% [Type],20% commercial thinning,,0.1
+Biomass: Merchantable,DOM: Aboveground Medium,Ag Expansion,"Deforestation — Agriculture — Salvage, uprooting and burn",,0.081
+Biomass: Merchantable,Atmosphere CO2,Ag Expansion,"Deforestation — Agriculture — Salvage, uprooting and burn",,0.1071
+Biomass: Merchantable,Atmosphere CH4,Ag Expansion,"Deforestation — Agriculture — Salvage, uprooting and burn",,0.0012
+Biomass: Merchantable,Atmosphere CO,Ag Expansion,"Deforestation — Agriculture — Salvage, uprooting and burn",,0.0107
+Biomass: Merchantable,Forestry Sector,Ag Expansion,"Deforestation — Agriculture — Salvage, uprooting and burn",,0.8
+Biomass: Foliage,DOM: Belowground Very Fast,Ag Expansion,"Deforestation — Agriculture — Salvage, uprooting and burn",,0.534
+Biomass: Foliage,Atmosphere CO2,Ag Expansion,"Deforestation — Agriculture — Salvage, uprooting and burn",,0.4194
+Biomass: Foliage,Atmosphere CH4,Ag Expansion,"Deforestation — Agriculture — Salvage, uprooting and burn",,0.0047
+Biomass: Foliage,Atmosphere CO,Ag Expansion,"Deforestation — Agriculture — Salvage, uprooting and burn",,0.0419
+Biomass: Other Wood,DOM: Aboveground Fast,Ag Expansion,"Deforestation — Agriculture — Salvage, uprooting and burn",,0.534
+Biomass: Other Wood,Atmosphere CO2,Ag Expansion,"Deforestation — Agriculture — Salvage, uprooting and burn",,0.4194
+Biomass: Other Wood,Atmosphere CH4,Ag Expansion,"Deforestation — Agriculture — Salvage, uprooting and burn",,0.0047
+Biomass: Other Wood,Atmosphere CO,Ag Expansion,"Deforestation — Agriculture — Salvage, uprooting and burn",,0.0419
+Biomass: Coarse Root,DOM: Aboveground Fast,Ag Expansion,"Deforestation — Agriculture — Salvage, uprooting and burn",,0.534
+Biomass: Coarse Root,Atmosphere CO2,Ag Expansion,"Deforestation — Agriculture — Salvage, uprooting and burn",,0.4194
+Biomass: Coarse Root,Atmosphere CH4,Ag Expansion,"Deforestation — Agriculture — Salvage, uprooting and burn",,0.0047
+Biomass: Coarse Root,Atmosphere CO,Ag Expansion,"Deforestation — Agriculture — Salvage, uprooting and burn",,0.0419
+Biomass: Fine Root,DOM: Belowground Very Fast,Ag Expansion,"Deforestation — Agriculture — Salvage, uprooting and burn",,0.8895
+Biomass: Fine Root,Atmosphere CO2,Ag Expansion,"Deforestation — Agriculture — Salvage, uprooting and burn",,0.0994
+Biomass: Fine Root,Atmosphere CH4,Ag Expansion,"Deforestation — Agriculture — Salvage, uprooting and burn",,0.0011
+Biomass: Fine Root,Atmosphere CO,Ag Expansion,"Deforestation — Agriculture — Salvage, uprooting and burn",,0.0099
+DOM: Aboveground Very Fast,DOM: Belowground Very Fast,Ag Expansion,"Deforestation — Agriculture — Salvage, uprooting and burn",,0.779
+DOM: Aboveground Very Fast,Atmosphere CO2,Ag Expansion,"Deforestation — Agriculture — Salvage, uprooting and burn",,0.1989
+DOM: Aboveground Very Fast,Atmosphere CH4,Ag Expansion,"Deforestation — Agriculture — Salvage, uprooting and burn",,0.0022
+DOM: Aboveground Very Fast,Atmosphere CO,Ag Expansion,"Deforestation — Agriculture — Salvage, uprooting and burn",,0.0199
+DOM: Aboveground Fast,Atmosphere CO2,Ag Expansion,"Deforestation — Agriculture — Salvage, uprooting and burn",,0.1989
+DOM: Aboveground Fast,Atmosphere CH4,Ag Expansion,"Deforestation — Agriculture — Salvage, uprooting and burn",,0.0022
+DOM: Aboveground Fast,Atmosphere CO,Ag Expansion,"Deforestation — Agriculture — Salvage, uprooting and burn",,0.0199
+DOM: Belowground Fast,DOM: Aboveground Fast,Ag Expansion,"Deforestation — Agriculture — Salvage, uprooting and burn",,0.779
+DOM: Belowground Fast,Atmosphere CO2,Ag Expansion,"Deforestation — Agriculture — Salvage, uprooting and burn",,0.1989
+DOM: Belowground Fast,Atmosphere CH4,Ag Expansion,"Deforestation — Agriculture — Salvage, uprooting and burn",,0.0022
+DOM: Belowground Fast,Atmosphere CO,Ag Expansion,"Deforestation — Agriculture — Salvage, uprooting and burn",,0.0199
+DOM: Aboveground Medium,Atmosphere CO2,Ag Expansion,"Deforestation — Agriculture — Salvage, uprooting and burn",,0.0999
+DOM: Aboveground Medium,Atmosphere CH4,Ag Expansion,"Deforestation — Agriculture — Salvage, uprooting and burn",,0.0011
+DOM: Aboveground Medium,Atmosphere CO,Ag Expansion,"Deforestation — Agriculture — Salvage, uprooting and burn",,0.01
+DOM: Aboveground Slow,DOM: Belowground Slow,Ag Expansion,"Deforestation — Agriculture — Salvage, uprooting and burn",,1
+DOM: Snag Stem,DOM: Aboveground Medium,Ag Expansion,"Deforestation — Agriculture — Salvage, uprooting and burn",,0.889
+DOM: Snag Stem,Atmosphere CO2,Ag Expansion,"Deforestation — Agriculture — Salvage, uprooting and burn",,0.0999
+DOM: Snag Stem,Atmosphere CH4,Ag Expansion,"Deforestation — Agriculture — Salvage, uprooting and burn",,0.0011
+DOM: Snag Stem,Atmosphere CO,Ag Expansion,"Deforestation — Agriculture — Salvage, uprooting and burn",,0.01
+DOM: Snag Branch,DOM: Aboveground Fast,Ag Expansion,"Deforestation — Agriculture — Salvage, uprooting and burn",,0.779
+DOM: Snag Branch,Atmosphere CO2,Ag Expansion,"Deforestation — Agriculture — Salvage, uprooting and burn",,0.1989
+DOM: Snag Branch,Atmosphere CH4,Ag Expansion,"Deforestation — Agriculture — Salvage, uprooting and burn",,0.0022
+DOM: Snag Branch,Atmosphere CO,Ag Expansion,"Deforestation — Agriculture — Salvage, uprooting and burn",,0.0199
+Biomass: Merchantable,DOM: Aboveground Medium,Urbanization,"Deforestation — Industry — Salvage, uprooting and burn",,0.081
+Biomass: Merchantable,Atmosphere CO2,Urbanization,"Deforestation — Industry — Salvage, uprooting and burn",,0.1071
+Biomass: Merchantable,Atmosphere CH4,Urbanization,"Deforestation — Industry — Salvage, uprooting and burn",,0.0012
+Biomass: Merchantable,Atmosphere CO,Urbanization,"Deforestation — Industry — Salvage, uprooting and burn",,0.0107
+Biomass: Merchantable,Forestry Sector,Urbanization,"Deforestation — Industry — Salvage, uprooting and burn",,0.8
+Biomass: Foliage,DOM: Belowground Very Fast,Urbanization,"Deforestation — Industry — Salvage, uprooting and burn",,0.534
+Biomass: Foliage,Atmosphere CO2,Urbanization,"Deforestation — Industry — Salvage, uprooting and burn",,0.4194
+Biomass: Foliage,Atmosphere CH4,Urbanization,"Deforestation — Industry — Salvage, uprooting and burn",,0.0047
+Biomass: Foliage,Atmosphere CO,Urbanization,"Deforestation — Industry — Salvage, uprooting and burn",,0.0419
+Biomass: Other Wood,DOM: Aboveground Fast,Urbanization,"Deforestation — Industry — Salvage, uprooting and burn",,0.534
+Biomass: Other Wood,Atmosphere CO2,Urbanization,"Deforestation — Industry — Salvage, uprooting and burn",,0.4194
+Biomass: Other Wood,Atmosphere CH4,Urbanization,"Deforestation — Industry — Salvage, uprooting and burn",,0.0047
+Biomass: Other Wood,Atmosphere CO,Urbanization,"Deforestation — Industry — Salvage, uprooting and burn",,0.0419
+Biomass: Coarse Root,DOM: Aboveground Fast,Urbanization,"Deforestation — Industry — Salvage, uprooting and burn",,0.534
+Biomass: Coarse Root,Atmosphere CO2,Urbanization,"Deforestation — Industry — Salvage, uprooting and burn",,0.4194
+Biomass: Coarse Root,Atmosphere CH4,Urbanization,"Deforestation — Industry — Salvage, uprooting and burn",,0.0047
+Biomass: Coarse Root,Atmosphere CO,Urbanization,"Deforestation — Industry — Salvage, uprooting and burn",,0.0419
+Biomass: Fine Root,DOM: Belowground Very Fast,Urbanization,"Deforestation — Industry — Salvage, uprooting and burn",,0.8895
+Biomass: Fine Root,Atmosphere CO2,Urbanization,"Deforestation — Industry — Salvage, uprooting and burn",,0.0994
+Biomass: Fine Root,Atmosphere CH4,Urbanization,"Deforestation — Industry — Salvage, uprooting and burn",,0.0011
+Biomass: Fine Root,Atmosphere CO,Urbanization,"Deforestation — Industry — Salvage, uprooting and burn",,0.0099
+DOM: Aboveground Very Fast,DOM: Belowground Very Fast,Urbanization,"Deforestation — Industry — Salvage, uprooting and burn",,0.779
+DOM: Aboveground Very Fast,Atmosphere CO2,Urbanization,"Deforestation — Industry — Salvage, uprooting and burn",,0.1989
+DOM: Aboveground Very Fast,Atmosphere CH4,Urbanization,"Deforestation — Industry — Salvage, uprooting and burn",,0.0022
+DOM: Aboveground Very Fast,Atmosphere CO,Urbanization,"Deforestation — Industry — Salvage, uprooting and burn",,0.0199
+DOM: Aboveground Fast,Atmosphere CO2,Urbanization,"Deforestation — Industry — Salvage, uprooting and burn",,0.1989
+DOM: Aboveground Fast,Atmosphere CH4,Urbanization,"Deforestation — Industry — Salvage, uprooting and burn",,0.0022
+DOM: Aboveground Fast,Atmosphere CO,Urbanization,"Deforestation — Industry — Salvage, uprooting and burn",,0.0199
+DOM: Belowground Fast,DOM: Aboveground Fast,Urbanization,"Deforestation — Industry — Salvage, uprooting and burn",,0.779
+DOM: Belowground Fast,Atmosphere CO2,Urbanization,"Deforestation — Industry — Salvage, uprooting and burn",,0.1989
+DOM: Belowground Fast,Atmosphere CH4,Urbanization,"Deforestation — Industry — Salvage, uprooting and burn",,0.0022
+DOM: Belowground Fast,Atmosphere CO,Urbanization,"Deforestation — Industry — Salvage, uprooting and burn",,0.0199
+DOM: Aboveground Medium,Atmosphere CO2,Urbanization,"Deforestation — Industry — Salvage, uprooting and burn",,0.0999
+DOM: Aboveground Medium,Atmosphere CH4,Urbanization,"Deforestation — Industry — Salvage, uprooting and burn",,0.0011
+DOM: Aboveground Medium,Atmosphere CO,Urbanization,"Deforestation — Industry — Salvage, uprooting and burn",,0.01
+DOM: Aboveground Slow,DOM: Belowground Slow,Urbanization,"Deforestation — Industry — Salvage, uprooting and burn",,1
+DOM: Snag Stem,DOM: Aboveground Medium,Urbanization,"Deforestation — Industry — Salvage, uprooting and burn",,0.889
+DOM: Snag Stem,Atmosphere CO2,Urbanization,"Deforestation — Industry — Salvage, uprooting and burn",,0.0999
+DOM: Snag Stem,Atmosphere CH4,Urbanization,"Deforestation — Industry — Salvage, uprooting and burn",,0.0011
+DOM: Snag Stem,Atmosphere CO,Urbanization,"Deforestation — Industry — Salvage, uprooting and burn",,0.01
+DOM: Snag Branch,DOM: Aboveground Fast,Urbanization,"Deforestation — Industry — Salvage, uprooting and burn",,0.779
+DOM: Snag Branch,Atmosphere CO2,Urbanization,"Deforestation — Industry — Salvage, uprooting and burn",,0.1989
+DOM: Snag Branch,Atmosphere CH4,Urbanization,"Deforestation — Industry — Salvage, uprooting and burn",,0.0022
+DOM: Snag Branch,Atmosphere CO,Urbanization,"Deforestation — Industry — Salvage, uprooting and burn",,0.0199

@@ -1,0 +1,225 @@
+FromStockTypeID,ToStockTypeID,TransitionGroupID,FlowTypeID,Multiplier
+Biomass: Merchantable,DOM: Snag Stem,Fire: High Severity [Type],LULC: Mortality,1
+Biomass: Foliage,DOM: Aboveground Very Fast,Fire: High Severity [Type],LULC: Mortality,0.0164
+Biomass: Foliage,Atmosphere CO2,Fire: High Severity [Type],LULC: Emission,0.8852
+Biomass: Foliage,Atmosphere CH4,Fire: High Severity [Type],LULC: Emission,0.0098
+Biomass: Foliage,Atmosphere CO,Fire: High Severity [Type],LULC: Emission,0.0885
+Biomass: Other Wood,DOM: Snag Branch,Fire: High Severity [Type],LULC: Mortality,0.908
+Biomass: Other Wood,Atmosphere CO2,Fire: High Severity [Type],LULC: Emission,0.0828
+Biomass: Other Wood,Atmosphere CH4,Fire: High Severity [Type],LULC: Emission,9.00E-04
+Biomass: Other Wood,Atmosphere CO,Fire: High Severity [Type],LULC: Emission,0.0083
+Biomass: Coarse Root,DOM: Aboveground Fast,Fire: High Severity [Type],LULC: Mortality,0.5
+Biomass: Coarse Root,DOM: Belowground Fast,Fire: High Severity [Type],LULC: Mortality,0.5
+Biomass: Fine Root,DOM: Aboveground Very Fast,Fire: High Severity [Type],LULC: Mortality,0.2731
+Biomass: Fine Root,DOM: Belowground Very Fast,Fire: High Severity [Type],LULC: Mortality,0.5
+Biomass: Fine Root,Atmosphere CO2,Fire: High Severity [Type],LULC: Emission,0.2042
+Biomass: Fine Root,Atmosphere CH4,Fire: High Severity [Type],LULC: Emission,0.0023
+Biomass: Fine Root,Atmosphere CO,Fire: High Severity [Type],LULC: Emission,0.0204
+DOM: Aboveground Very Fast,Atmosphere CO2,Fire: High Severity [Type],LULC: Emission,0.9
+DOM: Aboveground Very Fast,Atmosphere CH4,Fire: High Severity [Type],LULC: Emission,0.01
+DOM: Aboveground Very Fast,Atmosphere CO,Fire: High Severity [Type],LULC: Emission,0.09
+DOM: Aboveground Fast,Atmosphere CO2,Fire: High Severity [Type],LULC: Emission,0.5028
+DOM: Aboveground Fast,Atmosphere CH4,Fire: High Severity [Type],LULC: Emission,0.0056
+DOM: Aboveground Fast,Atmosphere CO,Fire: High Severity [Type],LULC: Emission,0.0503
+DOM: Aboveground Medium,Atmosphere CO2,Fire: High Severity [Type],LULC: Emission,0.1255
+DOM: Aboveground Medium,Atmosphere CH4,Fire: High Severity [Type],LULC: Emission,0.0014
+DOM: Aboveground Medium,Atmosphere CO,Fire: High Severity [Type],LULC: Emission,0.0125
+DOM: Aboveground Slow,Atmosphere CO2,Fire: High Severity [Type],LULC: Emission,0.4072
+DOM: Aboveground Slow,Atmosphere CH4,Fire: High Severity [Type],LULC: Emission,0.0045
+DOM: Aboveground Slow,Atmosphere CO,Fire: High Severity [Type],LULC: Emission,0.0407
+DOM: Snag Stem,DOM: Aboveground Medium,Fire: High Severity [Type],LULC: Transfer,1
+DOM: Snag Branch,DOM: Aboveground Fast,Fire: High Severity [Type],LULC: Transfer,1
+Biomass: Merchantable,DOM: Aboveground Medium,Management: Salvage Logging [Type],LULC: Mortality,0.15
+Biomass: Merchantable,Forestry Sector,Management: Salvage Logging [Type],LULC: Harvest,0.85
+Biomass: Foliage,DOM: Aboveground Very Fast,Management: Salvage Logging [Type],LULC: Mortality,1
+Biomass: Other Wood,DOM: Aboveground Fast,Management: Salvage Logging [Type],LULC: Mortality,1
+Biomass: Coarse Root,DOM: Aboveground Fast,Management: Salvage Logging [Type],LULC: Mortality,0.5
+Biomass: Coarse Root,DOM: Belowground Fast,Management: Salvage Logging [Type],LULC: Mortality,0.5
+Biomass: Fine Root,DOM: Aboveground Very Fast,Management: Salvage Logging [Type],LULC: Mortality,0.5
+Biomass: Fine Root,DOM: Belowground Very Fast,Management: Salvage Logging [Type],LULC: Mortality,0.5
+DOM: Snag Stem,DOM: Aboveground Medium,Management: Salvage Logging [Type],LULC: Transfer,0.28
+DOM: Snag Stem,Forestry Sector,Management: Salvage Logging [Type],LULC: Harvest,0.72
+DOM: Snag Branch,DOM: Aboveground Fast,Management: Salvage Logging [Type],LULC: Transfer,1
+Biomass: Merchantable,DOM: Snag Stem,Insect: Low Severity [Type],LULC: Mortality,0.05
+Biomass: Foliage,DOM: Aboveground Very Fast,Insect: Low Severity [Type],LULC: Mortality,0.05
+Biomass: Other Wood,DOM: Snag Branch,Insect: Low Severity [Type],LULC: Mortality,0.05
+Biomass: Coarse Root,DOM: Aboveground Fast,Insect: Low Severity [Type],LULC: Mortality,0.025
+Biomass: Coarse Root,DOM: Belowground Fast,Insect: Low Severity [Type],LULC: Mortality,0.025
+Biomass: Fine Root,DOM: Aboveground Very Fast,Insect: Low Severity [Type],LULC: Mortality,0.025
+Biomass: Fine Root,DOM: Belowground Very Fast,Insect: Low Severity [Type],LULC: Mortality,0.025
+Biomass: Merchantable,DOM: Snag Stem,Insect: Medium Severity [Type],LULC: Mortality,0.1
+Biomass: Foliage,DOM: Aboveground Very Fast,Insect: Medium Severity [Type],LULC: Mortality,0.1
+Biomass: Other Wood,DOM: Snag Branch,Insect: Medium Severity [Type],LULC: Mortality,0.1
+Biomass: Coarse Root,DOM: Aboveground Fast,Insect: Medium Severity [Type],LULC: Mortality,0.05
+Biomass: Coarse Root,DOM: Belowground Fast,Insect: Medium Severity [Type],LULC: Mortality,0.05
+Biomass: Fine Root,DOM: Aboveground Very Fast,Insect: Medium Severity [Type],LULC: Mortality,0.05
+Biomass: Fine Root,DOM: Belowground Very Fast,Insect: Medium Severity [Type],LULC: Mortality,0.05
+Biomass: Merchantable,DOM: Snag Stem,Insect: High Severity [Type],LULC: Mortality,0.3
+Biomass: Foliage,DOM: Aboveground Very Fast,Insect: High Severity [Type],LULC: Mortality,0.3
+Biomass: Other Wood,DOM: Snag Branch,Insect: High Severity [Type],LULC: Mortality,0.3
+Biomass: Coarse Root,DOM: Aboveground Fast,Insect: High Severity [Type],LULC: Mortality,0.15
+Biomass: Coarse Root,DOM: Belowground Fast,Insect: High Severity [Type],LULC: Mortality,0.15
+Biomass: Fine Root,DOM: Aboveground Very Fast,Insect: High Severity [Type],LULC: Mortality,0.15
+Biomass: Fine Root,DOM: Belowground Very Fast,Insect: High Severity [Type],LULC: Mortality,0.15
+Biomass: Merchantable,Forestry Sector,Management: Forest Selection [Type],LULC: Harvest,0.5
+Biomass: Foliage,DOM: Aboveground Very Fast,Management: Forest Selection [Type],LULC: Mortality,0.5
+Biomass: Other Wood,DOM: Aboveground Fast,Management: Forest Selection [Type],LULC: Mortality,0.5
+Biomass: Coarse Root,DOM: Aboveground Fast,Management: Forest Selection [Type],LULC: Mortality,0.25
+Biomass: Coarse Root,DOM: Belowground Fast,Management: Forest Selection [Type],LULC: Mortality,0.25
+Biomass: Fine Root,DOM: Aboveground Very Fast,Management: Forest Selection [Type],LULC: Mortality,0.25
+Biomass: Fine Root,DOM: Belowground Very Fast,Management: Forest Selection [Type],LULC: Mortality,0.25
+Biomass: Merchantable,DOM: Aboveground Medium,Management: Forest Clearcut [Type],LULC: Mortality,0.03
+Biomass: Merchantable,Forestry Sector,Management: Forest Clearcut [Type],LULC: Harvest,0.97
+Biomass: Foliage,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],LULC: Mortality,1
+Biomass: Other Wood,DOM: Aboveground Fast,Management: Forest Clearcut [Type],LULC: Mortality,1
+Biomass: Coarse Root,DOM: Aboveground Fast,Management: Forest Clearcut [Type],LULC: Mortality,0.5
+Biomass: Coarse Root,DOM: Belowground Fast,Management: Forest Clearcut [Type],LULC: Mortality,0.5
+Biomass: Fine Root,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],LULC: Mortality,0.5
+Biomass: Fine Root,DOM: Belowground Very Fast,Management: Forest Clearcut [Type],LULC: Mortality,0.5
+DOM: Snag Stem,DOM: Aboveground Medium,Management: Forest Clearcut [Type],LULC: Transfer,1
+DOM: Snag Branch,DOM: Aboveground Fast,Management: Forest Clearcut [Type],LULC: Transfer,1
+Biomass: Merchantable,DOM: Aboveground Medium,Management: Forest Selection 85% [Type],LULC: Mortality,0.85
+Biomass: Foliage,DOM: Aboveground Very Fast,Management: Forest Selection 85% [Type],LULC: Mortality,0.85
+Biomass: Other Wood,DOM: Aboveground Fast,Management: Forest Selection 85% [Type],LULC: Mortality,0.85
+Biomass: Coarse Root,DOM: Aboveground Fast,Management: Forest Selection 85% [Type],LULC: Mortality,0.45
+Biomass: Coarse Root,DOM: Belowground Fast,Management: Forest Selection 85% [Type],LULC: Mortality,0.4
+Biomass: Fine Root,DOM: Aboveground Very Fast,Management: Forest Selection 85% [Type],LULC: Mortality,0.45
+Biomass: Fine Root,DOM: Belowground Very Fast,Management: Forest Selection 85% [Type],LULC: Mortality,0.4
+Biomass: Merchantable,Forestry Sector,Management: Forest Selection 20% [Type],LULC: Harvest,0.2
+Biomass: Foliage,DOM: Aboveground Very Fast,Management: Forest Selection 20% [Type],LULC: Mortality,0.2
+Biomass: Other Wood,DOM: Aboveground Fast,Management: Forest Selection 20% [Type],LULC: Mortality,0.2
+Biomass: Coarse Root,DOM: Aboveground Fast,Management: Forest Selection 20% [Type],LULC: Mortality,0.1
+Biomass: Coarse Root,DOM: Belowground Fast,Management: Forest Selection 20% [Type],LULC: Mortality,0.1
+Biomass: Fine Root,DOM: Aboveground Very Fast,Management: Forest Selection 20% [Type],LULC: Mortality,0.1
+Biomass: Fine Root,DOM: Belowground Very Fast,Management: Forest Selection 20% [Type],LULC: Mortality,0.1
+Biomass: Merchantable,DOM: Aboveground Medium,Management: Salvage Logging [Type],LULC: Mortality,0.15
+Biomass: Merchantable,Forestry Sector,Management: Salvage Logging [Type],LULC: Harvest,0.85
+Biomass: Foliage,DOM: Aboveground Very Fast,Management: Salvage Logging [Type],LULC: Mortality,1
+Biomass: Other Wood,DOM: Aboveground Fast,Management: Salvage Logging [Type],LULC: Mortality,1
+Biomass: Coarse Root,DOM: Aboveground Fast,Management: Salvage Logging [Type],LULC: Mortality,0.5
+Biomass: Coarse Root,DOM: Belowground Fast,Management: Salvage Logging [Type],LULC: Mortality,0.5
+Biomass: Fine Root,DOM: Aboveground Very Fast,Management: Salvage Logging [Type],LULC: Mortality,0.5
+Biomass: Fine Root,DOM: Belowground Very Fast,Management: Salvage Logging [Type],LULC: Mortality,0.5
+DOM: Snag Stem,DOM: Aboveground Medium,Management: Salvage Logging [Type],LULC: Transfer,0.28
+DOM: Snag Stem,Forestry Sector,Management: Salvage Logging [Type],LULC: Harvest,0.72
+DOM: Snag Branch,DOM: Aboveground Fast,Management: Salvage Logging [Type],LULC: Transfer,1
+Biomass: Merchantable,DOM: Snag Stem,Fire: Medium Severity [Type],LULC: Mortality,0.5
+Biomass: Foliage,DOM: Aboveground Very Fast,Fire: Medium Severity [Type],LULC: Mortality,0.0082
+Biomass: Foliage,Atmosphere CO2,Fire: Medium Severity [Type],LULC: Emission,0.4426
+Biomass: Foliage,Atmosphere CH4,Fire: Medium Severity [Type],LULC: Emission,0.0049
+Biomass: Foliage,Atmosphere CO,Fire: Medium Severity [Type],LULC: Emission,0.04425
+Biomass: Other Wood,DOM: Snag Branch,Fire: Medium Severity [Type],LULC: Mortality,0.454
+Biomass: Other Wood,Atmosphere CO2,Fire: Medium Severity [Type],LULC: Emission,0.0414
+Biomass: Other Wood,Atmosphere CH4,Fire: Medium Severity [Type],LULC: Emission,4.50E-04
+Biomass: Other Wood,Atmosphere CO,Fire: Medium Severity [Type],LULC: Emission,0.00415
+Biomass: Coarse Root,DOM: Aboveground Fast,Fire: Medium Severity [Type],LULC: Mortality,0.25
+Biomass: Coarse Root,DOM: Belowground Fast,Fire: Medium Severity [Type],LULC: Mortality,0.25
+Biomass: Fine Root,DOM: Aboveground Very Fast,Fire: Medium Severity [Type],LULC: Mortality,0.13655
+Biomass: Fine Root,DOM: Belowground Very Fast,Fire: Medium Severity [Type],LULC: Mortality,0.25
+Biomass: Fine Root,Atmosphere CO2,Fire: Medium Severity [Type],LULC: Emission,0.1021
+Biomass: Fine Root,Atmosphere CH4,Fire: Medium Severity [Type],LULC: Emission,0.00115
+Biomass: Fine Root,Atmosphere CO,Fire: Medium Severity [Type],LULC: Emission,0.0102
+DOM: Aboveground Very Fast,Atmosphere CO2,Fire: Medium Severity [Type],LULC: Emission,0.45
+DOM: Aboveground Very Fast,Atmosphere CH4,Fire: Medium Severity [Type],LULC: Emission,0.005
+DOM: Aboveground Very Fast,Atmosphere CO,Fire: Medium Severity [Type],LULC: Emission,0.045
+DOM: Aboveground Fast,Atmosphere CO2,Fire: Medium Severity [Type],LULC: Emission,0.2514
+DOM: Aboveground Fast,Atmosphere CH4,Fire: Medium Severity [Type],LULC: Emission,0.0028
+DOM: Aboveground Fast,Atmosphere CO,Fire: Medium Severity [Type],LULC: Emission,0.02515
+DOM: Aboveground Medium,Atmosphere CO2,Fire: Medium Severity [Type],LULC: Emission,0.06275
+DOM: Aboveground Medium,Atmosphere CH4,Fire: Medium Severity [Type],LULC: Emission,0.0007
+DOM: Aboveground Medium,Atmosphere CO,Fire: Medium Severity [Type],LULC: Emission,0.00625
+DOM: Aboveground Slow,Atmosphere CO2,Fire: Medium Severity [Type],LULC: Emission,0.2036
+DOM: Aboveground Slow,Atmosphere CH4,Fire: Medium Severity [Type],LULC: Emission,0.00225
+DOM: Aboveground Slow,Atmosphere CO,Fire: Medium Severity [Type],LULC: Emission,0.02035
+DOM: Snag Stem,DOM: Aboveground Medium,Fire: Medium Severity [Type],LULC: Transfer,0.5
+DOM: Snag Branch,DOM: Aboveground Fast,Fire: Medium Severity [Type],LULC: Transfer,0.5
+Biomass: Merchantable,DOM: Snag Stem,Fire: Low Severity [Type],LULC: Mortality,0.25
+Biomass: Foliage,DOM: Aboveground Very Fast,Fire: Low Severity [Type],LULC: Mortality,0.0041
+Biomass: Foliage,Atmosphere CO2,Fire: Low Severity [Type],LULC: Emission,0.2213
+Biomass: Foliage,Atmosphere CH4,Fire: Low Severity [Type],LULC: Emission,0.00245
+Biomass: Foliage,Atmosphere CO,Fire: Low Severity [Type],LULC: Emission,0.022125
+Biomass: Other Wood,DOM: Snag Branch,Fire: Low Severity [Type],LULC: Mortality,0.227
+Biomass: Other Wood,Atmosphere CO2,Fire: Low Severity [Type],LULC: Emission,0.0207
+Biomass: Other Wood,Atmosphere CH4,Fire: Low Severity [Type],LULC: Emission,0.000225
+Biomass: Other Wood,Atmosphere CO,Fire: Low Severity [Type],LULC: Emission,0.002075
+Biomass: Coarse Root,DOM: Aboveground Fast,Fire: Low Severity [Type],LULC: Mortality,0.125
+Biomass: Coarse Root,DOM: Belowground Fast,Fire: Low Severity [Type],LULC: Mortality,0.125
+Biomass: Fine Root,DOM: Aboveground Very Fast,Fire: Low Severity [Type],LULC: Mortality,0.068275
+Biomass: Fine Root,DOM: Belowground Very Fast,Fire: Low Severity [Type],LULC: Mortality,0.125
+Biomass: Fine Root,Atmosphere CO2,Fire: Low Severity [Type],LULC: Emission,0.05105
+Biomass: Fine Root,Atmosphere CH4,Fire: Low Severity [Type],LULC: Emission,0.000575
+Biomass: Fine Root,Atmosphere CO,Fire: Low Severity [Type],LULC: Emission,0.0051
+DOM: Aboveground Very Fast,Atmosphere CO2,Fire: Low Severity [Type],LULC: Emission,0.225
+DOM: Aboveground Very Fast,Atmosphere CH4,Fire: Low Severity [Type],LULC: Emission,0.0025
+DOM: Aboveground Very Fast,Atmosphere CO,Fire: Low Severity [Type],LULC: Emission,0.0225
+DOM: Aboveground Fast,Atmosphere CO2,Fire: Low Severity [Type],LULC: Emission,0.1257
+DOM: Aboveground Fast,Atmosphere CH4,Fire: Low Severity [Type],LULC: Emission,0.0014
+DOM: Aboveground Fast,Atmosphere CO,Fire: Low Severity [Type],LULC: Emission,0.012575
+DOM: Aboveground Medium,Atmosphere CO2,Fire: Low Severity [Type],LULC: Emission,0.031375
+DOM: Aboveground Medium,Atmosphere CH4,Fire: Low Severity [Type],LULC: Emission,0.00035
+DOM: Aboveground Medium,Atmosphere CO,Fire: Low Severity [Type],LULC: Emission,0.003125
+DOM: Aboveground Slow,Atmosphere CO2,Fire: Low Severity [Type],LULC: Emission,0.1018
+DOM: Aboveground Slow,Atmosphere CH4,Fire: Low Severity [Type],LULC: Emission,0.001125
+DOM: Aboveground Slow,Atmosphere CO,Fire: Low Severity [Type],LULC: Emission,0.010175
+DOM: Snag Stem,DOM: Aboveground Medium,Fire: Low Severity [Type],LULC: Transfer,0.25
+DOM: Snag Branch,DOM: Aboveground Fast,Fire: Low Severity [Type],LULC: Transfer,0.25
+Biomass: Merchantable,Forestry Sector,Urbanization,LULC: Harvest,0.8
+Biomass: Merchantable,Atmosphere CO2,Urbanization,LULC: Emission,0.18
+Biomass: Merchantable,Atmosphere CH4,Urbanization,LULC: Emission,0.002017167
+Biomass: Merchantable,Atmosphere CO,Urbanization,LULC: Emission,0.017982833
+Biomass: Foliage,Atmosphere CO2,Urbanization,LULC: Emission,0.9
+Biomass: Foliage,Atmosphere CH4,Urbanization,LULC: Emission,0.01
+Biomass: Foliage,Atmosphere CO,Urbanization,LULC: Emission,0.09
+Biomass: Other Wood,Atmosphere CO2,Urbanization,LULC: Emission,0.9
+Biomass: Other Wood,Atmosphere CH4,Urbanization,LULC: Emission,0.010085837
+Biomass: Other Wood,Atmosphere CO,Urbanization,LULC: Emission,0.089914163
+Biomass: Coarse Root,Atmosphere CO2,Urbanization,LULC: Emission,0.9
+Biomass: Coarse Root,Atmosphere CH4,Urbanization,LULC: Emission,0.010085837
+Biomass: Coarse Root,Atmosphere CO,Urbanization,LULC: Emission,0.089914163
+Biomass: Fine Root,Atmosphere CO2,Urbanization,LULC: Emission,0.9
+Biomass: Fine Root,Atmosphere CH4,Urbanization,LULC: Emission,0.010085837
+Biomass: Fine Root,Atmosphere CO,Urbanization,LULC: Emission,0.089914163
+DOM: Snag Stem,Atmosphere CO2,Urbanization,LULC: Emission,0.9
+DOM: Snag Stem,Atmosphere CH4,Urbanization,LULC: Emission,0.010085837
+DOM: Snag Stem,Atmosphere CO,Urbanization,LULC: Emission,0.089914163
+DOM: Snag Branch,Atmosphere CO2,Urbanization,LULC: Emission,0.9
+DOM: Snag Branch,Atmosphere CH4,Urbanization,LULC: Emission,0.010085837
+DOM: Snag Branch,Atmosphere CO,Urbanization,LULC: Emission,0.089914163
+DOM: Aboveground Very Fast,Atmosphere CO2,Urbanization,LULC: Emission,0.9
+DOM: Aboveground Very Fast,Atmosphere CH4,Urbanization,LULC: Emission,0.010085837
+DOM: Aboveground Very Fast,Atmosphere CO,Urbanization,LULC: Emission,0.089914163
+DOM: Aboveground Fast,Atmosphere CO2,Urbanization,LULC: Emission,0.9
+DOM: Aboveground Fast,Atmosphere CH4,Urbanization,LULC: Emission,0.010085837
+DOM: Aboveground Fast,Atmosphere CO,Urbanization,LULC: Emission,0.089914163
+DOM: Aboveground Medium,Atmosphere CO2,Urbanization,LULC: Emission,0.9
+DOM: Aboveground Medium,Atmosphere CH4,Urbanization,LULC: Emission,0.010085837
+DOM: Aboveground Medium,Atmosphere CO,Urbanization,LULC: Emission,0.089914163
+DOM: Belowground Very Fast,Atmosphere CO2,Urbanization,LULC: Emission,0.9
+DOM: Belowground Very Fast,Atmosphere CH4,Urbanization,LULC: Emission,0.010085837
+DOM: Belowground Very Fast,Atmosphere CO,Urbanization,LULC: Emission,0.089914163
+DOM: Belowground Fast,Atmosphere CO2,Urbanization,LULC: Emission,0.9
+DOM: Belowground Fast,Atmosphere CH4,Urbanization,LULC: Emission,0.010085837
+DOM: Belowground Fast,Atmosphere CO,Urbanization,LULC: Emission,0.089914163
+DOM: Belowground Slow,Atmosphere CO2,Urbanization,LULC: Emission,0.18
+DOM: Belowground Slow,Atmosphere CH4,Urbanization,LULC: Emission,0.002017167
+DOM: Belowground Slow,Atmosphere CO,Urbanization,LULC: Emission,0.017982833
+Biomass: Merchantable,Forestry Sector,Ag Expansion,LULC: Harvest,0.8
+Biomass: Merchantable,Atmosphere CO2,Ag Expansion,LULC: Emission,0.18
+Biomass: Merchantable,Atmosphere CH4,Ag Expansion,LULC: Emission,0.002017167
+Biomass: Merchantable,Atmosphere CO,Ag Expansion,LULC: Emission,0.017982833
+Biomass: Foliage,Atmosphere CO2,Ag Expansion,LULC: Emission,0.9
+Biomass: Foliage,Atmosphere CH4,Ag Expansion,LULC: Emission,0.01
+Biomass: Foliage,Atmosphere CO,Ag Expansion,LULC: Emission,0.09
+Biomass: Other Wood,Atmosphere CO2,Ag Expansion,LULC: Emission,0.9
+Biomass: Other Wood,Atmosphere CH4,Ag Expansion,LULC: Emission,0.010085837
+Biomass: Other Wood,Atmosphere CO,Ag Expansion,LULC: Emission,0.089914163
+Biomass: Coarse Root,DOM: Aboveground Fast,Ag Expansion,LULC: Mortality,0.5
+Biomass: Coarse Root,DOM: Belowground Fast,Ag Expansion,LULC: Mortality,0.5
+Biomass: Fine Root,DOM: Aboveground Very Fast,Ag Expansion,LULC: Mortality,0.5
+Biomass: Fine Root,DOM: Belowground Very Fast,Ag Expansion,LULC: Mortality,0.5
+DOM: Snag Stem,Atmosphere CO2,Ag Expansion,LULC: Emission,0.9
+DOM: Snag Stem,Atmosphere CH4,Ag Expansion,LULC: Emission,0.010085837
+DOM: Snag Stem,Atmosphere CO,Ag Expansion,LULC: Emission,0.089914163
+DOM: Snag Branch,Atmosphere CO2,Ag Expansion,LULC: Emission,0.9
+DOM: Snag Branch,Atmosphere CH4,Ag Expansion,LULC: Emission,0.010085837
+DOM: Snag Branch,Atmosphere CO,Ag Expansion,LULC: Emission,0.089914163

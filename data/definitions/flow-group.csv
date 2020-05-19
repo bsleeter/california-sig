@@ -1,0 +1,11 @@
+Name,Description,Units,IsAuto
+Biomass Turnover: Total,,,
+Decay: Total,,,
+Emission: Total,Total carbon emissions from all ecosystem components (DOM+ Biomass),,
+Net Growth: Total,Net biomass increment before losses from disturbances,,
+Transfer: Total,,,
+Q10 Fast Flows,,,
+Q10 Slow Flows,,,
+Net Primary Productivity,,,
+Net Ecosystem Productivity,,,
+Net Biome Productivity,,,

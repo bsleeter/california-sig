@@ -1,0 +1,3 @@
+Iteration,Timestep,StratumIDSource,StateClassIDSource,StratumIDDest,StateClassIDDest,SecondaryStratumID,TertiaryStratumID,TransitionTypeID,Probability,Proportion,AgeMin,AgeMax,AgeRelative,AgeReset,TSTMin,TSTMax,TSTRelative
+,,,Agriculture: Pasture,,Agriculture: Cropland,,,Ag Change: Pasture to Cropland,1,,,,,,,,
+,,,Agriculture: Cropland,,Agriculture: Pasture,,,Ag Change: Cropland to Pasture,1,,,,,,,,

@@ -1,0 +1,2211 @@
+Timestep,StratumID,DistributionTypeID,ExternalVariableTypeID,ExternalVariableMin,ExternalVariableMax,Amount
+2002,Coast Range,Management: Forest Clearcut,Forest Harvest,2002,2002,49300
+2002,Puget Lowland,Management: Forest Clearcut,Forest Harvest,2002,2002,6400
+2002,Willamette Valley,Management: Forest Clearcut,Forest Harvest,2002,2002,5200
+2002,Cascades,Management: Forest Clearcut,Forest Harvest,2002,2002,28700
+2002,Sierra Nevada,Management: Forest Clearcut,Forest Harvest,2002,2002,11900
+2002,Central California Foothills and Coastal Mountains,Management: Forest Clearcut,Forest Harvest,2002,2002,700
+2002,Central California Valley,Management: Forest Clearcut,Forest Harvest,2002,2002,400
+2002,Southern California Mountains,Management: Forest Clearcut,Forest Harvest,2002,2002,100
+2002,Eastern Cascades Slopes and Foothills,Management: Forest Clearcut,Forest Harvest,2002,2002,15400
+2002,Columbia Plateau,Management: Forest Clearcut,Forest Harvest,2002,2002,900
+2002,Blue Mountains,Management: Forest Clearcut,Forest Harvest,2002,2002,11800
+2002,Snake River Plain,Management: Forest Clearcut,Forest Harvest,2002,2002,3300
+2002,Central Basin and Range,Management: Forest Clearcut,Forest Harvest,2002,2002,2600
+2002,Mojave Basin and Range,Management: Forest Clearcut,Forest Harvest,2002,2002,100
+2002,Northern Rockies,Management: Forest Clearcut,Forest Harvest,2002,2002,43600
+2002,Idaho Batholith,Management: Forest Clearcut,Forest Harvest,2002,2002,8900
+2002,Middle Rockies,Management: Forest Clearcut,Forest Harvest,2002,2002,21200
+2002,Wyoming Basin,Management: Forest Clearcut,Forest Harvest,2002,2002,1200
+2002,Wasatch and Uinta Mountains,Management: Forest Clearcut,Forest Harvest,2002,2002,2400
+2002,Colorado Plateaus,Management: Forest Clearcut,Forest Harvest,2002,2002,7300
+2002,Southern Rockies,Management: Forest Clearcut,Forest Harvest,2002,2002,5500
+2002,Arizona/New Mexico Plateau,Management: Forest Clearcut,Forest Harvest,2002,2002,2500
+2002,Arizona/New Mexico Mountains,Management: Forest Clearcut,Forest Harvest,2002,2002,5600
+2002,Chihuahuan Deserts,Management: Forest Clearcut,Forest Harvest,2002,2002,0
+2002,High Plains,Management: Forest Clearcut,Forest Harvest,2002,2002,100
+2002,Southwestern Tablelands,Management: Forest Clearcut,Forest Harvest,2002,2002,100
+2002,Central Great Plains,Management: Forest Clearcut,Forest Harvest,2002,2002,0
+2002,Flint Hills,Management: Forest Clearcut,Forest Harvest,2002,2002,0
+2002,Cross Timbers,Management: Forest Clearcut,Forest Harvest,2002,2002,200
+2002,Edwards Plateau,Management: Forest Clearcut,Forest Harvest,2002,2002,1700
+2002,Southern Texas Plains,Management: Forest Clearcut,Forest Harvest,2002,2002,0
+2002,Texas Blackland Prairies,Management: Forest Clearcut,Forest Harvest,2002,2002,0
+2002,East Central Texas Plains,Management: Forest Clearcut,Forest Harvest,2002,2002,1600
+2002,Western Gulf Coastal Plain,Management: Forest Clearcut,Forest Harvest,2002,2002,3200
+2002,South Central Plains,Management: Forest Clearcut,Forest Harvest,2002,2002,143300
+2002,Ouachita Mountains,Management: Forest Clearcut,Forest Harvest,2002,2002,28300
+2002,Arkansas Valley,Management: Forest Clearcut,Forest Harvest,2002,2002,3100
+2002,Boston Mountains,Management: Forest Clearcut,Forest Harvest,2002,2002,1100
+2002,Ozark Highlands,Management: Forest Clearcut,Forest Harvest,2002,2002,11700
+2002,Central Irregular Plains,Management: Forest Clearcut,Forest Harvest,2002,2002,100
+2002,Canadian Rockies,Management: Forest Clearcut,Forest Harvest,2002,2002,2700
+2002,Northwestern Glaciated Plains,Management: Forest Clearcut,Forest Harvest,2002,2002,0
+2002,Northwestern Great Plains,Management: Forest Clearcut,Forest Harvest,2002,2002,2400
+2002,Nebraska Sand Hills,Management: Forest Clearcut,Forest Harvest,2002,2002,0
+2002,Piedmont,Management: Forest Clearcut,Forest Harvest,2002,2002,89100
+2002,Northern Glaciated Plains,Management: Forest Clearcut,Forest Harvest,2002,2002,0
+2002,Western Corn Belt Plains,Management: Forest Clearcut,Forest Harvest,2002,2002,200
+2002,Lake Agassiz Plain,Management: Forest Clearcut,Forest Harvest,2002,2002,0
+2002,Northern Minnesota Wetlands,Management: Forest Clearcut,Forest Harvest,2002,2002,1800
+2002,Northern Lakes and Forests,Management: Forest Clearcut,Forest Harvest,2002,2002,38700
+2002,North Central Hardwood Forests,Management: Forest Clearcut,Forest Harvest,2002,2002,5400
+2002,Driftless Area,Management: Forest Clearcut,Forest Harvest,2002,2002,300
+2002,Southeastern Wisconsin Till Plains,Management: Forest Clearcut,Forest Harvest,2002,2002,100
+2002,Central Corn Belt Plains,Management: Forest Clearcut,Forest Harvest,2002,2002,500
+2002,Eastern Corn Belt Plains,Management: Forest Clearcut,Forest Harvest,2002,2002,100
+2002,Southern Michigan/Northern Indiana Drift Plains,Management: Forest Clearcut,Forest Harvest,2002,2002,1000
+2002,Huron/Erie Lake Plains,Management: Forest Clearcut,Forest Harvest,2002,2002,200
+2002,Northeastern Highlands,Management: Forest Clearcut,Forest Harvest,2002,2002,14200
+2002,Northeastern Coastal Zone,Management: Forest Clearcut,Forest Harvest,2002,2002,2300
+2002,Northern Allegheny Plateau,Management: Forest Clearcut,Forest Harvest,2002,2002,400
+2002,Erie Drift Plain,Management: Forest Clearcut,Forest Harvest,2002,2002,900
+2002,North Central Appalachians,Management: Forest Clearcut,Forest Harvest,2002,2002,15500
+2002,Middle Atlantic Coastal Plain,Management: Forest Clearcut,Forest Harvest,2002,2002,34700
+2002,Northern Piedmont,Management: Forest Clearcut,Forest Harvest,2002,2002,1500
+2002,Southeastern Plains,Management: Forest Clearcut,Forest Harvest,2002,2002,230200
+2002,Blue Ridge,Management: Forest Clearcut,Forest Harvest,2002,2002,4400
+2002,Ridge and Valley,Management: Forest Clearcut,Forest Harvest,2002,2002,21200
+2002,Southwestern Appalachians,Management: Forest Clearcut,Forest Harvest,2002,2002,21400
+2002,Central Appalachians,Management: Forest Clearcut,Forest Harvest,2002,2002,11300
+2002,Western Allegheny Plateau,Management: Forest Clearcut,Forest Harvest,2002,2002,4300
+2002,Interior Plateau,Management: Forest Clearcut,Forest Harvest,2002,2002,9100
+2002,Interior River Valleys and Hills,Management: Forest Clearcut,Forest Harvest,2002,2002,2100
+2002,Mississippi Alluvial Plain,Management: Forest Clearcut,Forest Harvest,2002,2002,4900
+2002,Mississippi Valley Loess Plains,Management: Forest Clearcut,Forest Harvest,2002,2002,24400
+2002,Southern Coastal Plain,Management: Forest Clearcut,Forest Harvest,2002,2002,76800
+2002,Southern Florida Coastal Plain,Management: Forest Clearcut,Forest Harvest,2002,2002,400
+2002,North Cascades,Management: Forest Clearcut,Forest Harvest,2002,2002,6200
+2002,Klamath Mountains/California High North Coast Range,Management: Forest Clearcut,Forest Harvest,2002,2002,23400
+2002,Madrean Archipelago,Management: Forest Clearcut,Forest Harvest,2002,2002,500
+2002,Northern Basin and Range,Management: Forest Clearcut,Forest Harvest,2002,2002,2600
+2002,Sonoran Basin and Range,Management: Forest Clearcut,Forest Harvest,2002,2002,0
+2002,Acadian Plains and Hills,Management: Forest Clearcut,Forest Harvest,2002,2002,12200
+2002,Eastern Great Lakes Lowlands,Management: Forest Clearcut,Forest Harvest,2002,2002,500
+2002,Atlantic Coastal Pine Barrens,Management: Forest Clearcut,Forest Harvest,2002,2002,1700
+2002,Southern California/Northern Baja Coast,Management: Forest Clearcut,Forest Harvest,2002,2002,100
+2003,Coast Range,Management: Forest Clearcut,Forest Harvest,2003,2003,52900
+2003,Puget Lowland,Management: Forest Clearcut,Forest Harvest,2003,2003,7500
+2003,Willamette Valley,Management: Forest Clearcut,Forest Harvest,2003,2003,6300
+2003,Cascades,Management: Forest Clearcut,Forest Harvest,2003,2003,38500
+2003,Sierra Nevada,Management: Forest Clearcut,Forest Harvest,2003,2003,25900
+2003,Central California Foothills and Coastal Mountains,Management: Forest Clearcut,Forest Harvest,2003,2003,900
+2003,Central California Valley,Management: Forest Clearcut,Forest Harvest,2003,2003,0
+2003,Southern California Mountains,Management: Forest Clearcut,Forest Harvest,2003,2003,1000
+2003,Eastern Cascades Slopes and Foothills,Management: Forest Clearcut,Forest Harvest,2003,2003,19700
+2003,Columbia Plateau,Management: Forest Clearcut,Forest Harvest,2003,2003,400
+2003,Blue Mountains,Management: Forest Clearcut,Forest Harvest,2003,2003,13100
+2003,Snake River Plain,Management: Forest Clearcut,Forest Harvest,2003,2003,800
+2003,Central Basin and Range,Management: Forest Clearcut,Forest Harvest,2003,2003,2700
+2003,Mojave Basin and Range,Management: Forest Clearcut,Forest Harvest,2003,2003,0
+2003,Northern Rockies,Management: Forest Clearcut,Forest Harvest,2003,2003,39100
+2003,Idaho Batholith,Management: Forest Clearcut,Forest Harvest,2003,2003,7400
+2003,Middle Rockies,Management: Forest Clearcut,Forest Harvest,2003,2003,17400
+2003,Wyoming Basin,Management: Forest Clearcut,Forest Harvest,2003,2003,3500
+2003,Wasatch and Uinta Mountains,Management: Forest Clearcut,Forest Harvest,2003,2003,2800
+2003,Colorado Plateaus,Management: Forest Clearcut,Forest Harvest,2003,2003,12500
+2003,Southern Rockies,Management: Forest Clearcut,Forest Harvest,2003,2003,7800
+2003,Arizona/New Mexico Plateau,Management: Forest Clearcut,Forest Harvest,2003,2003,400
+2003,Arizona/New Mexico Mountains,Management: Forest Clearcut,Forest Harvest,2003,2003,6300
+2003,Chihuahuan Deserts,Management: Forest Clearcut,Forest Harvest,2003,2003,0
+2003,High Plains,Management: Forest Clearcut,Forest Harvest,2003,2003,0
+2003,Southwestern Tablelands,Management: Forest Clearcut,Forest Harvest,2003,2003,0
+2003,Central Great Plains,Management: Forest Clearcut,Forest Harvest,2003,2003,0
+2003,Flint Hills,Management: Forest Clearcut,Forest Harvest,2003,2003,0
+2003,Cross Timbers,Management: Forest Clearcut,Forest Harvest,2003,2003,300
+2003,Edwards Plateau,Management: Forest Clearcut,Forest Harvest,2003,2003,1100
+2003,Southern Texas Plains,Management: Forest Clearcut,Forest Harvest,2003,2003,0
+2003,Texas Blackland Prairies,Management: Forest Clearcut,Forest Harvest,2003,2003,100
+2003,East Central Texas Plains,Management: Forest Clearcut,Forest Harvest,2003,2003,3000
+2003,Western Gulf Coastal Plain,Management: Forest Clearcut,Forest Harvest,2003,2003,6300
+2003,South Central Plains,Management: Forest Clearcut,Forest Harvest,2003,2003,192600
+2003,Ouachita Mountains,Management: Forest Clearcut,Forest Harvest,2003,2003,22800
+2003,Arkansas Valley,Management: Forest Clearcut,Forest Harvest,2003,2003,4000
+2003,Boston Mountains,Management: Forest Clearcut,Forest Harvest,2003,2003,3100
+2003,Ozark Highlands,Management: Forest Clearcut,Forest Harvest,2003,2003,15100
+2003,Central Irregular Plains,Management: Forest Clearcut,Forest Harvest,2003,2003,100
+2003,Canadian Rockies,Management: Forest Clearcut,Forest Harvest,2003,2003,2300
+2003,Northwestern Glaciated Plains,Management: Forest Clearcut,Forest Harvest,2003,2003,200
+2003,Northwestern Great Plains,Management: Forest Clearcut,Forest Harvest,2003,2003,6700
+2003,Nebraska Sand Hills,Management: Forest Clearcut,Forest Harvest,2003,2003,0
+2003,Piedmont,Management: Forest Clearcut,Forest Harvest,2003,2003,107200
+2003,Northern Glaciated Plains,Management: Forest Clearcut,Forest Harvest,2003,2003,0
+2003,Western Corn Belt Plains,Management: Forest Clearcut,Forest Harvest,2003,2003,200
+2003,Lake Agassiz Plain,Management: Forest Clearcut,Forest Harvest,2003,2003,0
+2003,Northern Minnesota Wetlands,Management: Forest Clearcut,Forest Harvest,2003,2003,3800
+2003,Northern Lakes and Forests,Management: Forest Clearcut,Forest Harvest,2003,2003,41200
+2003,North Central Hardwood Forests,Management: Forest Clearcut,Forest Harvest,2003,2003,5300
+2003,Driftless Area,Management: Forest Clearcut,Forest Harvest,2003,2003,500
+2003,Southeastern Wisconsin Till Plains,Management: Forest Clearcut,Forest Harvest,2003,2003,100
+2003,Central Corn Belt Plains,Management: Forest Clearcut,Forest Harvest,2003,2003,300
+2003,Eastern Corn Belt Plains,Management: Forest Clearcut,Forest Harvest,2003,2003,500
+2003,Southern Michigan/Northern Indiana Drift Plains,Management: Forest Clearcut,Forest Harvest,2003,2003,1100
+2003,Huron/Erie Lake Plains,Management: Forest Clearcut,Forest Harvest,2003,2003,300
+2003,Northeastern Highlands,Management: Forest Clearcut,Forest Harvest,2003,2003,18700
+2003,Northeastern Coastal Zone,Management: Forest Clearcut,Forest Harvest,2003,2003,2100
+2003,Northern Allegheny Plateau,Management: Forest Clearcut,Forest Harvest,2003,2003,900
+2003,Erie Drift Plain,Management: Forest Clearcut,Forest Harvest,2003,2003,700
+2003,North Central Appalachians,Management: Forest Clearcut,Forest Harvest,2003,2003,8100
+2003,Middle Atlantic Coastal Plain,Management: Forest Clearcut,Forest Harvest,2003,2003,55700
+2003,Northern Piedmont,Management: Forest Clearcut,Forest Harvest,2003,2003,1700
+2003,Southeastern Plains,Management: Forest Clearcut,Forest Harvest,2003,2003,250500
+2003,Blue Ridge,Management: Forest Clearcut,Forest Harvest,2003,2003,5300
+2003,Ridge and Valley,Management: Forest Clearcut,Forest Harvest,2003,2003,12600
+2003,Southwestern Appalachians,Management: Forest Clearcut,Forest Harvest,2003,2003,19900
+2003,Central Appalachians,Management: Forest Clearcut,Forest Harvest,2003,2003,9700
+2003,Western Allegheny Plateau,Management: Forest Clearcut,Forest Harvest,2003,2003,6700
+2003,Interior Plateau,Management: Forest Clearcut,Forest Harvest,2003,2003,11300
+2003,Interior River Valleys and Hills,Management: Forest Clearcut,Forest Harvest,2003,2003,1200
+2003,Mississippi Alluvial Plain,Management: Forest Clearcut,Forest Harvest,2003,2003,5000
+2003,Mississippi Valley Loess Plains,Management: Forest Clearcut,Forest Harvest,2003,2003,19000
+2003,Southern Coastal Plain,Management: Forest Clearcut,Forest Harvest,2003,2003,74500
+2003,Southern Florida Coastal Plain,Management: Forest Clearcut,Forest Harvest,2003,2003,300
+2003,North Cascades,Management: Forest Clearcut,Forest Harvest,2003,2003,5700
+2003,Klamath Mountains/California High North Coast Range,Management: Forest Clearcut,Forest Harvest,2003,2003,16200
+2003,Madrean Archipelago,Management: Forest Clearcut,Forest Harvest,2003,2003,100
+2003,Northern Basin and Range,Management: Forest Clearcut,Forest Harvest,2003,2003,2300
+2003,Sonoran Basin and Range,Management: Forest Clearcut,Forest Harvest,2003,2003,200
+2003,Acadian Plains and Hills,Management: Forest Clearcut,Forest Harvest,2003,2003,8600
+2003,Eastern Great Lakes Lowlands,Management: Forest Clearcut,Forest Harvest,2003,2003,900
+2003,Atlantic Coastal Pine Barrens,Management: Forest Clearcut,Forest Harvest,2003,2003,1700
+2003,Southern California/Northern Baja Coast,Management: Forest Clearcut,Forest Harvest,2003,2003,500
+2004,Coast Range,Management: Forest Clearcut,Forest Harvest,2004,2004,58200
+2004,Puget Lowland,Management: Forest Clearcut,Forest Harvest,2004,2004,6500
+2004,Willamette Valley,Management: Forest Clearcut,Forest Harvest,2004,2004,5100
+2004,Cascades,Management: Forest Clearcut,Forest Harvest,2004,2004,36900
+2004,Sierra Nevada,Management: Forest Clearcut,Forest Harvest,2004,2004,23500
+2004,Central California Foothills and Coastal Mountains,Management: Forest Clearcut,Forest Harvest,2004,2004,1000
+2004,Central California Valley,Management: Forest Clearcut,Forest Harvest,2004,2004,0
+2004,Southern California Mountains,Management: Forest Clearcut,Forest Harvest,2004,2004,3200
+2004,Eastern Cascades Slopes and Foothills,Management: Forest Clearcut,Forest Harvest,2004,2004,21200
+2004,Columbia Plateau,Management: Forest Clearcut,Forest Harvest,2004,2004,600
+2004,Blue Mountains,Management: Forest Clearcut,Forest Harvest,2004,2004,14000
+2004,Snake River Plain,Management: Forest Clearcut,Forest Harvest,2004,2004,700
+2004,Central Basin and Range,Management: Forest Clearcut,Forest Harvest,2004,2004,1900
+2004,Mojave Basin and Range,Management: Forest Clearcut,Forest Harvest,2004,2004,100
+2004,Northern Rockies,Management: Forest Clearcut,Forest Harvest,2004,2004,49300
+2004,Idaho Batholith,Management: Forest Clearcut,Forest Harvest,2004,2004,5200
+2004,Middle Rockies,Management: Forest Clearcut,Forest Harvest,2004,2004,23100
+2004,Wyoming Basin,Management: Forest Clearcut,Forest Harvest,2004,2004,3100
+2004,Wasatch and Uinta Mountains,Management: Forest Clearcut,Forest Harvest,2004,2004,5500
+2004,Colorado Plateaus,Management: Forest Clearcut,Forest Harvest,2004,2004,4600
+2004,Southern Rockies,Management: Forest Clearcut,Forest Harvest,2004,2004,6300
+2004,Arizona/New Mexico Plateau,Management: Forest Clearcut,Forest Harvest,2004,2004,700
+2004,Arizona/New Mexico Mountains,Management: Forest Clearcut,Forest Harvest,2004,2004,10900
+2004,Chihuahuan Deserts,Management: Forest Clearcut,Forest Harvest,2004,2004,100
+2004,High Plains,Management: Forest Clearcut,Forest Harvest,2004,2004,100
+2004,Southwestern Tablelands,Management: Forest Clearcut,Forest Harvest,2004,2004,0
+2004,Central Great Plains,Management: Forest Clearcut,Forest Harvest,2004,2004,0
+2004,Flint Hills,Management: Forest Clearcut,Forest Harvest,2004,2004,0
+2004,Cross Timbers,Management: Forest Clearcut,Forest Harvest,2004,2004,300
+2004,Edwards Plateau,Management: Forest Clearcut,Forest Harvest,2004,2004,1700
+2004,Southern Texas Plains,Management: Forest Clearcut,Forest Harvest,2004,2004,0
+2004,Texas Blackland Prairies,Management: Forest Clearcut,Forest Harvest,2004,2004,0
+2004,East Central Texas Plains,Management: Forest Clearcut,Forest Harvest,2004,2004,2400
+2004,Western Gulf Coastal Plain,Management: Forest Clearcut,Forest Harvest,2004,2004,2200
+2004,South Central Plains,Management: Forest Clearcut,Forest Harvest,2004,2004,122200
+2004,Ouachita Mountains,Management: Forest Clearcut,Forest Harvest,2004,2004,17000
+2004,Arkansas Valley,Management: Forest Clearcut,Forest Harvest,2004,2004,3200
+2004,Boston Mountains,Management: Forest Clearcut,Forest Harvest,2004,2004,2500
+2004,Ozark Highlands,Management: Forest Clearcut,Forest Harvest,2004,2004,19000
+2004,Central Irregular Plains,Management: Forest Clearcut,Forest Harvest,2004,2004,0
+2004,Canadian Rockies,Management: Forest Clearcut,Forest Harvest,2004,2004,6300
+2004,Northwestern Glaciated Plains,Management: Forest Clearcut,Forest Harvest,2004,2004,300
+2004,Northwestern Great Plains,Management: Forest Clearcut,Forest Harvest,2004,2004,4700
+2004,Nebraska Sand Hills,Management: Forest Clearcut,Forest Harvest,2004,2004,0
+2004,Piedmont,Management: Forest Clearcut,Forest Harvest,2004,2004,96600
+2004,Northern Glaciated Plains,Management: Forest Clearcut,Forest Harvest,2004,2004,0
+2004,Western Corn Belt Plains,Management: Forest Clearcut,Forest Harvest,2004,2004,1500
+2004,Lake Agassiz Plain,Management: Forest Clearcut,Forest Harvest,2004,2004,100
+2004,Northern Minnesota Wetlands,Management: Forest Clearcut,Forest Harvest,2004,2004,4700
+2004,Northern Lakes and Forests,Management: Forest Clearcut,Forest Harvest,2004,2004,58100
+2004,North Central Hardwood Forests,Management: Forest Clearcut,Forest Harvest,2004,2004,5600
+2004,Driftless Area,Management: Forest Clearcut,Forest Harvest,2004,2004,300
+2004,Southeastern Wisconsin Till Plains,Management: Forest Clearcut,Forest Harvest,2004,2004,300
+2004,Central Corn Belt Plains,Management: Forest Clearcut,Forest Harvest,2004,2004,1000
+2004,Eastern Corn Belt Plains,Management: Forest Clearcut,Forest Harvest,2004,2004,400
+2004,Southern Michigan/Northern Indiana Drift Plains,Management: Forest Clearcut,Forest Harvest,2004,2004,1100
+2004,Huron/Erie Lake Plains,Management: Forest Clearcut,Forest Harvest,2004,2004,600
+2004,Northeastern Highlands,Management: Forest Clearcut,Forest Harvest,2004,2004,21900
+2004,Northeastern Coastal Zone,Management: Forest Clearcut,Forest Harvest,2004,2004,2500
+2004,Northern Allegheny Plateau,Management: Forest Clearcut,Forest Harvest,2004,2004,400
+2004,Erie Drift Plain,Management: Forest Clearcut,Forest Harvest,2004,2004,1200
+2004,North Central Appalachians,Management: Forest Clearcut,Forest Harvest,2004,2004,5700
+2004,Middle Atlantic Coastal Plain,Management: Forest Clearcut,Forest Harvest,2004,2004,56100
+2004,Northern Piedmont,Management: Forest Clearcut,Forest Harvest,2004,2004,1500
+2004,Southeastern Plains,Management: Forest Clearcut,Forest Harvest,2004,2004,307800
+2004,Blue Ridge,Management: Forest Clearcut,Forest Harvest,2004,2004,1400
+2004,Ridge and Valley,Management: Forest Clearcut,Forest Harvest,2004,2004,17600
+2004,Southwestern Appalachians,Management: Forest Clearcut,Forest Harvest,2004,2004,13700
+2004,Central Appalachians,Management: Forest Clearcut,Forest Harvest,2004,2004,16600
+2004,Western Allegheny Plateau,Management: Forest Clearcut,Forest Harvest,2004,2004,5300
+2004,Interior Plateau,Management: Forest Clearcut,Forest Harvest,2004,2004,15000
+2004,Interior River Valleys and Hills,Management: Forest Clearcut,Forest Harvest,2004,2004,1900
+2004,Mississippi Alluvial Plain,Management: Forest Clearcut,Forest Harvest,2004,2004,4500
+2004,Mississippi Valley Loess Plains,Management: Forest Clearcut,Forest Harvest,2004,2004,18800
+2004,Southern Coastal Plain,Management: Forest Clearcut,Forest Harvest,2004,2004,107700
+2004,Southern Florida Coastal Plain,Management: Forest Clearcut,Forest Harvest,2004,2004,100
+2004,North Cascades,Management: Forest Clearcut,Forest Harvest,2004,2004,9400
+2004,Klamath Mountains/California High North Coast Range,Management: Forest Clearcut,Forest Harvest,2004,2004,17600
+2004,Madrean Archipelago,Management: Forest Clearcut,Forest Harvest,2004,2004,300
+2004,Northern Basin and Range,Management: Forest Clearcut,Forest Harvest,2004,2004,5200
+2004,Sonoran Basin and Range,Management: Forest Clearcut,Forest Harvest,2004,2004,0
+2004,Acadian Plains and Hills,Management: Forest Clearcut,Forest Harvest,2004,2004,14300
+2004,Eastern Great Lakes Lowlands,Management: Forest Clearcut,Forest Harvest,2004,2004,700
+2004,Atlantic Coastal Pine Barrens,Management: Forest Clearcut,Forest Harvest,2004,2004,1200
+2004,Southern California/Northern Baja Coast,Management: Forest Clearcut,Forest Harvest,2004,2004,500
+2005,Coast Range,Management: Forest Clearcut,Forest Harvest,2005,2005,60100
+2005,Puget Lowland,Management: Forest Clearcut,Forest Harvest,2005,2005,8100
+2005,Willamette Valley,Management: Forest Clearcut,Forest Harvest,2005,2005,6100
+2005,Cascades,Management: Forest Clearcut,Forest Harvest,2005,2005,49700
+2005,Sierra Nevada,Management: Forest Clearcut,Forest Harvest,2005,2005,22400
+2005,Central California Foothills and Coastal Mountains,Management: Forest Clearcut,Forest Harvest,2005,2005,1000
+2005,Central California Valley,Management: Forest Clearcut,Forest Harvest,2005,2005,100
+2005,Southern California Mountains,Management: Forest Clearcut,Forest Harvest,2005,2005,4300
+2005,Eastern Cascades Slopes and Foothills,Management: Forest Clearcut,Forest Harvest,2005,2005,22900
+2005,Columbia Plateau,Management: Forest Clearcut,Forest Harvest,2005,2005,500
+2005,Blue Mountains,Management: Forest Clearcut,Forest Harvest,2005,2005,11700
+2005,Snake River Plain,Management: Forest Clearcut,Forest Harvest,2005,2005,100
+2005,Central Basin and Range,Management: Forest Clearcut,Forest Harvest,2005,2005,2400
+2005,Mojave Basin and Range,Management: Forest Clearcut,Forest Harvest,2005,2005,100
+2005,Northern Rockies,Management: Forest Clearcut,Forest Harvest,2005,2005,57700
+2005,Idaho Batholith,Management: Forest Clearcut,Forest Harvest,2005,2005,5300
+2005,Middle Rockies,Management: Forest Clearcut,Forest Harvest,2005,2005,18900
+2005,Wyoming Basin,Management: Forest Clearcut,Forest Harvest,2005,2005,2900
+2005,Wasatch and Uinta Mountains,Management: Forest Clearcut,Forest Harvest,2005,2005,4000
+2005,Colorado Plateaus,Management: Forest Clearcut,Forest Harvest,2005,2005,2900
+2005,Southern Rockies,Management: Forest Clearcut,Forest Harvest,2005,2005,10000
+2005,Arizona/New Mexico Plateau,Management: Forest Clearcut,Forest Harvest,2005,2005,100
+2005,Arizona/New Mexico Mountains,Management: Forest Clearcut,Forest Harvest,2005,2005,6600
+2005,Chihuahuan Deserts,Management: Forest Clearcut,Forest Harvest,2005,2005,400
+2005,High Plains,Management: Forest Clearcut,Forest Harvest,2005,2005,0
+2005,Southwestern Tablelands,Management: Forest Clearcut,Forest Harvest,2005,2005,0
+2005,Central Great Plains,Management: Forest Clearcut,Forest Harvest,2005,2005,0
+2005,Flint Hills,Management: Forest Clearcut,Forest Harvest,2005,2005,0
+2005,Cross Timbers,Management: Forest Clearcut,Forest Harvest,2005,2005,400
+2005,Edwards Plateau,Management: Forest Clearcut,Forest Harvest,2005,2005,1800
+2005,Southern Texas Plains,Management: Forest Clearcut,Forest Harvest,2005,2005,0
+2005,Texas Blackland Prairies,Management: Forest Clearcut,Forest Harvest,2005,2005,600
+2005,East Central Texas Plains,Management: Forest Clearcut,Forest Harvest,2005,2005,3900
+2005,Western Gulf Coastal Plain,Management: Forest Clearcut,Forest Harvest,2005,2005,15100
+2005,South Central Plains,Management: Forest Clearcut,Forest Harvest,2005,2005,191200
+2005,Ouachita Mountains,Management: Forest Clearcut,Forest Harvest,2005,2005,100
+2005,Arkansas Valley,Management: Forest Clearcut,Forest Harvest,2005,2005,0
+2005,Boston Mountains,Management: Forest Clearcut,Forest Harvest,2005,2005,0
+2005,Ozark Highlands,Management: Forest Clearcut,Forest Harvest,2005,2005,3400
+2005,Central Irregular Plains,Management: Forest Clearcut,Forest Harvest,2005,2005,0
+2005,Canadian Rockies,Management: Forest Clearcut,Forest Harvest,2005,2005,3100
+2005,Northwestern Glaciated Plains,Management: Forest Clearcut,Forest Harvest,2005,2005,0
+2005,Northwestern Great Plains,Management: Forest Clearcut,Forest Harvest,2005,2005,3300
+2005,Nebraska Sand Hills,Management: Forest Clearcut,Forest Harvest,2005,2005,0
+2005,Piedmont,Management: Forest Clearcut,Forest Harvest,2005,2005,108200
+2005,Northern Glaciated Plains,Management: Forest Clearcut,Forest Harvest,2005,2005,0
+2005,Western Corn Belt Plains,Management: Forest Clearcut,Forest Harvest,2005,2005,800
+2005,Lake Agassiz Plain,Management: Forest Clearcut,Forest Harvest,2005,2005,0
+2005,Northern Minnesota Wetlands,Management: Forest Clearcut,Forest Harvest,2005,2005,1200
+2005,Northern Lakes and Forests,Management: Forest Clearcut,Forest Harvest,2005,2005,36700
+2005,North Central Hardwood Forests,Management: Forest Clearcut,Forest Harvest,2005,2005,2900
+2005,Driftless Area,Management: Forest Clearcut,Forest Harvest,2005,2005,600
+2005,Southeastern Wisconsin Till Plains,Management: Forest Clearcut,Forest Harvest,2005,2005,0
+2005,Central Corn Belt Plains,Management: Forest Clearcut,Forest Harvest,2005,2005,100
+2005,Eastern Corn Belt Plains,Management: Forest Clearcut,Forest Harvest,2005,2005,300
+2005,Southern Michigan/Northern Indiana Drift Plains,Management: Forest Clearcut,Forest Harvest,2005,2005,1100
+2005,Huron/Erie Lake Plains,Management: Forest Clearcut,Forest Harvest,2005,2005,300
+2005,Northeastern Highlands,Management: Forest Clearcut,Forest Harvest,2005,2005,20100
+2005,Northeastern Coastal Zone,Management: Forest Clearcut,Forest Harvest,2005,2005,2600
+2005,Northern Allegheny Plateau,Management: Forest Clearcut,Forest Harvest,2005,2005,1400
+2005,Erie Drift Plain,Management: Forest Clearcut,Forest Harvest,2005,2005,900
+2005,North Central Appalachians,Management: Forest Clearcut,Forest Harvest,2005,2005,6800
+2005,Middle Atlantic Coastal Plain,Management: Forest Clearcut,Forest Harvest,2005,2005,65000
+2005,Northern Piedmont,Management: Forest Clearcut,Forest Harvest,2005,2005,1000
+2005,Southeastern Plains,Management: Forest Clearcut,Forest Harvest,2005,2005,292200
+2005,Blue Ridge,Management: Forest Clearcut,Forest Harvest,2005,2005,3800
+2005,Ridge and Valley,Management: Forest Clearcut,Forest Harvest,2005,2005,14200
+2005,Southwestern Appalachians,Management: Forest Clearcut,Forest Harvest,2005,2005,21100
+2005,Central Appalachians,Management: Forest Clearcut,Forest Harvest,2005,2005,10100
+2005,Western Allegheny Plateau,Management: Forest Clearcut,Forest Harvest,2005,2005,4400
+2005,Interior Plateau,Management: Forest Clearcut,Forest Harvest,2005,2005,16200
+2005,Interior River Valleys and Hills,Management: Forest Clearcut,Forest Harvest,2005,2005,2400
+2005,Mississippi Alluvial Plain,Management: Forest Clearcut,Forest Harvest,2005,2005,9500
+2005,Mississippi Valley Loess Plains,Management: Forest Clearcut,Forest Harvest,2005,2005,19800
+2005,Southern Coastal Plain,Management: Forest Clearcut,Forest Harvest,2005,2005,105600
+2005,Southern Florida Coastal Plain,Management: Forest Clearcut,Forest Harvest,2005,2005,300
+2005,North Cascades,Management: Forest Clearcut,Forest Harvest,2005,2005,7700
+2005,Klamath Mountains/California High North Coast Range,Management: Forest Clearcut,Forest Harvest,2005,2005,17400
+2005,Madrean Archipelago,Management: Forest Clearcut,Forest Harvest,2005,2005,100
+2005,Northern Basin and Range,Management: Forest Clearcut,Forest Harvest,2005,2005,3200
+2005,Sonoran Basin and Range,Management: Forest Clearcut,Forest Harvest,2005,2005,0
+2005,Acadian Plains and Hills,Management: Forest Clearcut,Forest Harvest,2005,2005,11400
+2005,Eastern Great Lakes Lowlands,Management: Forest Clearcut,Forest Harvest,2005,2005,1600
+2005,Atlantic Coastal Pine Barrens,Management: Forest Clearcut,Forest Harvest,2005,2005,1400
+2005,Southern California/Northern Baja Coast,Management: Forest Clearcut,Forest Harvest,2005,2005,400
+2006,Coast Range,Management: Forest Clearcut,Forest Harvest,2006,2006,56800
+2006,Puget Lowland,Management: Forest Clearcut,Forest Harvest,2006,2006,6400
+2006,Willamette Valley,Management: Forest Clearcut,Forest Harvest,2006,2006,6300
+2006,Cascades,Management: Forest Clearcut,Forest Harvest,2006,2006,35400
+2006,Sierra Nevada,Management: Forest Clearcut,Forest Harvest,2006,2006,19100
+2006,Central California Foothills and Coastal Mountains,Management: Forest Clearcut,Forest Harvest,2006,2006,600
+2006,Central California Valley,Management: Forest Clearcut,Forest Harvest,2006,2006,300
+2006,Southern California Mountains,Management: Forest Clearcut,Forest Harvest,2006,2006,4700
+2006,Eastern Cascades Slopes and Foothills,Management: Forest Clearcut,Forest Harvest,2006,2006,32400
+2006,Columbia Plateau,Management: Forest Clearcut,Forest Harvest,2006,2006,1000
+2006,Blue Mountains,Management: Forest Clearcut,Forest Harvest,2006,2006,17300
+2006,Snake River Plain,Management: Forest Clearcut,Forest Harvest,2006,2006,300
+2006,Central Basin and Range,Management: Forest Clearcut,Forest Harvest,2006,2006,2100
+2006,Mojave Basin and Range,Management: Forest Clearcut,Forest Harvest,2006,2006,300
+2006,Northern Rockies,Management: Forest Clearcut,Forest Harvest,2006,2006,45800
+2006,Idaho Batholith,Management: Forest Clearcut,Forest Harvest,2006,2006,8300
+2006,Middle Rockies,Management: Forest Clearcut,Forest Harvest,2006,2006,22600
+2006,Wyoming Basin,Management: Forest Clearcut,Forest Harvest,2006,2006,1000
+2006,Wasatch and Uinta Mountains,Management: Forest Clearcut,Forest Harvest,2006,2006,3700
+2006,Colorado Plateaus,Management: Forest Clearcut,Forest Harvest,2006,2006,4800
+2006,Southern Rockies,Management: Forest Clearcut,Forest Harvest,2006,2006,4900
+2006,Arizona/New Mexico Plateau,Management: Forest Clearcut,Forest Harvest,2006,2006,1500
+2006,Arizona/New Mexico Mountains,Management: Forest Clearcut,Forest Harvest,2006,2006,7200
+2006,Chihuahuan Deserts,Management: Forest Clearcut,Forest Harvest,2006,2006,100
+2006,High Plains,Management: Forest Clearcut,Forest Harvest,2006,2006,0
+2006,Southwestern Tablelands,Management: Forest Clearcut,Forest Harvest,2006,2006,0
+2006,Central Great Plains,Management: Forest Clearcut,Forest Harvest,2006,2006,0
+2006,Flint Hills,Management: Forest Clearcut,Forest Harvest,2006,2006,0
+2006,Cross Timbers,Management: Forest Clearcut,Forest Harvest,2006,2006,500
+2006,Edwards Plateau,Management: Forest Clearcut,Forest Harvest,2006,2006,1700
+2006,Southern Texas Plains,Management: Forest Clearcut,Forest Harvest,2006,2006,0
+2006,Texas Blackland Prairies,Management: Forest Clearcut,Forest Harvest,2006,2006,500
+2006,East Central Texas Plains,Management: Forest Clearcut,Forest Harvest,2006,2006,2800
+2006,Western Gulf Coastal Plain,Management: Forest Clearcut,Forest Harvest,2006,2006,2700
+2006,South Central Plains,Management: Forest Clearcut,Forest Harvest,2006,2006,126000
+2006,Ouachita Mountains,Management: Forest Clearcut,Forest Harvest,2006,2006,24300
+2006,Arkansas Valley,Management: Forest Clearcut,Forest Harvest,2006,2006,3600
+2006,Boston Mountains,Management: Forest Clearcut,Forest Harvest,2006,2006,2200
+2006,Ozark Highlands,Management: Forest Clearcut,Forest Harvest,2006,2006,11400
+2006,Central Irregular Plains,Management: Forest Clearcut,Forest Harvest,2006,2006,0
+2006,Canadian Rockies,Management: Forest Clearcut,Forest Harvest,2006,2006,2100
+2006,Northwestern Glaciated Plains,Management: Forest Clearcut,Forest Harvest,2006,2006,100
+2006,Northwestern Great Plains,Management: Forest Clearcut,Forest Harvest,2006,2006,3500
+2006,Nebraska Sand Hills,Management: Forest Clearcut,Forest Harvest,2006,2006,0
+2006,Piedmont,Management: Forest Clearcut,Forest Harvest,2006,2006,105600
+2006,Northern Glaciated Plains,Management: Forest Clearcut,Forest Harvest,2006,2006,0
+2006,Western Corn Belt Plains,Management: Forest Clearcut,Forest Harvest,2006,2006,700
+2006,Lake Agassiz Plain,Management: Forest Clearcut,Forest Harvest,2006,2006,0
+2006,Northern Minnesota Wetlands,Management: Forest Clearcut,Forest Harvest,2006,2006,1100
+2006,Northern Lakes and Forests,Management: Forest Clearcut,Forest Harvest,2006,2006,35200
+2006,North Central Hardwood Forests,Management: Forest Clearcut,Forest Harvest,2006,2006,5700
+2006,Driftless Area,Management: Forest Clearcut,Forest Harvest,2006,2006,1000
+2006,Southeastern Wisconsin Till Plains,Management: Forest Clearcut,Forest Harvest,2006,2006,200
+2006,Central Corn Belt Plains,Management: Forest Clearcut,Forest Harvest,2006,2006,400
+2006,Eastern Corn Belt Plains,Management: Forest Clearcut,Forest Harvest,2006,2006,300
+2006,Southern Michigan/Northern Indiana Drift Plains,Management: Forest Clearcut,Forest Harvest,2006,2006,700
+2006,Huron/Erie Lake Plains,Management: Forest Clearcut,Forest Harvest,2006,2006,500
+2006,Northeastern Highlands,Management: Forest Clearcut,Forest Harvest,2006,2006,22100
+2006,Northeastern Coastal Zone,Management: Forest Clearcut,Forest Harvest,2006,2006,1000
+2006,Northern Allegheny Plateau,Management: Forest Clearcut,Forest Harvest,2006,2006,500
+2006,Erie Drift Plain,Management: Forest Clearcut,Forest Harvest,2006,2006,900
+2006,North Central Appalachians,Management: Forest Clearcut,Forest Harvest,2006,2006,4200
+2006,Middle Atlantic Coastal Plain,Management: Forest Clearcut,Forest Harvest,2006,2006,45200
+2006,Northern Piedmont,Management: Forest Clearcut,Forest Harvest,2006,2006,1900
+2006,Southeastern Plains,Management: Forest Clearcut,Forest Harvest,2006,2006,247600
+2006,Blue Ridge,Management: Forest Clearcut,Forest Harvest,2006,2006,5100
+2006,Ridge and Valley,Management: Forest Clearcut,Forest Harvest,2006,2006,15500
+2006,Southwestern Appalachians,Management: Forest Clearcut,Forest Harvest,2006,2006,11500
+2006,Central Appalachians,Management: Forest Clearcut,Forest Harvest,2006,2006,11500
+2006,Western Allegheny Plateau,Management: Forest Clearcut,Forest Harvest,2006,2006,4700
+2006,Interior Plateau,Management: Forest Clearcut,Forest Harvest,2006,2006,15200
+2006,Interior River Valleys and Hills,Management: Forest Clearcut,Forest Harvest,2006,2006,2100
+2006,Mississippi Alluvial Plain,Management: Forest Clearcut,Forest Harvest,2006,2006,1000
+2006,Mississippi Valley Loess Plains,Management: Forest Clearcut,Forest Harvest,2006,2006,12800
+2006,Southern Coastal Plain,Management: Forest Clearcut,Forest Harvest,2006,2006,88400
+2006,Southern Florida Coastal Plain,Management: Forest Clearcut,Forest Harvest,2006,2006,1200
+2006,North Cascades,Management: Forest Clearcut,Forest Harvest,2006,2006,6400
+2006,Klamath Mountains/California High North Coast Range,Management: Forest Clearcut,Forest Harvest,2006,2006,18000
+2006,Madrean Archipelago,Management: Forest Clearcut,Forest Harvest,2006,2006,100
+2006,Northern Basin and Range,Management: Forest Clearcut,Forest Harvest,2006,2006,3400
+2006,Sonoran Basin and Range,Management: Forest Clearcut,Forest Harvest,2006,2006,100
+2006,Acadian Plains and Hills,Management: Forest Clearcut,Forest Harvest,2006,2006,9000
+2006,Eastern Great Lakes Lowlands,Management: Forest Clearcut,Forest Harvest,2006,2006,1000
+2006,Atlantic Coastal Pine Barrens,Management: Forest Clearcut,Forest Harvest,2006,2006,900
+2006,Southern California/Northern Baja Coast,Management: Forest Clearcut,Forest Harvest,2006,2006,200
+2007,Coast Range,Management: Forest Clearcut,Forest Harvest,2007,2007,63500
+2007,Puget Lowland,Management: Forest Clearcut,Forest Harvest,2007,2007,7200
+2007,Willamette Valley,Management: Forest Clearcut,Forest Harvest,2007,2007,7400
+2007,Cascades,Management: Forest Clearcut,Forest Harvest,2007,2007,35600
+2007,Sierra Nevada,Management: Forest Clearcut,Forest Harvest,2007,2007,19500
+2007,Central California Foothills and Coastal Mountains,Management: Forest Clearcut,Forest Harvest,2007,2007,1400
+2007,Central California Valley,Management: Forest Clearcut,Forest Harvest,2007,2007,100
+2007,Southern California Mountains,Management: Forest Clearcut,Forest Harvest,2007,2007,5300
+2007,Eastern Cascades Slopes and Foothills,Management: Forest Clearcut,Forest Harvest,2007,2007,30600
+2007,Columbia Plateau,Management: Forest Clearcut,Forest Harvest,2007,2007,1100
+2007,Blue Mountains,Management: Forest Clearcut,Forest Harvest,2007,2007,16000
+2007,Snake River Plain,Management: Forest Clearcut,Forest Harvest,2007,2007,100
+2007,Central Basin and Range,Management: Forest Clearcut,Forest Harvest,2007,2007,2600
+2007,Mojave Basin and Range,Management: Forest Clearcut,Forest Harvest,2007,2007,500
+2007,Northern Rockies,Management: Forest Clearcut,Forest Harvest,2007,2007,47000
+2007,Idaho Batholith,Management: Forest Clearcut,Forest Harvest,2007,2007,5600
+2007,Middle Rockies,Management: Forest Clearcut,Forest Harvest,2007,2007,18700
+2007,Wyoming Basin,Management: Forest Clearcut,Forest Harvest,2007,2007,5000
+2007,Wasatch and Uinta Mountains,Management: Forest Clearcut,Forest Harvest,2007,2007,14600
+2007,Colorado Plateaus,Management: Forest Clearcut,Forest Harvest,2007,2007,3600
+2007,Southern Rockies,Management: Forest Clearcut,Forest Harvest,2007,2007,10100
+2007,Arizona/New Mexico Plateau,Management: Forest Clearcut,Forest Harvest,2007,2007,1600
+2007,Arizona/New Mexico Mountains,Management: Forest Clearcut,Forest Harvest,2007,2007,6000
+2007,Chihuahuan Deserts,Management: Forest Clearcut,Forest Harvest,2007,2007,0
+2007,High Plains,Management: Forest Clearcut,Forest Harvest,2007,2007,0
+2007,Southwestern Tablelands,Management: Forest Clearcut,Forest Harvest,2007,2007,0
+2007,Central Great Plains,Management: Forest Clearcut,Forest Harvest,2007,2007,0
+2007,Flint Hills,Management: Forest Clearcut,Forest Harvest,2007,2007,0
+2007,Cross Timbers,Management: Forest Clearcut,Forest Harvest,2007,2007,500
+2007,Edwards Plateau,Management: Forest Clearcut,Forest Harvest,2007,2007,1100
+2007,Southern Texas Plains,Management: Forest Clearcut,Forest Harvest,2007,2007,0
+2007,Texas Blackland Prairies,Management: Forest Clearcut,Forest Harvest,2007,2007,100
+2007,East Central Texas Plains,Management: Forest Clearcut,Forest Harvest,2007,2007,2800
+2007,Western Gulf Coastal Plain,Management: Forest Clearcut,Forest Harvest,2007,2007,1000
+2007,South Central Plains,Management: Forest Clearcut,Forest Harvest,2007,2007,196300
+2007,Ouachita Mountains,Management: Forest Clearcut,Forest Harvest,2007,2007,35400
+2007,Arkansas Valley,Management: Forest Clearcut,Forest Harvest,2007,2007,5000
+2007,Boston Mountains,Management: Forest Clearcut,Forest Harvest,2007,2007,3000
+2007,Ozark Highlands,Management: Forest Clearcut,Forest Harvest,2007,2007,10000
+2007,Central Irregular Plains,Management: Forest Clearcut,Forest Harvest,2007,2007,300
+2007,Canadian Rockies,Management: Forest Clearcut,Forest Harvest,2007,2007,1000
+2007,Northwestern Glaciated Plains,Management: Forest Clearcut,Forest Harvest,2007,2007,0
+2007,Northwestern Great Plains,Management: Forest Clearcut,Forest Harvest,2007,2007,400
+2007,Nebraska Sand Hills,Management: Forest Clearcut,Forest Harvest,2007,2007,0
+2007,Piedmont,Management: Forest Clearcut,Forest Harvest,2007,2007,90900
+2007,Northern Glaciated Plains,Management: Forest Clearcut,Forest Harvest,2007,2007,0
+2007,Western Corn Belt Plains,Management: Forest Clearcut,Forest Harvest,2007,2007,600
+2007,Lake Agassiz Plain,Management: Forest Clearcut,Forest Harvest,2007,2007,0
+2007,Northern Minnesota Wetlands,Management: Forest Clearcut,Forest Harvest,2007,2007,1600
+2007,Northern Lakes and Forests,Management: Forest Clearcut,Forest Harvest,2007,2007,39300
+2007,North Central Hardwood Forests,Management: Forest Clearcut,Forest Harvest,2007,2007,4900
+2007,Driftless Area,Management: Forest Clearcut,Forest Harvest,2007,2007,1000
+2007,Southeastern Wisconsin Till Plains,Management: Forest Clearcut,Forest Harvest,2007,2007,100
+2007,Central Corn Belt Plains,Management: Forest Clearcut,Forest Harvest,2007,2007,300
+2007,Eastern Corn Belt Plains,Management: Forest Clearcut,Forest Harvest,2007,2007,400
+2007,Southern Michigan/Northern Indiana Drift Plains,Management: Forest Clearcut,Forest Harvest,2007,2007,700
+2007,Huron/Erie Lake Plains,Management: Forest Clearcut,Forest Harvest,2007,2007,100
+2007,Northeastern Highlands,Management: Forest Clearcut,Forest Harvest,2007,2007,12900
+2007,Northeastern Coastal Zone,Management: Forest Clearcut,Forest Harvest,2007,2007,1300
+2007,Northern Allegheny Plateau,Management: Forest Clearcut,Forest Harvest,2007,2007,300
+2007,Erie Drift Plain,Management: Forest Clearcut,Forest Harvest,2007,2007,800
+2007,North Central Appalachians,Management: Forest Clearcut,Forest Harvest,2007,2007,4900
+2007,Middle Atlantic Coastal Plain,Management: Forest Clearcut,Forest Harvest,2007,2007,45300
+2007,Northern Piedmont,Management: Forest Clearcut,Forest Harvest,2007,2007,500
+2007,Southeastern Plains,Management: Forest Clearcut,Forest Harvest,2007,2007,215800
+2007,Blue Ridge,Management: Forest Clearcut,Forest Harvest,2007,2007,3500
+2007,Ridge and Valley,Management: Forest Clearcut,Forest Harvest,2007,2007,16600
+2007,Southwestern Appalachians,Management: Forest Clearcut,Forest Harvest,2007,2007,13000
+2007,Central Appalachians,Management: Forest Clearcut,Forest Harvest,2007,2007,10900
+2007,Western Allegheny Plateau,Management: Forest Clearcut,Forest Harvest,2007,2007,5100
+2007,Interior Plateau,Management: Forest Clearcut,Forest Harvest,2007,2007,9200
+2007,Interior River Valleys and Hills,Management: Forest Clearcut,Forest Harvest,2007,2007,1400
+2007,Mississippi Alluvial Plain,Management: Forest Clearcut,Forest Harvest,2007,2007,1500
+2007,Mississippi Valley Loess Plains,Management: Forest Clearcut,Forest Harvest,2007,2007,20600
+2007,Southern Coastal Plain,Management: Forest Clearcut,Forest Harvest,2007,2007,57800
+2007,Southern Florida Coastal Plain,Management: Forest Clearcut,Forest Harvest,2007,2007,0
+2007,North Cascades,Management: Forest Clearcut,Forest Harvest,2007,2007,6500
+2007,Klamath Mountains/California High North Coast Range,Management: Forest Clearcut,Forest Harvest,2007,2007,18100
+2007,Madrean Archipelago,Management: Forest Clearcut,Forest Harvest,2007,2007,100
+2007,Northern Basin and Range,Management: Forest Clearcut,Forest Harvest,2007,2007,4100
+2007,Sonoran Basin and Range,Management: Forest Clearcut,Forest Harvest,2007,2007,100
+2007,Acadian Plains and Hills,Management: Forest Clearcut,Forest Harvest,2007,2007,6500
+2007,Eastern Great Lakes Lowlands,Management: Forest Clearcut,Forest Harvest,2007,2007,500
+2007,Atlantic Coastal Pine Barrens,Management: Forest Clearcut,Forest Harvest,2007,2007,1200
+2007,Southern California/Northern Baja Coast,Management: Forest Clearcut,Forest Harvest,2007,2007,200
+2008,Coast Range,Management: Forest Clearcut,Forest Harvest,2008,2008,81500
+2008,Puget Lowland,Management: Forest Clearcut,Forest Harvest,2008,2008,12800
+2008,Willamette Valley,Management: Forest Clearcut,Forest Harvest,2008,2008,4700
+2008,Cascades,Management: Forest Clearcut,Forest Harvest,2008,2008,66100
+2008,Sierra Nevada,Management: Forest Clearcut,Forest Harvest,2008,2008,24800
+2008,Central California Foothills and Coastal Mountains,Management: Forest Clearcut,Forest Harvest,2008,2008,2900
+2008,Central California Valley,Management: Forest Clearcut,Forest Harvest,2008,2008,0
+2008,Southern California Mountains,Management: Forest Clearcut,Forest Harvest,2008,2008,2600
+2008,Eastern Cascades Slopes and Foothills,Management: Forest Clearcut,Forest Harvest,2008,2008,35400
+2008,Columbia Plateau,Management: Forest Clearcut,Forest Harvest,2008,2008,9500
+2008,Blue Mountains,Management: Forest Clearcut,Forest Harvest,2008,2008,19700
+2008,Snake River Plain,Management: Forest Clearcut,Forest Harvest,2008,2008,5200
+2008,Central Basin and Range,Management: Forest Clearcut,Forest Harvest,2008,2008,13700
+2008,Mojave Basin and Range,Management: Forest Clearcut,Forest Harvest,2008,2008,900
+2008,Northern Rockies,Management: Forest Clearcut,Forest Harvest,2008,2008,71100
+2008,Idaho Batholith,Management: Forest Clearcut,Forest Harvest,2008,2008,9500
+2008,Middle Rockies,Management: Forest Clearcut,Forest Harvest,2008,2008,32400
+2008,Wyoming Basin,Management: Forest Clearcut,Forest Harvest,2008,2008,5600
+2008,Wasatch and Uinta Mountains,Management: Forest Clearcut,Forest Harvest,2008,2008,12700
+2008,Colorado Plateaus,Management: Forest Clearcut,Forest Harvest,2008,2008,6600
+2008,Southern Rockies,Management: Forest Clearcut,Forest Harvest,2008,2008,19400
+2008,Arizona/New Mexico Plateau,Management: Forest Clearcut,Forest Harvest,2008,2008,6500
+2008,Arizona/New Mexico Mountains,Management: Forest Clearcut,Forest Harvest,2008,2008,66100
+2008,Chihuahuan Deserts,Management: Forest Clearcut,Forest Harvest,2008,2008,23100
+2008,High Plains,Management: Forest Clearcut,Forest Harvest,2008,2008,54100
+2008,Southwestern Tablelands,Management: Forest Clearcut,Forest Harvest,2008,2008,56300
+2008,Central Great Plains,Management: Forest Clearcut,Forest Harvest,2008,2008,13200
+2008,Flint Hills,Management: Forest Clearcut,Forest Harvest,2008,2008,3900
+2008,Cross Timbers,Management: Forest Clearcut,Forest Harvest,2008,2008,9400
+2008,Edwards Plateau,Management: Forest Clearcut,Forest Harvest,2008,2008,30900
+2008,Southern Texas Plains,Management: Forest Clearcut,Forest Harvest,2008,2008,23900
+2008,Texas Blackland Prairies,Management: Forest Clearcut,Forest Harvest,2008,2008,4800
+2008,East Central Texas Plains,Management: Forest Clearcut,Forest Harvest,2008,2008,12500
+2008,Western Gulf Coastal Plain,Management: Forest Clearcut,Forest Harvest,2008,2008,76200
+2008,South Central Plains,Management: Forest Clearcut,Forest Harvest,2008,2008,352600
+2008,Ouachita Mountains,Management: Forest Clearcut,Forest Harvest,2008,2008,34100
+2008,Arkansas Valley,Management: Forest Clearcut,Forest Harvest,2008,2008,18400
+2008,Boston Mountains,Management: Forest Clearcut,Forest Harvest,2008,2008,33300
+2008,Ozark Highlands,Management: Forest Clearcut,Forest Harvest,2008,2008,31300
+2008,Central Irregular Plains,Management: Forest Clearcut,Forest Harvest,2008,2008,1500
+2008,Canadian Rockies,Management: Forest Clearcut,Forest Harvest,2008,2008,2600
+2008,Northwestern Glaciated Plains,Management: Forest Clearcut,Forest Harvest,2008,2008,11200
+2008,Northwestern Great Plains,Management: Forest Clearcut,Forest Harvest,2008,2008,25100
+2008,Nebraska Sand Hills,Management: Forest Clearcut,Forest Harvest,2008,2008,1300
+2008,Piedmont,Management: Forest Clearcut,Forest Harvest,2008,2008,200900
+2008,Northern Glaciated Plains,Management: Forest Clearcut,Forest Harvest,2008,2008,6800
+2008,Western Corn Belt Plains,Management: Forest Clearcut,Forest Harvest,2008,2008,3400
+2008,Lake Agassiz Plain,Management: Forest Clearcut,Forest Harvest,2008,2008,8200
+2008,Northern Minnesota Wetlands,Management: Forest Clearcut,Forest Harvest,2008,2008,17400
+2008,Northern Lakes and Forests,Management: Forest Clearcut,Forest Harvest,2008,2008,88600
+2008,North Central Hardwood Forests,Management: Forest Clearcut,Forest Harvest,2008,2008,7300
+2008,Driftless Area,Management: Forest Clearcut,Forest Harvest,2008,2008,2300
+2008,Southeastern Wisconsin Till Plains,Management: Forest Clearcut,Forest Harvest,2008,2008,100
+2008,Central Corn Belt Plains,Management: Forest Clearcut,Forest Harvest,2008,2008,1900
+2008,Eastern Corn Belt Plains,Management: Forest Clearcut,Forest Harvest,2008,2008,1200
+2008,Southern Michigan/Northern Indiana Drift Plains,Management: Forest Clearcut,Forest Harvest,2008,2008,700
+2008,Huron/Erie Lake Plains,Management: Forest Clearcut,Forest Harvest,2008,2008,200
+2008,Northeastern Highlands,Management: Forest Clearcut,Forest Harvest,2008,2008,74900
+2008,Northeastern Coastal Zone,Management: Forest Clearcut,Forest Harvest,2008,2008,3800
+2008,Northern Allegheny Plateau,Management: Forest Clearcut,Forest Harvest,2008,2008,2000
+2008,Erie Drift Plain,Management: Forest Clearcut,Forest Harvest,2008,2008,2700
+2008,North Central Appalachians,Management: Forest Clearcut,Forest Harvest,2008,2008,26400
+2008,Middle Atlantic Coastal Plain,Management: Forest Clearcut,Forest Harvest,2008,2008,100600
+2008,Northern Piedmont,Management: Forest Clearcut,Forest Harvest,2008,2008,1200
+2008,Southeastern Plains,Management: Forest Clearcut,Forest Harvest,2008,2008,639900
+2008,Blue Ridge,Management: Forest Clearcut,Forest Harvest,2008,2008,13000
+2008,Ridge and Valley,Management: Forest Clearcut,Forest Harvest,2008,2008,50400
+2008,Southwestern Appalachians,Management: Forest Clearcut,Forest Harvest,2008,2008,21000
+2008,Central Appalachians,Management: Forest Clearcut,Forest Harvest,2008,2008,40900
+2008,Western Allegheny Plateau,Management: Forest Clearcut,Forest Harvest,2008,2008,24300
+2008,Interior Plateau,Management: Forest Clearcut,Forest Harvest,2008,2008,29900
+2008,Interior River Valleys and Hills,Management: Forest Clearcut,Forest Harvest,2008,2008,4200
+2008,Mississippi Alluvial Plain,Management: Forest Clearcut,Forest Harvest,2008,2008,39200
+2008,Mississippi Valley Loess Plains,Management: Forest Clearcut,Forest Harvest,2008,2008,38600
+2008,Southern Coastal Plain,Management: Forest Clearcut,Forest Harvest,2008,2008,253600
+2008,Southern Florida Coastal Plain,Management: Forest Clearcut,Forest Harvest,2008,2008,4800
+2008,North Cascades,Management: Forest Clearcut,Forest Harvest,2008,2008,9400
+2008,Klamath Mountains/California High North Coast Range,Management: Forest Clearcut,Forest Harvest,2008,2008,25400
+2008,Madrean Archipelago,Management: Forest Clearcut,Forest Harvest,2008,2008,5500
+2008,Northern Basin and Range,Management: Forest Clearcut,Forest Harvest,2008,2008,12100
+2008,Sonoran Basin and Range,Management: Forest Clearcut,Forest Harvest,2008,2008,3100
+2008,Acadian Plains and Hills,Management: Forest Clearcut,Forest Harvest,2008,2008,40200
+2008,Eastern Great Lakes Lowlands,Management: Forest Clearcut,Forest Harvest,2008,2008,2800
+2008,Atlantic Coastal Pine Barrens,Management: Forest Clearcut,Forest Harvest,2008,2008,7100
+2008,Southern California/Northern Baja Coast,Management: Forest Clearcut,Forest Harvest,2008,2008,2400
+2009,Coast Range,Management: Forest Clearcut,Forest Harvest,2009,2009,48400
+2009,Puget Lowland,Management: Forest Clearcut,Forest Harvest,2009,2009,10200
+2009,Willamette Valley,Management: Forest Clearcut,Forest Harvest,2009,2009,4000
+2009,Cascades,Management: Forest Clearcut,Forest Harvest,2009,2009,50800
+2009,Sierra Nevada,Management: Forest Clearcut,Forest Harvest,2009,2009,15400
+2009,Central California Foothills and Coastal Mountains,Management: Forest Clearcut,Forest Harvest,2009,2009,1700
+2009,Central California Valley,Management: Forest Clearcut,Forest Harvest,2009,2009,0
+2009,Southern California Mountains,Management: Forest Clearcut,Forest Harvest,2009,2009,3900
+2009,Eastern Cascades Slopes and Foothills,Management: Forest Clearcut,Forest Harvest,2009,2009,28000
+2009,Columbia Plateau,Management: Forest Clearcut,Forest Harvest,2009,2009,9000
+2009,Blue Mountains,Management: Forest Clearcut,Forest Harvest,2009,2009,25100
+2009,Snake River Plain,Management: Forest Clearcut,Forest Harvest,2009,2009,1000
+2009,Central Basin and Range,Management: Forest Clearcut,Forest Harvest,2009,2009,15300
+2009,Mojave Basin and Range,Management: Forest Clearcut,Forest Harvest,2009,2009,2600
+2009,Northern Rockies,Management: Forest Clearcut,Forest Harvest,2009,2009,62200
+2009,Idaho Batholith,Management: Forest Clearcut,Forest Harvest,2009,2009,8100
+2009,Middle Rockies,Management: Forest Clearcut,Forest Harvest,2009,2009,33200
+2009,Wyoming Basin,Management: Forest Clearcut,Forest Harvest,2009,2009,2900
+2009,Wasatch and Uinta Mountains,Management: Forest Clearcut,Forest Harvest,2009,2009,8400
+2009,Colorado Plateaus,Management: Forest Clearcut,Forest Harvest,2009,2009,5600
+2009,Southern Rockies,Management: Forest Clearcut,Forest Harvest,2009,2009,12300
+2009,Arizona/New Mexico Plateau,Management: Forest Clearcut,Forest Harvest,2009,2009,10100
+2009,Arizona/New Mexico Mountains,Management: Forest Clearcut,Forest Harvest,2009,2009,36700
+2009,Chihuahuan Deserts,Management: Forest Clearcut,Forest Harvest,2009,2009,19500
+2009,High Plains,Management: Forest Clearcut,Forest Harvest,2009,2009,28200
+2009,Southwestern Tablelands,Management: Forest Clearcut,Forest Harvest,2009,2009,23300
+2009,Central Great Plains,Management: Forest Clearcut,Forest Harvest,2009,2009,15200
+2009,Flint Hills,Management: Forest Clearcut,Forest Harvest,2009,2009,2500
+2009,Cross Timbers,Management: Forest Clearcut,Forest Harvest,2009,2009,12000
+2009,Edwards Plateau,Management: Forest Clearcut,Forest Harvest,2009,2009,20300
+2009,Southern Texas Plains,Management: Forest Clearcut,Forest Harvest,2009,2009,10700
+2009,Texas Blackland Prairies,Management: Forest Clearcut,Forest Harvest,2009,2009,2800
+2009,East Central Texas Plains,Management: Forest Clearcut,Forest Harvest,2009,2009,10600
+2009,Western Gulf Coastal Plain,Management: Forest Clearcut,Forest Harvest,2009,2009,39500
+2009,South Central Plains,Management: Forest Clearcut,Forest Harvest,2009,2009,358300
+2009,Ouachita Mountains,Management: Forest Clearcut,Forest Harvest,2009,2009,47600
+2009,Arkansas Valley,Management: Forest Clearcut,Forest Harvest,2009,2009,27100
+2009,Boston Mountains,Management: Forest Clearcut,Forest Harvest,2009,2009,6700
+2009,Ozark Highlands,Management: Forest Clearcut,Forest Harvest,2009,2009,76100
+2009,Central Irregular Plains,Management: Forest Clearcut,Forest Harvest,2009,2009,4800
+2009,Canadian Rockies,Management: Forest Clearcut,Forest Harvest,2009,2009,2900
+2009,Northwestern Glaciated Plains,Management: Forest Clearcut,Forest Harvest,2009,2009,11800
+2009,Northwestern Great Plains,Management: Forest Clearcut,Forest Harvest,2009,2009,27400
+2009,Nebraska Sand Hills,Management: Forest Clearcut,Forest Harvest,2009,2009,700
+2009,Piedmont,Management: Forest Clearcut,Forest Harvest,2009,2009,175900
+2009,Northern Glaciated Plains,Management: Forest Clearcut,Forest Harvest,2009,2009,3600
+2009,Western Corn Belt Plains,Management: Forest Clearcut,Forest Harvest,2009,2009,500
+2009,Lake Agassiz Plain,Management: Forest Clearcut,Forest Harvest,2009,2009,4600
+2009,Northern Minnesota Wetlands,Management: Forest Clearcut,Forest Harvest,2009,2009,9800
+2009,Northern Lakes and Forests,Management: Forest Clearcut,Forest Harvest,2009,2009,85900
+2009,North Central Hardwood Forests,Management: Forest Clearcut,Forest Harvest,2009,2009,6000
+2009,Driftless Area,Management: Forest Clearcut,Forest Harvest,2009,2009,4000
+2009,Southeastern Wisconsin Till Plains,Management: Forest Clearcut,Forest Harvest,2009,2009,400
+2009,Central Corn Belt Plains,Management: Forest Clearcut,Forest Harvest,2009,2009,1700
+2009,Eastern Corn Belt Plains,Management: Forest Clearcut,Forest Harvest,2009,2009,5200
+2009,Southern Michigan/Northern Indiana Drift Plains,Management: Forest Clearcut,Forest Harvest,2009,2009,500
+2009,Huron/Erie Lake Plains,Management: Forest Clearcut,Forest Harvest,2009,2009,200
+2009,Northeastern Highlands,Management: Forest Clearcut,Forest Harvest,2009,2009,79100
+2009,Northeastern Coastal Zone,Management: Forest Clearcut,Forest Harvest,2009,2009,5000
+2009,Northern Allegheny Plateau,Management: Forest Clearcut,Forest Harvest,2009,2009,4200
+2009,Erie Drift Plain,Management: Forest Clearcut,Forest Harvest,2009,2009,2700
+2009,North Central Appalachians,Management: Forest Clearcut,Forest Harvest,2009,2009,36200
+2009,Middle Atlantic Coastal Plain,Management: Forest Clearcut,Forest Harvest,2009,2009,101900
+2009,Northern Piedmont,Management: Forest Clearcut,Forest Harvest,2009,2009,1200
+2009,Southeastern Plains,Management: Forest Clearcut,Forest Harvest,2009,2009,573300
+2009,Blue Ridge,Management: Forest Clearcut,Forest Harvest,2009,2009,9700
+2009,Ridge and Valley,Management: Forest Clearcut,Forest Harvest,2009,2009,32000
+2009,Southwestern Appalachians,Management: Forest Clearcut,Forest Harvest,2009,2009,31400
+2009,Central Appalachians,Management: Forest Clearcut,Forest Harvest,2009,2009,40400
+2009,Western Allegheny Plateau,Management: Forest Clearcut,Forest Harvest,2009,2009,20300
+2009,Interior Plateau,Management: Forest Clearcut,Forest Harvest,2009,2009,25400
+2009,Interior River Valleys and Hills,Management: Forest Clearcut,Forest Harvest,2009,2009,5100
+2009,Mississippi Alluvial Plain,Management: Forest Clearcut,Forest Harvest,2009,2009,30600
+2009,Mississippi Valley Loess Plains,Management: Forest Clearcut,Forest Harvest,2009,2009,34200
+2009,Southern Coastal Plain,Management: Forest Clearcut,Forest Harvest,2009,2009,230100
+2009,Southern Florida Coastal Plain,Management: Forest Clearcut,Forest Harvest,2009,2009,3800
+2009,North Cascades,Management: Forest Clearcut,Forest Harvest,2009,2009,6400
+2009,Klamath Mountains/California High North Coast Range,Management: Forest Clearcut,Forest Harvest,2009,2009,26100
+2009,Madrean Archipelago,Management: Forest Clearcut,Forest Harvest,2009,2009,11100
+2009,Northern Basin and Range,Management: Forest Clearcut,Forest Harvest,2009,2009,6000
+2009,Sonoran Basin and Range,Management: Forest Clearcut,Forest Harvest,2009,2009,900
+2009,Acadian Plains and Hills,Management: Forest Clearcut,Forest Harvest,2009,2009,20000
+2009,Eastern Great Lakes Lowlands,Management: Forest Clearcut,Forest Harvest,2009,2009,1100
+2009,Atlantic Coastal Pine Barrens,Management: Forest Clearcut,Forest Harvest,2009,2009,7000
+2009,Southern California/Northern Baja Coast,Management: Forest Clearcut,Forest Harvest,2009,2009,4400
+2010,Coast Range,Management: Forest Clearcut,Forest Harvest,2010,2010,59700
+2010,Puget Lowland,Management: Forest Clearcut,Forest Harvest,2010,2010,5600
+2010,Willamette Valley,Management: Forest Clearcut,Forest Harvest,2010,2010,4000
+2010,Cascades,Management: Forest Clearcut,Forest Harvest,2010,2010,50800
+2010,Sierra Nevada,Management: Forest Clearcut,Forest Harvest,2010,2010,9100
+2010,Central California Foothills and Coastal Mountains,Management: Forest Clearcut,Forest Harvest,2010,2010,1900
+2010,Central California Valley,Management: Forest Clearcut,Forest Harvest,2010,2010,0
+2010,Southern California Mountains,Management: Forest Clearcut,Forest Harvest,2010,2010,2900
+2010,Eastern Cascades Slopes and Foothills,Management: Forest Clearcut,Forest Harvest,2010,2010,27000
+2010,Columbia Plateau,Management: Forest Clearcut,Forest Harvest,2010,2010,5400
+2010,Blue Mountains,Management: Forest Clearcut,Forest Harvest,2010,2010,19600
+2010,Snake River Plain,Management: Forest Clearcut,Forest Harvest,2010,2010,2800
+2010,Central Basin and Range,Management: Forest Clearcut,Forest Harvest,2010,2010,10500
+2010,Mojave Basin and Range,Management: Forest Clearcut,Forest Harvest,2010,2010,1900
+2010,Northern Rockies,Management: Forest Clearcut,Forest Harvest,2010,2010,55100
+2010,Idaho Batholith,Management: Forest Clearcut,Forest Harvest,2010,2010,9800
+2010,Middle Rockies,Management: Forest Clearcut,Forest Harvest,2010,2010,47600
+2010,Wyoming Basin,Management: Forest Clearcut,Forest Harvest,2010,2010,2800
+2010,Wasatch and Uinta Mountains,Management: Forest Clearcut,Forest Harvest,2010,2010,6900
+2010,Colorado Plateaus,Management: Forest Clearcut,Forest Harvest,2010,2010,4500
+2010,Southern Rockies,Management: Forest Clearcut,Forest Harvest,2010,2010,8600
+2010,Arizona/New Mexico Plateau,Management: Forest Clearcut,Forest Harvest,2010,2010,2500
+2010,Arizona/New Mexico Mountains,Management: Forest Clearcut,Forest Harvest,2010,2010,28100
+2010,Chihuahuan Deserts,Management: Forest Clearcut,Forest Harvest,2010,2010,8700
+2010,High Plains,Management: Forest Clearcut,Forest Harvest,2010,2010,25400
+2010,Southwestern Tablelands,Management: Forest Clearcut,Forest Harvest,2010,2010,13100
+2010,Central Great Plains,Management: Forest Clearcut,Forest Harvest,2010,2010,13200
+2010,Flint Hills,Management: Forest Clearcut,Forest Harvest,2010,2010,2100
+2010,Cross Timbers,Management: Forest Clearcut,Forest Harvest,2010,2010,11700
+2010,Edwards Plateau,Management: Forest Clearcut,Forest Harvest,2010,2010,18800
+2010,Southern Texas Plains,Management: Forest Clearcut,Forest Harvest,2010,2010,4700
+2010,Texas Blackland Prairies,Management: Forest Clearcut,Forest Harvest,2010,2010,1300
+2010,East Central Texas Plains,Management: Forest Clearcut,Forest Harvest,2010,2010,20200
+2010,Western Gulf Coastal Plain,Management: Forest Clearcut,Forest Harvest,2010,2010,23700
+2010,South Central Plains,Management: Forest Clearcut,Forest Harvest,2010,2010,360000
+2010,Ouachita Mountains,Management: Forest Clearcut,Forest Harvest,2010,2010,50100
+2010,Arkansas Valley,Management: Forest Clearcut,Forest Harvest,2010,2010,23300
+2010,Boston Mountains,Management: Forest Clearcut,Forest Harvest,2010,2010,6700
+2010,Ozark Highlands,Management: Forest Clearcut,Forest Harvest,2010,2010,18500
+2010,Central Irregular Plains,Management: Forest Clearcut,Forest Harvest,2010,2010,10000
+2010,Canadian Rockies,Management: Forest Clearcut,Forest Harvest,2010,2010,2200
+2010,Northwestern Glaciated Plains,Management: Forest Clearcut,Forest Harvest,2010,2010,9300
+2010,Northwestern Great Plains,Management: Forest Clearcut,Forest Harvest,2010,2010,26400
+2010,Nebraska Sand Hills,Management: Forest Clearcut,Forest Harvest,2010,2010,2600
+2010,Piedmont,Management: Forest Clearcut,Forest Harvest,2010,2010,182800
+2010,Northern Glaciated Plains,Management: Forest Clearcut,Forest Harvest,2010,2010,4500
+2010,Western Corn Belt Plains,Management: Forest Clearcut,Forest Harvest,2010,2010,200
+2010,Lake Agassiz Plain,Management: Forest Clearcut,Forest Harvest,2010,2010,6800
+2010,Northern Minnesota Wetlands,Management: Forest Clearcut,Forest Harvest,2010,2010,10700
+2010,Northern Lakes and Forests,Management: Forest Clearcut,Forest Harvest,2010,2010,84800
+2010,North Central Hardwood Forests,Management: Forest Clearcut,Forest Harvest,2010,2010,7600
+2010,Driftless Area,Management: Forest Clearcut,Forest Harvest,2010,2010,1100
+2010,Southeastern Wisconsin Till Plains,Management: Forest Clearcut,Forest Harvest,2010,2010,300
+2010,Central Corn Belt Plains,Management: Forest Clearcut,Forest Harvest,2010,2010,1000
+2010,Eastern Corn Belt Plains,Management: Forest Clearcut,Forest Harvest,2010,2010,1200
+2010,Southern Michigan/Northern Indiana Drift Plains,Management: Forest Clearcut,Forest Harvest,2010,2010,900
+2010,Huron/Erie Lake Plains,Management: Forest Clearcut,Forest Harvest,2010,2010,100
+2010,Northeastern Highlands,Management: Forest Clearcut,Forest Harvest,2010,2010,96100
+2010,Northeastern Coastal Zone,Management: Forest Clearcut,Forest Harvest,2010,2010,4400
+2010,Northern Allegheny Plateau,Management: Forest Clearcut,Forest Harvest,2010,2010,3800
+2010,Erie Drift Plain,Management: Forest Clearcut,Forest Harvest,2010,2010,1500
+2010,North Central Appalachians,Management: Forest Clearcut,Forest Harvest,2010,2010,11000
+2010,Middle Atlantic Coastal Plain,Management: Forest Clearcut,Forest Harvest,2010,2010,96400
+2010,Northern Piedmont,Management: Forest Clearcut,Forest Harvest,2010,2010,1000
+2010,Southeastern Plains,Management: Forest Clearcut,Forest Harvest,2010,2010,559500
+2010,Blue Ridge,Management: Forest Clearcut,Forest Harvest,2010,2010,8900
+2010,Ridge and Valley,Management: Forest Clearcut,Forest Harvest,2010,2010,33800
+2010,Southwestern Appalachians,Management: Forest Clearcut,Forest Harvest,2010,2010,21100
+2010,Central Appalachians,Management: Forest Clearcut,Forest Harvest,2010,2010,33800
+2010,Western Allegheny Plateau,Management: Forest Clearcut,Forest Harvest,2010,2010,16400
+2010,Interior Plateau,Management: Forest Clearcut,Forest Harvest,2010,2010,18400
+2010,Interior River Valleys and Hills,Management: Forest Clearcut,Forest Harvest,2010,2010,3100
+2010,Mississippi Alluvial Plain,Management: Forest Clearcut,Forest Harvest,2010,2010,27000
+2010,Mississippi Valley Loess Plains,Management: Forest Clearcut,Forest Harvest,2010,2010,34400
+2010,Southern Coastal Plain,Management: Forest Clearcut,Forest Harvest,2010,2010,238300
+2010,Southern Florida Coastal Plain,Management: Forest Clearcut,Forest Harvest,2010,2010,2700
+2010,North Cascades,Management: Forest Clearcut,Forest Harvest,2010,2010,5700
+2010,Klamath Mountains/California High North Coast Range,Management: Forest Clearcut,Forest Harvest,2010,2010,74600
+2010,Madrean Archipelago,Management: Forest Clearcut,Forest Harvest,2010,2010,2100
+2010,Northern Basin and Range,Management: Forest Clearcut,Forest Harvest,2010,2010,7900
+2010,Sonoran Basin and Range,Management: Forest Clearcut,Forest Harvest,2010,2010,200
+2010,Acadian Plains and Hills,Management: Forest Clearcut,Forest Harvest,2010,2010,23200
+2010,Eastern Great Lakes Lowlands,Management: Forest Clearcut,Forest Harvest,2010,2010,1600
+2010,Atlantic Coastal Pine Barrens,Management: Forest Clearcut,Forest Harvest,2010,2010,1100
+2010,Southern California/Northern Baja Coast,Management: Forest Clearcut,Forest Harvest,2010,2010,2600
+2011,Coast Range,Management: Forest Clearcut,Forest Harvest,2011,2011,43400
+2011,Puget Lowland,Management: Forest Clearcut,Forest Harvest,2011,2011,5600
+2011,Willamette Valley,Management: Forest Clearcut,Forest Harvest,2011,2011,4100
+2011,Cascades,Management: Forest Clearcut,Forest Harvest,2011,2011,53300
+2011,Sierra Nevada,Management: Forest Clearcut,Forest Harvest,2011,2011,19400
+2011,Central California Foothills and Coastal Mountains,Management: Forest Clearcut,Forest Harvest,2011,2011,80700
+2011,Central California Valley,Management: Forest Clearcut,Forest Harvest,2011,2011,1400
+2011,Southern California Mountains,Management: Forest Clearcut,Forest Harvest,2011,2011,3900
+2011,Eastern Cascades Slopes and Foothills,Management: Forest Clearcut,Forest Harvest,2011,2011,46200
+2011,Columbia Plateau,Management: Forest Clearcut,Forest Harvest,2011,2011,25500
+2011,Blue Mountains,Management: Forest Clearcut,Forest Harvest,2011,2011,60700
+2011,Snake River Plain,Management: Forest Clearcut,Forest Harvest,2011,2011,7300
+2011,Central Basin and Range,Management: Forest Clearcut,Forest Harvest,2011,2011,38500
+2011,Mojave Basin and Range,Management: Forest Clearcut,Forest Harvest,2011,2011,5800
+2011,Northern Rockies,Management: Forest Clearcut,Forest Harvest,2011,2011,42700
+2011,Idaho Batholith,Management: Forest Clearcut,Forest Harvest,2011,2011,8400
+2011,Middle Rockies,Management: Forest Clearcut,Forest Harvest,2011,2011,28800
+2011,Wyoming Basin,Management: Forest Clearcut,Forest Harvest,2011,2011,5400
+2011,Wasatch and Uinta Mountains,Management: Forest Clearcut,Forest Harvest,2011,2011,18100
+2011,Colorado Plateaus,Management: Forest Clearcut,Forest Harvest,2011,2011,17100
+2011,Southern Rockies,Management: Forest Clearcut,Forest Harvest,2011,2011,14100
+2011,Arizona/New Mexico Plateau,Management: Forest Clearcut,Forest Harvest,2011,2011,6100
+2011,Arizona/New Mexico Mountains,Management: Forest Clearcut,Forest Harvest,2011,2011,19400
+2011,Chihuahuan Deserts,Management: Forest Clearcut,Forest Harvest,2011,2011,15200
+2011,High Plains,Management: Forest Clearcut,Forest Harvest,2011,2011,57600
+2011,Southwestern Tablelands,Management: Forest Clearcut,Forest Harvest,2011,2011,42000
+2011,Central Great Plains,Management: Forest Clearcut,Forest Harvest,2011,2011,40700
+2011,Flint Hills,Management: Forest Clearcut,Forest Harvest,2011,2011,2900
+2011,Cross Timbers,Management: Forest Clearcut,Forest Harvest,2011,2011,21500
+2011,Edwards Plateau,Management: Forest Clearcut,Forest Harvest,2011,2011,18900
+2011,Southern Texas Plains,Management: Forest Clearcut,Forest Harvest,2011,2011,14600
+2011,Texas Blackland Prairies,Management: Forest Clearcut,Forest Harvest,2011,2011,2600
+2011,East Central Texas Plains,Management: Forest Clearcut,Forest Harvest,2011,2011,10900
+2011,Western Gulf Coastal Plain,Management: Forest Clearcut,Forest Harvest,2011,2011,54400
+2011,South Central Plains,Management: Forest Clearcut,Forest Harvest,2011,2011,260300
+2011,Ouachita Mountains,Management: Forest Clearcut,Forest Harvest,2011,2011,54800
+2011,Arkansas Valley,Management: Forest Clearcut,Forest Harvest,2011,2011,27100
+2011,Boston Mountains,Management: Forest Clearcut,Forest Harvest,2011,2011,6800
+2011,Ozark Highlands,Management: Forest Clearcut,Forest Harvest,2011,2011,20000
+2011,Central Irregular Plains,Management: Forest Clearcut,Forest Harvest,2011,2011,2700
+2011,Canadian Rockies,Management: Forest Clearcut,Forest Harvest,2011,2011,1100
+2011,Northwestern Glaciated Plains,Management: Forest Clearcut,Forest Harvest,2011,2011,9700
+2011,Northwestern Great Plains,Management: Forest Clearcut,Forest Harvest,2011,2011,18200
+2011,Nebraska Sand Hills,Management: Forest Clearcut,Forest Harvest,2011,2011,5400
+2011,Piedmont,Management: Forest Clearcut,Forest Harvest,2011,2011,300300
+2011,Northern Glaciated Plains,Management: Forest Clearcut,Forest Harvest,2011,2011,4700
+2011,Western Corn Belt Plains,Management: Forest Clearcut,Forest Harvest,2011,2011,1900
+2011,Lake Agassiz Plain,Management: Forest Clearcut,Forest Harvest,2011,2011,100
+2011,Northern Minnesota Wetlands,Management: Forest Clearcut,Forest Harvest,2011,2011,3600
+2011,Northern Lakes and Forests,Management: Forest Clearcut,Forest Harvest,2011,2011,222600
+2011,North Central Hardwood Forests,Management: Forest Clearcut,Forest Harvest,2011,2011,17700
+2011,Driftless Area,Management: Forest Clearcut,Forest Harvest,2011,2011,600
+2011,Southeastern Wisconsin Till Plains,Management: Forest Clearcut,Forest Harvest,2011,2011,100
+2011,Central Corn Belt Plains,Management: Forest Clearcut,Forest Harvest,2011,2011,200
+2011,Eastern Corn Belt Plains,Management: Forest Clearcut,Forest Harvest,2011,2011,1500
+2011,Southern Michigan/Northern Indiana Drift Plains,Management: Forest Clearcut,Forest Harvest,2011,2011,700
+2011,Huron/Erie Lake Plains,Management: Forest Clearcut,Forest Harvest,2011,2011,300
+2011,Northeastern Highlands,Management: Forest Clearcut,Forest Harvest,2011,2011,77200
+2011,Northeastern Coastal Zone,Management: Forest Clearcut,Forest Harvest,2011,2011,6600
+2011,Northern Allegheny Plateau,Management: Forest Clearcut,Forest Harvest,2011,2011,1400
+2011,Erie Drift Plain,Management: Forest Clearcut,Forest Harvest,2011,2011,2100
+2011,North Central Appalachians,Management: Forest Clearcut,Forest Harvest,2011,2011,4500
+2011,Middle Atlantic Coastal Plain,Management: Forest Clearcut,Forest Harvest,2011,2011,132000
+2011,Northern Piedmont,Management: Forest Clearcut,Forest Harvest,2011,2011,2700
+2011,Southeastern Plains,Management: Forest Clearcut,Forest Harvest,2011,2011,893700
+2011,Blue Ridge,Management: Forest Clearcut,Forest Harvest,2011,2011,27500
+2011,Ridge and Valley,Management: Forest Clearcut,Forest Harvest,2011,2011,145300
+2011,Southwestern Appalachians,Management: Forest Clearcut,Forest Harvest,2011,2011,153600
+2011,Central Appalachians,Management: Forest Clearcut,Forest Harvest,2011,2011,19400
+2011,Western Allegheny Plateau,Management: Forest Clearcut,Forest Harvest,2011,2011,15000
+2011,Interior Plateau,Management: Forest Clearcut,Forest Harvest,2011,2011,22500
+2011,Interior River Valleys and Hills,Management: Forest Clearcut,Forest Harvest,2011,2011,3800
+2011,Mississippi Alluvial Plain,Management: Forest Clearcut,Forest Harvest,2011,2011,8200
+2011,Mississippi Valley Loess Plains,Management: Forest Clearcut,Forest Harvest,2011,2011,37000
+2011,Southern Coastal Plain,Management: Forest Clearcut,Forest Harvest,2011,2011,238900
+2011,Southern Florida Coastal Plain,Management: Forest Clearcut,Forest Harvest,2011,2011,1400
+2011,North Cascades,Management: Forest Clearcut,Forest Harvest,2011,2011,4600
+2011,Klamath Mountains/California High North Coast Range,Management: Forest Clearcut,Forest Harvest,2011,2011,15200
+2011,Madrean Archipelago,Management: Forest Clearcut,Forest Harvest,2011,2011,2800
+2011,Northern Basin and Range,Management: Forest Clearcut,Forest Harvest,2011,2011,26000
+2011,Sonoran Basin and Range,Management: Forest Clearcut,Forest Harvest,2011,2011,1900
+2011,Acadian Plains and Hills,Management: Forest Clearcut,Forest Harvest,2011,2011,35800
+2011,Eastern Great Lakes Lowlands,Management: Forest Clearcut,Forest Harvest,2011,2011,2400
+2011,Atlantic Coastal Pine Barrens,Management: Forest Clearcut,Forest Harvest,2011,2011,1200
+2011,Southern California/Northern Baja Coast,Management: Forest Clearcut,Forest Harvest,2011,2011,9900
+2012,Coast Range,Management: Forest Clearcut,Forest Harvest,2012,2012,8700
+2012,Puget Lowland,Management: Forest Clearcut,Forest Harvest,2012,2012,400
+2012,Willamette Valley,Management: Forest Clearcut,Forest Harvest,2012,2012,100
+2012,Cascades,Management: Forest Clearcut,Forest Harvest,2012,2012,32100
+2012,Sierra Nevada,Management: Forest Clearcut,Forest Harvest,2012,2012,11100
+2012,Central California Foothills and Coastal Mountains,Management: Forest Clearcut,Forest Harvest,2012,2012,9500
+2012,Central California Valley,Management: Forest Clearcut,Forest Harvest,2012,2012,2100
+2012,Southern California Mountains,Management: Forest Clearcut,Forest Harvest,2012,2012,6800
+2012,Eastern Cascades Slopes and Foothills,Management: Forest Clearcut,Forest Harvest,2012,2012,18800
+2012,Columbia Plateau,Management: Forest Clearcut,Forest Harvest,2012,2012,11100
+2012,Blue Mountains,Management: Forest Clearcut,Forest Harvest,2012,2012,8900
+2012,Snake River Plain,Management: Forest Clearcut,Forest Harvest,2012,2012,2900
+2012,Central Basin and Range,Management: Forest Clearcut,Forest Harvest,2012,2012,45400
+2012,Mojave Basin and Range,Management: Forest Clearcut,Forest Harvest,2012,2012,2900
+2012,Northern Rockies,Management: Forest Clearcut,Forest Harvest,2012,2012,7500
+2012,Idaho Batholith,Management: Forest Clearcut,Forest Harvest,2012,2012,2600
+2012,Middle Rockies,Management: Forest Clearcut,Forest Harvest,2012,2012,18400
+2012,Wyoming Basin,Management: Forest Clearcut,Forest Harvest,2012,2012,4900
+2012,Wasatch and Uinta Mountains,Management: Forest Clearcut,Forest Harvest,2012,2012,10400
+2012,Colorado Plateaus,Management: Forest Clearcut,Forest Harvest,2012,2012,15600
+2012,Southern Rockies,Management: Forest Clearcut,Forest Harvest,2012,2012,19900
+2012,Arizona/New Mexico Plateau,Management: Forest Clearcut,Forest Harvest,2012,2012,7100
+2012,Arizona/New Mexico Mountains,Management: Forest Clearcut,Forest Harvest,2012,2012,27800
+2012,Chihuahuan Deserts,Management: Forest Clearcut,Forest Harvest,2012,2012,6300
+2012,High Plains,Management: Forest Clearcut,Forest Harvest,2012,2012,41800
+2012,Southwestern Tablelands,Management: Forest Clearcut,Forest Harvest,2012,2012,60300
+2012,Central Great Plains,Management: Forest Clearcut,Forest Harvest,2012,2012,23700
+2012,Flint Hills,Management: Forest Clearcut,Forest Harvest,2012,2012,3200
+2012,Cross Timbers,Management: Forest Clearcut,Forest Harvest,2012,2012,12800
+2012,Edwards Plateau,Management: Forest Clearcut,Forest Harvest,2012,2012,35700
+2012,Southern Texas Plains,Management: Forest Clearcut,Forest Harvest,2012,2012,17700
+2012,Texas Blackland Prairies,Management: Forest Clearcut,Forest Harvest,2012,2012,2000
+2012,East Central Texas Plains,Management: Forest Clearcut,Forest Harvest,2012,2012,6400
+2012,Western Gulf Coastal Plain,Management: Forest Clearcut,Forest Harvest,2012,2012,20700
+2012,South Central Plains,Management: Forest Clearcut,Forest Harvest,2012,2012,227000
+2012,Ouachita Mountains,Management: Forest Clearcut,Forest Harvest,2012,2012,40700
+2012,Arkansas Valley,Management: Forest Clearcut,Forest Harvest,2012,2012,10900
+2012,Boston Mountains,Management: Forest Clearcut,Forest Harvest,2012,2012,3000
+2012,Ozark Highlands,Management: Forest Clearcut,Forest Harvest,2012,2012,18700
+2012,Central Irregular Plains,Management: Forest Clearcut,Forest Harvest,2012,2012,3600
+2012,Canadian Rockies,Management: Forest Clearcut,Forest Harvest,2012,2012,300
+2012,Northwestern Glaciated Plains,Management: Forest Clearcut,Forest Harvest,2012,2012,10500
+2012,Northwestern Great Plains,Management: Forest Clearcut,Forest Harvest,2012,2012,21500
+2012,Nebraska Sand Hills,Management: Forest Clearcut,Forest Harvest,2012,2012,13500
+2012,Piedmont,Management: Forest Clearcut,Forest Harvest,2012,2012,198000
+2012,Northern Glaciated Plains,Management: Forest Clearcut,Forest Harvest,2012,2012,2500
+2012,Western Corn Belt Plains,Management: Forest Clearcut,Forest Harvest,2012,2012,2700
+2012,Lake Agassiz Plain,Management: Forest Clearcut,Forest Harvest,2012,2012,300
+2012,Northern Minnesota Wetlands,Management: Forest Clearcut,Forest Harvest,2012,2012,5100
+2012,Northern Lakes and Forests,Management: Forest Clearcut,Forest Harvest,2012,2012,198000
+2012,North Central Hardwood Forests,Management: Forest Clearcut,Forest Harvest,2012,2012,6700
+2012,Driftless Area,Management: Forest Clearcut,Forest Harvest,2012,2012,600
+2012,Southeastern Wisconsin Till Plains,Management: Forest Clearcut,Forest Harvest,2012,2012,300
+2012,Central Corn Belt Plains,Management: Forest Clearcut,Forest Harvest,2012,2012,200
+2012,Eastern Corn Belt Plains,Management: Forest Clearcut,Forest Harvest,2012,2012,1300
+2012,Southern Michigan/Northern Indiana Drift Plains,Management: Forest Clearcut,Forest Harvest,2012,2012,700
+2012,Huron/Erie Lake Plains,Management: Forest Clearcut,Forest Harvest,2012,2012,800
+2012,Northeastern Highlands,Management: Forest Clearcut,Forest Harvest,2012,2012,50300
+2012,Northeastern Coastal Zone,Management: Forest Clearcut,Forest Harvest,2012,2012,3200
+2012,Northern Allegheny Plateau,Management: Forest Clearcut,Forest Harvest,2012,2012,1300
+2012,Erie Drift Plain,Management: Forest Clearcut,Forest Harvest,2012,2012,800
+2012,North Central Appalachians,Management: Forest Clearcut,Forest Harvest,2012,2012,5200
+2012,Middle Atlantic Coastal Plain,Management: Forest Clearcut,Forest Harvest,2012,2012,95500
+2012,Northern Piedmont,Management: Forest Clearcut,Forest Harvest,2012,2012,1500
+2012,Southeastern Plains,Management: Forest Clearcut,Forest Harvest,2012,2012,513400
+2012,Blue Ridge,Management: Forest Clearcut,Forest Harvest,2012,2012,5800
+2012,Ridge and Valley,Management: Forest Clearcut,Forest Harvest,2012,2012,26000
+2012,Southwestern Appalachians,Management: Forest Clearcut,Forest Harvest,2012,2012,25600
+2012,Central Appalachians,Management: Forest Clearcut,Forest Harvest,2012,2012,20100
+2012,Western Allegheny Plateau,Management: Forest Clearcut,Forest Harvest,2012,2012,20800
+2012,Interior Plateau,Management: Forest Clearcut,Forest Harvest,2012,2012,13000
+2012,Interior River Valleys and Hills,Management: Forest Clearcut,Forest Harvest,2012,2012,4000
+2012,Mississippi Alluvial Plain,Management: Forest Clearcut,Forest Harvest,2012,2012,9400
+2012,Mississippi Valley Loess Plains,Management: Forest Clearcut,Forest Harvest,2012,2012,28100
+2012,Southern Coastal Plain,Management: Forest Clearcut,Forest Harvest,2012,2012,185500
+2012,Southern Florida Coastal Plain,Management: Forest Clearcut,Forest Harvest,2012,2012,4900
+2012,North Cascades,Management: Forest Clearcut,Forest Harvest,2012,2012,0
+2012,Klamath Mountains/California High North Coast Range,Management: Forest Clearcut,Forest Harvest,2012,2012,31800
+2012,Madrean Archipelago,Management: Forest Clearcut,Forest Harvest,2012,2012,2200
+2012,Northern Basin and Range,Management: Forest Clearcut,Forest Harvest,2012,2012,13100
+2012,Sonoran Basin and Range,Management: Forest Clearcut,Forest Harvest,2012,2012,2200
+2012,Acadian Plains and Hills,Management: Forest Clearcut,Forest Harvest,2012,2012,27600
+2012,Eastern Great Lakes Lowlands,Management: Forest Clearcut,Forest Harvest,2012,2012,1200
+2012,Atlantic Coastal Pine Barrens,Management: Forest Clearcut,Forest Harvest,2012,2012,3200
+2012,Southern California/Northern Baja Coast,Management: Forest Clearcut,Forest Harvest,2012,2012,48700
+2013,Coast Range,Management: Forest Clearcut,Forest Harvest,2013,2013,53600
+2013,Puget Lowland,Management: Forest Clearcut,Forest Harvest,2013,2013,8300
+2013,Willamette Valley,Management: Forest Clearcut,Forest Harvest,2013,2013,5600
+2013,Cascades,Management: Forest Clearcut,Forest Harvest,2013,2013,58000
+2013,Sierra Nevada,Management: Forest Clearcut,Forest Harvest,2013,2013,21900
+2013,Central California Foothills and Coastal Mountains,Management: Forest Clearcut,Forest Harvest,2013,2013,13700
+2013,Central California Valley,Management: Forest Clearcut,Forest Harvest,2013,2013,3300
+2013,Southern California Mountains,Management: Forest Clearcut,Forest Harvest,2013,2013,4800
+2013,Eastern Cascades Slopes and Foothills,Management: Forest Clearcut,Forest Harvest,2013,2013,84800
+2013,Columbia Plateau,Management: Forest Clearcut,Forest Harvest,2013,2013,22500
+2013,Blue Mountains,Management: Forest Clearcut,Forest Harvest,2013,2013,68500
+2013,Snake River Plain,Management: Forest Clearcut,Forest Harvest,2013,2013,11300
+2013,Central Basin and Range,Management: Forest Clearcut,Forest Harvest,2013,2013,46700
+2013,Mojave Basin and Range,Management: Forest Clearcut,Forest Harvest,2013,2013,5300
+2013,Northern Rockies,Management: Forest Clearcut,Forest Harvest,2013,2013,53900
+2013,Idaho Batholith,Management: Forest Clearcut,Forest Harvest,2013,2013,10000
+2013,Middle Rockies,Management: Forest Clearcut,Forest Harvest,2013,2013,36400
+2013,Wyoming Basin,Management: Forest Clearcut,Forest Harvest,2013,2013,4400
+2013,Wasatch and Uinta Mountains,Management: Forest Clearcut,Forest Harvest,2013,2013,45400
+2013,Colorado Plateaus,Management: Forest Clearcut,Forest Harvest,2013,2013,17300
+2013,Southern Rockies,Management: Forest Clearcut,Forest Harvest,2013,2013,29800
+2013,Arizona/New Mexico Plateau,Management: Forest Clearcut,Forest Harvest,2013,2013,2200
+2013,Arizona/New Mexico Mountains,Management: Forest Clearcut,Forest Harvest,2013,2013,25800
+2013,Chihuahuan Deserts,Management: Forest Clearcut,Forest Harvest,2013,2013,5900
+2013,High Plains,Management: Forest Clearcut,Forest Harvest,2013,2013,25300
+2013,Southwestern Tablelands,Management: Forest Clearcut,Forest Harvest,2013,2013,14100
+2013,Central Great Plains,Management: Forest Clearcut,Forest Harvest,2013,2013,34200
+2013,Flint Hills,Management: Forest Clearcut,Forest Harvest,2013,2013,600
+2013,Cross Timbers,Management: Forest Clearcut,Forest Harvest,2013,2013,24000
+2013,Edwards Plateau,Management: Forest Clearcut,Forest Harvest,2013,2013,21200
+2013,Southern Texas Plains,Management: Forest Clearcut,Forest Harvest,2013,2013,16300
+2013,Texas Blackland Prairies,Management: Forest Clearcut,Forest Harvest,2013,2013,8500
+2013,East Central Texas Plains,Management: Forest Clearcut,Forest Harvest,2013,2013,17800
+2013,Western Gulf Coastal Plain,Management: Forest Clearcut,Forest Harvest,2013,2013,21800
+2013,South Central Plains,Management: Forest Clearcut,Forest Harvest,2013,2013,311200
+2013,Ouachita Mountains,Management: Forest Clearcut,Forest Harvest,2013,2013,44000
+2013,Arkansas Valley,Management: Forest Clearcut,Forest Harvest,2013,2013,8400
+2013,Boston Mountains,Management: Forest Clearcut,Forest Harvest,2013,2013,8800
+2013,Ozark Highlands,Management: Forest Clearcut,Forest Harvest,2013,2013,47800
+2013,Central Irregular Plains,Management: Forest Clearcut,Forest Harvest,2013,2013,4300
+2013,Canadian Rockies,Management: Forest Clearcut,Forest Harvest,2013,2013,1500
+2013,Northwestern Glaciated Plains,Management: Forest Clearcut,Forest Harvest,2013,2013,11300
+2013,Northwestern Great Plains,Management: Forest Clearcut,Forest Harvest,2013,2013,24200
+2013,Nebraska Sand Hills,Management: Forest Clearcut,Forest Harvest,2013,2013,2800
+2013,Piedmont,Management: Forest Clearcut,Forest Harvest,2013,2013,219400
+2013,Northern Glaciated Plains,Management: Forest Clearcut,Forest Harvest,2013,2013,1200
+2013,Western Corn Belt Plains,Management: Forest Clearcut,Forest Harvest,2013,2013,3700
+2013,Lake Agassiz Plain,Management: Forest Clearcut,Forest Harvest,2013,2013,2700
+2013,Northern Minnesota Wetlands,Management: Forest Clearcut,Forest Harvest,2013,2013,14000
+2013,Northern Lakes and Forests,Management: Forest Clearcut,Forest Harvest,2013,2013,97200
+2013,North Central Hardwood Forests,Management: Forest Clearcut,Forest Harvest,2013,2013,8200
+2013,Driftless Area,Management: Forest Clearcut,Forest Harvest,2013,2013,1300
+2013,Southeastern Wisconsin Till Plains,Management: Forest Clearcut,Forest Harvest,2013,2013,1300
+2013,Central Corn Belt Plains,Management: Forest Clearcut,Forest Harvest,2013,2013,2500
+2013,Eastern Corn Belt Plains,Management: Forest Clearcut,Forest Harvest,2013,2013,3200
+2013,Southern Michigan/Northern Indiana Drift Plains,Management: Forest Clearcut,Forest Harvest,2013,2013,2800
+2013,Huron/Erie Lake Plains,Management: Forest Clearcut,Forest Harvest,2013,2013,2400
+2013,Northeastern Highlands,Management: Forest Clearcut,Forest Harvest,2013,2013,91900
+2013,Northeastern Coastal Zone,Management: Forest Clearcut,Forest Harvest,2013,2013,7400
+2013,Northern Allegheny Plateau,Management: Forest Clearcut,Forest Harvest,2013,2013,3300
+2013,Erie Drift Plain,Management: Forest Clearcut,Forest Harvest,2013,2013,2500
+2013,North Central Appalachians,Management: Forest Clearcut,Forest Harvest,2013,2013,9500
+2013,Middle Atlantic Coastal Plain,Management: Forest Clearcut,Forest Harvest,2013,2013,101600
+2013,Northern Piedmont,Management: Forest Clearcut,Forest Harvest,2013,2013,3300
+2013,Southeastern Plains,Management: Forest Clearcut,Forest Harvest,2013,2013,539800
+2013,Blue Ridge,Management: Forest Clearcut,Forest Harvest,2013,2013,11700
+2013,Ridge and Valley,Management: Forest Clearcut,Forest Harvest,2013,2013,37900
+2013,Southwestern Appalachians,Management: Forest Clearcut,Forest Harvest,2013,2013,26500
+2013,Central Appalachians,Management: Forest Clearcut,Forest Harvest,2013,2013,35000
+2013,Western Allegheny Plateau,Management: Forest Clearcut,Forest Harvest,2013,2013,23500
+2013,Interior Plateau,Management: Forest Clearcut,Forest Harvest,2013,2013,29100
+2013,Interior River Valleys and Hills,Management: Forest Clearcut,Forest Harvest,2013,2013,7000
+2013,Mississippi Alluvial Plain,Management: Forest Clearcut,Forest Harvest,2013,2013,7700
+2013,Mississippi Valley Loess Plains,Management: Forest Clearcut,Forest Harvest,2013,2013,43400
+2013,Southern Coastal Plain,Management: Forest Clearcut,Forest Harvest,2013,2013,156900
+2013,Southern Florida Coastal Plain,Management: Forest Clearcut,Forest Harvest,2013,2013,3100
+2013,North Cascades,Management: Forest Clearcut,Forest Harvest,2013,2013,8200
+2013,Klamath Mountains/California High North Coast Range,Management: Forest Clearcut,Forest Harvest,2013,2013,39900
+2013,Madrean Archipelago,Management: Forest Clearcut,Forest Harvest,2013,2013,1600
+2013,Northern Basin and Range,Management: Forest Clearcut,Forest Harvest,2013,2013,21900
+2013,Sonoran Basin and Range,Management: Forest Clearcut,Forest Harvest,2013,2013,6300
+2013,Acadian Plains and Hills,Management: Forest Clearcut,Forest Harvest,2013,2013,60900
+2013,Eastern Great Lakes Lowlands,Management: Forest Clearcut,Forest Harvest,2013,2013,3800
+2013,Atlantic Coastal Pine Barrens,Management: Forest Clearcut,Forest Harvest,2013,2013,3500
+2013,Southern California/Northern Baja Coast,Management: Forest Clearcut,Forest Harvest,2013,2013,3400
+2014,Coast Range,Management: Forest Clearcut,Forest Harvest,2014,2014,53200
+2014,Puget Lowland,Management: Forest Clearcut,Forest Harvest,2014,2014,7500
+2014,Willamette Valley,Management: Forest Clearcut,Forest Harvest,2014,2014,4500
+2014,Cascades,Management: Forest Clearcut,Forest Harvest,2014,2014,57700
+2014,Sierra Nevada,Management: Forest Clearcut,Forest Harvest,2014,2014,10600
+2014,Central California Foothills and Coastal Mountains,Management: Forest Clearcut,Forest Harvest,2014,2014,7300
+2014,Central California Valley,Management: Forest Clearcut,Forest Harvest,2014,2014,2400
+2014,Southern California Mountains,Management: Forest Clearcut,Forest Harvest,2014,2014,1500
+2014,Eastern Cascades Slopes and Foothills,Management: Forest Clearcut,Forest Harvest,2014,2014,37500
+2014,Columbia Plateau,Management: Forest Clearcut,Forest Harvest,2014,2014,14900
+2014,Blue Mountains,Management: Forest Clearcut,Forest Harvest,2014,2014,23600
+2014,Snake River Plain,Management: Forest Clearcut,Forest Harvest,2014,2014,4300
+2014,Central Basin and Range,Management: Forest Clearcut,Forest Harvest,2014,2014,20400
+2014,Mojave Basin and Range,Management: Forest Clearcut,Forest Harvest,2014,2014,5400
+2014,Northern Rockies,Management: Forest Clearcut,Forest Harvest,2014,2014,55800
+2014,Idaho Batholith,Management: Forest Clearcut,Forest Harvest,2014,2014,9700
+2014,Middle Rockies,Management: Forest Clearcut,Forest Harvest,2014,2014,43500
+2014,Wyoming Basin,Management: Forest Clearcut,Forest Harvest,2014,2014,3700
+2014,Wasatch and Uinta Mountains,Management: Forest Clearcut,Forest Harvest,2014,2014,12200
+2014,Colorado Plateaus,Management: Forest Clearcut,Forest Harvest,2014,2014,14200
+2014,Southern Rockies,Management: Forest Clearcut,Forest Harvest,2014,2014,16600
+2014,Arizona/New Mexico Plateau,Management: Forest Clearcut,Forest Harvest,2014,2014,4200
+2014,Arizona/New Mexico Mountains,Management: Forest Clearcut,Forest Harvest,2014,2014,15100
+2014,Chihuahuan Deserts,Management: Forest Clearcut,Forest Harvest,2014,2014,7600
+2014,High Plains,Management: Forest Clearcut,Forest Harvest,2014,2014,20600
+2014,Southwestern Tablelands,Management: Forest Clearcut,Forest Harvest,2014,2014,14900
+2014,Central Great Plains,Management: Forest Clearcut,Forest Harvest,2014,2014,52500
+2014,Flint Hills,Management: Forest Clearcut,Forest Harvest,2014,2014,22800
+2014,Cross Timbers,Management: Forest Clearcut,Forest Harvest,2014,2014,29100
+2014,Edwards Plateau,Management: Forest Clearcut,Forest Harvest,2014,2014,15500
+2014,Southern Texas Plains,Management: Forest Clearcut,Forest Harvest,2014,2014,20100
+2014,Texas Blackland Prairies,Management: Forest Clearcut,Forest Harvest,2014,2014,8800
+2014,East Central Texas Plains,Management: Forest Clearcut,Forest Harvest,2014,2014,12100
+2014,Western Gulf Coastal Plain,Management: Forest Clearcut,Forest Harvest,2014,2014,27700
+2014,South Central Plains,Management: Forest Clearcut,Forest Harvest,2014,2014,296600
+2014,Ouachita Mountains,Management: Forest Clearcut,Forest Harvest,2014,2014,50900
+2014,Arkansas Valley,Management: Forest Clearcut,Forest Harvest,2014,2014,10000
+2014,Boston Mountains,Management: Forest Clearcut,Forest Harvest,2014,2014,5500
+2014,Ozark Highlands,Management: Forest Clearcut,Forest Harvest,2014,2014,27100
+2014,Central Irregular Plains,Management: Forest Clearcut,Forest Harvest,2014,2014,20000
+2014,Canadian Rockies,Management: Forest Clearcut,Forest Harvest,2014,2014,1200
+2014,Northwestern Glaciated Plains,Management: Forest Clearcut,Forest Harvest,2014,2014,9800
+2014,Northwestern Great Plains,Management: Forest Clearcut,Forest Harvest,2014,2014,54500
+2014,Nebraska Sand Hills,Management: Forest Clearcut,Forest Harvest,2014,2014,2800
+2014,Piedmont,Management: Forest Clearcut,Forest Harvest,2014,2014,227900
+2014,Northern Glaciated Plains,Management: Forest Clearcut,Forest Harvest,2014,2014,2500
+2014,Western Corn Belt Plains,Management: Forest Clearcut,Forest Harvest,2014,2014,4900
+2014,Lake Agassiz Plain,Management: Forest Clearcut,Forest Harvest,2014,2014,2400
+2014,Northern Minnesota Wetlands,Management: Forest Clearcut,Forest Harvest,2014,2014,8500
+2014,Northern Lakes and Forests,Management: Forest Clearcut,Forest Harvest,2014,2014,73700
+2014,North Central Hardwood Forests,Management: Forest Clearcut,Forest Harvest,2014,2014,5300
+2014,Driftless Area,Management: Forest Clearcut,Forest Harvest,2014,2014,2400
+2014,Southeastern Wisconsin Till Plains,Management: Forest Clearcut,Forest Harvest,2014,2014,1100
+2014,Central Corn Belt Plains,Management: Forest Clearcut,Forest Harvest,2014,2014,3700
+2014,Eastern Corn Belt Plains,Management: Forest Clearcut,Forest Harvest,2014,2014,2700
+2014,Southern Michigan/Northern Indiana Drift Plains,Management: Forest Clearcut,Forest Harvest,2014,2014,2300
+2014,Huron/Erie Lake Plains,Management: Forest Clearcut,Forest Harvest,2014,2014,1400
+2014,Northeastern Highlands,Management: Forest Clearcut,Forest Harvest,2014,2014,74400
+2014,Northeastern Coastal Zone,Management: Forest Clearcut,Forest Harvest,2014,2014,7400
+2014,Northern Allegheny Plateau,Management: Forest Clearcut,Forest Harvest,2014,2014,1600
+2014,Erie Drift Plain,Management: Forest Clearcut,Forest Harvest,2014,2014,3000
+2014,North Central Appalachians,Management: Forest Clearcut,Forest Harvest,2014,2014,5600
+2014,Middle Atlantic Coastal Plain,Management: Forest Clearcut,Forest Harvest,2014,2014,108400
+2014,Northern Piedmont,Management: Forest Clearcut,Forest Harvest,2014,2014,2100
+2014,Southeastern Plains,Management: Forest Clearcut,Forest Harvest,2014,2014,517000
+2014,Blue Ridge,Management: Forest Clearcut,Forest Harvest,2014,2014,10100
+2014,Ridge and Valley,Management: Forest Clearcut,Forest Harvest,2014,2014,31900
+2014,Southwestern Appalachians,Management: Forest Clearcut,Forest Harvest,2014,2014,26900
+2014,Central Appalachians,Management: Forest Clearcut,Forest Harvest,2014,2014,24800
+2014,Western Allegheny Plateau,Management: Forest Clearcut,Forest Harvest,2014,2014,16800
+2014,Interior Plateau,Management: Forest Clearcut,Forest Harvest,2014,2014,19800
+2014,Interior River Valleys and Hills,Management: Forest Clearcut,Forest Harvest,2014,2014,6400
+2014,Mississippi Alluvial Plain,Management: Forest Clearcut,Forest Harvest,2014,2014,8200
+2014,Mississippi Valley Loess Plains,Management: Forest Clearcut,Forest Harvest,2014,2014,44200
+2014,Southern Coastal Plain,Management: Forest Clearcut,Forest Harvest,2014,2014,161400
+2014,Southern Florida Coastal Plain,Management: Forest Clearcut,Forest Harvest,2014,2014,4800
+2014,North Cascades,Management: Forest Clearcut,Forest Harvest,2014,2014,7700
+2014,Klamath Mountains/California High North Coast Range,Management: Forest Clearcut,Forest Harvest,2014,2014,36000
+2014,Madrean Archipelago,Management: Forest Clearcut,Forest Harvest,2014,2014,2300
+2014,Northern Basin and Range,Management: Forest Clearcut,Forest Harvest,2014,2014,25700
+2014,Sonoran Basin and Range,Management: Forest Clearcut,Forest Harvest,2014,2014,3700
+2014,Acadian Plains and Hills,Management: Forest Clearcut,Forest Harvest,2014,2014,55500
+2014,Eastern Great Lakes Lowlands,Management: Forest Clearcut,Forest Harvest,2014,2014,3000
+2014,Atlantic Coastal Pine Barrens,Management: Forest Clearcut,Forest Harvest,2014,2014,4100
+2014,Southern California/Northern Baja Coast,Management: Forest Clearcut,Forest Harvest,2014,2014,3600
+2002,Coast Range,Management: Forest Selection,Forest Harvest,2002,2002,15200
+2002,Puget Lowland,Management: Forest Selection,Forest Harvest,2002,2002,100
+2002,Willamette Valley,Management: Forest Selection,Forest Harvest,2002,2002,600
+2002,Cascades,Management: Forest Selection,Forest Harvest,2002,2002,11900
+2002,Sierra Nevada,Management: Forest Selection,Forest Harvest,2002,2002,11500
+2002,Central California Foothills and Coastal Mountains,Management: Forest Selection,Forest Harvest,2002,2002,300
+2002,Central California Valley,Management: Forest Selection,Forest Harvest,2002,2002,0
+2002,Southern California Mountains,Management: Forest Selection,Forest Harvest,2002,2002,0
+2002,Eastern Cascades Slopes and Foothills,Management: Forest Selection,Forest Harvest,2002,2002,9900
+2002,Columbia Plateau,Management: Forest Selection,Forest Harvest,2002,2002,0
+2002,Blue Mountains,Management: Forest Selection,Forest Harvest,2002,2002,9800
+2002,Snake River Plain,Management: Forest Selection,Forest Harvest,2002,2002,0
+2002,Central Basin and Range,Management: Forest Selection,Forest Harvest,2002,2002,0
+2002,Mojave Basin and Range,Management: Forest Selection,Forest Harvest,2002,2002,0
+2002,Northern Rockies,Management: Forest Selection,Forest Harvest,2002,2002,10700
+2002,Idaho Batholith,Management: Forest Selection,Forest Harvest,2002,2002,1300
+2002,Middle Rockies,Management: Forest Selection,Forest Harvest,2002,2002,1600
+2002,Wyoming Basin,Management: Forest Selection,Forest Harvest,2002,2002,0
+2002,Wasatch and Uinta Mountains,Management: Forest Selection,Forest Harvest,2002,2002,1400
+2002,Colorado Plateaus,Management: Forest Selection,Forest Harvest,2002,2002,0
+2002,Southern Rockies,Management: Forest Selection,Forest Harvest,2002,2002,3500
+2002,Arizona/New Mexico Plateau,Management: Forest Selection,Forest Harvest,2002,2002,400
+2002,Arizona/New Mexico Mountains,Management: Forest Selection,Forest Harvest,2002,2002,700
+2002,Chihuahuan Deserts,Management: Forest Selection,Forest Harvest,2002,2002,0
+2002,High Plains,Management: Forest Selection,Forest Harvest,2002,2002,0
+2002,Southwestern Tablelands,Management: Forest Selection,Forest Harvest,2002,2002,0
+2002,Central Great Plains,Management: Forest Selection,Forest Harvest,2002,2002,0
+2002,Flint Hills,Management: Forest Selection,Forest Harvest,2002,2002,0
+2002,Cross Timbers,Management: Forest Selection,Forest Harvest,2002,2002,0
+2002,Edwards Plateau,Management: Forest Selection,Forest Harvest,2002,2002,0
+2002,Southern Texas Plains,Management: Forest Selection,Forest Harvest,2002,2002,0
+2002,Texas Blackland Prairies,Management: Forest Selection,Forest Harvest,2002,2002,0
+2002,East Central Texas Plains,Management: Forest Selection,Forest Harvest,2002,2002,0
+2002,Western Gulf Coastal Plain,Management: Forest Selection,Forest Harvest,2002,2002,0
+2002,South Central Plains,Management: Forest Selection,Forest Harvest,2002,2002,1700
+2002,Ouachita Mountains,Management: Forest Selection,Forest Harvest,2002,2002,0
+2002,Arkansas Valley,Management: Forest Selection,Forest Harvest,2002,2002,0
+2002,Boston Mountains,Management: Forest Selection,Forest Harvest,2002,2002,0
+2002,Ozark Highlands,Management: Forest Selection,Forest Harvest,2002,2002,700
+2002,Central Irregular Plains,Management: Forest Selection,Forest Harvest,2002,2002,0
+2002,Canadian Rockies,Management: Forest Selection,Forest Harvest,2002,2002,500
+2002,Northwestern Glaciated Plains,Management: Forest Selection,Forest Harvest,2002,2002,0
+2002,Northwestern Great Plains,Management: Forest Selection,Forest Harvest,2002,2002,300
+2002,Nebraska Sand Hills,Management: Forest Selection,Forest Harvest,2002,2002,0
+2002,Piedmont,Management: Forest Selection,Forest Harvest,2002,2002,0
+2002,Northern Glaciated Plains,Management: Forest Selection,Forest Harvest,2002,2002,0
+2002,Western Corn Belt Plains,Management: Forest Selection,Forest Harvest,2002,2002,300
+2002,Lake Agassiz Plain,Management: Forest Selection,Forest Harvest,2002,2002,0
+2002,Northern Minnesota Wetlands,Management: Forest Selection,Forest Harvest,2002,2002,100
+2002,Northern Lakes and Forests,Management: Forest Selection,Forest Harvest,2002,2002,5000
+2002,North Central Hardwood Forests,Management: Forest Selection,Forest Harvest,2002,2002,0
+2002,Driftless Area,Management: Forest Selection,Forest Harvest,2002,2002,100
+2002,Southeastern Wisconsin Till Plains,Management: Forest Selection,Forest Harvest,2002,2002,0
+2002,Central Corn Belt Plains,Management: Forest Selection,Forest Harvest,2002,2002,0
+2002,Eastern Corn Belt Plains,Management: Forest Selection,Forest Harvest,2002,2002,0
+2002,Southern Michigan/Northern Indiana Drift Plains,Management: Forest Selection,Forest Harvest,2002,2002,0
+2002,Huron/Erie Lake Plains,Management: Forest Selection,Forest Harvest,2002,2002,0
+2002,Northeastern Highlands,Management: Forest Selection,Forest Harvest,2002,2002,100
+2002,Northeastern Coastal Zone,Management: Forest Selection,Forest Harvest,2002,2002,0
+2002,Northern Allegheny Plateau,Management: Forest Selection,Forest Harvest,2002,2002,0
+2002,Erie Drift Plain,Management: Forest Selection,Forest Harvest,2002,2002,0
+2002,North Central Appalachians,Management: Forest Selection,Forest Harvest,2002,2002,10400
+2002,Middle Atlantic Coastal Plain,Management: Forest Selection,Forest Harvest,2002,2002,0
+2002,Northern Piedmont,Management: Forest Selection,Forest Harvest,2002,2002,200
+2002,Southeastern Plains,Management: Forest Selection,Forest Harvest,2002,2002,0
+2002,Blue Ridge,Management: Forest Selection,Forest Harvest,2002,2002,400
+2002,Ridge and Valley,Management: Forest Selection,Forest Harvest,2002,2002,2900
+2002,Southwestern Appalachians,Management: Forest Selection,Forest Harvest,2002,2002,0
+2002,Central Appalachians,Management: Forest Selection,Forest Harvest,2002,2002,3900
+2002,Western Allegheny Plateau,Management: Forest Selection,Forest Harvest,2002,2002,0
+2002,Interior Plateau,Management: Forest Selection,Forest Harvest,2002,2002,0
+2002,Interior River Valleys and Hills,Management: Forest Selection,Forest Harvest,2002,2002,200
+2002,Mississippi Alluvial Plain,Management: Forest Selection,Forest Harvest,2002,2002,0
+2002,Mississippi Valley Loess Plains,Management: Forest Selection,Forest Harvest,2002,2002,0
+2002,Southern Coastal Plain,Management: Forest Selection,Forest Harvest,2002,2002,0
+2002,Southern Florida Coastal Plain,Management: Forest Selection,Forest Harvest,2002,2002,0
+2002,North Cascades,Management: Forest Selection,Forest Harvest,2002,2002,400
+2002,Klamath Mountains/California High North Coast Range,Management: Forest Selection,Forest Harvest,2002,2002,6300
+2002,Madrean Archipelago,Management: Forest Selection,Forest Harvest,2002,2002,0
+2002,Northern Basin and Range,Management: Forest Selection,Forest Harvest,2002,2002,0
+2002,Sonoran Basin and Range,Management: Forest Selection,Forest Harvest,2002,2002,0
+2002,Acadian Plains and Hills,Management: Forest Selection,Forest Harvest,2002,2002,0
+2002,Eastern Great Lakes Lowlands,Management: Forest Selection,Forest Harvest,2002,2002,0
+2002,Atlantic Coastal Pine Barrens,Management: Forest Selection,Forest Harvest,2002,2002,0
+2002,Southern California/Northern Baja Coast,Management: Forest Selection,Forest Harvest,2002,2002,0
+2003,Coast Range,Management: Forest Selection,Forest Harvest,2003,2003,11700
+2003,Puget Lowland,Management: Forest Selection,Forest Harvest,2003,2003,0
+2003,Willamette Valley,Management: Forest Selection,Forest Harvest,2003,2003,1000
+2003,Cascades,Management: Forest Selection,Forest Harvest,2003,2003,12200
+2003,Sierra Nevada,Management: Forest Selection,Forest Harvest,2003,2003,23100
+2003,Central California Foothills and Coastal Mountains,Management: Forest Selection,Forest Harvest,2003,2003,0
+2003,Central California Valley,Management: Forest Selection,Forest Harvest,2003,2003,0
+2003,Southern California Mountains,Management: Forest Selection,Forest Harvest,2003,2003,0
+2003,Eastern Cascades Slopes and Foothills,Management: Forest Selection,Forest Harvest,2003,2003,8200
+2003,Columbia Plateau,Management: Forest Selection,Forest Harvest,2003,2003,0
+2003,Blue Mountains,Management: Forest Selection,Forest Harvest,2003,2003,9200
+2003,Snake River Plain,Management: Forest Selection,Forest Harvest,2003,2003,200
+2003,Central Basin and Range,Management: Forest Selection,Forest Harvest,2003,2003,0
+2003,Mojave Basin and Range,Management: Forest Selection,Forest Harvest,2003,2003,0
+2003,Northern Rockies,Management: Forest Selection,Forest Harvest,2003,2003,7700
+2003,Idaho Batholith,Management: Forest Selection,Forest Harvest,2003,2003,2200
+2003,Middle Rockies,Management: Forest Selection,Forest Harvest,2003,2003,1800
+2003,Wyoming Basin,Management: Forest Selection,Forest Harvest,2003,2003,0
+2003,Wasatch and Uinta Mountains,Management: Forest Selection,Forest Harvest,2003,2003,600
+2003,Colorado Plateaus,Management: Forest Selection,Forest Harvest,2003,2003,300
+2003,Southern Rockies,Management: Forest Selection,Forest Harvest,2003,2003,4000
+2003,Arizona/New Mexico Plateau,Management: Forest Selection,Forest Harvest,2003,2003,0
+2003,Arizona/New Mexico Mountains,Management: Forest Selection,Forest Harvest,2003,2003,1800
+2003,Chihuahuan Deserts,Management: Forest Selection,Forest Harvest,2003,2003,0
+2003,High Plains,Management: Forest Selection,Forest Harvest,2003,2003,0
+2003,Southwestern Tablelands,Management: Forest Selection,Forest Harvest,2003,2003,0
+2003,Central Great Plains,Management: Forest Selection,Forest Harvest,2003,2003,0
+2003,Flint Hills,Management: Forest Selection,Forest Harvest,2003,2003,0
+2003,Cross Timbers,Management: Forest Selection,Forest Harvest,2003,2003,0
+2003,Edwards Plateau,Management: Forest Selection,Forest Harvest,2003,2003,0
+2003,Southern Texas Plains,Management: Forest Selection,Forest Harvest,2003,2003,0
+2003,Texas Blackland Prairies,Management: Forest Selection,Forest Harvest,2003,2003,0
+2003,East Central Texas Plains,Management: Forest Selection,Forest Harvest,2003,2003,0
+2003,Western Gulf Coastal Plain,Management: Forest Selection,Forest Harvest,2003,2003,0
+2003,South Central Plains,Management: Forest Selection,Forest Harvest,2003,2003,200
+2003,Ouachita Mountains,Management: Forest Selection,Forest Harvest,2003,2003,0
+2003,Arkansas Valley,Management: Forest Selection,Forest Harvest,2003,2003,0
+2003,Boston Mountains,Management: Forest Selection,Forest Harvest,2003,2003,0
+2003,Ozark Highlands,Management: Forest Selection,Forest Harvest,2003,2003,4700
+2003,Central Irregular Plains,Management: Forest Selection,Forest Harvest,2003,2003,0
+2003,Canadian Rockies,Management: Forest Selection,Forest Harvest,2003,2003,400
+2003,Northwestern Glaciated Plains,Management: Forest Selection,Forest Harvest,2003,2003,0
+2003,Northwestern Great Plains,Management: Forest Selection,Forest Harvest,2003,2003,0
+2003,Nebraska Sand Hills,Management: Forest Selection,Forest Harvest,2003,2003,0
+2003,Piedmont,Management: Forest Selection,Forest Harvest,2003,2003,0
+2003,Northern Glaciated Plains,Management: Forest Selection,Forest Harvest,2003,2003,0
+2003,Western Corn Belt Plains,Management: Forest Selection,Forest Harvest,2003,2003,700
+2003,Lake Agassiz Plain,Management: Forest Selection,Forest Harvest,2003,2003,0
+2003,Northern Minnesota Wetlands,Management: Forest Selection,Forest Harvest,2003,2003,0
+2003,Northern Lakes and Forests,Management: Forest Selection,Forest Harvest,2003,2003,4200
+2003,North Central Hardwood Forests,Management: Forest Selection,Forest Harvest,2003,2003,0
+2003,Driftless Area,Management: Forest Selection,Forest Harvest,2003,2003,300
+2003,Southeastern Wisconsin Till Plains,Management: Forest Selection,Forest Harvest,2003,2003,0
+2003,Central Corn Belt Plains,Management: Forest Selection,Forest Harvest,2003,2003,0
+2003,Eastern Corn Belt Plains,Management: Forest Selection,Forest Harvest,2003,2003,0
+2003,Southern Michigan/Northern Indiana Drift Plains,Management: Forest Selection,Forest Harvest,2003,2003,0
+2003,Huron/Erie Lake Plains,Management: Forest Selection,Forest Harvest,2003,2003,0
+2003,Northeastern Highlands,Management: Forest Selection,Forest Harvest,2003,2003,100
+2003,Northeastern Coastal Zone,Management: Forest Selection,Forest Harvest,2003,2003,0
+2003,Northern Allegheny Plateau,Management: Forest Selection,Forest Harvest,2003,2003,0
+2003,Erie Drift Plain,Management: Forest Selection,Forest Harvest,2003,2003,0
+2003,North Central Appalachians,Management: Forest Selection,Forest Harvest,2003,2003,1100
+2003,Middle Atlantic Coastal Plain,Management: Forest Selection,Forest Harvest,2003,2003,0
+2003,Northern Piedmont,Management: Forest Selection,Forest Harvest,2003,2003,0
+2003,Southeastern Plains,Management: Forest Selection,Forest Harvest,2003,2003,0
+2003,Blue Ridge,Management: Forest Selection,Forest Harvest,2003,2003,200
+2003,Ridge and Valley,Management: Forest Selection,Forest Harvest,2003,2003,400
+2003,Southwestern Appalachians,Management: Forest Selection,Forest Harvest,2003,2003,0
+2003,Central Appalachians,Management: Forest Selection,Forest Harvest,2003,2003,300
+2003,Western Allegheny Plateau,Management: Forest Selection,Forest Harvest,2003,2003,2100
+2003,Interior Plateau,Management: Forest Selection,Forest Harvest,2003,2003,0
+2003,Interior River Valleys and Hills,Management: Forest Selection,Forest Harvest,2003,2003,0
+2003,Mississippi Alluvial Plain,Management: Forest Selection,Forest Harvest,2003,2003,0
+2003,Mississippi Valley Loess Plains,Management: Forest Selection,Forest Harvest,2003,2003,0
+2003,Southern Coastal Plain,Management: Forest Selection,Forest Harvest,2003,2003,0
+2003,Southern Florida Coastal Plain,Management: Forest Selection,Forest Harvest,2003,2003,0
+2003,North Cascades,Management: Forest Selection,Forest Harvest,2003,2003,700
+2003,Klamath Mountains/California High North Coast Range,Management: Forest Selection,Forest Harvest,2003,2003,6000
+2003,Madrean Archipelago,Management: Forest Selection,Forest Harvest,2003,2003,0
+2003,Northern Basin and Range,Management: Forest Selection,Forest Harvest,2003,2003,0
+2003,Sonoran Basin and Range,Management: Forest Selection,Forest Harvest,2003,2003,0
+2003,Acadian Plains and Hills,Management: Forest Selection,Forest Harvest,2003,2003,0
+2003,Eastern Great Lakes Lowlands,Management: Forest Selection,Forest Harvest,2003,2003,0
+2003,Atlantic Coastal Pine Barrens,Management: Forest Selection,Forest Harvest,2003,2003,0
+2003,Southern California/Northern Baja Coast,Management: Forest Selection,Forest Harvest,2003,2003,100
+2004,Coast Range,Management: Forest Selection,Forest Harvest,2004,2004,11600
+2004,Puget Lowland,Management: Forest Selection,Forest Harvest,2004,2004,100
+2004,Willamette Valley,Management: Forest Selection,Forest Harvest,2004,2004,1200
+2004,Cascades,Management: Forest Selection,Forest Harvest,2004,2004,27100
+2004,Sierra Nevada,Management: Forest Selection,Forest Harvest,2004,2004,18300
+2004,Central California Foothills and Coastal Mountains,Management: Forest Selection,Forest Harvest,2004,2004,100
+2004,Central California Valley,Management: Forest Selection,Forest Harvest,2004,2004,0
+2004,Southern California Mountains,Management: Forest Selection,Forest Harvest,2004,2004,100
+2004,Eastern Cascades Slopes and Foothills,Management: Forest Selection,Forest Harvest,2004,2004,7000
+2004,Columbia Plateau,Management: Forest Selection,Forest Harvest,2004,2004,100
+2004,Blue Mountains,Management: Forest Selection,Forest Harvest,2004,2004,11300
+2004,Snake River Plain,Management: Forest Selection,Forest Harvest,2004,2004,0
+2004,Central Basin and Range,Management: Forest Selection,Forest Harvest,2004,2004,0
+2004,Mojave Basin and Range,Management: Forest Selection,Forest Harvest,2004,2004,0
+2004,Northern Rockies,Management: Forest Selection,Forest Harvest,2004,2004,11700
+2004,Idaho Batholith,Management: Forest Selection,Forest Harvest,2004,2004,2500
+2004,Middle Rockies,Management: Forest Selection,Forest Harvest,2004,2004,1500
+2004,Wyoming Basin,Management: Forest Selection,Forest Harvest,2004,2004,0
+2004,Wasatch and Uinta Mountains,Management: Forest Selection,Forest Harvest,2004,2004,1000
+2004,Colorado Plateaus,Management: Forest Selection,Forest Harvest,2004,2004,700
+2004,Southern Rockies,Management: Forest Selection,Forest Harvest,2004,2004,4800
+2004,Arizona/New Mexico Plateau,Management: Forest Selection,Forest Harvest,2004,2004,0
+2004,Arizona/New Mexico Mountains,Management: Forest Selection,Forest Harvest,2004,2004,2100
+2004,Chihuahuan Deserts,Management: Forest Selection,Forest Harvest,2004,2004,0
+2004,High Plains,Management: Forest Selection,Forest Harvest,2004,2004,0
+2004,Southwestern Tablelands,Management: Forest Selection,Forest Harvest,2004,2004,0
+2004,Central Great Plains,Management: Forest Selection,Forest Harvest,2004,2004,0
+2004,Flint Hills,Management: Forest Selection,Forest Harvest,2004,2004,0
+2004,Cross Timbers,Management: Forest Selection,Forest Harvest,2004,2004,0
+2004,Edwards Plateau,Management: Forest Selection,Forest Harvest,2004,2004,0
+2004,Southern Texas Plains,Management: Forest Selection,Forest Harvest,2004,2004,0
+2004,Texas Blackland Prairies,Management: Forest Selection,Forest Harvest,2004,2004,0
+2004,East Central Texas Plains,Management: Forest Selection,Forest Harvest,2004,2004,0
+2004,Western Gulf Coastal Plain,Management: Forest Selection,Forest Harvest,2004,2004,0
+2004,South Central Plains,Management: Forest Selection,Forest Harvest,2004,2004,0
+2004,Ouachita Mountains,Management: Forest Selection,Forest Harvest,2004,2004,0
+2004,Arkansas Valley,Management: Forest Selection,Forest Harvest,2004,2004,0
+2004,Boston Mountains,Management: Forest Selection,Forest Harvest,2004,2004,0
+2004,Ozark Highlands,Management: Forest Selection,Forest Harvest,2004,2004,3200
+2004,Central Irregular Plains,Management: Forest Selection,Forest Harvest,2004,2004,400
+2004,Canadian Rockies,Management: Forest Selection,Forest Harvest,2004,2004,0
+2004,Northwestern Glaciated Plains,Management: Forest Selection,Forest Harvest,2004,2004,0
+2004,Northwestern Great Plains,Management: Forest Selection,Forest Harvest,2004,2004,200
+2004,Nebraska Sand Hills,Management: Forest Selection,Forest Harvest,2004,2004,0
+2004,Piedmont,Management: Forest Selection,Forest Harvest,2004,2004,0
+2004,Northern Glaciated Plains,Management: Forest Selection,Forest Harvest,2004,2004,0
+2004,Western Corn Belt Plains,Management: Forest Selection,Forest Harvest,2004,2004,100
+2004,Lake Agassiz Plain,Management: Forest Selection,Forest Harvest,2004,2004,0
+2004,Northern Minnesota Wetlands,Management: Forest Selection,Forest Harvest,2004,2004,0
+2004,Northern Lakes and Forests,Management: Forest Selection,Forest Harvest,2004,2004,5900
+2004,North Central Hardwood Forests,Management: Forest Selection,Forest Harvest,2004,2004,0
+2004,Driftless Area,Management: Forest Selection,Forest Harvest,2004,2004,100
+2004,Southeastern Wisconsin Till Plains,Management: Forest Selection,Forest Harvest,2004,2004,0
+2004,Central Corn Belt Plains,Management: Forest Selection,Forest Harvest,2004,2004,0
+2004,Eastern Corn Belt Plains,Management: Forest Selection,Forest Harvest,2004,2004,0
+2004,Southern Michigan/Northern Indiana Drift Plains,Management: Forest Selection,Forest Harvest,2004,2004,0
+2004,Huron/Erie Lake Plains,Management: Forest Selection,Forest Harvest,2004,2004,0
+2004,Northeastern Highlands,Management: Forest Selection,Forest Harvest,2004,2004,1000
+2004,Northeastern Coastal Zone,Management: Forest Selection,Forest Harvest,2004,2004,0
+2004,Northern Allegheny Plateau,Management: Forest Selection,Forest Harvest,2004,2004,0
+2004,Erie Drift Plain,Management: Forest Selection,Forest Harvest,2004,2004,0
+2004,North Central Appalachians,Management: Forest Selection,Forest Harvest,2004,2004,200
+2004,Middle Atlantic Coastal Plain,Management: Forest Selection,Forest Harvest,2004,2004,0
+2004,Northern Piedmont,Management: Forest Selection,Forest Harvest,2004,2004,0
+2004,Southeastern Plains,Management: Forest Selection,Forest Harvest,2004,2004,0
+2004,Blue Ridge,Management: Forest Selection,Forest Harvest,2004,2004,0
+2004,Ridge and Valley,Management: Forest Selection,Forest Harvest,2004,2004,100
+2004,Southwestern Appalachians,Management: Forest Selection,Forest Harvest,2004,2004,0
+2004,Central Appalachians,Management: Forest Selection,Forest Harvest,2004,2004,100
+2004,Western Allegheny Plateau,Management: Forest Selection,Forest Harvest,2004,2004,100
+2004,Interior Plateau,Management: Forest Selection,Forest Harvest,2004,2004,0
+2004,Interior River Valleys and Hills,Management: Forest Selection,Forest Harvest,2004,2004,0
+2004,Mississippi Alluvial Plain,Management: Forest Selection,Forest Harvest,2004,2004,0
+2004,Mississippi Valley Loess Plains,Management: Forest Selection,Forest Harvest,2004,2004,0
+2004,Southern Coastal Plain,Management: Forest Selection,Forest Harvest,2004,2004,100
+2004,Southern Florida Coastal Plain,Management: Forest Selection,Forest Harvest,2004,2004,0
+2004,North Cascades,Management: Forest Selection,Forest Harvest,2004,2004,1600
+2004,Klamath Mountains/California High North Coast Range,Management: Forest Selection,Forest Harvest,2004,2004,7300
+2004,Madrean Archipelago,Management: Forest Selection,Forest Harvest,2004,2004,0
+2004,Northern Basin and Range,Management: Forest Selection,Forest Harvest,2004,2004,200
+2004,Sonoran Basin and Range,Management: Forest Selection,Forest Harvest,2004,2004,0
+2004,Acadian Plains and Hills,Management: Forest Selection,Forest Harvest,2004,2004,0
+2004,Eastern Great Lakes Lowlands,Management: Forest Selection,Forest Harvest,2004,2004,0
+2004,Atlantic Coastal Pine Barrens,Management: Forest Selection,Forest Harvest,2004,2004,0
+2004,Southern California/Northern Baja Coast,Management: Forest Selection,Forest Harvest,2004,2004,100
+2005,Coast Range,Management: Forest Selection,Forest Harvest,2005,2005,10100
+2005,Puget Lowland,Management: Forest Selection,Forest Harvest,2005,2005,400
+2005,Willamette Valley,Management: Forest Selection,Forest Harvest,2005,2005,300
+2005,Cascades,Management: Forest Selection,Forest Harvest,2005,2005,13200
+2005,Sierra Nevada,Management: Forest Selection,Forest Harvest,2005,2005,16100
+2005,Central California Foothills and Coastal Mountains,Management: Forest Selection,Forest Harvest,2005,2005,0
+2005,Central California Valley,Management: Forest Selection,Forest Harvest,2005,2005,0
+2005,Southern California Mountains,Management: Forest Selection,Forest Harvest,2005,2005,1000
+2005,Eastern Cascades Slopes and Foothills,Management: Forest Selection,Forest Harvest,2005,2005,5700
+2005,Columbia Plateau,Management: Forest Selection,Forest Harvest,2005,2005,1300
+2005,Blue Mountains,Management: Forest Selection,Forest Harvest,2005,2005,4800
+2005,Snake River Plain,Management: Forest Selection,Forest Harvest,2005,2005,0
+2005,Central Basin and Range,Management: Forest Selection,Forest Harvest,2005,2005,0
+2005,Mojave Basin and Range,Management: Forest Selection,Forest Harvest,2005,2005,0
+2005,Northern Rockies,Management: Forest Selection,Forest Harvest,2005,2005,9500
+2005,Idaho Batholith,Management: Forest Selection,Forest Harvest,2005,2005,1400
+2005,Middle Rockies,Management: Forest Selection,Forest Harvest,2005,2005,1800
+2005,Wyoming Basin,Management: Forest Selection,Forest Harvest,2005,2005,100
+2005,Wasatch and Uinta Mountains,Management: Forest Selection,Forest Harvest,2005,2005,1700
+2005,Colorado Plateaus,Management: Forest Selection,Forest Harvest,2005,2005,100
+2005,Southern Rockies,Management: Forest Selection,Forest Harvest,2005,2005,300
+2005,Arizona/New Mexico Plateau,Management: Forest Selection,Forest Harvest,2005,2005,0
+2005,Arizona/New Mexico Mountains,Management: Forest Selection,Forest Harvest,2005,2005,1500
+2005,Chihuahuan Deserts,Management: Forest Selection,Forest Harvest,2005,2005,0
+2005,High Plains,Management: Forest Selection,Forest Harvest,2005,2005,0
+2005,Southwestern Tablelands,Management: Forest Selection,Forest Harvest,2005,2005,0
+2005,Central Great Plains,Management: Forest Selection,Forest Harvest,2005,2005,0
+2005,Flint Hills,Management: Forest Selection,Forest Harvest,2005,2005,0
+2005,Cross Timbers,Management: Forest Selection,Forest Harvest,2005,2005,0
+2005,Edwards Plateau,Management: Forest Selection,Forest Harvest,2005,2005,0
+2005,Southern Texas Plains,Management: Forest Selection,Forest Harvest,2005,2005,0
+2005,Texas Blackland Prairies,Management: Forest Selection,Forest Harvest,2005,2005,0
+2005,East Central Texas Plains,Management: Forest Selection,Forest Harvest,2005,2005,0
+2005,Western Gulf Coastal Plain,Management: Forest Selection,Forest Harvest,2005,2005,6700
+2005,South Central Plains,Management: Forest Selection,Forest Harvest,2005,2005,0
+2005,Ouachita Mountains,Management: Forest Selection,Forest Harvest,2005,2005,0
+2005,Arkansas Valley,Management: Forest Selection,Forest Harvest,2005,2005,0
+2005,Boston Mountains,Management: Forest Selection,Forest Harvest,2005,2005,0
+2005,Ozark Highlands,Management: Forest Selection,Forest Harvest,2005,2005,1900
+2005,Central Irregular Plains,Management: Forest Selection,Forest Harvest,2005,2005,100
+2005,Canadian Rockies,Management: Forest Selection,Forest Harvest,2005,2005,300
+2005,Northwestern Glaciated Plains,Management: Forest Selection,Forest Harvest,2005,2005,0
+2005,Northwestern Great Plains,Management: Forest Selection,Forest Harvest,2005,2005,500
+2005,Nebraska Sand Hills,Management: Forest Selection,Forest Harvest,2005,2005,0
+2005,Piedmont,Management: Forest Selection,Forest Harvest,2005,2005,0
+2005,Northern Glaciated Plains,Management: Forest Selection,Forest Harvest,2005,2005,0
+2005,Western Corn Belt Plains,Management: Forest Selection,Forest Harvest,2005,2005,300
+2005,Lake Agassiz Plain,Management: Forest Selection,Forest Harvest,2005,2005,0
+2005,Northern Minnesota Wetlands,Management: Forest Selection,Forest Harvest,2005,2005,0
+2005,Northern Lakes and Forests,Management: Forest Selection,Forest Harvest,2005,2005,5600
+2005,North Central Hardwood Forests,Management: Forest Selection,Forest Harvest,2005,2005,100
+2005,Driftless Area,Management: Forest Selection,Forest Harvest,2005,2005,200
+2005,Southeastern Wisconsin Till Plains,Management: Forest Selection,Forest Harvest,2005,2005,0
+2005,Central Corn Belt Plains,Management: Forest Selection,Forest Harvest,2005,2005,0
+2005,Eastern Corn Belt Plains,Management: Forest Selection,Forest Harvest,2005,2005,0
+2005,Southern Michigan/Northern Indiana Drift Plains,Management: Forest Selection,Forest Harvest,2005,2005,0
+2005,Huron/Erie Lake Plains,Management: Forest Selection,Forest Harvest,2005,2005,0
+2005,Northeastern Highlands,Management: Forest Selection,Forest Harvest,2005,2005,700
+2005,Northeastern Coastal Zone,Management: Forest Selection,Forest Harvest,2005,2005,0
+2005,Northern Allegheny Plateau,Management: Forest Selection,Forest Harvest,2005,2005,0
+2005,Erie Drift Plain,Management: Forest Selection,Forest Harvest,2005,2005,0
+2005,North Central Appalachians,Management: Forest Selection,Forest Harvest,2005,2005,1400
+2005,Middle Atlantic Coastal Plain,Management: Forest Selection,Forest Harvest,2005,2005,0
+2005,Northern Piedmont,Management: Forest Selection,Forest Harvest,2005,2005,0
+2005,Southeastern Plains,Management: Forest Selection,Forest Harvest,2005,2005,0
+2005,Blue Ridge,Management: Forest Selection,Forest Harvest,2005,2005,0
+2005,Ridge and Valley,Management: Forest Selection,Forest Harvest,2005,2005,0
+2005,Southwestern Appalachians,Management: Forest Selection,Forest Harvest,2005,2005,0
+2005,Central Appalachians,Management: Forest Selection,Forest Harvest,2005,2005,0
+2005,Western Allegheny Plateau,Management: Forest Selection,Forest Harvest,2005,2005,0
+2005,Interior Plateau,Management: Forest Selection,Forest Harvest,2005,2005,0
+2005,Interior River Valleys and Hills,Management: Forest Selection,Forest Harvest,2005,2005,0
+2005,Mississippi Alluvial Plain,Management: Forest Selection,Forest Harvest,2005,2005,0
+2005,Mississippi Valley Loess Plains,Management: Forest Selection,Forest Harvest,2005,2005,0
+2005,Southern Coastal Plain,Management: Forest Selection,Forest Harvest,2005,2005,0
+2005,Southern Florida Coastal Plain,Management: Forest Selection,Forest Harvest,2005,2005,0
+2005,North Cascades,Management: Forest Selection,Forest Harvest,2005,2005,500
+2005,Klamath Mountains/California High North Coast Range,Management: Forest Selection,Forest Harvest,2005,2005,8500
+2005,Madrean Archipelago,Management: Forest Selection,Forest Harvest,2005,2005,0
+2005,Northern Basin and Range,Management: Forest Selection,Forest Harvest,2005,2005,800
+2005,Sonoran Basin and Range,Management: Forest Selection,Forest Harvest,2005,2005,0
+2005,Acadian Plains and Hills,Management: Forest Selection,Forest Harvest,2005,2005,0
+2005,Eastern Great Lakes Lowlands,Management: Forest Selection,Forest Harvest,2005,2005,0
+2005,Atlantic Coastal Pine Barrens,Management: Forest Selection,Forest Harvest,2005,2005,0
+2005,Southern California/Northern Baja Coast,Management: Forest Selection,Forest Harvest,2005,2005,0
+2006,Coast Range,Management: Forest Selection,Forest Harvest,2006,2006,9900
+2006,Puget Lowland,Management: Forest Selection,Forest Harvest,2006,2006,0
+2006,Willamette Valley,Management: Forest Selection,Forest Harvest,2006,2006,1000
+2006,Cascades,Management: Forest Selection,Forest Harvest,2006,2006,18300
+2006,Sierra Nevada,Management: Forest Selection,Forest Harvest,2006,2006,17200
+2006,Central California Foothills and Coastal Mountains,Management: Forest Selection,Forest Harvest,2006,2006,100
+2006,Central California Valley,Management: Forest Selection,Forest Harvest,2006,2006,0
+2006,Southern California Mountains,Management: Forest Selection,Forest Harvest,2006,2006,1400
+2006,Eastern Cascades Slopes and Foothills,Management: Forest Selection,Forest Harvest,2006,2006,10800
+2006,Columbia Plateau,Management: Forest Selection,Forest Harvest,2006,2006,100
+2006,Blue Mountains,Management: Forest Selection,Forest Harvest,2006,2006,8700
+2006,Snake River Plain,Management: Forest Selection,Forest Harvest,2006,2006,0
+2006,Central Basin and Range,Management: Forest Selection,Forest Harvest,2006,2006,0
+2006,Mojave Basin and Range,Management: Forest Selection,Forest Harvest,2006,2006,0
+2006,Northern Rockies,Management: Forest Selection,Forest Harvest,2006,2006,7900
+2006,Idaho Batholith,Management: Forest Selection,Forest Harvest,2006,2006,600
+2006,Middle Rockies,Management: Forest Selection,Forest Harvest,2006,2006,2300
+2006,Wyoming Basin,Management: Forest Selection,Forest Harvest,2006,2006,0
+2006,Wasatch and Uinta Mountains,Management: Forest Selection,Forest Harvest,2006,2006,900
+2006,Colorado Plateaus,Management: Forest Selection,Forest Harvest,2006,2006,300
+2006,Southern Rockies,Management: Forest Selection,Forest Harvest,2006,2006,400
+2006,Arizona/New Mexico Plateau,Management: Forest Selection,Forest Harvest,2006,2006,0
+2006,Arizona/New Mexico Mountains,Management: Forest Selection,Forest Harvest,2006,2006,2200
+2006,Chihuahuan Deserts,Management: Forest Selection,Forest Harvest,2006,2006,0
+2006,High Plains,Management: Forest Selection,Forest Harvest,2006,2006,0
+2006,Southwestern Tablelands,Management: Forest Selection,Forest Harvest,2006,2006,0
+2006,Central Great Plains,Management: Forest Selection,Forest Harvest,2006,2006,0
+2006,Flint Hills,Management: Forest Selection,Forest Harvest,2006,2006,0
+2006,Cross Timbers,Management: Forest Selection,Forest Harvest,2006,2006,0
+2006,Edwards Plateau,Management: Forest Selection,Forest Harvest,2006,2006,0
+2006,Southern Texas Plains,Management: Forest Selection,Forest Harvest,2006,2006,0
+2006,Texas Blackland Prairies,Management: Forest Selection,Forest Harvest,2006,2006,0
+2006,East Central Texas Plains,Management: Forest Selection,Forest Harvest,2006,2006,0
+2006,Western Gulf Coastal Plain,Management: Forest Selection,Forest Harvest,2006,2006,0
+2006,South Central Plains,Management: Forest Selection,Forest Harvest,2006,2006,1900
+2006,Ouachita Mountains,Management: Forest Selection,Forest Harvest,2006,2006,0
+2006,Arkansas Valley,Management: Forest Selection,Forest Harvest,2006,2006,0
+2006,Boston Mountains,Management: Forest Selection,Forest Harvest,2006,2006,0
+2006,Ozark Highlands,Management: Forest Selection,Forest Harvest,2006,2006,1500
+2006,Central Irregular Plains,Management: Forest Selection,Forest Harvest,2006,2006,700
+2006,Canadian Rockies,Management: Forest Selection,Forest Harvest,2006,2006,100
+2006,Northwestern Glaciated Plains,Management: Forest Selection,Forest Harvest,2006,2006,0
+2006,Northwestern Great Plains,Management: Forest Selection,Forest Harvest,2006,2006,200
+2006,Nebraska Sand Hills,Management: Forest Selection,Forest Harvest,2006,2006,0
+2006,Piedmont,Management: Forest Selection,Forest Harvest,2006,2006,0
+2006,Northern Glaciated Plains,Management: Forest Selection,Forest Harvest,2006,2006,0
+2006,Western Corn Belt Plains,Management: Forest Selection,Forest Harvest,2006,2006,500
+2006,Lake Agassiz Plain,Management: Forest Selection,Forest Harvest,2006,2006,0
+2006,Northern Minnesota Wetlands,Management: Forest Selection,Forest Harvest,2006,2006,100
+2006,Northern Lakes and Forests,Management: Forest Selection,Forest Harvest,2006,2006,4100
+2006,North Central Hardwood Forests,Management: Forest Selection,Forest Harvest,2006,2006,100
+2006,Driftless Area,Management: Forest Selection,Forest Harvest,2006,2006,0
+2006,Southeastern Wisconsin Till Plains,Management: Forest Selection,Forest Harvest,2006,2006,0
+2006,Central Corn Belt Plains,Management: Forest Selection,Forest Harvest,2006,2006,0
+2006,Eastern Corn Belt Plains,Management: Forest Selection,Forest Harvest,2006,2006,0
+2006,Southern Michigan/Northern Indiana Drift Plains,Management: Forest Selection,Forest Harvest,2006,2006,0
+2006,Huron/Erie Lake Plains,Management: Forest Selection,Forest Harvest,2006,2006,0
+2006,Northeastern Highlands,Management: Forest Selection,Forest Harvest,2006,2006,500
+2006,Northeastern Coastal Zone,Management: Forest Selection,Forest Harvest,2006,2006,0
+2006,Northern Allegheny Plateau,Management: Forest Selection,Forest Harvest,2006,2006,0
+2006,Erie Drift Plain,Management: Forest Selection,Forest Harvest,2006,2006,0
+2006,North Central Appalachians,Management: Forest Selection,Forest Harvest,2006,2006,100
+2006,Middle Atlantic Coastal Plain,Management: Forest Selection,Forest Harvest,2006,2006,300
+2006,Northern Piedmont,Management: Forest Selection,Forest Harvest,2006,2006,0
+2006,Southeastern Plains,Management: Forest Selection,Forest Harvest,2006,2006,0
+2006,Blue Ridge,Management: Forest Selection,Forest Harvest,2006,2006,100
+2006,Ridge and Valley,Management: Forest Selection,Forest Harvest,2006,2006,200
+2006,Southwestern Appalachians,Management: Forest Selection,Forest Harvest,2006,2006,0
+2006,Central Appalachians,Management: Forest Selection,Forest Harvest,2006,2006,0
+2006,Western Allegheny Plateau,Management: Forest Selection,Forest Harvest,2006,2006,0
+2006,Interior Plateau,Management: Forest Selection,Forest Harvest,2006,2006,0
+2006,Interior River Valleys and Hills,Management: Forest Selection,Forest Harvest,2006,2006,0
+2006,Mississippi Alluvial Plain,Management: Forest Selection,Forest Harvest,2006,2006,0
+2006,Mississippi Valley Loess Plains,Management: Forest Selection,Forest Harvest,2006,2006,0
+2006,Southern Coastal Plain,Management: Forest Selection,Forest Harvest,2006,2006,100
+2006,Southern Florida Coastal Plain,Management: Forest Selection,Forest Harvest,2006,2006,0
+2006,North Cascades,Management: Forest Selection,Forest Harvest,2006,2006,1100
+2006,Klamath Mountains/California High North Coast Range,Management: Forest Selection,Forest Harvest,2006,2006,7200
+2006,Madrean Archipelago,Management: Forest Selection,Forest Harvest,2006,2006,0
+2006,Northern Basin and Range,Management: Forest Selection,Forest Harvest,2006,2006,500
+2006,Sonoran Basin and Range,Management: Forest Selection,Forest Harvest,2006,2006,0
+2006,Acadian Plains and Hills,Management: Forest Selection,Forest Harvest,2006,2006,0
+2006,Eastern Great Lakes Lowlands,Management: Forest Selection,Forest Harvest,2006,2006,0
+2006,Atlantic Coastal Pine Barrens,Management: Forest Selection,Forest Harvest,2006,2006,0
+2006,Southern California/Northern Baja Coast,Management: Forest Selection,Forest Harvest,2006,2006,0
+2007,Coast Range,Management: Forest Selection,Forest Harvest,2007,2007,7200
+2007,Puget Lowland,Management: Forest Selection,Forest Harvest,2007,2007,0
+2007,Willamette Valley,Management: Forest Selection,Forest Harvest,2007,2007,700
+2007,Cascades,Management: Forest Selection,Forest Harvest,2007,2007,18600
+2007,Sierra Nevada,Management: Forest Selection,Forest Harvest,2007,2007,15700
+2007,Central California Foothills and Coastal Mountains,Management: Forest Selection,Forest Harvest,2007,2007,600
+2007,Central California Valley,Management: Forest Selection,Forest Harvest,2007,2007,0
+2007,Southern California Mountains,Management: Forest Selection,Forest Harvest,2007,2007,700
+2007,Eastern Cascades Slopes and Foothills,Management: Forest Selection,Forest Harvest,2007,2007,8500
+2007,Columbia Plateau,Management: Forest Selection,Forest Harvest,2007,2007,0
+2007,Blue Mountains,Management: Forest Selection,Forest Harvest,2007,2007,7700
+2007,Snake River Plain,Management: Forest Selection,Forest Harvest,2007,2007,0
+2007,Central Basin and Range,Management: Forest Selection,Forest Harvest,2007,2007,0
+2007,Mojave Basin and Range,Management: Forest Selection,Forest Harvest,2007,2007,0
+2007,Northern Rockies,Management: Forest Selection,Forest Harvest,2007,2007,6700
+2007,Idaho Batholith,Management: Forest Selection,Forest Harvest,2007,2007,1700
+2007,Middle Rockies,Management: Forest Selection,Forest Harvest,2007,2007,900
+2007,Wyoming Basin,Management: Forest Selection,Forest Harvest,2007,2007,0
+2007,Wasatch and Uinta Mountains,Management: Forest Selection,Forest Harvest,2007,2007,900
+2007,Colorado Plateaus,Management: Forest Selection,Forest Harvest,2007,2007,200
+2007,Southern Rockies,Management: Forest Selection,Forest Harvest,2007,2007,1400
+2007,Arizona/New Mexico Plateau,Management: Forest Selection,Forest Harvest,2007,2007,0
+2007,Arizona/New Mexico Mountains,Management: Forest Selection,Forest Harvest,2007,2007,6400
+2007,Chihuahuan Deserts,Management: Forest Selection,Forest Harvest,2007,2007,0
+2007,High Plains,Management: Forest Selection,Forest Harvest,2007,2007,0
+2007,Southwestern Tablelands,Management: Forest Selection,Forest Harvest,2007,2007,0
+2007,Central Great Plains,Management: Forest Selection,Forest Harvest,2007,2007,0
+2007,Flint Hills,Management: Forest Selection,Forest Harvest,2007,2007,0
+2007,Cross Timbers,Management: Forest Selection,Forest Harvest,2007,2007,0
+2007,Edwards Plateau,Management: Forest Selection,Forest Harvest,2007,2007,0
+2007,Southern Texas Plains,Management: Forest Selection,Forest Harvest,2007,2007,0
+2007,Texas Blackland Prairies,Management: Forest Selection,Forest Harvest,2007,2007,0
+2007,East Central Texas Plains,Management: Forest Selection,Forest Harvest,2007,2007,0
+2007,Western Gulf Coastal Plain,Management: Forest Selection,Forest Harvest,2007,2007,0
+2007,South Central Plains,Management: Forest Selection,Forest Harvest,2007,2007,1300
+2007,Ouachita Mountains,Management: Forest Selection,Forest Harvest,2007,2007,0
+2007,Arkansas Valley,Management: Forest Selection,Forest Harvest,2007,2007,0
+2007,Boston Mountains,Management: Forest Selection,Forest Harvest,2007,2007,0
+2007,Ozark Highlands,Management: Forest Selection,Forest Harvest,2007,2007,2400
+2007,Central Irregular Plains,Management: Forest Selection,Forest Harvest,2007,2007,100
+2007,Canadian Rockies,Management: Forest Selection,Forest Harvest,2007,2007,10200
+2007,Northwestern Glaciated Plains,Management: Forest Selection,Forest Harvest,2007,2007,0
+2007,Northwestern Great Plains,Management: Forest Selection,Forest Harvest,2007,2007,200
+2007,Nebraska Sand Hills,Management: Forest Selection,Forest Harvest,2007,2007,0
+2007,Piedmont,Management: Forest Selection,Forest Harvest,2007,2007,0
+2007,Northern Glaciated Plains,Management: Forest Selection,Forest Harvest,2007,2007,0
+2007,Western Corn Belt Plains,Management: Forest Selection,Forest Harvest,2007,2007,400
+2007,Lake Agassiz Plain,Management: Forest Selection,Forest Harvest,2007,2007,0
+2007,Northern Minnesota Wetlands,Management: Forest Selection,Forest Harvest,2007,2007,0
+2007,Northern Lakes and Forests,Management: Forest Selection,Forest Harvest,2007,2007,6900
+2007,North Central Hardwood Forests,Management: Forest Selection,Forest Harvest,2007,2007,0
+2007,Driftless Area,Management: Forest Selection,Forest Harvest,2007,2007,100
+2007,Southeastern Wisconsin Till Plains,Management: Forest Selection,Forest Harvest,2007,2007,0
+2007,Central Corn Belt Plains,Management: Forest Selection,Forest Harvest,2007,2007,0
+2007,Eastern Corn Belt Plains,Management: Forest Selection,Forest Harvest,2007,2007,0
+2007,Southern Michigan/Northern Indiana Drift Plains,Management: Forest Selection,Forest Harvest,2007,2007,100
+2007,Huron/Erie Lake Plains,Management: Forest Selection,Forest Harvest,2007,2007,0
+2007,Northeastern Highlands,Management: Forest Selection,Forest Harvest,2007,2007,100
+2007,Northeastern Coastal Zone,Management: Forest Selection,Forest Harvest,2007,2007,0
+2007,Northern Allegheny Plateau,Management: Forest Selection,Forest Harvest,2007,2007,0
+2007,Erie Drift Plain,Management: Forest Selection,Forest Harvest,2007,2007,0
+2007,North Central Appalachians,Management: Forest Selection,Forest Harvest,2007,2007,0
+2007,Middle Atlantic Coastal Plain,Management: Forest Selection,Forest Harvest,2007,2007,500
+2007,Northern Piedmont,Management: Forest Selection,Forest Harvest,2007,2007,0
+2007,Southeastern Plains,Management: Forest Selection,Forest Harvest,2007,2007,0
+2007,Blue Ridge,Management: Forest Selection,Forest Harvest,2007,2007,0
+2007,Ridge and Valley,Management: Forest Selection,Forest Harvest,2007,2007,0
+2007,Southwestern Appalachians,Management: Forest Selection,Forest Harvest,2007,2007,0
+2007,Central Appalachians,Management: Forest Selection,Forest Harvest,2007,2007,0
+2007,Western Allegheny Plateau,Management: Forest Selection,Forest Harvest,2007,2007,0
+2007,Interior Plateau,Management: Forest Selection,Forest Harvest,2007,2007,0
+2007,Interior River Valleys and Hills,Management: Forest Selection,Forest Harvest,2007,2007,0
+2007,Mississippi Alluvial Plain,Management: Forest Selection,Forest Harvest,2007,2007,0
+2007,Mississippi Valley Loess Plains,Management: Forest Selection,Forest Harvest,2007,2007,0
+2007,Southern Coastal Plain,Management: Forest Selection,Forest Harvest,2007,2007,800
+2007,Southern Florida Coastal Plain,Management: Forest Selection,Forest Harvest,2007,2007,0
+2007,North Cascades,Management: Forest Selection,Forest Harvest,2007,2007,1300
+2007,Klamath Mountains/California High North Coast Range,Management: Forest Selection,Forest Harvest,2007,2007,5700
+2007,Madrean Archipelago,Management: Forest Selection,Forest Harvest,2007,2007,0
+2007,Northern Basin and Range,Management: Forest Selection,Forest Harvest,2007,2007,1400
+2007,Sonoran Basin and Range,Management: Forest Selection,Forest Harvest,2007,2007,0
+2007,Acadian Plains and Hills,Management: Forest Selection,Forest Harvest,2007,2007,0
+2007,Eastern Great Lakes Lowlands,Management: Forest Selection,Forest Harvest,2007,2007,0
+2007,Atlantic Coastal Pine Barrens,Management: Forest Selection,Forest Harvest,2007,2007,0
+2007,Southern California/Northern Baja Coast,Management: Forest Selection,Forest Harvest,2007,2007,0
+2008,Coast Range,Management: Forest Selection,Forest Harvest,2008,2008,16400
+2008,Puget Lowland,Management: Forest Selection,Forest Harvest,2008,2008,0
+2008,Willamette Valley,Management: Forest Selection,Forest Harvest,2008,2008,500
+2008,Cascades,Management: Forest Selection,Forest Harvest,2008,2008,29300
+2008,Sierra Nevada,Management: Forest Selection,Forest Harvest,2008,2008,16700
+2008,Central California Foothills and Coastal Mountains,Management: Forest Selection,Forest Harvest,2008,2008,100
+2008,Central California Valley,Management: Forest Selection,Forest Harvest,2008,2008,0
+2008,Southern California Mountains,Management: Forest Selection,Forest Harvest,2008,2008,500
+2008,Eastern Cascades Slopes and Foothills,Management: Forest Selection,Forest Harvest,2008,2008,13300
+2008,Columbia Plateau,Management: Forest Selection,Forest Harvest,2008,2008,0
+2008,Blue Mountains,Management: Forest Selection,Forest Harvest,2008,2008,5900
+2008,Snake River Plain,Management: Forest Selection,Forest Harvest,2008,2008,0
+2008,Central Basin and Range,Management: Forest Selection,Forest Harvest,2008,2008,0
+2008,Mojave Basin and Range,Management: Forest Selection,Forest Harvest,2008,2008,0
+2008,Northern Rockies,Management: Forest Selection,Forest Harvest,2008,2008,10200
+2008,Idaho Batholith,Management: Forest Selection,Forest Harvest,2008,2008,1900
+2008,Middle Rockies,Management: Forest Selection,Forest Harvest,2008,2008,4800
+2008,Wyoming Basin,Management: Forest Selection,Forest Harvest,2008,2008,0
+2008,Wasatch and Uinta Mountains,Management: Forest Selection,Forest Harvest,2008,2008,700
+2008,Colorado Plateaus,Management: Forest Selection,Forest Harvest,2008,2008,500
+2008,Southern Rockies,Management: Forest Selection,Forest Harvest,2008,2008,900
+2008,Arizona/New Mexico Plateau,Management: Forest Selection,Forest Harvest,2008,2008,100
+2008,Arizona/New Mexico Mountains,Management: Forest Selection,Forest Harvest,2008,2008,8000
+2008,Chihuahuan Deserts,Management: Forest Selection,Forest Harvest,2008,2008,0
+2008,High Plains,Management: Forest Selection,Forest Harvest,2008,2008,0
+2008,Southwestern Tablelands,Management: Forest Selection,Forest Harvest,2008,2008,0
+2008,Central Great Plains,Management: Forest Selection,Forest Harvest,2008,2008,0
+2008,Flint Hills,Management: Forest Selection,Forest Harvest,2008,2008,0
+2008,Cross Timbers,Management: Forest Selection,Forest Harvest,2008,2008,0
+2008,Edwards Plateau,Management: Forest Selection,Forest Harvest,2008,2008,0
+2008,Southern Texas Plains,Management: Forest Selection,Forest Harvest,2008,2008,0
+2008,Texas Blackland Prairies,Management: Forest Selection,Forest Harvest,2008,2008,0
+2008,East Central Texas Plains,Management: Forest Selection,Forest Harvest,2008,2008,0
+2008,Western Gulf Coastal Plain,Management: Forest Selection,Forest Harvest,2008,2008,0
+2008,South Central Plains,Management: Forest Selection,Forest Harvest,2008,2008,2800
+2008,Ouachita Mountains,Management: Forest Selection,Forest Harvest,2008,2008,2700
+2008,Arkansas Valley,Management: Forest Selection,Forest Harvest,2008,2008,8600
+2008,Boston Mountains,Management: Forest Selection,Forest Harvest,2008,2008,5600
+2008,Ozark Highlands,Management: Forest Selection,Forest Harvest,2008,2008,11300
+2008,Central Irregular Plains,Management: Forest Selection,Forest Harvest,2008,2008,400
+2008,Canadian Rockies,Management: Forest Selection,Forest Harvest,2008,2008,100
+2008,Northwestern Glaciated Plains,Management: Forest Selection,Forest Harvest,2008,2008,0
+2008,Northwestern Great Plains,Management: Forest Selection,Forest Harvest,2008,2008,500
+2008,Nebraska Sand Hills,Management: Forest Selection,Forest Harvest,2008,2008,0
+2008,Piedmont,Management: Forest Selection,Forest Harvest,2008,2008,200
+2008,Northern Glaciated Plains,Management: Forest Selection,Forest Harvest,2008,2008,0
+2008,Western Corn Belt Plains,Management: Forest Selection,Forest Harvest,2008,2008,900
+2008,Lake Agassiz Plain,Management: Forest Selection,Forest Harvest,2008,2008,0
+2008,Northern Minnesota Wetlands,Management: Forest Selection,Forest Harvest,2008,2008,0
+2008,Northern Lakes and Forests,Management: Forest Selection,Forest Harvest,2008,2008,4300
+2008,North Central Hardwood Forests,Management: Forest Selection,Forest Harvest,2008,2008,300
+2008,Driftless Area,Management: Forest Selection,Forest Harvest,2008,2008,100
+2008,Southeastern Wisconsin Till Plains,Management: Forest Selection,Forest Harvest,2008,2008,0
+2008,Central Corn Belt Plains,Management: Forest Selection,Forest Harvest,2008,2008,0
+2008,Eastern Corn Belt Plains,Management: Forest Selection,Forest Harvest,2008,2008,0
+2008,Southern Michigan/Northern Indiana Drift Plains,Management: Forest Selection,Forest Harvest,2008,2008,0
+2008,Huron/Erie Lake Plains,Management: Forest Selection,Forest Harvest,2008,2008,0
+2008,Northeastern Highlands,Management: Forest Selection,Forest Harvest,2008,2008,200
+2008,Northeastern Coastal Zone,Management: Forest Selection,Forest Harvest,2008,2008,0
+2008,Northern Allegheny Plateau,Management: Forest Selection,Forest Harvest,2008,2008,0
+2008,Erie Drift Plain,Management: Forest Selection,Forest Harvest,2008,2008,0
+2008,North Central Appalachians,Management: Forest Selection,Forest Harvest,2008,2008,500
+2008,Middle Atlantic Coastal Plain,Management: Forest Selection,Forest Harvest,2008,2008,0
+2008,Northern Piedmont,Management: Forest Selection,Forest Harvest,2008,2008,0
+2008,Southeastern Plains,Management: Forest Selection,Forest Harvest,2008,2008,0
+2008,Blue Ridge,Management: Forest Selection,Forest Harvest,2008,2008,300
+2008,Ridge and Valley,Management: Forest Selection,Forest Harvest,2008,2008,0
+2008,Southwestern Appalachians,Management: Forest Selection,Forest Harvest,2008,2008,0
+2008,Central Appalachians,Management: Forest Selection,Forest Harvest,2008,2008,0
+2008,Western Allegheny Plateau,Management: Forest Selection,Forest Harvest,2008,2008,0
+2008,Interior Plateau,Management: Forest Selection,Forest Harvest,2008,2008,0
+2008,Interior River Valleys and Hills,Management: Forest Selection,Forest Harvest,2008,2008,0
+2008,Mississippi Alluvial Plain,Management: Forest Selection,Forest Harvest,2008,2008,1700
+2008,Mississippi Valley Loess Plains,Management: Forest Selection,Forest Harvest,2008,2008,100
+2008,Southern Coastal Plain,Management: Forest Selection,Forest Harvest,2008,2008,1400
+2008,Southern Florida Coastal Plain,Management: Forest Selection,Forest Harvest,2008,2008,0
+2008,North Cascades,Management: Forest Selection,Forest Harvest,2008,2008,2600
+2008,Klamath Mountains/California High North Coast Range,Management: Forest Selection,Forest Harvest,2008,2008,6500
+2008,Madrean Archipelago,Management: Forest Selection,Forest Harvest,2008,2008,1400
+2008,Northern Basin and Range,Management: Forest Selection,Forest Harvest,2008,2008,0
+2008,Sonoran Basin and Range,Management: Forest Selection,Forest Harvest,2008,2008,0
+2008,Acadian Plains and Hills,Management: Forest Selection,Forest Harvest,2008,2008,0
+2008,Eastern Great Lakes Lowlands,Management: Forest Selection,Forest Harvest,2008,2008,0
+2008,Atlantic Coastal Pine Barrens,Management: Forest Selection,Forest Harvest,2008,2008,0
+2008,Southern California/Northern Baja Coast,Management: Forest Selection,Forest Harvest,2008,2008,0
+2009,Coast Range,Management: Forest Selection,Forest Harvest,2009,2009,4000
+2009,Puget Lowland,Management: Forest Selection,Forest Harvest,2009,2009,400
+2009,Willamette Valley,Management: Forest Selection,Forest Harvest,2009,2009,0
+2009,Cascades,Management: Forest Selection,Forest Harvest,2009,2009,14100
+2009,Sierra Nevada,Management: Forest Selection,Forest Harvest,2009,2009,13400
+2009,Central California Foothills and Coastal Mountains,Management: Forest Selection,Forest Harvest,2009,2009,100
+2009,Central California Valley,Management: Forest Selection,Forest Harvest,2009,2009,0
+2009,Southern California Mountains,Management: Forest Selection,Forest Harvest,2009,2009,100
+2009,Eastern Cascades Slopes and Foothills,Management: Forest Selection,Forest Harvest,2009,2009,32700
+2009,Columbia Plateau,Management: Forest Selection,Forest Harvest,2009,2009,0
+2009,Blue Mountains,Management: Forest Selection,Forest Harvest,2009,2009,8600
+2009,Snake River Plain,Management: Forest Selection,Forest Harvest,2009,2009,0
+2009,Central Basin and Range,Management: Forest Selection,Forest Harvest,2009,2009,0
+2009,Mojave Basin and Range,Management: Forest Selection,Forest Harvest,2009,2009,0
+2009,Northern Rockies,Management: Forest Selection,Forest Harvest,2009,2009,5000
+2009,Idaho Batholith,Management: Forest Selection,Forest Harvest,2009,2009,3500
+2009,Middle Rockies,Management: Forest Selection,Forest Harvest,2009,2009,12600
+2009,Wyoming Basin,Management: Forest Selection,Forest Harvest,2009,2009,0
+2009,Wasatch and Uinta Mountains,Management: Forest Selection,Forest Harvest,2009,2009,300
+2009,Colorado Plateaus,Management: Forest Selection,Forest Harvest,2009,2009,200
+2009,Southern Rockies,Management: Forest Selection,Forest Harvest,2009,2009,2000
+2009,Arizona/New Mexico Plateau,Management: Forest Selection,Forest Harvest,2009,2009,0
+2009,Arizona/New Mexico Mountains,Management: Forest Selection,Forest Harvest,2009,2009,5900
+2009,Chihuahuan Deserts,Management: Forest Selection,Forest Harvest,2009,2009,0
+2009,High Plains,Management: Forest Selection,Forest Harvest,2009,2009,0
+2009,Southwestern Tablelands,Management: Forest Selection,Forest Harvest,2009,2009,0
+2009,Central Great Plains,Management: Forest Selection,Forest Harvest,2009,2009,0
+2009,Flint Hills,Management: Forest Selection,Forest Harvest,2009,2009,0
+2009,Cross Timbers,Management: Forest Selection,Forest Harvest,2009,2009,0
+2009,Edwards Plateau,Management: Forest Selection,Forest Harvest,2009,2009,0
+2009,Southern Texas Plains,Management: Forest Selection,Forest Harvest,2009,2009,0
+2009,Texas Blackland Prairies,Management: Forest Selection,Forest Harvest,2009,2009,0
+2009,East Central Texas Plains,Management: Forest Selection,Forest Harvest,2009,2009,0
+2009,Western Gulf Coastal Plain,Management: Forest Selection,Forest Harvest,2009,2009,0
+2009,South Central Plains,Management: Forest Selection,Forest Harvest,2009,2009,0
+2009,Ouachita Mountains,Management: Forest Selection,Forest Harvest,2009,2009,1500
+2009,Arkansas Valley,Management: Forest Selection,Forest Harvest,2009,2009,1300
+2009,Boston Mountains,Management: Forest Selection,Forest Harvest,2009,2009,3800
+2009,Ozark Highlands,Management: Forest Selection,Forest Harvest,2009,2009,700
+2009,Central Irregular Plains,Management: Forest Selection,Forest Harvest,2009,2009,100
+2009,Canadian Rockies,Management: Forest Selection,Forest Harvest,2009,2009,200
+2009,Northwestern Glaciated Plains,Management: Forest Selection,Forest Harvest,2009,2009,0
+2009,Northwestern Great Plains,Management: Forest Selection,Forest Harvest,2009,2009,400
+2009,Nebraska Sand Hills,Management: Forest Selection,Forest Harvest,2009,2009,0
+2009,Piedmont,Management: Forest Selection,Forest Harvest,2009,2009,700
+2009,Northern Glaciated Plains,Management: Forest Selection,Forest Harvest,2009,2009,0
+2009,Western Corn Belt Plains,Management: Forest Selection,Forest Harvest,2009,2009,100
+2009,Lake Agassiz Plain,Management: Forest Selection,Forest Harvest,2009,2009,0
+2009,Northern Minnesota Wetlands,Management: Forest Selection,Forest Harvest,2009,2009,0
+2009,Northern Lakes and Forests,Management: Forest Selection,Forest Harvest,2009,2009,4900
+2009,North Central Hardwood Forests,Management: Forest Selection,Forest Harvest,2009,2009,0
+2009,Driftless Area,Management: Forest Selection,Forest Harvest,2009,2009,100
+2009,Southeastern Wisconsin Till Plains,Management: Forest Selection,Forest Harvest,2009,2009,0
+2009,Central Corn Belt Plains,Management: Forest Selection,Forest Harvest,2009,2009,0
+2009,Eastern Corn Belt Plains,Management: Forest Selection,Forest Harvest,2009,2009,0
+2009,Southern Michigan/Northern Indiana Drift Plains,Management: Forest Selection,Forest Harvest,2009,2009,0
+2009,Huron/Erie Lake Plains,Management: Forest Selection,Forest Harvest,2009,2009,0
+2009,Northeastern Highlands,Management: Forest Selection,Forest Harvest,2009,2009,200
+2009,Northeastern Coastal Zone,Management: Forest Selection,Forest Harvest,2009,2009,0
+2009,Northern Allegheny Plateau,Management: Forest Selection,Forest Harvest,2009,2009,900
+2009,Erie Drift Plain,Management: Forest Selection,Forest Harvest,2009,2009,0
+2009,North Central Appalachians,Management: Forest Selection,Forest Harvest,2009,2009,6300
+2009,Middle Atlantic Coastal Plain,Management: Forest Selection,Forest Harvest,2009,2009,200
+2009,Northern Piedmont,Management: Forest Selection,Forest Harvest,2009,2009,0
+2009,Southeastern Plains,Management: Forest Selection,Forest Harvest,2009,2009,0
+2009,Blue Ridge,Management: Forest Selection,Forest Harvest,2009,2009,0
+2009,Ridge and Valley,Management: Forest Selection,Forest Harvest,2009,2009,100
+2009,Southwestern Appalachians,Management: Forest Selection,Forest Harvest,2009,2009,0
+2009,Central Appalachians,Management: Forest Selection,Forest Harvest,2009,2009,0
+2009,Western Allegheny Plateau,Management: Forest Selection,Forest Harvest,2009,2009,100
+2009,Interior Plateau,Management: Forest Selection,Forest Harvest,2009,2009,0
+2009,Interior River Valleys and Hills,Management: Forest Selection,Forest Harvest,2009,2009,200
+2009,Mississippi Alluvial Plain,Management: Forest Selection,Forest Harvest,2009,2009,0
+2009,Mississippi Valley Loess Plains,Management: Forest Selection,Forest Harvest,2009,2009,1100
+2009,Southern Coastal Plain,Management: Forest Selection,Forest Harvest,2009,2009,1000
+2009,Southern Florida Coastal Plain,Management: Forest Selection,Forest Harvest,2009,2009,0
+2009,North Cascades,Management: Forest Selection,Forest Harvest,2009,2009,1500
+2009,Klamath Mountains/California High North Coast Range,Management: Forest Selection,Forest Harvest,2009,2009,3100
+2009,Madrean Archipelago,Management: Forest Selection,Forest Harvest,2009,2009,500
+2009,Northern Basin and Range,Management: Forest Selection,Forest Harvest,2009,2009,0
+2009,Sonoran Basin and Range,Management: Forest Selection,Forest Harvest,2009,2009,0
+2009,Acadian Plains and Hills,Management: Forest Selection,Forest Harvest,2009,2009,0
+2009,Eastern Great Lakes Lowlands,Management: Forest Selection,Forest Harvest,2009,2009,0
+2009,Atlantic Coastal Pine Barrens,Management: Forest Selection,Forest Harvest,2009,2009,0
+2009,Southern California/Northern Baja Coast,Management: Forest Selection,Forest Harvest,2009,2009,0
+2010,Coast Range,Management: Forest Selection,Forest Harvest,2010,2010,2300
+2010,Puget Lowland,Management: Forest Selection,Forest Harvest,2010,2010,0
+2010,Willamette Valley,Management: Forest Selection,Forest Harvest,2010,2010,0
+2010,Cascades,Management: Forest Selection,Forest Harvest,2010,2010,7500
+2010,Sierra Nevada,Management: Forest Selection,Forest Harvest,2010,2010,7200
+2010,Central California Foothills and Coastal Mountains,Management: Forest Selection,Forest Harvest,2010,2010,0
+2010,Central California Valley,Management: Forest Selection,Forest Harvest,2010,2010,0
+2010,Southern California Mountains,Management: Forest Selection,Forest Harvest,2010,2010,1200
+2010,Eastern Cascades Slopes and Foothills,Management: Forest Selection,Forest Harvest,2010,2010,8300
+2010,Columbia Plateau,Management: Forest Selection,Forest Harvest,2010,2010,100
+2010,Blue Mountains,Management: Forest Selection,Forest Harvest,2010,2010,5300
+2010,Snake River Plain,Management: Forest Selection,Forest Harvest,2010,2010,100
+2010,Central Basin and Range,Management: Forest Selection,Forest Harvest,2010,2010,100
+2010,Mojave Basin and Range,Management: Forest Selection,Forest Harvest,2010,2010,0
+2010,Northern Rockies,Management: Forest Selection,Forest Harvest,2010,2010,7600
+2010,Idaho Batholith,Management: Forest Selection,Forest Harvest,2010,2010,1400
+2010,Middle Rockies,Management: Forest Selection,Forest Harvest,2010,2010,12600
+2010,Wyoming Basin,Management: Forest Selection,Forest Harvest,2010,2010,0
+2010,Wasatch and Uinta Mountains,Management: Forest Selection,Forest Harvest,2010,2010,100
+2010,Colorado Plateaus,Management: Forest Selection,Forest Harvest,2010,2010,300
+2010,Southern Rockies,Management: Forest Selection,Forest Harvest,2010,2010,1500
+2010,Arizona/New Mexico Plateau,Management: Forest Selection,Forest Harvest,2010,2010,0
+2010,Arizona/New Mexico Mountains,Management: Forest Selection,Forest Harvest,2010,2010,8400
+2010,Chihuahuan Deserts,Management: Forest Selection,Forest Harvest,2010,2010,0
+2010,High Plains,Management: Forest Selection,Forest Harvest,2010,2010,0
+2010,Southwestern Tablelands,Management: Forest Selection,Forest Harvest,2010,2010,0
+2010,Central Great Plains,Management: Forest Selection,Forest Harvest,2010,2010,0
+2010,Flint Hills,Management: Forest Selection,Forest Harvest,2010,2010,0
+2010,Cross Timbers,Management: Forest Selection,Forest Harvest,2010,2010,0
+2010,Edwards Plateau,Management: Forest Selection,Forest Harvest,2010,2010,0
+2010,Southern Texas Plains,Management: Forest Selection,Forest Harvest,2010,2010,0
+2010,Texas Blackland Prairies,Management: Forest Selection,Forest Harvest,2010,2010,0
+2010,East Central Texas Plains,Management: Forest Selection,Forest Harvest,2010,2010,0
+2010,Western Gulf Coastal Plain,Management: Forest Selection,Forest Harvest,2010,2010,0
+2010,South Central Plains,Management: Forest Selection,Forest Harvest,2010,2010,0
+2010,Ouachita Mountains,Management: Forest Selection,Forest Harvest,2010,2010,2800
+2010,Arkansas Valley,Management: Forest Selection,Forest Harvest,2010,2010,1100
+2010,Boston Mountains,Management: Forest Selection,Forest Harvest,2010,2010,4200
+2010,Ozark Highlands,Management: Forest Selection,Forest Harvest,2010,2010,1400
+2010,Central Irregular Plains,Management: Forest Selection,Forest Harvest,2010,2010,0
+2010,Canadian Rockies,Management: Forest Selection,Forest Harvest,2010,2010,200
+2010,Northwestern Glaciated Plains,Management: Forest Selection,Forest Harvest,2010,2010,0
+2010,Northwestern Great Plains,Management: Forest Selection,Forest Harvest,2010,2010,0
+2010,Nebraska Sand Hills,Management: Forest Selection,Forest Harvest,2010,2010,0
+2010,Piedmont,Management: Forest Selection,Forest Harvest,2010,2010,1300
+2010,Northern Glaciated Plains,Management: Forest Selection,Forest Harvest,2010,2010,0
+2010,Western Corn Belt Plains,Management: Forest Selection,Forest Harvest,2010,2010,0
+2010,Lake Agassiz Plain,Management: Forest Selection,Forest Harvest,2010,2010,0
+2010,Northern Minnesota Wetlands,Management: Forest Selection,Forest Harvest,2010,2010,0
+2010,Northern Lakes and Forests,Management: Forest Selection,Forest Harvest,2010,2010,5800
+2010,North Central Hardwood Forests,Management: Forest Selection,Forest Harvest,2010,2010,0
+2010,Driftless Area,Management: Forest Selection,Forest Harvest,2010,2010,0
+2010,Southeastern Wisconsin Till Plains,Management: Forest Selection,Forest Harvest,2010,2010,0
+2010,Central Corn Belt Plains,Management: Forest Selection,Forest Harvest,2010,2010,0
+2010,Eastern Corn Belt Plains,Management: Forest Selection,Forest Harvest,2010,2010,0
+2010,Southern Michigan/Northern Indiana Drift Plains,Management: Forest Selection,Forest Harvest,2010,2010,0
+2010,Huron/Erie Lake Plains,Management: Forest Selection,Forest Harvest,2010,2010,0
+2010,Northeastern Highlands,Management: Forest Selection,Forest Harvest,2010,2010,300
+2010,Northeastern Coastal Zone,Management: Forest Selection,Forest Harvest,2010,2010,0
+2010,Northern Allegheny Plateau,Management: Forest Selection,Forest Harvest,2010,2010,0
+2010,Erie Drift Plain,Management: Forest Selection,Forest Harvest,2010,2010,0
+2010,North Central Appalachians,Management: Forest Selection,Forest Harvest,2010,2010,600
+2010,Middle Atlantic Coastal Plain,Management: Forest Selection,Forest Harvest,2010,2010,100
+2010,Northern Piedmont,Management: Forest Selection,Forest Harvest,2010,2010,0
+2010,Southeastern Plains,Management: Forest Selection,Forest Harvest,2010,2010,100
+2010,Blue Ridge,Management: Forest Selection,Forest Harvest,2010,2010,0
+2010,Ridge and Valley,Management: Forest Selection,Forest Harvest,2010,2010,0
+2010,Southwestern Appalachians,Management: Forest Selection,Forest Harvest,2010,2010,100
+2010,Central Appalachians,Management: Forest Selection,Forest Harvest,2010,2010,0
+2010,Western Allegheny Plateau,Management: Forest Selection,Forest Harvest,2010,2010,0
+2010,Interior Plateau,Management: Forest Selection,Forest Harvest,2010,2010,0
+2010,Interior River Valleys and Hills,Management: Forest Selection,Forest Harvest,2010,2010,300
+2010,Mississippi Alluvial Plain,Management: Forest Selection,Forest Harvest,2010,2010,0
+2010,Mississippi Valley Loess Plains,Management: Forest Selection,Forest Harvest,2010,2010,1000
+2010,Southern Coastal Plain,Management: Forest Selection,Forest Harvest,2010,2010,3800
+2010,Southern Florida Coastal Plain,Management: Forest Selection,Forest Harvest,2010,2010,0
+2010,North Cascades,Management: Forest Selection,Forest Harvest,2010,2010,1500
+2010,Klamath Mountains/California High North Coast Range,Management: Forest Selection,Forest Harvest,2010,2010,900
+2010,Madrean Archipelago,Management: Forest Selection,Forest Harvest,2010,2010,0
+2010,Northern Basin and Range,Management: Forest Selection,Forest Harvest,2010,2010,0
+2010,Sonoran Basin and Range,Management: Forest Selection,Forest Harvest,2010,2010,0
+2010,Acadian Plains and Hills,Management: Forest Selection,Forest Harvest,2010,2010,0
+2010,Eastern Great Lakes Lowlands,Management: Forest Selection,Forest Harvest,2010,2010,0
+2010,Atlantic Coastal Pine Barrens,Management: Forest Selection,Forest Harvest,2010,2010,0
+2010,Southern California/Northern Baja Coast,Management: Forest Selection,Forest Harvest,2010,2010,0
+2011,Coast Range,Management: Forest Selection,Forest Harvest,2011,2011,4700
+2011,Puget Lowland,Management: Forest Selection,Forest Harvest,2011,2011,0
+2011,Willamette Valley,Management: Forest Selection,Forest Harvest,2011,2011,0
+2011,Cascades,Management: Forest Selection,Forest Harvest,2011,2011,15200
+2011,Sierra Nevada,Management: Forest Selection,Forest Harvest,2011,2011,11300
+2011,Central California Foothills and Coastal Mountains,Management: Forest Selection,Forest Harvest,2011,2011,200
+2011,Central California Valley,Management: Forest Selection,Forest Harvest,2011,2011,0
+2011,Southern California Mountains,Management: Forest Selection,Forest Harvest,2011,2011,1200
+2011,Eastern Cascades Slopes and Foothills,Management: Forest Selection,Forest Harvest,2011,2011,30400
+2011,Columbia Plateau,Management: Forest Selection,Forest Harvest,2011,2011,0
+2011,Blue Mountains,Management: Forest Selection,Forest Harvest,2011,2011,2800
+2011,Snake River Plain,Management: Forest Selection,Forest Harvest,2011,2011,0
+2011,Central Basin and Range,Management: Forest Selection,Forest Harvest,2011,2011,0
+2011,Mojave Basin and Range,Management: Forest Selection,Forest Harvest,2011,2011,0
+2011,Northern Rockies,Management: Forest Selection,Forest Harvest,2011,2011,3200
+2011,Idaho Batholith,Management: Forest Selection,Forest Harvest,2011,2011,1800
+2011,Middle Rockies,Management: Forest Selection,Forest Harvest,2011,2011,5700
+2011,Wyoming Basin,Management: Forest Selection,Forest Harvest,2011,2011,0
+2011,Wasatch and Uinta Mountains,Management: Forest Selection,Forest Harvest,2011,2011,900
+2011,Colorado Plateaus,Management: Forest Selection,Forest Harvest,2011,2011,700
+2011,Southern Rockies,Management: Forest Selection,Forest Harvest,2011,2011,3800
+2011,Arizona/New Mexico Plateau,Management: Forest Selection,Forest Harvest,2011,2011,0
+2011,Arizona/New Mexico Mountains,Management: Forest Selection,Forest Harvest,2011,2011,4900
+2011,Chihuahuan Deserts,Management: Forest Selection,Forest Harvest,2011,2011,0
+2011,High Plains,Management: Forest Selection,Forest Harvest,2011,2011,0
+2011,Southwestern Tablelands,Management: Forest Selection,Forest Harvest,2011,2011,0
+2011,Central Great Plains,Management: Forest Selection,Forest Harvest,2011,2011,0
+2011,Flint Hills,Management: Forest Selection,Forest Harvest,2011,2011,0
+2011,Cross Timbers,Management: Forest Selection,Forest Harvest,2011,2011,0
+2011,Edwards Plateau,Management: Forest Selection,Forest Harvest,2011,2011,0
+2011,Southern Texas Plains,Management: Forest Selection,Forest Harvest,2011,2011,0
+2011,Texas Blackland Prairies,Management: Forest Selection,Forest Harvest,2011,2011,0
+2011,East Central Texas Plains,Management: Forest Selection,Forest Harvest,2011,2011,0
+2011,Western Gulf Coastal Plain,Management: Forest Selection,Forest Harvest,2011,2011,0
+2011,South Central Plains,Management: Forest Selection,Forest Harvest,2011,2011,100
+2011,Ouachita Mountains,Management: Forest Selection,Forest Harvest,2011,2011,28200
+2011,Arkansas Valley,Management: Forest Selection,Forest Harvest,2011,2011,15000
+2011,Boston Mountains,Management: Forest Selection,Forest Harvest,2011,2011,3900
+2011,Ozark Highlands,Management: Forest Selection,Forest Harvest,2011,2011,1500
+2011,Central Irregular Plains,Management: Forest Selection,Forest Harvest,2011,2011,0
+2011,Canadian Rockies,Management: Forest Selection,Forest Harvest,2011,2011,300
+2011,Northwestern Glaciated Plains,Management: Forest Selection,Forest Harvest,2011,2011,0
+2011,Northwestern Great Plains,Management: Forest Selection,Forest Harvest,2011,2011,400
+2011,Nebraska Sand Hills,Management: Forest Selection,Forest Harvest,2011,2011,0
+2011,Piedmont,Management: Forest Selection,Forest Harvest,2011,2011,100800
+2011,Northern Glaciated Plains,Management: Forest Selection,Forest Harvest,2011,2011,0
+2011,Western Corn Belt Plains,Management: Forest Selection,Forest Harvest,2011,2011,0
+2011,Lake Agassiz Plain,Management: Forest Selection,Forest Harvest,2011,2011,0
+2011,Northern Minnesota Wetlands,Management: Forest Selection,Forest Harvest,2011,2011,0
+2011,Northern Lakes and Forests,Management: Forest Selection,Forest Harvest,2011,2011,171300
+2011,North Central Hardwood Forests,Management: Forest Selection,Forest Harvest,2011,2011,12400
+2011,Driftless Area,Management: Forest Selection,Forest Harvest,2011,2011,100
+2011,Southeastern Wisconsin Till Plains,Management: Forest Selection,Forest Harvest,2011,2011,0
+2011,Central Corn Belt Plains,Management: Forest Selection,Forest Harvest,2011,2011,0
+2011,Eastern Corn Belt Plains,Management: Forest Selection,Forest Harvest,2011,2011,0
+2011,Southern Michigan/Northern Indiana Drift Plains,Management: Forest Selection,Forest Harvest,2011,2011,0
+2011,Huron/Erie Lake Plains,Management: Forest Selection,Forest Harvest,2011,2011,0
+2011,Northeastern Highlands,Management: Forest Selection,Forest Harvest,2011,2011,100
+2011,Northeastern Coastal Zone,Management: Forest Selection,Forest Harvest,2011,2011,0
+2011,Northern Allegheny Plateau,Management: Forest Selection,Forest Harvest,2011,2011,0
+2011,Erie Drift Plain,Management: Forest Selection,Forest Harvest,2011,2011,0
+2011,North Central Appalachians,Management: Forest Selection,Forest Harvest,2011,2011,100
+2011,Middle Atlantic Coastal Plain,Management: Forest Selection,Forest Harvest,2011,2011,0
+2011,Northern Piedmont,Management: Forest Selection,Forest Harvest,2011,2011,0
+2011,Southeastern Plains,Management: Forest Selection,Forest Harvest,2011,2011,304800
+2011,Blue Ridge,Management: Forest Selection,Forest Harvest,2011,2011,18600
+2011,Ridge and Valley,Management: Forest Selection,Forest Harvest,2011,2011,106400
+2011,Southwestern Appalachians,Management: Forest Selection,Forest Harvest,2011,2011,127200
+2011,Central Appalachians,Management: Forest Selection,Forest Harvest,2011,2011,0
+2011,Western Allegheny Plateau,Management: Forest Selection,Forest Harvest,2011,2011,0
+2011,Interior Plateau,Management: Forest Selection,Forest Harvest,2011,2011,10300
+2011,Interior River Valleys and Hills,Management: Forest Selection,Forest Harvest,2011,2011,200
+2011,Mississippi Alluvial Plain,Management: Forest Selection,Forest Harvest,2011,2011,0
+2011,Mississippi Valley Loess Plains,Management: Forest Selection,Forest Harvest,2011,2011,6200
+2011,Southern Coastal Plain,Management: Forest Selection,Forest Harvest,2011,2011,700
+2011,Southern Florida Coastal Plain,Management: Forest Selection,Forest Harvest,2011,2011,0
+2011,North Cascades,Management: Forest Selection,Forest Harvest,2011,2011,800
+2011,Klamath Mountains/California High North Coast Range,Management: Forest Selection,Forest Harvest,2011,2011,2700
+2011,Madrean Archipelago,Management: Forest Selection,Forest Harvest,2011,2011,0
+2011,Northern Basin and Range,Management: Forest Selection,Forest Harvest,2011,2011,0
+2011,Sonoran Basin and Range,Management: Forest Selection,Forest Harvest,2011,2011,0
+2011,Acadian Plains and Hills,Management: Forest Selection,Forest Harvest,2011,2011,0
+2011,Eastern Great Lakes Lowlands,Management: Forest Selection,Forest Harvest,2011,2011,0
+2011,Atlantic Coastal Pine Barrens,Management: Forest Selection,Forest Harvest,2011,2011,0
+2011,Southern California/Northern Baja Coast,Management: Forest Selection,Forest Harvest,2011,2011,0
+2012,Coast Range,Management: Forest Selection,Forest Harvest,2012,2012,1900
+2012,Puget Lowland,Management: Forest Selection,Forest Harvest,2012,2012,100
+2012,Willamette Valley,Management: Forest Selection,Forest Harvest,2012,2012,0
+2012,Cascades,Management: Forest Selection,Forest Harvest,2012,2012,7100
+2012,Sierra Nevada,Management: Forest Selection,Forest Harvest,2012,2012,6500
+2012,Central California Foothills and Coastal Mountains,Management: Forest Selection,Forest Harvest,2012,2012,0
+2012,Central California Valley,Management: Forest Selection,Forest Harvest,2012,2012,0
+2012,Southern California Mountains,Management: Forest Selection,Forest Harvest,2012,2012,900
+2012,Eastern Cascades Slopes and Foothills,Management: Forest Selection,Forest Harvest,2012,2012,6100
+2012,Columbia Plateau,Management: Forest Selection,Forest Harvest,2012,2012,0
+2012,Blue Mountains,Management: Forest Selection,Forest Harvest,2012,2012,1300
+2012,Snake River Plain,Management: Forest Selection,Forest Harvest,2012,2012,0
+2012,Central Basin and Range,Management: Forest Selection,Forest Harvest,2012,2012,0
+2012,Mojave Basin and Range,Management: Forest Selection,Forest Harvest,2012,2012,0
+2012,Northern Rockies,Management: Forest Selection,Forest Harvest,2012,2012,3400
+2012,Idaho Batholith,Management: Forest Selection,Forest Harvest,2012,2012,3200
+2012,Middle Rockies,Management: Forest Selection,Forest Harvest,2012,2012,3900
+2012,Wyoming Basin,Management: Forest Selection,Forest Harvest,2012,2012,0
+2012,Wasatch and Uinta Mountains,Management: Forest Selection,Forest Harvest,2012,2012,1500
+2012,Colorado Plateaus,Management: Forest Selection,Forest Harvest,2012,2012,200
+2012,Southern Rockies,Management: Forest Selection,Forest Harvest,2012,2012,5300
+2012,Arizona/New Mexico Plateau,Management: Forest Selection,Forest Harvest,2012,2012,100
+2012,Arizona/New Mexico Mountains,Management: Forest Selection,Forest Harvest,2012,2012,4400
+2012,Chihuahuan Deserts,Management: Forest Selection,Forest Harvest,2012,2012,0
+2012,High Plains,Management: Forest Selection,Forest Harvest,2012,2012,0
+2012,Southwestern Tablelands,Management: Forest Selection,Forest Harvest,2012,2012,0
+2012,Central Great Plains,Management: Forest Selection,Forest Harvest,2012,2012,0
+2012,Flint Hills,Management: Forest Selection,Forest Harvest,2012,2012,0
+2012,Cross Timbers,Management: Forest Selection,Forest Harvest,2012,2012,0
+2012,Edwards Plateau,Management: Forest Selection,Forest Harvest,2012,2012,0
+2012,Southern Texas Plains,Management: Forest Selection,Forest Harvest,2012,2012,0
+2012,Texas Blackland Prairies,Management: Forest Selection,Forest Harvest,2012,2012,0
+2012,East Central Texas Plains,Management: Forest Selection,Forest Harvest,2012,2012,0
+2012,Western Gulf Coastal Plain,Management: Forest Selection,Forest Harvest,2012,2012,0
+2012,South Central Plains,Management: Forest Selection,Forest Harvest,2012,2012,800
+2012,Ouachita Mountains,Management: Forest Selection,Forest Harvest,2012,2012,2900
+2012,Arkansas Valley,Management: Forest Selection,Forest Harvest,2012,2012,4400
+2012,Boston Mountains,Management: Forest Selection,Forest Harvest,2012,2012,4900
+2012,Ozark Highlands,Management: Forest Selection,Forest Harvest,2012,2012,4000
+2012,Central Irregular Plains,Management: Forest Selection,Forest Harvest,2012,2012,0
+2012,Canadian Rockies,Management: Forest Selection,Forest Harvest,2012,2012,100
+2012,Northwestern Glaciated Plains,Management: Forest Selection,Forest Harvest,2012,2012,0
+2012,Northwestern Great Plains,Management: Forest Selection,Forest Harvest,2012,2012,100
+2012,Nebraska Sand Hills,Management: Forest Selection,Forest Harvest,2012,2012,0
+2012,Piedmont,Management: Forest Selection,Forest Harvest,2012,2012,900
+2012,Northern Glaciated Plains,Management: Forest Selection,Forest Harvest,2012,2012,0
+2012,Western Corn Belt Plains,Management: Forest Selection,Forest Harvest,2012,2012,0
+2012,Lake Agassiz Plain,Management: Forest Selection,Forest Harvest,2012,2012,0
+2012,Northern Minnesota Wetlands,Management: Forest Selection,Forest Harvest,2012,2012,200
+2012,Northern Lakes and Forests,Management: Forest Selection,Forest Harvest,2012,2012,141900
+2012,North Central Hardwood Forests,Management: Forest Selection,Forest Harvest,2012,2012,1900
+2012,Driftless Area,Management: Forest Selection,Forest Harvest,2012,2012,0
+2012,Southeastern Wisconsin Till Plains,Management: Forest Selection,Forest Harvest,2012,2012,300
+2012,Central Corn Belt Plains,Management: Forest Selection,Forest Harvest,2012,2012,0
+2012,Eastern Corn Belt Plains,Management: Forest Selection,Forest Harvest,2012,2012,0
+2012,Southern Michigan/Northern Indiana Drift Plains,Management: Forest Selection,Forest Harvest,2012,2012,0
+2012,Huron/Erie Lake Plains,Management: Forest Selection,Forest Harvest,2012,2012,0
+2012,Northeastern Highlands,Management: Forest Selection,Forest Harvest,2012,2012,100
+2012,Northeastern Coastal Zone,Management: Forest Selection,Forest Harvest,2012,2012,0
+2012,Northern Allegheny Plateau,Management: Forest Selection,Forest Harvest,2012,2012,0
+2012,Erie Drift Plain,Management: Forest Selection,Forest Harvest,2012,2012,0
+2012,North Central Appalachians,Management: Forest Selection,Forest Harvest,2012,2012,100
+2012,Middle Atlantic Coastal Plain,Management: Forest Selection,Forest Harvest,2012,2012,200
+2012,Northern Piedmont,Management: Forest Selection,Forest Harvest,2012,2012,0
+2012,Southeastern Plains,Management: Forest Selection,Forest Harvest,2012,2012,1500
+2012,Blue Ridge,Management: Forest Selection,Forest Harvest,2012,2012,1100
+2012,Ridge and Valley,Management: Forest Selection,Forest Harvest,2012,2012,100
+2012,Southwestern Appalachians,Management: Forest Selection,Forest Harvest,2012,2012,0
+2012,Central Appalachians,Management: Forest Selection,Forest Harvest,2012,2012,0
+2012,Western Allegheny Plateau,Management: Forest Selection,Forest Harvest,2012,2012,200
+2012,Interior Plateau,Management: Forest Selection,Forest Harvest,2012,2012,1400
+2012,Interior River Valleys and Hills,Management: Forest Selection,Forest Harvest,2012,2012,300
+2012,Mississippi Alluvial Plain,Management: Forest Selection,Forest Harvest,2012,2012,0
+2012,Mississippi Valley Loess Plains,Management: Forest Selection,Forest Harvest,2012,2012,100
+2012,Southern Coastal Plain,Management: Forest Selection,Forest Harvest,2012,2012,1100
+2012,Southern Florida Coastal Plain,Management: Forest Selection,Forest Harvest,2012,2012,0
+2012,North Cascades,Management: Forest Selection,Forest Harvest,2012,2012,800
+2012,Klamath Mountains/California High North Coast Range,Management: Forest Selection,Forest Harvest,2012,2012,4700
+2012,Madrean Archipelago,Management: Forest Selection,Forest Harvest,2012,2012,0
+2012,Northern Basin and Range,Management: Forest Selection,Forest Harvest,2012,2012,100
+2012,Sonoran Basin and Range,Management: Forest Selection,Forest Harvest,2012,2012,0
+2012,Acadian Plains and Hills,Management: Forest Selection,Forest Harvest,2012,2012,0
+2012,Eastern Great Lakes Lowlands,Management: Forest Selection,Forest Harvest,2012,2012,0
+2012,Atlantic Coastal Pine Barrens,Management: Forest Selection,Forest Harvest,2012,2012,0
+2012,Southern California/Northern Baja Coast,Management: Forest Selection,Forest Harvest,2012,2012,0
+2013,Coast Range,Management: Forest Selection,Forest Harvest,2013,2013,1100
+2013,Puget Lowland,Management: Forest Selection,Forest Harvest,2013,2013,0
+2013,Willamette Valley,Management: Forest Selection,Forest Harvest,2013,2013,0
+2013,Cascades,Management: Forest Selection,Forest Harvest,2013,2013,3700
+2013,Sierra Nevada,Management: Forest Selection,Forest Harvest,2013,2013,7700
+2013,Central California Foothills and Coastal Mountains,Management: Forest Selection,Forest Harvest,2013,2013,0
+2013,Central California Valley,Management: Forest Selection,Forest Harvest,2013,2013,0
+2013,Southern California Mountains,Management: Forest Selection,Forest Harvest,2013,2013,900
+2013,Eastern Cascades Slopes and Foothills,Management: Forest Selection,Forest Harvest,2013,2013,3700
+2013,Columbia Plateau,Management: Forest Selection,Forest Harvest,2013,2013,0
+2013,Blue Mountains,Management: Forest Selection,Forest Harvest,2013,2013,2400
+2013,Snake River Plain,Management: Forest Selection,Forest Harvest,2013,2013,0
+2013,Central Basin and Range,Management: Forest Selection,Forest Harvest,2013,2013,0
+2013,Mojave Basin and Range,Management: Forest Selection,Forest Harvest,2013,2013,0
+2013,Northern Rockies,Management: Forest Selection,Forest Harvest,2013,2013,3900
+2013,Idaho Batholith,Management: Forest Selection,Forest Harvest,2013,2013,2500
+2013,Middle Rockies,Management: Forest Selection,Forest Harvest,2013,2013,16500
+2013,Wyoming Basin,Management: Forest Selection,Forest Harvest,2013,2013,0
+2013,Wasatch and Uinta Mountains,Management: Forest Selection,Forest Harvest,2013,2013,500
+2013,Colorado Plateaus,Management: Forest Selection,Forest Harvest,2013,2013,300
+2013,Southern Rockies,Management: Forest Selection,Forest Harvest,2013,2013,4700
+2013,Arizona/New Mexico Plateau,Management: Forest Selection,Forest Harvest,2013,2013,0
+2013,Arizona/New Mexico Mountains,Management: Forest Selection,Forest Harvest,2013,2013,5600
+2013,Chihuahuan Deserts,Management: Forest Selection,Forest Harvest,2013,2013,100
+2013,High Plains,Management: Forest Selection,Forest Harvest,2013,2013,0
+2013,Southwestern Tablelands,Management: Forest Selection,Forest Harvest,2013,2013,0
+2013,Central Great Plains,Management: Forest Selection,Forest Harvest,2013,2013,0
+2013,Flint Hills,Management: Forest Selection,Forest Harvest,2013,2013,0
+2013,Cross Timbers,Management: Forest Selection,Forest Harvest,2013,2013,0
+2013,Edwards Plateau,Management: Forest Selection,Forest Harvest,2013,2013,0
+2013,Southern Texas Plains,Management: Forest Selection,Forest Harvest,2013,2013,0
+2013,Texas Blackland Prairies,Management: Forest Selection,Forest Harvest,2013,2013,0
+2013,East Central Texas Plains,Management: Forest Selection,Forest Harvest,2013,2013,0
+2013,Western Gulf Coastal Plain,Management: Forest Selection,Forest Harvest,2013,2013,0
+2013,South Central Plains,Management: Forest Selection,Forest Harvest,2013,2013,1500
+2013,Ouachita Mountains,Management: Forest Selection,Forest Harvest,2013,2013,2200
+2013,Arkansas Valley,Management: Forest Selection,Forest Harvest,2013,2013,1200
+2013,Boston Mountains,Management: Forest Selection,Forest Harvest,2013,2013,2300
+2013,Ozark Highlands,Management: Forest Selection,Forest Harvest,2013,2013,1000
+2013,Central Irregular Plains,Management: Forest Selection,Forest Harvest,2013,2013,100
+2013,Canadian Rockies,Management: Forest Selection,Forest Harvest,2013,2013,200
+2013,Northwestern Glaciated Plains,Management: Forest Selection,Forest Harvest,2013,2013,0
+2013,Northwestern Great Plains,Management: Forest Selection,Forest Harvest,2013,2013,0
+2013,Nebraska Sand Hills,Management: Forest Selection,Forest Harvest,2013,2013,600
+2013,Piedmont,Management: Forest Selection,Forest Harvest,2013,2013,600
+2013,Northern Glaciated Plains,Management: Forest Selection,Forest Harvest,2013,2013,0
+2013,Western Corn Belt Plains,Management: Forest Selection,Forest Harvest,2013,2013,0
+2013,Lake Agassiz Plain,Management: Forest Selection,Forest Harvest,2013,2013,0
+2013,Northern Minnesota Wetlands,Management: Forest Selection,Forest Harvest,2013,2013,0
+2013,Northern Lakes and Forests,Management: Forest Selection,Forest Harvest,2013,2013,13200
+2013,North Central Hardwood Forests,Management: Forest Selection,Forest Harvest,2013,2013,2200
+2013,Driftless Area,Management: Forest Selection,Forest Harvest,2013,2013,0
+2013,Southeastern Wisconsin Till Plains,Management: Forest Selection,Forest Harvest,2013,2013,0
+2013,Central Corn Belt Plains,Management: Forest Selection,Forest Harvest,2013,2013,0
+2013,Eastern Corn Belt Plains,Management: Forest Selection,Forest Harvest,2013,2013,0
+2013,Southern Michigan/Northern Indiana Drift Plains,Management: Forest Selection,Forest Harvest,2013,2013,0
+2013,Huron/Erie Lake Plains,Management: Forest Selection,Forest Harvest,2013,2013,0
+2013,Northeastern Highlands,Management: Forest Selection,Forest Harvest,2013,2013,200
+2013,Northeastern Coastal Zone,Management: Forest Selection,Forest Harvest,2013,2013,0
+2013,Northern Allegheny Plateau,Management: Forest Selection,Forest Harvest,2013,2013,0
+2013,Erie Drift Plain,Management: Forest Selection,Forest Harvest,2013,2013,0
+2013,North Central Appalachians,Management: Forest Selection,Forest Harvest,2013,2013,200
+2013,Middle Atlantic Coastal Plain,Management: Forest Selection,Forest Harvest,2013,2013,400
+2013,Northern Piedmont,Management: Forest Selection,Forest Harvest,2013,2013,0
+2013,Southeastern Plains,Management: Forest Selection,Forest Harvest,2013,2013,2900
+2013,Blue Ridge,Management: Forest Selection,Forest Harvest,2013,2013,1500
+2013,Ridge and Valley,Management: Forest Selection,Forest Harvest,2013,2013,1500
+2013,Southwestern Appalachians,Management: Forest Selection,Forest Harvest,2013,2013,2000
+2013,Central Appalachians,Management: Forest Selection,Forest Harvest,2013,2013,400
+2013,Western Allegheny Plateau,Management: Forest Selection,Forest Harvest,2013,2013,2000
+2013,Interior Plateau,Management: Forest Selection,Forest Harvest,2013,2013,900
+2013,Interior River Valleys and Hills,Management: Forest Selection,Forest Harvest,2013,2013,500
+2013,Mississippi Alluvial Plain,Management: Forest Selection,Forest Harvest,2013,2013,0
+2013,Mississippi Valley Loess Plains,Management: Forest Selection,Forest Harvest,2013,2013,200
+2013,Southern Coastal Plain,Management: Forest Selection,Forest Harvest,2013,2013,2300
+2013,Southern Florida Coastal Plain,Management: Forest Selection,Forest Harvest,2013,2013,0
+2013,North Cascades,Management: Forest Selection,Forest Harvest,2013,2013,700
+2013,Klamath Mountains/California High North Coast Range,Management: Forest Selection,Forest Harvest,2013,2013,800
+2013,Madrean Archipelago,Management: Forest Selection,Forest Harvest,2013,2013,0
+2013,Northern Basin and Range,Management: Forest Selection,Forest Harvest,2013,2013,100
+2013,Sonoran Basin and Range,Management: Forest Selection,Forest Harvest,2013,2013,300
+2013,Acadian Plains and Hills,Management: Forest Selection,Forest Harvest,2013,2013,0
+2013,Eastern Great Lakes Lowlands,Management: Forest Selection,Forest Harvest,2013,2013,0
+2013,Atlantic Coastal Pine Barrens,Management: Forest Selection,Forest Harvest,2013,2013,0
+2013,Southern California/Northern Baja Coast,Management: Forest Selection,Forest Harvest,2013,2013,0
+2014,Coast Range,Management: Forest Selection,Forest Harvest,2014,2014,400
+2014,Puget Lowland,Management: Forest Selection,Forest Harvest,2014,2014,0
+2014,Willamette Valley,Management: Forest Selection,Forest Harvest,2014,2014,100
+2014,Cascades,Management: Forest Selection,Forest Harvest,2014,2014,5500
+2014,Sierra Nevada,Management: Forest Selection,Forest Harvest,2014,2014,3900
+2014,Central California Foothills and Coastal Mountains,Management: Forest Selection,Forest Harvest,2014,2014,100
+2014,Central California Valley,Management: Forest Selection,Forest Harvest,2014,2014,0
+2014,Southern California Mountains,Management: Forest Selection,Forest Harvest,2014,2014,1200
+2014,Eastern Cascades Slopes and Foothills,Management: Forest Selection,Forest Harvest,2014,2014,8700
+2014,Columbia Plateau,Management: Forest Selection,Forest Harvest,2014,2014,0
+2014,Blue Mountains,Management: Forest Selection,Forest Harvest,2014,2014,6100
+2014,Snake River Plain,Management: Forest Selection,Forest Harvest,2014,2014,100
+2014,Central Basin and Range,Management: Forest Selection,Forest Harvest,2014,2014,0
+2014,Mojave Basin and Range,Management: Forest Selection,Forest Harvest,2014,2014,0
+2014,Northern Rockies,Management: Forest Selection,Forest Harvest,2014,2014,5300
+2014,Idaho Batholith,Management: Forest Selection,Forest Harvest,2014,2014,3200
+2014,Middle Rockies,Management: Forest Selection,Forest Harvest,2014,2014,14700
+2014,Wyoming Basin,Management: Forest Selection,Forest Harvest,2014,2014,0
+2014,Wasatch and Uinta Mountains,Management: Forest Selection,Forest Harvest,2014,2014,900
+2014,Colorado Plateaus,Management: Forest Selection,Forest Harvest,2014,2014,0
+2014,Southern Rockies,Management: Forest Selection,Forest Harvest,2014,2014,1500
+2014,Arizona/New Mexico Plateau,Management: Forest Selection,Forest Harvest,2014,2014,0
+2014,Arizona/New Mexico Mountains,Management: Forest Selection,Forest Harvest,2014,2014,7100
+2014,Chihuahuan Deserts,Management: Forest Selection,Forest Harvest,2014,2014,0
+2014,High Plains,Management: Forest Selection,Forest Harvest,2014,2014,300
+2014,Southwestern Tablelands,Management: Forest Selection,Forest Harvest,2014,2014,0
+2014,Central Great Plains,Management: Forest Selection,Forest Harvest,2014,2014,0
+2014,Flint Hills,Management: Forest Selection,Forest Harvest,2014,2014,0
+2014,Cross Timbers,Management: Forest Selection,Forest Harvest,2014,2014,0
+2014,Edwards Plateau,Management: Forest Selection,Forest Harvest,2014,2014,0
+2014,Southern Texas Plains,Management: Forest Selection,Forest Harvest,2014,2014,0
+2014,Texas Blackland Prairies,Management: Forest Selection,Forest Harvest,2014,2014,0
+2014,East Central Texas Plains,Management: Forest Selection,Forest Harvest,2014,2014,0
+2014,Western Gulf Coastal Plain,Management: Forest Selection,Forest Harvest,2014,2014,0
+2014,South Central Plains,Management: Forest Selection,Forest Harvest,2014,2014,3600
+2014,Ouachita Mountains,Management: Forest Selection,Forest Harvest,2014,2014,3400
+2014,Arkansas Valley,Management: Forest Selection,Forest Harvest,2014,2014,1400
+2014,Boston Mountains,Management: Forest Selection,Forest Harvest,2014,2014,800
+2014,Ozark Highlands,Management: Forest Selection,Forest Harvest,2014,2014,3700
+2014,Central Irregular Plains,Management: Forest Selection,Forest Harvest,2014,2014,0
+2014,Canadian Rockies,Management: Forest Selection,Forest Harvest,2014,2014,400
+2014,Northwestern Glaciated Plains,Management: Forest Selection,Forest Harvest,2014,2014,0
+2014,Northwestern Great Plains,Management: Forest Selection,Forest Harvest,2014,2014,100
+2014,Nebraska Sand Hills,Management: Forest Selection,Forest Harvest,2014,2014,500
+2014,Piedmont,Management: Forest Selection,Forest Harvest,2014,2014,2700
+2014,Northern Glaciated Plains,Management: Forest Selection,Forest Harvest,2014,2014,0
+2014,Western Corn Belt Plains,Management: Forest Selection,Forest Harvest,2014,2014,0
+2014,Lake Agassiz Plain,Management: Forest Selection,Forest Harvest,2014,2014,0
+2014,Northern Minnesota Wetlands,Management: Forest Selection,Forest Harvest,2014,2014,200
+2014,Northern Lakes and Forests,Management: Forest Selection,Forest Harvest,2014,2014,12500
+2014,North Central Hardwood Forests,Management: Forest Selection,Forest Harvest,2014,2014,1400
+2014,Driftless Area,Management: Forest Selection,Forest Harvest,2014,2014,100
+2014,Southeastern Wisconsin Till Plains,Management: Forest Selection,Forest Harvest,2014,2014,200
+2014,Central Corn Belt Plains,Management: Forest Selection,Forest Harvest,2014,2014,0
+2014,Eastern Corn Belt Plains,Management: Forest Selection,Forest Harvest,2014,2014,0
+2014,Southern Michigan/Northern Indiana Drift Plains,Management: Forest Selection,Forest Harvest,2014,2014,100
+2014,Huron/Erie Lake Plains,Management: Forest Selection,Forest Harvest,2014,2014,0
+2014,Northeastern Highlands,Management: Forest Selection,Forest Harvest,2014,2014,300
+2014,Northeastern Coastal Zone,Management: Forest Selection,Forest Harvest,2014,2014,0
+2014,Northern Allegheny Plateau,Management: Forest Selection,Forest Harvest,2014,2014,0
+2014,Erie Drift Plain,Management: Forest Selection,Forest Harvest,2014,2014,0
+2014,North Central Appalachians,Management: Forest Selection,Forest Harvest,2014,2014,100
+2014,Middle Atlantic Coastal Plain,Management: Forest Selection,Forest Harvest,2014,2014,100
+2014,Northern Piedmont,Management: Forest Selection,Forest Harvest,2014,2014,0
+2014,Southeastern Plains,Management: Forest Selection,Forest Harvest,2014,2014,1700
+2014,Blue Ridge,Management: Forest Selection,Forest Harvest,2014,2014,1900
+2014,Ridge and Valley,Management: Forest Selection,Forest Harvest,2014,2014,2300
+2014,Southwestern Appalachians,Management: Forest Selection,Forest Harvest,2014,2014,200
+2014,Central Appalachians,Management: Forest Selection,Forest Harvest,2014,2014,100
+2014,Western Allegheny Plateau,Management: Forest Selection,Forest Harvest,2014,2014,1700
+2014,Interior Plateau,Management: Forest Selection,Forest Harvest,2014,2014,200
+2014,Interior River Valleys and Hills,Management: Forest Selection,Forest Harvest,2014,2014,0
+2014,Mississippi Alluvial Plain,Management: Forest Selection,Forest Harvest,2014,2014,0
+2014,Mississippi Valley Loess Plains,Management: Forest Selection,Forest Harvest,2014,2014,200
+2014,Southern Coastal Plain,Management: Forest Selection,Forest Harvest,2014,2014,1900
+2014,Southern Florida Coastal Plain,Management: Forest Selection,Forest Harvest,2014,2014,0
+2014,North Cascades,Management: Forest Selection,Forest Harvest,2014,2014,400
+2014,Klamath Mountains/California High North Coast Range,Management: Forest Selection,Forest Harvest,2014,2014,1300
+2014,Madrean Archipelago,Management: Forest Selection,Forest Harvest,2014,2014,0
+2014,Northern Basin and Range,Management: Forest Selection,Forest Harvest,2014,2014,100
+2014,Sonoran Basin and Range,Management: Forest Selection,Forest Harvest,2014,2014,0
+2014,Acadian Plains and Hills,Management: Forest Selection,Forest Harvest,2014,2014,0
+2014,Eastern Great Lakes Lowlands,Management: Forest Selection,Forest Harvest,2014,2014,0
+2014,Atlantic Coastal Pine Barrens,Management: Forest Selection,Forest Harvest,2014,2014,0
+2014,Southern California/Northern Baja Coast,Management: Forest Selection,Forest Harvest,2014,2014,0

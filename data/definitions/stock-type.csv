@@ -1,0 +1,23 @@
+Name,Description
+Atmosphere CH4,Used only for transition triggered flows
+Atmosphere CO2,Used only for transition triggered flows
+Atmosphere CO,Used only for transition triggered flows
+Biomass: Coarse Root,
+Biomass: Fine Root,
+Biomass: Foliage,
+Biomass: Merchantable,
+Biomass: Other Wood,"Carbon in branches, sapling and submerchantable stem wood (including associated bark), and tops and stumps of merchantable trees (including the associated bark)"
+DOM: Aboveground Fast,
+DOM: Aboveground Medium,
+DOM: Aboveground Slow,
+DOM: Aboveground Very Fast,
+DOM: Belowground Fast,
+DOM: Belowground Slow,
+DOM: Belowground Very Fast,
+DOM: Black Carbon,Stable carbon from incomplete combustion after fire
+DOM: Snag Branch,Carbon in DOM with input from the Merchantable biomass pool; default decay rate is half the default decay rate for the medium pool to the stem snag pool
+DOM: Snag Stem,Carbon in DOM with input from the Merchantable biomass pool; default decay rate is half the default decay rate for the medium pool to the stem snag pool
+Forestry Sector,Used only for transition triggered flows
+Atmosphere,Used for baseline flows
+Black Carbon,
+Peat,

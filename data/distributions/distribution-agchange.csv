@@ -1,0 +1,511 @@
+Timestep,StratumID,DistributionTypeID,ExternalVariableTypeID,ExternalVariableMin,ExternalVariableMax,Amount
+2001,Coast Range,Ag Change: Pasture to Cropland,Ag Change,2001,2006,0
+2001,Puget Lowland,Ag Change: Pasture to Cropland,Ag Change,2001,2006,140
+2001,Willamette Valley,Ag Change: Pasture to Cropland,Ag Change,2001,2006,1160
+2001,Cascades,Ag Change: Pasture to Cropland,Ag Change,2001,2006,40
+2001,Sierra Nevada,Ag Change: Pasture to Cropland,Ag Change,2001,2006,0
+2001,Central California Foothills and Coastal Mountains,Ag Change: Pasture to Cropland,Ag Change,2001,2006,540
+2001,Central California Valley,Ag Change: Pasture to Cropland,Ag Change,2001,2006,1060
+2001,Southern California Mountains,Ag Change: Pasture to Cropland,Ag Change,2001,2006,0
+2001,Eastern Cascades Slopes and Foothills,Ag Change: Pasture to Cropland,Ag Change,2001,2006,459.99999999999994
+2001,Columbia Plateau,Ag Change: Pasture to Cropland,Ag Change,2001,2006,980.0000000000001
+2001,Blue Mountains,Ag Change: Pasture to Cropland,Ag Change,2001,2006,160
+2001,Snake River Plain,Ag Change: Pasture to Cropland,Ag Change,2001,2006,560
+2001,Central Basin and Range,Ag Change: Pasture to Cropland,Ag Change,2001,2006,700
+2001,Mojave Basin and Range,Ag Change: Pasture to Cropland,Ag Change,2001,2006,20
+2001,Northern Rockies,Ag Change: Pasture to Cropland,Ag Change,2001,2006,360
+2001,Idaho Batholith,Ag Change: Pasture to Cropland,Ag Change,2001,2006,20
+2001,Middle Rockies,Ag Change: Pasture to Cropland,Ag Change,2001,2006,540
+2001,Wyoming Basin,Ag Change: Pasture to Cropland,Ag Change,2001,2006,620
+2001,Wasatch and Uinta Mountains,Ag Change: Pasture to Cropland,Ag Change,2001,2006,160
+2001,Colorado Plateaus,Ag Change: Pasture to Cropland,Ag Change,2001,2006,560
+2001,Southern Rockies,Ag Change: Pasture to Cropland,Ag Change,2001,2006,40
+2001,Arizona/New Mexico Plateau,Ag Change: Pasture to Cropland,Ag Change,2001,2006,180
+2001,Arizona/New Mexico Mountains,Ag Change: Pasture to Cropland,Ag Change,2001,2006,0
+2001,Chihuahuan Deserts,Ag Change: Pasture to Cropland,Ag Change,2001,2006,20
+2001,High Plains,Ag Change: Pasture to Cropland,Ag Change,2001,2006,1620
+2001,Southwestern Tablelands,Ag Change: Pasture to Cropland,Ag Change,2001,2006,120
+2001,Central Great Plains,Ag Change: Pasture to Cropland,Ag Change,2001,2006,580
+2001,Flint Hills,Ag Change: Pasture to Cropland,Ag Change,2001,2006,340
+2001,Cross Timbers,Ag Change: Pasture to Cropland,Ag Change,2001,2006,180
+2001,Edwards Plateau,Ag Change: Pasture to Cropland,Ag Change,2001,2006,80
+2001,Southern Texas Plains,Ag Change: Pasture to Cropland,Ag Change,2001,2006,380
+2001,Texas Blackland Prairies,Ag Change: Pasture to Cropland,Ag Change,2001,2006,1500
+2001,East Central Texas Plains,Ag Change: Pasture to Cropland,Ag Change,2001,2006,1160
+2001,Western Gulf Coastal Plain,Ag Change: Pasture to Cropland,Ag Change,2001,2006,4740
+2001,South Central Plains,Ag Change: Pasture to Cropland,Ag Change,2001,2006,1540
+2001,Ouachita Mountains,Ag Change: Pasture to Cropland,Ag Change,2001,2006,20
+2001,Arkansas Valley,Ag Change: Pasture to Cropland,Ag Change,2001,2006,300
+2001,Boston Mountains,Ag Change: Pasture to Cropland,Ag Change,2001,2006,0
+2001,Ozark Highlands,Ag Change: Pasture to Cropland,Ag Change,2001,2006,819.9999999999999
+2001,Central Irregular Plains,Ag Change: Pasture to Cropland,Ag Change,2001,2006,28339.999999999996
+2001,Canadian Rockies,Ag Change: Pasture to Cropland,Ag Change,2001,2006,0
+2001,Northwestern Glaciated Plains,Ag Change: Pasture to Cropland,Ag Change,2001,2006,5020
+2001,Northwestern Great Plains,Ag Change: Pasture to Cropland,Ag Change,2001,2006,1280
+2001,Nebraska Sand Hills,Ag Change: Pasture to Cropland,Ag Change,2001,2006,60
+2001,Piedmont,Ag Change: Pasture to Cropland,Ag Change,2001,2006,2060
+2001,Northern Glaciated Plains,Ag Change: Pasture to Cropland,Ag Change,2001,2006,22500
+2001,Western Corn Belt Plains,Ag Change: Pasture to Cropland,Ag Change,2001,2006,30020
+2001,Lake Agassiz Plain,Ag Change: Pasture to Cropland,Ag Change,2001,2006,3379.9999999999995
+2001,Northern Minnesota Wetlands,Ag Change: Pasture to Cropland,Ag Change,2001,2006,680
+2001,Northern Lakes and Forests,Ag Change: Pasture to Cropland,Ag Change,2001,2006,2039.9999999999998
+2001,North Central Hardwood Forests,Ag Change: Pasture to Cropland,Ag Change,2001,2006,6440.000000000001
+2001,Driftless Area,Ag Change: Pasture to Cropland,Ag Change,2001,2006,8620
+2001,Southeastern Wisconsin Till Plains,Ag Change: Pasture to Cropland,Ag Change,2001,2006,1700
+2001,Central Corn Belt Plains,Ag Change: Pasture to Cropland,Ag Change,2001,2006,2120
+2001,Eastern Corn Belt Plains,Ag Change: Pasture to Cropland,Ag Change,2001,2006,5720
+2001,Southern Michigan/Northern Indiana Drift Plains,Ag Change: Pasture to Cropland,Ag Change,2001,2006,2200
+2001,Huron/Erie Lake Plains,Ag Change: Pasture to Cropland,Ag Change,2001,2006,700
+2001,Northeastern Highlands,Ag Change: Pasture to Cropland,Ag Change,2001,2006,480
+2001,Northeastern Coastal Zone,Ag Change: Pasture to Cropland,Ag Change,2001,2006,220.00000000000003
+2001,Northern Allegheny Plateau,Ag Change: Pasture to Cropland,Ag Change,2001,2006,660
+2001,Erie Drift Plain,Ag Change: Pasture to Cropland,Ag Change,2001,2006,1480
+2001,North Central Appalachians,Ag Change: Pasture to Cropland,Ag Change,2001,2006,60
+2001,Middle Atlantic Coastal Plain,Ag Change: Pasture to Cropland,Ag Change,2001,2006,580
+2001,Northern Piedmont,Ag Change: Pasture to Cropland,Ag Change,2001,2006,2280
+2001,Southeastern Plains,Ag Change: Pasture to Cropland,Ag Change,2001,2006,7320
+2001,Blue Ridge,Ag Change: Pasture to Cropland,Ag Change,2001,2006,200
+2001,Ridge and Valley,Ag Change: Pasture to Cropland,Ag Change,2001,2006,3120
+2001,Southwestern Appalachians,Ag Change: Pasture to Cropland,Ag Change,2001,2006,180
+2001,Central Appalachians,Ag Change: Pasture to Cropland,Ag Change,2001,2006,40
+2001,Western Allegheny Plateau,Ag Change: Pasture to Cropland,Ag Change,2001,2006,1540
+2001,Interior Plateau,Ag Change: Pasture to Cropland,Ag Change,2001,2006,3260
+2001,Interior River Valleys and Hills,Ag Change: Pasture to Cropland,Ag Change,2001,2006,6060
+2001,Mississippi Alluvial Plain,Ag Change: Pasture to Cropland,Ag Change,2001,2006,600
+2001,Mississippi Valley Loess Plains,Ag Change: Pasture to Cropland,Ag Change,2001,2006,1620
+2001,Southern Coastal Plain,Ag Change: Pasture to Cropland,Ag Change,2001,2006,1839.9999999999998
+2001,Southern Florida Coastal Plain,Ag Change: Pasture to Cropland,Ag Change,2001,2006,100
+2001,North Cascades,Ag Change: Pasture to Cropland,Ag Change,2001,2006,0
+2001,Klamath Mountains/California High North Coast Range,Ag Change: Pasture to Cropland,Ag Change,2001,2006,40
+2001,Madrean Archipelago,Ag Change: Pasture to Cropland,Ag Change,2001,2006,0
+2001,Northern Basin and Range,Ag Change: Pasture to Cropland,Ag Change,2001,2006,240
+2001,Sonoran Basin and Range,Ag Change: Pasture to Cropland,Ag Change,2001,2006,420
+2001,Acadian Plains and Hills,Ag Change: Pasture to Cropland,Ag Change,2001,2006,100
+2001,Eastern Great Lakes Lowlands,Ag Change: Pasture to Cropland,Ag Change,2001,2006,2720
+2001,Atlantic Coastal Pine Barrens,Ag Change: Pasture to Cropland,Ag Change,2001,2006,240
+2001,Southern California/Northern Baja Coast,Ag Change: Pasture to Cropland,Ag Change,2001,2006,120
+2007,Coast Range,Ag Change: Pasture to Cropland,Ag Change,2007,2012,60
+2007,Puget Lowland,Ag Change: Pasture to Cropland,Ag Change,2007,2012,459.99999999999994
+2007,Willamette Valley,Ag Change: Pasture to Cropland,Ag Change,2007,2012,3700
+2007,Cascades,Ag Change: Pasture to Cropland,Ag Change,2007,2012,40
+2007,Sierra Nevada,Ag Change: Pasture to Cropland,Ag Change,2007,2012,0
+2007,Central California Foothills and Coastal Mountains,Ag Change: Pasture to Cropland,Ag Change,2007,2012,960
+2007,Central California Valley,Ag Change: Pasture to Cropland,Ag Change,2007,2012,1540
+2007,Southern California Mountains,Ag Change: Pasture to Cropland,Ag Change,2007,2012,0
+2007,Eastern Cascades Slopes and Foothills,Ag Change: Pasture to Cropland,Ag Change,2007,2012,760
+2007,Columbia Plateau,Ag Change: Pasture to Cropland,Ag Change,2007,2012,1340
+2007,Blue Mountains,Ag Change: Pasture to Cropland,Ag Change,2007,2012,380
+2007,Snake River Plain,Ag Change: Pasture to Cropland,Ag Change,2007,2012,880.0000000000001
+2007,Central Basin and Range,Ag Change: Pasture to Cropland,Ag Change,2007,2012,1200
+2007,Mojave Basin and Range,Ag Change: Pasture to Cropland,Ag Change,2007,2012,0
+2007,Northern Rockies,Ag Change: Pasture to Cropland,Ag Change,2007,2012,740
+2007,Idaho Batholith,Ag Change: Pasture to Cropland,Ag Change,2007,2012,20
+2007,Middle Rockies,Ag Change: Pasture to Cropland,Ag Change,2007,2012,1360
+2007,Wyoming Basin,Ag Change: Pasture to Cropland,Ag Change,2007,2012,1560
+2007,Wasatch and Uinta Mountains,Ag Change: Pasture to Cropland,Ag Change,2007,2012,300
+2007,Colorado Plateaus,Ag Change: Pasture to Cropland,Ag Change,2007,2012,1600
+2007,Southern Rockies,Ag Change: Pasture to Cropland,Ag Change,2007,2012,160
+2007,Arizona/New Mexico Plateau,Ag Change: Pasture to Cropland,Ag Change,2007,2012,819.9999999999999
+2007,Arizona/New Mexico Mountains,Ag Change: Pasture to Cropland,Ag Change,2007,2012,0
+2007,Chihuahuan Deserts,Ag Change: Pasture to Cropland,Ag Change,2007,2012,60
+2007,High Plains,Ag Change: Pasture to Cropland,Ag Change,2007,2012,2480
+2007,Southwestern Tablelands,Ag Change: Pasture to Cropland,Ag Change,2007,2012,220.00000000000003
+2007,Central Great Plains,Ag Change: Pasture to Cropland,Ag Change,2007,2012,720
+2007,Flint Hills,Ag Change: Pasture to Cropland,Ag Change,2007,2012,480
+2007,Cross Timbers,Ag Change: Pasture to Cropland,Ag Change,2007,2012,220.00000000000003
+2007,Edwards Plateau,Ag Change: Pasture to Cropland,Ag Change,2007,2012,80
+2007,Southern Texas Plains,Ag Change: Pasture to Cropland,Ag Change,2007,2012,740
+2007,Texas Blackland Prairies,Ag Change: Pasture to Cropland,Ag Change,2007,2012,3340
+2007,East Central Texas Plains,Ag Change: Pasture to Cropland,Ag Change,2007,2012,2440
+2007,Western Gulf Coastal Plain,Ag Change: Pasture to Cropland,Ag Change,2007,2012,7459.999999999999
+2007,South Central Plains,Ag Change: Pasture to Cropland,Ag Change,2007,2012,2760
+2007,Ouachita Mountains,Ag Change: Pasture to Cropland,Ag Change,2007,2012,60
+2007,Arkansas Valley,Ag Change: Pasture to Cropland,Ag Change,2007,2012,400
+2007,Boston Mountains,Ag Change: Pasture to Cropland,Ag Change,2007,2012,0
+2007,Ozark Highlands,Ag Change: Pasture to Cropland,Ag Change,2007,2012,2480
+2007,Central Irregular Plains,Ag Change: Pasture to Cropland,Ag Change,2007,2012,65079.99999999999
+2007,Canadian Rockies,Ag Change: Pasture to Cropland,Ag Change,2007,2012,0
+2007,Northwestern Glaciated Plains,Ag Change: Pasture to Cropland,Ag Change,2007,2012,8880
+2007,Northwestern Great Plains,Ag Change: Pasture to Cropland,Ag Change,2007,2012,2380
+2007,Nebraska Sand Hills,Ag Change: Pasture to Cropland,Ag Change,2007,2012,80
+2007,Piedmont,Ag Change: Pasture to Cropland,Ag Change,2007,2012,4160
+2007,Northern Glaciated Plains,Ag Change: Pasture to Cropland,Ag Change,2007,2012,45100
+2007,Western Corn Belt Plains,Ag Change: Pasture to Cropland,Ag Change,2007,2012,46940
+2007,Lake Agassiz Plain,Ag Change: Pasture to Cropland,Ag Change,2007,2012,5160
+2007,Northern Minnesota Wetlands,Ag Change: Pasture to Cropland,Ag Change,2007,2012,940
+2007,Northern Lakes and Forests,Ag Change: Pasture to Cropland,Ag Change,2007,2012,3020
+2007,North Central Hardwood Forests,Ag Change: Pasture to Cropland,Ag Change,2007,2012,9260
+2007,Driftless Area,Ag Change: Pasture to Cropland,Ag Change,2007,2012,13819.999999999998
+2007,Southeastern Wisconsin Till Plains,Ag Change: Pasture to Cropland,Ag Change,2007,2012,2660
+2007,Central Corn Belt Plains,Ag Change: Pasture to Cropland,Ag Change,2007,2012,3360
+2007,Eastern Corn Belt Plains,Ag Change: Pasture to Cropland,Ag Change,2007,2012,9180
+2007,Southern Michigan/Northern Indiana Drift Plains,Ag Change: Pasture to Cropland,Ag Change,2007,2012,3320.0000000000005
+2007,Huron/Erie Lake Plains,Ag Change: Pasture to Cropland,Ag Change,2007,2012,860
+2007,Northeastern Highlands,Ag Change: Pasture to Cropland,Ag Change,2007,2012,680
+2007,Northeastern Coastal Zone,Ag Change: Pasture to Cropland,Ag Change,2007,2012,300
+2007,Northern Allegheny Plateau,Ag Change: Pasture to Cropland,Ag Change,2007,2012,1980
+2007,Erie Drift Plain,Ag Change: Pasture to Cropland,Ag Change,2007,2012,2580
+2007,North Central Appalachians,Ag Change: Pasture to Cropland,Ag Change,2007,2012,140
+2007,Middle Atlantic Coastal Plain,Ag Change: Pasture to Cropland,Ag Change,2007,2012,720
+2007,Northern Piedmont,Ag Change: Pasture to Cropland,Ag Change,2007,2012,3440
+2007,Southeastern Plains,Ag Change: Pasture to Cropland,Ag Change,2007,2012,11540
+2007,Blue Ridge,Ag Change: Pasture to Cropland,Ag Change,2007,2012,260
+2007,Ridge and Valley,Ag Change: Pasture to Cropland,Ag Change,2007,2012,5240
+2007,Southwestern Appalachians,Ag Change: Pasture to Cropland,Ag Change,2007,2012,380
+2007,Central Appalachians,Ag Change: Pasture to Cropland,Ag Change,2007,2012,160
+2007,Western Allegheny Plateau,Ag Change: Pasture to Cropland,Ag Change,2007,2012,2320
+2007,Interior Plateau,Ag Change: Pasture to Cropland,Ag Change,2007,2012,9920
+2007,Interior River Valleys and Hills,Ag Change: Pasture to Cropland,Ag Change,2007,2012,11520
+2007,Mississippi Alluvial Plain,Ag Change: Pasture to Cropland,Ag Change,2007,2012,1200
+2007,Mississippi Valley Loess Plains,Ag Change: Pasture to Cropland,Ag Change,2007,2012,2640
+2007,Southern Coastal Plain,Ag Change: Pasture to Cropland,Ag Change,2007,2012,2760
+2007,Southern Florida Coastal Plain,Ag Change: Pasture to Cropland,Ag Change,2007,2012,160
+2007,North Cascades,Ag Change: Pasture to Cropland,Ag Change,2007,2012,20
+2007,Klamath Mountains/California High North Coast Range,Ag Change: Pasture to Cropland,Ag Change,2007,2012,60
+2007,Madrean Archipelago,Ag Change: Pasture to Cropland,Ag Change,2007,2012,0
+2007,Northern Basin and Range,Ag Change: Pasture to Cropland,Ag Change,2007,2012,600
+2007,Sonoran Basin and Range,Ag Change: Pasture to Cropland,Ag Change,2007,2012,740
+2007,Acadian Plains and Hills,Ag Change: Pasture to Cropland,Ag Change,2007,2012,200
+2007,Eastern Great Lakes Lowlands,Ag Change: Pasture to Cropland,Ag Change,2007,2012,4340
+2007,Atlantic Coastal Pine Barrens,Ag Change: Pasture to Cropland,Ag Change,2007,2012,280
+2007,Southern California/Northern Baja Coast,Ag Change: Pasture to Cropland,Ag Change,2007,2012,120
+2012,Coast Range,Ag Change: Pasture to Cropland,Ag Change,2012,2017,200
+2012,Puget Lowland,Ag Change: Pasture to Cropland,Ag Change,2012,2017,919.9999999999999
+2012,Willamette Valley,Ag Change: Pasture to Cropland,Ag Change,2012,2017,10500
+2012,Cascades,Ag Change: Pasture to Cropland,Ag Change,2012,2017,140
+2012,Sierra Nevada,Ag Change: Pasture to Cropland,Ag Change,2012,2017,0
+2012,Central California Foothills and Coastal Mountains,Ag Change: Pasture to Cropland,Ag Change,2012,2017,1240
+2012,Central California Valley,Ag Change: Pasture to Cropland,Ag Change,2012,2017,1760.0000000000002
+2012,Southern California Mountains,Ag Change: Pasture to Cropland,Ag Change,2012,2017,0
+2012,Eastern Cascades Slopes and Foothills,Ag Change: Pasture to Cropland,Ag Change,2012,2017,1280
+2012,Columbia Plateau,Ag Change: Pasture to Cropland,Ag Change,2012,2017,2039.9999999999998
+2012,Blue Mountains,Ag Change: Pasture to Cropland,Ag Change,2012,2017,560
+2012,Snake River Plain,Ag Change: Pasture to Cropland,Ag Change,2012,2017,1100
+2012,Central Basin and Range,Ag Change: Pasture to Cropland,Ag Change,2012,2017,1620
+2012,Mojave Basin and Range,Ag Change: Pasture to Cropland,Ag Change,2012,2017,0
+2012,Northern Rockies,Ag Change: Pasture to Cropland,Ag Change,2012,2017,1180
+2012,Idaho Batholith,Ag Change: Pasture to Cropland,Ag Change,2012,2017,20
+2012,Middle Rockies,Ag Change: Pasture to Cropland,Ag Change,2012,2017,1920
+2012,Wyoming Basin,Ag Change: Pasture to Cropland,Ag Change,2012,2017,1900
+2012,Wasatch and Uinta Mountains,Ag Change: Pasture to Cropland,Ag Change,2012,2017,420
+2012,Colorado Plateaus,Ag Change: Pasture to Cropland,Ag Change,2012,2017,2020
+2012,Southern Rockies,Ag Change: Pasture to Cropland,Ag Change,2012,2017,300
+2012,Arizona/New Mexico Plateau,Ag Change: Pasture to Cropland,Ag Change,2012,2017,1340
+2012,Arizona/New Mexico Mountains,Ag Change: Pasture to Cropland,Ag Change,2012,2017,0
+2012,Chihuahuan Deserts,Ag Change: Pasture to Cropland,Ag Change,2012,2017,60
+2012,High Plains,Ag Change: Pasture to Cropland,Ag Change,2012,2017,3579.9999999999995
+2012,Southwestern Tablelands,Ag Change: Pasture to Cropland,Ag Change,2012,2017,220.00000000000003
+2012,Central Great Plains,Ag Change: Pasture to Cropland,Ag Change,2012,2017,1000
+2012,Flint Hills,Ag Change: Pasture to Cropland,Ag Change,2012,2017,780
+2012,Cross Timbers,Ag Change: Pasture to Cropland,Ag Change,2012,2017,420
+2012,Edwards Plateau,Ag Change: Pasture to Cropland,Ag Change,2012,2017,140
+2012,Southern Texas Plains,Ag Change: Pasture to Cropland,Ag Change,2012,2017,919.9999999999999
+2012,Texas Blackland Prairies,Ag Change: Pasture to Cropland,Ag Change,2012,2017,4160
+2012,East Central Texas Plains,Ag Change: Pasture to Cropland,Ag Change,2012,2017,3479.9999999999995
+2012,Western Gulf Coastal Plain,Ag Change: Pasture to Cropland,Ag Change,2012,2017,10560
+2012,South Central Plains,Ag Change: Pasture to Cropland,Ag Change,2012,2017,3620.0000000000005
+2012,Ouachita Mountains,Ag Change: Pasture to Cropland,Ag Change,2012,2017,80
+2012,Arkansas Valley,Ag Change: Pasture to Cropland,Ag Change,2012,2017,580
+2012,Boston Mountains,Ag Change: Pasture to Cropland,Ag Change,2012,2017,0
+2012,Ozark Highlands,Ag Change: Pasture to Cropland,Ag Change,2012,2017,5460
+2012,Central Irregular Plains,Ag Change: Pasture to Cropland,Ag Change,2012,2017,102520
+2012,Canadian Rockies,Ag Change: Pasture to Cropland,Ag Change,2012,2017,0
+2012,Northwestern Glaciated Plains,Ag Change: Pasture to Cropland,Ag Change,2012,2017,13000
+2012,Northwestern Great Plains,Ag Change: Pasture to Cropland,Ag Change,2012,2017,3700
+2012,Nebraska Sand Hills,Ag Change: Pasture to Cropland,Ag Change,2012,2017,120
+2012,Piedmont,Ag Change: Pasture to Cropland,Ag Change,2012,2017,8240
+2012,Northern Glaciated Plains,Ag Change: Pasture to Cropland,Ag Change,2012,2017,68420
+2012,Western Corn Belt Plains,Ag Change: Pasture to Cropland,Ag Change,2012,2017,60220.00000000001
+2012,Lake Agassiz Plain,Ag Change: Pasture to Cropland,Ag Change,2012,2017,7080
+2012,Northern Minnesota Wetlands,Ag Change: Pasture to Cropland,Ag Change,2012,2017,1440
+2012,Northern Lakes and Forests,Ag Change: Pasture to Cropland,Ag Change,2012,2017,5020
+2012,North Central Hardwood Forests,Ag Change: Pasture to Cropland,Ag Change,2012,2017,11840
+2012,Driftless Area,Ag Change: Pasture to Cropland,Ag Change,2012,2017,18800
+2012,Southeastern Wisconsin Till Plains,Ag Change: Pasture to Cropland,Ag Change,2012,2017,3520.0000000000005
+2012,Central Corn Belt Plains,Ag Change: Pasture to Cropland,Ag Change,2012,2017,3860
+2012,Eastern Corn Belt Plains,Ag Change: Pasture to Cropland,Ag Change,2012,2017,11220
+2012,Southern Michigan/Northern Indiana Drift Plains,Ag Change: Pasture to Cropland,Ag Change,2012,2017,3979.9999999999995
+2012,Huron/Erie Lake Plains,Ag Change: Pasture to Cropland,Ag Change,2012,2017,1019.9999999999999
+2012,Northeastern Highlands,Ag Change: Pasture to Cropland,Ag Change,2012,2017,1380
+2012,Northeastern Coastal Zone,Ag Change: Pasture to Cropland,Ag Change,2012,2017,640
+2012,Northern Allegheny Plateau,Ag Change: Pasture to Cropland,Ag Change,2012,2017,4020.0000000000005
+2012,Erie Drift Plain,Ag Change: Pasture to Cropland,Ag Change,2012,2017,4560
+2012,North Central Appalachians,Ag Change: Pasture to Cropland,Ag Change,2012,2017,400
+2012,Middle Atlantic Coastal Plain,Ag Change: Pasture to Cropland,Ag Change,2012,2017,800
+2012,Northern Piedmont,Ag Change: Pasture to Cropland,Ag Change,2012,2017,4920
+2012,Southeastern Plains,Ag Change: Pasture to Cropland,Ag Change,2012,2017,17120
+2012,Blue Ridge,Ag Change: Pasture to Cropland,Ag Change,2012,2017,440.00000000000006
+2012,Ridge and Valley,Ag Change: Pasture to Cropland,Ag Change,2012,2017,8840
+2012,Southwestern Appalachians,Ag Change: Pasture to Cropland,Ag Change,2012,2017,1060
+2012,Central Appalachians,Ag Change: Pasture to Cropland,Ag Change,2012,2017,1180
+2012,Western Allegheny Plateau,Ag Change: Pasture to Cropland,Ag Change,2012,2017,4500
+2012,Interior Plateau,Ag Change: Pasture to Cropland,Ag Change,2012,2017,25700
+2012,Interior River Valleys and Hills,Ag Change: Pasture to Cropland,Ag Change,2012,2017,19560
+2012,Mississippi Alluvial Plain,Ag Change: Pasture to Cropland,Ag Change,2012,2017,1560
+2012,Mississippi Valley Loess Plains,Ag Change: Pasture to Cropland,Ag Change,2012,2017,4320
+2012,Southern Coastal Plain,Ag Change: Pasture to Cropland,Ag Change,2012,2017,4280
+2012,Southern Florida Coastal Plain,Ag Change: Pasture to Cropland,Ag Change,2012,2017,280
+2012,North Cascades,Ag Change: Pasture to Cropland,Ag Change,2012,2017,40
+2012,Klamath Mountains/California High North Coast Range,Ag Change: Pasture to Cropland,Ag Change,2012,2017,100
+2012,Madrean Archipelago,Ag Change: Pasture to Cropland,Ag Change,2012,2017,0
+2012,Northern Basin and Range,Ag Change: Pasture to Cropland,Ag Change,2012,2017,1000
+2012,Sonoran Basin and Range,Ag Change: Pasture to Cropland,Ag Change,2012,2017,840
+2012,Acadian Plains and Hills,Ag Change: Pasture to Cropland,Ag Change,2012,2017,420
+2012,Eastern Great Lakes Lowlands,Ag Change: Pasture to Cropland,Ag Change,2012,2017,7520
+2012,Atlantic Coastal Pine Barrens,Ag Change: Pasture to Cropland,Ag Change,2012,2017,280
+2012,Southern California/Northern Baja Coast,Ag Change: Pasture to Cropland,Ag Change,2012,2017,120
+2001,Coast Range,Ag Change: Cropland to Pasture,Ag Change,2001,2006,0
+2001,Puget Lowland,Ag Change: Cropland to Pasture,Ag Change,2001,2006,0
+2001,Willamette Valley,Ag Change: Cropland to Pasture,Ag Change,2001,2006,20
+2001,Cascades,Ag Change: Cropland to Pasture,Ag Change,2001,2006,0
+2001,Sierra Nevada,Ag Change: Cropland to Pasture,Ag Change,2001,2006,0
+2001,Central California Foothills and Coastal Mountains,Ag Change: Cropland to Pasture,Ag Change,2001,2006,20
+2001,Central California Valley,Ag Change: Cropland to Pasture,Ag Change,2001,2006,180
+2001,Southern California Mountains,Ag Change: Cropland to Pasture,Ag Change,2001,2006,0
+2001,Eastern Cascades Slopes and Foothills,Ag Change: Cropland to Pasture,Ag Change,2001,2006,640
+2001,Columbia Plateau,Ag Change: Cropland to Pasture,Ag Change,2001,2006,280
+2001,Blue Mountains,Ag Change: Cropland to Pasture,Ag Change,2001,2006,80
+2001,Snake River Plain,Ag Change: Cropland to Pasture,Ag Change,2001,2006,180
+2001,Central Basin and Range,Ag Change: Cropland to Pasture,Ag Change,2001,2006,40
+2001,Mojave Basin and Range,Ag Change: Cropland to Pasture,Ag Change,2001,2006,0
+2001,Northern Rockies,Ag Change: Cropland to Pasture,Ag Change,2001,2006,120
+2001,Idaho Batholith,Ag Change: Cropland to Pasture,Ag Change,2001,2006,0
+2001,Middle Rockies,Ag Change: Cropland to Pasture,Ag Change,2001,2006,40
+2001,Wyoming Basin,Ag Change: Cropland to Pasture,Ag Change,2001,2006,60
+2001,Wasatch and Uinta Mountains,Ag Change: Cropland to Pasture,Ag Change,2001,2006,0
+2001,Colorado Plateaus,Ag Change: Cropland to Pasture,Ag Change,2001,2006,60
+2001,Southern Rockies,Ag Change: Cropland to Pasture,Ag Change,2001,2006,0
+2001,Arizona/New Mexico Plateau,Ag Change: Cropland to Pasture,Ag Change,2001,2006,20
+2001,Arizona/New Mexico Mountains,Ag Change: Cropland to Pasture,Ag Change,2001,2006,0
+2001,Chihuahuan Deserts,Ag Change: Cropland to Pasture,Ag Change,2001,2006,0
+2001,High Plains,Ag Change: Cropland to Pasture,Ag Change,2001,2006,900
+2001,Southwestern Tablelands,Ag Change: Cropland to Pasture,Ag Change,2001,2006,40
+2001,Central Great Plains,Ag Change: Cropland to Pasture,Ag Change,2001,2006,540
+2001,Flint Hills,Ag Change: Cropland to Pasture,Ag Change,2001,2006,80
+2001,Cross Timbers,Ag Change: Cropland to Pasture,Ag Change,2001,2006,60
+2001,Edwards Plateau,Ag Change: Cropland to Pasture,Ag Change,2001,2006,0
+2001,Southern Texas Plains,Ag Change: Cropland to Pasture,Ag Change,2001,2006,40
+2001,Texas Blackland Prairies,Ag Change: Cropland to Pasture,Ag Change,2001,2006,160
+2001,East Central Texas Plains,Ag Change: Cropland to Pasture,Ag Change,2001,2006,80
+2001,Western Gulf Coastal Plain,Ag Change: Cropland to Pasture,Ag Change,2001,2006,980.0000000000001
+2001,South Central Plains,Ag Change: Cropland to Pasture,Ag Change,2001,2006,140
+2001,Ouachita Mountains,Ag Change: Cropland to Pasture,Ag Change,2001,2006,0
+2001,Arkansas Valley,Ag Change: Cropland to Pasture,Ag Change,2001,2006,60
+2001,Boston Mountains,Ag Change: Cropland to Pasture,Ag Change,2001,2006,0
+2001,Ozark Highlands,Ag Change: Cropland to Pasture,Ag Change,2001,2006,40
+2001,Central Irregular Plains,Ag Change: Cropland to Pasture,Ag Change,2001,2006,1240
+2001,Canadian Rockies,Ag Change: Cropland to Pasture,Ag Change,2001,2006,0
+2001,Northwestern Glaciated Plains,Ag Change: Cropland to Pasture,Ag Change,2001,2006,500
+2001,Northwestern Great Plains,Ag Change: Cropland to Pasture,Ag Change,2001,2006,300
+2001,Nebraska Sand Hills,Ag Change: Cropland to Pasture,Ag Change,2001,2006,0
+2001,Piedmont,Ag Change: Cropland to Pasture,Ag Change,2001,2006,100
+2001,Northern Glaciated Plains,Ag Change: Cropland to Pasture,Ag Change,2001,2006,1220
+2001,Western Corn Belt Plains,Ag Change: Cropland to Pasture,Ag Change,2001,2006,2300
+2001,Lake Agassiz Plain,Ag Change: Cropland to Pasture,Ag Change,2001,2006,420
+2001,Northern Minnesota Wetlands,Ag Change: Cropland to Pasture,Ag Change,2001,2006,60
+2001,Northern Lakes and Forests,Ag Change: Cropland to Pasture,Ag Change,2001,2006,240
+2001,North Central Hardwood Forests,Ag Change: Cropland to Pasture,Ag Change,2001,2006,1520
+2001,Driftless Area,Ag Change: Cropland to Pasture,Ag Change,2001,2006,700
+2001,Southeastern Wisconsin Till Plains,Ag Change: Cropland to Pasture,Ag Change,2001,2006,680
+2001,Central Corn Belt Plains,Ag Change: Cropland to Pasture,Ag Change,2001,2006,640
+2001,Eastern Corn Belt Plains,Ag Change: Cropland to Pasture,Ag Change,2001,2006,1260
+2001,Southern Michigan/Northern Indiana Drift Plains,Ag Change: Cropland to Pasture,Ag Change,2001,2006,520
+2001,Huron/Erie Lake Plains,Ag Change: Cropland to Pasture,Ag Change,2001,2006,220.00000000000003
+2001,Northeastern Highlands,Ag Change: Cropland to Pasture,Ag Change,2001,2006,80
+2001,Northeastern Coastal Zone,Ag Change: Cropland to Pasture,Ag Change,2001,2006,20
+2001,Northern Allegheny Plateau,Ag Change: Cropland to Pasture,Ag Change,2001,2006,80
+2001,Erie Drift Plain,Ag Change: Cropland to Pasture,Ag Change,2001,2006,360
+2001,North Central Appalachians,Ag Change: Cropland to Pasture,Ag Change,2001,2006,0
+2001,Middle Atlantic Coastal Plain,Ag Change: Cropland to Pasture,Ag Change,2001,2006,40
+2001,Northern Piedmont,Ag Change: Cropland to Pasture,Ag Change,2001,2006,320
+2001,Southeastern Plains,Ag Change: Cropland to Pasture,Ag Change,2001,2006,960
+2001,Blue Ridge,Ag Change: Cropland to Pasture,Ag Change,2001,2006,0
+2001,Ridge and Valley,Ag Change: Cropland to Pasture,Ag Change,2001,2006,480
+2001,Southwestern Appalachians,Ag Change: Cropland to Pasture,Ag Change,2001,2006,0
+2001,Central Appalachians,Ag Change: Cropland to Pasture,Ag Change,2001,2006,0
+2001,Western Allegheny Plateau,Ag Change: Cropland to Pasture,Ag Change,2001,2006,20
+2001,Interior Plateau,Ag Change: Cropland to Pasture,Ag Change,2001,2006,459.99999999999994
+2001,Interior River Valleys and Hills,Ag Change: Cropland to Pasture,Ag Change,2001,2006,1260
+2001,Mississippi Alluvial Plain,Ag Change: Cropland to Pasture,Ag Change,2001,2006,200
+2001,Mississippi Valley Loess Plains,Ag Change: Cropland to Pasture,Ag Change,2001,2006,360
+2001,Southern Coastal Plain,Ag Change: Cropland to Pasture,Ag Change,2001,2006,1019.9999999999999
+2001,Southern Florida Coastal Plain,Ag Change: Cropland to Pasture,Ag Change,2001,2006,20
+2001,North Cascades,Ag Change: Cropland to Pasture,Ag Change,2001,2006,0
+2001,Klamath Mountains/California High North Coast Range,Ag Change: Cropland to Pasture,Ag Change,2001,2006,0
+2001,Madrean Archipelago,Ag Change: Cropland to Pasture,Ag Change,2001,2006,0
+2001,Northern Basin and Range,Ag Change: Cropland to Pasture,Ag Change,2001,2006,20
+2001,Sonoran Basin and Range,Ag Change: Cropland to Pasture,Ag Change,2001,2006,40
+2001,Acadian Plains and Hills,Ag Change: Cropland to Pasture,Ag Change,2001,2006,40
+2001,Eastern Great Lakes Lowlands,Ag Change: Cropland to Pasture,Ag Change,2001,2006,300
+2001,Atlantic Coastal Pine Barrens,Ag Change: Cropland to Pasture,Ag Change,2001,2006,40
+2001,Southern California/Northern Baja Coast,Ag Change: Cropland to Pasture,Ag Change,2001,2006,20
+2007,Coast Range,Ag Change: Cropland to Pasture,Ag Change,2007,2012,0
+2007,Puget Lowland,Ag Change: Cropland to Pasture,Ag Change,2007,2012,0
+2007,Willamette Valley,Ag Change: Cropland to Pasture,Ag Change,2007,2012,40
+2007,Cascades,Ag Change: Cropland to Pasture,Ag Change,2007,2012,0
+2007,Sierra Nevada,Ag Change: Cropland to Pasture,Ag Change,2007,2012,0
+2007,Central California Foothills and Coastal Mountains,Ag Change: Cropland to Pasture,Ag Change,2007,2012,20
+2007,Central California Valley,Ag Change: Cropland to Pasture,Ag Change,2007,2012,400
+2007,Southern California Mountains,Ag Change: Cropland to Pasture,Ag Change,2007,2012,0
+2007,Eastern Cascades Slopes and Foothills,Ag Change: Cropland to Pasture,Ag Change,2007,2012,40
+2007,Columbia Plateau,Ag Change: Cropland to Pasture,Ag Change,2007,2012,480
+2007,Blue Mountains,Ag Change: Cropland to Pasture,Ag Change,2007,2012,100
+2007,Snake River Plain,Ag Change: Cropland to Pasture,Ag Change,2007,2012,220.00000000000003
+2007,Central Basin and Range,Ag Change: Cropland to Pasture,Ag Change,2007,2012,180
+2007,Mojave Basin and Range,Ag Change: Cropland to Pasture,Ag Change,2007,2012,0
+2007,Northern Rockies,Ag Change: Cropland to Pasture,Ag Change,2007,2012,80
+2007,Idaho Batholith,Ag Change: Cropland to Pasture,Ag Change,2007,2012,0
+2007,Middle Rockies,Ag Change: Cropland to Pasture,Ag Change,2007,2012,60
+2007,Wyoming Basin,Ag Change: Cropland to Pasture,Ag Change,2007,2012,20
+2007,Wasatch and Uinta Mountains,Ag Change: Cropland to Pasture,Ag Change,2007,2012,0
+2007,Colorado Plateaus,Ag Change: Cropland to Pasture,Ag Change,2007,2012,0
+2007,Southern Rockies,Ag Change: Cropland to Pasture,Ag Change,2007,2012,0
+2007,Arizona/New Mexico Plateau,Ag Change: Cropland to Pasture,Ag Change,2007,2012,20
+2007,Arizona/New Mexico Mountains,Ag Change: Cropland to Pasture,Ag Change,2007,2012,0
+2007,Chihuahuan Deserts,Ag Change: Cropland to Pasture,Ag Change,2007,2012,0
+2007,High Plains,Ag Change: Cropland to Pasture,Ag Change,2007,2012,1580
+2007,Southwestern Tablelands,Ag Change: Cropland to Pasture,Ag Change,2007,2012,180
+2007,Central Great Plains,Ag Change: Cropland to Pasture,Ag Change,2007,2012,1040
+2007,Flint Hills,Ag Change: Cropland to Pasture,Ag Change,2007,2012,160
+2007,Cross Timbers,Ag Change: Cropland to Pasture,Ag Change,2007,2012,160
+2007,Edwards Plateau,Ag Change: Cropland to Pasture,Ag Change,2007,2012,0
+2007,Southern Texas Plains,Ag Change: Cropland to Pasture,Ag Change,2007,2012,80
+2007,Texas Blackland Prairies,Ag Change: Cropland to Pasture,Ag Change,2007,2012,200
+2007,East Central Texas Plains,Ag Change: Cropland to Pasture,Ag Change,2007,2012,80
+2007,Western Gulf Coastal Plain,Ag Change: Cropland to Pasture,Ag Change,2007,2012,1480
+2007,South Central Plains,Ag Change: Cropland to Pasture,Ag Change,2007,2012,160
+2007,Ouachita Mountains,Ag Change: Cropland to Pasture,Ag Change,2007,2012,0
+2007,Arkansas Valley,Ag Change: Cropland to Pasture,Ag Change,2007,2012,80
+2007,Boston Mountains,Ag Change: Cropland to Pasture,Ag Change,2007,2012,0
+2007,Ozark Highlands,Ag Change: Cropland to Pasture,Ag Change,2007,2012,40
+2007,Central Irregular Plains,Ag Change: Cropland to Pasture,Ag Change,2007,2012,1700
+2007,Canadian Rockies,Ag Change: Cropland to Pasture,Ag Change,2007,2012,0
+2007,Northwestern Glaciated Plains,Ag Change: Cropland to Pasture,Ag Change,2007,2012,1100
+2007,Northwestern Great Plains,Ag Change: Cropland to Pasture,Ag Change,2007,2012,880.0000000000001
+2007,Nebraska Sand Hills,Ag Change: Cropland to Pasture,Ag Change,2007,2012,0
+2007,Piedmont,Ag Change: Cropland to Pasture,Ag Change,2007,2012,120
+2007,Northern Glaciated Plains,Ag Change: Cropland to Pasture,Ag Change,2007,2012,1980
+2007,Western Corn Belt Plains,Ag Change: Cropland to Pasture,Ag Change,2007,2012,3660
+2007,Lake Agassiz Plain,Ag Change: Cropland to Pasture,Ag Change,2007,2012,580
+2007,Northern Minnesota Wetlands,Ag Change: Cropland to Pasture,Ag Change,2007,2012,80
+2007,Northern Lakes and Forests,Ag Change: Cropland to Pasture,Ag Change,2007,2012,420
+2007,North Central Hardwood Forests,Ag Change: Cropland to Pasture,Ag Change,2007,2012,2000
+2007,Driftless Area,Ag Change: Cropland to Pasture,Ag Change,2007,2012,1080
+2007,Southeastern Wisconsin Till Plains,Ag Change: Cropland to Pasture,Ag Change,2007,2012,760
+2007,Central Corn Belt Plains,Ag Change: Cropland to Pasture,Ag Change,2007,2012,860
+2007,Eastern Corn Belt Plains,Ag Change: Cropland to Pasture,Ag Change,2007,2012,1560
+2007,Southern Michigan/Northern Indiana Drift Plains,Ag Change: Cropland to Pasture,Ag Change,2007,2012,780
+2007,Huron/Erie Lake Plains,Ag Change: Cropland to Pasture,Ag Change,2007,2012,340
+2007,Northeastern Highlands,Ag Change: Cropland to Pasture,Ag Change,2007,2012,120
+2007,Northeastern Coastal Zone,Ag Change: Cropland to Pasture,Ag Change,2007,2012,40
+2007,Northern Allegheny Plateau,Ag Change: Cropland to Pasture,Ag Change,2007,2012,260
+2007,Erie Drift Plain,Ag Change: Cropland to Pasture,Ag Change,2007,2012,340
+2007,North Central Appalachians,Ag Change: Cropland to Pasture,Ag Change,2007,2012,0
+2007,Middle Atlantic Coastal Plain,Ag Change: Cropland to Pasture,Ag Change,2007,2012,60
+2007,Northern Piedmont,Ag Change: Cropland to Pasture,Ag Change,2007,2012,580
+2007,Southeastern Plains,Ag Change: Cropland to Pasture,Ag Change,2007,2012,1500
+2007,Blue Ridge,Ag Change: Cropland to Pasture,Ag Change,2007,2012,0
+2007,Ridge and Valley,Ag Change: Cropland to Pasture,Ag Change,2007,2012,740
+2007,Southwestern Appalachians,Ag Change: Cropland to Pasture,Ag Change,2007,2012,0
+2007,Central Appalachians,Ag Change: Cropland to Pasture,Ag Change,2007,2012,0
+2007,Western Allegheny Plateau,Ag Change: Cropland to Pasture,Ag Change,2007,2012,20
+2007,Interior Plateau,Ag Change: Cropland to Pasture,Ag Change,2007,2012,600
+2007,Interior River Valleys and Hills,Ag Change: Cropland to Pasture,Ag Change,2007,2012,1400
+2007,Mississippi Alluvial Plain,Ag Change: Cropland to Pasture,Ag Change,2007,2012,320
+2007,Mississippi Valley Loess Plains,Ag Change: Cropland to Pasture,Ag Change,2007,2012,360
+2007,Southern Coastal Plain,Ag Change: Cropland to Pasture,Ag Change,2007,2012,1800
+2007,Southern Florida Coastal Plain,Ag Change: Cropland to Pasture,Ag Change,2007,2012,40
+2007,North Cascades,Ag Change: Cropland to Pasture,Ag Change,2007,2012,0
+2007,Klamath Mountains/California High North Coast Range,Ag Change: Cropland to Pasture,Ag Change,2007,2012,0
+2007,Madrean Archipelago,Ag Change: Cropland to Pasture,Ag Change,2007,2012,0
+2007,Northern Basin and Range,Ag Change: Cropland to Pasture,Ag Change,2007,2012,20
+2007,Sonoran Basin and Range,Ag Change: Cropland to Pasture,Ag Change,2007,2012,40
+2007,Acadian Plains and Hills,Ag Change: Cropland to Pasture,Ag Change,2007,2012,80
+2007,Eastern Great Lakes Lowlands,Ag Change: Cropland to Pasture,Ag Change,2007,2012,440.00000000000006
+2007,Atlantic Coastal Pine Barrens,Ag Change: Cropland to Pasture,Ag Change,2007,2012,80
+2007,Southern California/Northern Baja Coast,Ag Change: Cropland to Pasture,Ag Change,2007,2012,120
+2012,Coast Range,Ag Change: Cropland to Pasture,Ag Change,2012,2017,0
+2012,Puget Lowland,Ag Change: Cropland to Pasture,Ag Change,2012,2017,20
+2012,Willamette Valley,Ag Change: Cropland to Pasture,Ag Change,2012,2017,40
+2012,Cascades,Ag Change: Cropland to Pasture,Ag Change,2012,2017,0
+2012,Sierra Nevada,Ag Change: Cropland to Pasture,Ag Change,2012,2017,0
+2012,Central California Foothills and Coastal Mountains,Ag Change: Cropland to Pasture,Ag Change,2012,2017,160
+2012,Central California Valley,Ag Change: Cropland to Pasture,Ag Change,2012,2017,520
+2012,Southern California Mountains,Ag Change: Cropland to Pasture,Ag Change,2012,2017,0
+2012,Eastern Cascades Slopes and Foothills,Ag Change: Cropland to Pasture,Ag Change,2012,2017,20
+2012,Columbia Plateau,Ag Change: Cropland to Pasture,Ag Change,2012,2017,900
+2012,Blue Mountains,Ag Change: Cropland to Pasture,Ag Change,2012,2017,100
+2012,Snake River Plain,Ag Change: Cropland to Pasture,Ag Change,2012,2017,420
+2012,Central Basin and Range,Ag Change: Cropland to Pasture,Ag Change,2012,2017,320
+2012,Mojave Basin and Range,Ag Change: Cropland to Pasture,Ag Change,2012,2017,0
+2012,Northern Rockies,Ag Change: Cropland to Pasture,Ag Change,2012,2017,160
+2012,Idaho Batholith,Ag Change: Cropland to Pasture,Ag Change,2012,2017,0
+2012,Middle Rockies,Ag Change: Cropland to Pasture,Ag Change,2012,2017,80
+2012,Wyoming Basin,Ag Change: Cropland to Pasture,Ag Change,2012,2017,40
+2012,Wasatch and Uinta Mountains,Ag Change: Cropland to Pasture,Ag Change,2012,2017,0
+2012,Colorado Plateaus,Ag Change: Cropland to Pasture,Ag Change,2012,2017,20
+2012,Southern Rockies,Ag Change: Cropland to Pasture,Ag Change,2012,2017,40
+2012,Arizona/New Mexico Plateau,Ag Change: Cropland to Pasture,Ag Change,2012,2017,20
+2012,Arizona/New Mexico Mountains,Ag Change: Cropland to Pasture,Ag Change,2012,2017,0
+2012,Chihuahuan Deserts,Ag Change: Cropland to Pasture,Ag Change,2012,2017,0
+2012,High Plains,Ag Change: Cropland to Pasture,Ag Change,2012,2017,6420
+2012,Southwestern Tablelands,Ag Change: Cropland to Pasture,Ag Change,2012,2017,440.00000000000006
+2012,Central Great Plains,Ag Change: Cropland to Pasture,Ag Change,2012,2017,4800
+2012,Flint Hills,Ag Change: Cropland to Pasture,Ag Change,2012,2017,380
+2012,Cross Timbers,Ag Change: Cropland to Pasture,Ag Change,2012,2017,1080
+2012,Edwards Plateau,Ag Change: Cropland to Pasture,Ag Change,2012,2017,20
+2012,Southern Texas Plains,Ag Change: Cropland to Pasture,Ag Change,2012,2017,220.00000000000003
+2012,Texas Blackland Prairies,Ag Change: Cropland to Pasture,Ag Change,2012,2017,1300
+2012,East Central Texas Plains,Ag Change: Cropland to Pasture,Ag Change,2012,2017,160
+2012,Western Gulf Coastal Plain,Ag Change: Cropland to Pasture,Ag Change,2012,2017,2680
+2012,South Central Plains,Ag Change: Cropland to Pasture,Ag Change,2012,2017,300
+2012,Ouachita Mountains,Ag Change: Cropland to Pasture,Ag Change,2012,2017,0
+2012,Arkansas Valley,Ag Change: Cropland to Pasture,Ag Change,2012,2017,60
+2012,Boston Mountains,Ag Change: Cropland to Pasture,Ag Change,2012,2017,0
+2012,Ozark Highlands,Ag Change: Cropland to Pasture,Ag Change,2012,2017,80
+2012,Central Irregular Plains,Ag Change: Cropland to Pasture,Ag Change,2012,2017,2460
+2012,Canadian Rockies,Ag Change: Cropland to Pasture,Ag Change,2012,2017,0
+2012,Northwestern Glaciated Plains,Ag Change: Cropland to Pasture,Ag Change,2012,2017,4540
+2012,Northwestern Great Plains,Ag Change: Cropland to Pasture,Ag Change,2012,2017,4980
+2012,Nebraska Sand Hills,Ag Change: Cropland to Pasture,Ag Change,2012,2017,120
+2012,Piedmont,Ag Change: Cropland to Pasture,Ag Change,2012,2017,220.00000000000003
+2012,Northern Glaciated Plains,Ag Change: Cropland to Pasture,Ag Change,2012,2017,3340
+2012,Western Corn Belt Plains,Ag Change: Cropland to Pasture,Ag Change,2012,2017,4960
+2012,Lake Agassiz Plain,Ag Change: Cropland to Pasture,Ag Change,2012,2017,740
+2012,Northern Minnesota Wetlands,Ag Change: Cropland to Pasture,Ag Change,2012,2017,80
+2012,Northern Lakes and Forests,Ag Change: Cropland to Pasture,Ag Change,2012,2017,740
+2012,North Central Hardwood Forests,Ag Change: Cropland to Pasture,Ag Change,2012,2017,2700
+2012,Driftless Area,Ag Change: Cropland to Pasture,Ag Change,2012,2017,1360
+2012,Southeastern Wisconsin Till Plains,Ag Change: Cropland to Pasture,Ag Change,2012,2017,1100
+2012,Central Corn Belt Plains,Ag Change: Cropland to Pasture,Ag Change,2012,2017,1220
+2012,Eastern Corn Belt Plains,Ag Change: Cropland to Pasture,Ag Change,2012,2017,2580
+2012,Southern Michigan/Northern Indiana Drift Plains,Ag Change: Cropland to Pasture,Ag Change,2012,2017,1120
+2012,Huron/Erie Lake Plains,Ag Change: Cropland to Pasture,Ag Change,2012,2017,440.00000000000006
+2012,Northeastern Highlands,Ag Change: Cropland to Pasture,Ag Change,2012,2017,100
+2012,Northeastern Coastal Zone,Ag Change: Cropland to Pasture,Ag Change,2012,2017,140
+2012,Northern Allegheny Plateau,Ag Change: Cropland to Pasture,Ag Change,2012,2017,340
+2012,Erie Drift Plain,Ag Change: Cropland to Pasture,Ag Change,2012,2017,420
+2012,North Central Appalachians,Ag Change: Cropland to Pasture,Ag Change,2012,2017,0
+2012,Middle Atlantic Coastal Plain,Ag Change: Cropland to Pasture,Ag Change,2012,2017,180
+2012,Northern Piedmont,Ag Change: Cropland to Pasture,Ag Change,2012,2017,880.0000000000001
+2012,Southeastern Plains,Ag Change: Cropland to Pasture,Ag Change,2012,2017,3240
+2012,Blue Ridge,Ag Change: Cropland to Pasture,Ag Change,2012,2017,20
+2012,Ridge and Valley,Ag Change: Cropland to Pasture,Ag Change,2012,2017,1220
+2012,Southwestern Appalachians,Ag Change: Cropland to Pasture,Ag Change,2012,2017,0
+2012,Central Appalachians,Ag Change: Cropland to Pasture,Ag Change,2012,2017,0
+2012,Western Allegheny Plateau,Ag Change: Cropland to Pasture,Ag Change,2012,2017,100
+2012,Interior Plateau,Ag Change: Cropland to Pasture,Ag Change,2012,2017,760
+2012,Interior River Valleys and Hills,Ag Change: Cropland to Pasture,Ag Change,2012,2017,2000
+2012,Mississippi Alluvial Plain,Ag Change: Cropland to Pasture,Ag Change,2012,2017,420
+2012,Mississippi Valley Loess Plains,Ag Change: Cropland to Pasture,Ag Change,2012,2017,500
+2012,Southern Coastal Plain,Ag Change: Cropland to Pasture,Ag Change,2012,2017,2920
+2012,Southern Florida Coastal Plain,Ag Change: Cropland to Pasture,Ag Change,2012,2017,40
+2012,North Cascades,Ag Change: Cropland to Pasture,Ag Change,2012,2017,0
+2012,Klamath Mountains/California High North Coast Range,Ag Change: Cropland to Pasture,Ag Change,2012,2017,0
+2012,Madrean Archipelago,Ag Change: Cropland to Pasture,Ag Change,2012,2017,0
+2012,Northern Basin and Range,Ag Change: Cropland to Pasture,Ag Change,2012,2017,120
+2012,Sonoran Basin and Range,Ag Change: Cropland to Pasture,Ag Change,2012,2017,660
+2012,Acadian Plains and Hills,Ag Change: Cropland to Pasture,Ag Change,2012,2017,160
+2012,Eastern Great Lakes Lowlands,Ag Change: Cropland to Pasture,Ag Change,2012,2017,580
+2012,Atlantic Coastal Pine Barrens,Ag Change: Cropland to Pasture,Ag Change,2012,2017,140
+2012,Southern California/Northern Baja Coast,Ag Change: Cropland to Pasture,Ag Change,2012,2017,60

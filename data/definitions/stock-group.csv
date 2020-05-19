@@ -1,0 +1,8 @@
+Name,Description,Units,IsAuto
+Biomass: Aboveground,Carbon in all aboveground biomass pools,,
+Biomass: Belowground,Carbon in all belowground biomnass pools (coarse plus fine roots),,
+Biomass: Total,Carbon in aboverground and belowground biomass pools,,
+DOM: Aboveground,Carbon in DOM pools above the mineral soil,,
+DOM: Belowground,Carbon in DOM pools in the mineral soil,,
+DOM: Total,Carbon in all DOM pools,,
+Total Ecosystem,Carbon in Biomass and DOM pools,,
