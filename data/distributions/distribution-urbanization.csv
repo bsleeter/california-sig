@@ -1,1021 +1,562 @@
-Timestep,StratumID,DistributionTypeID,ExternalVariableTypeID,ExternalVariableMin,ExternalVariableMax,Amount
-2001,Coast Range,Urbanization: Open,Urbanization,2001,2006,0
-2001,Puget Lowland,Urbanization: Open,Urbanization,2001,2006,520
-2001,Willamette Valley,Urbanization: Open,Urbanization,2001,2006,480
-2001,Cascades,Urbanization: Open,Urbanization,2001,2006,0
-2001,Sierra Nevada,Urbanization: Open,Urbanization,2001,2006,20
-2001,Central California Foothills and Coastal Mountains,Urbanization: Open,Urbanization,2001,2006,560
-2001,Central California Valley,Urbanization: Open,Urbanization,2001,2006,1160
-2001,Southern California Mountains,Urbanization: Open,Urbanization,2001,2006,120
-2001,Eastern Cascades Slopes and Foothills,Urbanization: Open,Urbanization,2001,2006,100
-2001,Columbia Plateau,Urbanization: Open,Urbanization,2001,2006,280
-2001,Blue Mountains,Urbanization: Open,Urbanization,2001,2006,160
-2001,Snake River Plain,Urbanization: Open,Urbanization,2001,2006,320
-2001,Central Basin and Range,Urbanization: Open,Urbanization,2001,2006,1380
-2001,Mojave Basin and Range,Urbanization: Open,Urbanization,2001,2006,1160
-2001,Northern Rockies,Urbanization: Open,Urbanization,2001,2006,240
-2001,Idaho Batholith,Urbanization: Open,Urbanization,2001,2006,0
-2001,Middle Rockies,Urbanization: Open,Urbanization,2001,2006,280
-2001,Wyoming Basin,Urbanization: Open,Urbanization,2001,2006,500
-2001,Wasatch and Uinta Mountains,Urbanization: Open,Urbanization,2001,2006,160
-2001,Colorado Plateaus,Urbanization: Open,Urbanization,2001,2006,440.00000000000006
-2001,Southern Rockies,Urbanization: Open,Urbanization,2001,2006,200
-2001,Arizona/New Mexico Plateau,Urbanization: Open,Urbanization,2001,2006,600
-2001,Arizona/New Mexico Mountains,Urbanization: Open,Urbanization,2001,2006,160
-2001,Chihuahuan Deserts,Urbanization: Open,Urbanization,2001,2006,1760.0000000000002
-2001,High Plains,Urbanization: Open,Urbanization,2001,2006,4720
-2001,Southwestern Tablelands,Urbanization: Open,Urbanization,2001,2006,1540
-2001,Central Great Plains,Urbanization: Open,Urbanization,2001,2006,1300
-2001,Flint Hills,Urbanization: Open,Urbanization,2001,2006,60
-2001,Cross Timbers,Urbanization: Open,Urbanization,2001,2006,1480
-2001,Edwards Plateau,Urbanization: Open,Urbanization,2001,2006,1260
-2001,Southern Texas Plains,Urbanization: Open,Urbanization,2001,2006,500
-2001,Texas Blackland Prairies,Urbanization: Open,Urbanization,2001,2006,1480
-2001,East Central Texas Plains,Urbanization: Open,Urbanization,2001,2006,420
-2001,Western Gulf Coastal Plain,Urbanization: Open,Urbanization,2001,2006,3160
-2001,South Central Plains,Urbanization: Open,Urbanization,2001,2006,2080
-2001,Ouachita Mountains,Urbanization: Open,Urbanization,2001,2006,300
-2001,Arkansas Valley,Urbanization: Open,Urbanization,2001,2006,420
-2001,Boston Mountains,Urbanization: Open,Urbanization,2001,2006,100
-2001,Ozark Highlands,Urbanization: Open,Urbanization,2001,2006,1340
-2001,Central Irregular Plains,Urbanization: Open,Urbanization,2001,2006,1220
-2001,Canadian Rockies,Urbanization: Open,Urbanization,2001,2006,0
-2001,Northwestern Glaciated Plains,Urbanization: Open,Urbanization,2001,2006,360
-2001,Northwestern Great Plains,Urbanization: Open,Urbanization,2001,2006,280
-2001,Nebraska Sand Hills,Urbanization: Open,Urbanization,2001,2006,60
-2001,Piedmont,Urbanization: Open,Urbanization,2001,2006,14619.999999999998
-2001,Northern Glaciated Plains,Urbanization: Open,Urbanization,2001,2006,300
-2001,Western Corn Belt Plains,Urbanization: Open,Urbanization,2001,2006,3279.9999999999995
-2001,Lake Agassiz Plain,Urbanization: Open,Urbanization,2001,2006,160
-2001,Northern Minnesota Wetlands,Urbanization: Open,Urbanization,2001,2006,0
-2001,Northern Lakes and Forests,Urbanization: Open,Urbanization,2001,2006,360
-2001,North Central Hardwood Forests,Urbanization: Open,Urbanization,2001,2006,2860
-2001,Driftless Area,Urbanization: Open,Urbanization,2001,2006,480
-2001,Southeastern Wisconsin Till Plains,Urbanization: Open,Urbanization,2001,2006,3060
-2001,Central Corn Belt Plains,Urbanization: Open,Urbanization,2001,2006,2440
-2001,Eastern Corn Belt Plains,Urbanization: Open,Urbanization,2001,2006,2800
-2001,Southern Michigan/Northern Indiana Drift Plains,Urbanization: Open,Urbanization,2001,2006,1200
-2001,Huron/Erie Lake Plains,Urbanization: Open,Urbanization,2001,2006,620
-2001,Northeastern Highlands,Urbanization: Open,Urbanization,2001,2006,400
-2001,Northeastern Coastal Zone,Urbanization: Open,Urbanization,2001,2006,4300
-2001,Northern Allegheny Plateau,Urbanization: Open,Urbanization,2001,2006,120
-2001,Erie Drift Plain,Urbanization: Open,Urbanization,2001,2006,1420
-2001,North Central Appalachians,Urbanization: Open,Urbanization,2001,2006,60
-2001,Middle Atlantic Coastal Plain,Urbanization: Open,Urbanization,2001,2006,2860
-2001,Northern Piedmont,Urbanization: Open,Urbanization,2001,2006,2440
-2001,Southeastern Plains,Urbanization: Open,Urbanization,2001,2006,7540.000000000001
-2001,Blue Ridge,Urbanization: Open,Urbanization,2001,2006,540
-2001,Ridge and Valley,Urbanization: Open,Urbanization,2001,2006,5320
-2001,Southwestern Appalachians,Urbanization: Open,Urbanization,2001,2006,540
-2001,Central Appalachians,Urbanization: Open,Urbanization,2001,2006,180
-2001,Western Allegheny Plateau,Urbanization: Open,Urbanization,2001,2006,1520
-2001,Interior Plateau,Urbanization: Open,Urbanization,2001,2006,4079.9999999999995
-2001,Interior River Valleys and Hills,Urbanization: Open,Urbanization,2001,2006,1400
-2001,Mississippi Alluvial Plain,Urbanization: Open,Urbanization,2001,2006,1100
-2001,Mississippi Valley Loess Plains,Urbanization: Open,Urbanization,2001,2006,2300
-2001,Southern Coastal Plain,Urbanization: Open,Urbanization,2001,2006,5040
-2001,Southern Florida Coastal Plain,Urbanization: Open,Urbanization,2001,2006,580
-2001,North Cascades,Urbanization: Open,Urbanization,2001,2006,40
-2001,Klamath Mountains/California High North Coast Range,Urbanization: Open,Urbanization,2001,2006,140
-2001,Madrean Archipelago,Urbanization: Open,Urbanization,2001,2006,80
-2001,Northern Basin and Range,Urbanization: Open,Urbanization,2001,2006,20
-2001,Sonoran Basin and Range,Urbanization: Open,Urbanization,2001,2006,2560
-2001,Acadian Plains and Hills,Urbanization: Open,Urbanization,2001,2006,120
-2001,Eastern Great Lakes Lowlands,Urbanization: Open,Urbanization,2001,2006,860
-2001,Atlantic Coastal Pine Barrens,Urbanization: Open,Urbanization,2001,2006,1220
-2001,Southern California/Northern Baja Coast,Urbanization: Open,Urbanization,2001,2006,2440
-2007,Coast Range,Urbanization: Open,Urbanization,2007,2012,60
-2007,Puget Lowland,Urbanization: Open,Urbanization,2007,2012,320
-2007,Willamette Valley,Urbanization: Open,Urbanization,2007,2012,140
-2007,Cascades,Urbanization: Open,Urbanization,2007,2012,0
-2007,Sierra Nevada,Urbanization: Open,Urbanization,2007,2012,0
-2007,Central California Foothills and Coastal Mountains,Urbanization: Open,Urbanization,2007,2012,200
-2007,Central California Valley,Urbanization: Open,Urbanization,2007,2012,880.0000000000001
-2007,Southern California Mountains,Urbanization: Open,Urbanization,2007,2012,0
-2007,Eastern Cascades Slopes and Foothills,Urbanization: Open,Urbanization,2007,2012,0
-2007,Columbia Plateau,Urbanization: Open,Urbanization,2007,2012,180
-2007,Blue Mountains,Urbanization: Open,Urbanization,2007,2012,40
-2007,Snake River Plain,Urbanization: Open,Urbanization,2007,2012,300
-2007,Central Basin and Range,Urbanization: Open,Urbanization,2007,2012,819.9999999999999
-2007,Mojave Basin and Range,Urbanization: Open,Urbanization,2007,2012,580
-2007,Northern Rockies,Urbanization: Open,Urbanization,2007,2012,140
-2007,Idaho Batholith,Urbanization: Open,Urbanization,2007,2012,20
-2007,Middle Rockies,Urbanization: Open,Urbanization,2007,2012,240
-2007,Wyoming Basin,Urbanization: Open,Urbanization,2007,2012,220.00000000000003
-2007,Wasatch and Uinta Mountains,Urbanization: Open,Urbanization,2007,2012,240
-2007,Colorado Plateaus,Urbanization: Open,Urbanization,2007,2012,280
-2007,Southern Rockies,Urbanization: Open,Urbanization,2007,2012,140
-2007,Arizona/New Mexico Plateau,Urbanization: Open,Urbanization,2007,2012,340
-2007,Arizona/New Mexico Mountains,Urbanization: Open,Urbanization,2007,2012,220.00000000000003
-2007,Chihuahuan Deserts,Urbanization: Open,Urbanization,2007,2012,1660.0000000000002
-2007,High Plains,Urbanization: Open,Urbanization,2007,2012,3140
-2007,Southwestern Tablelands,Urbanization: Open,Urbanization,2007,2012,680
-2007,Central Great Plains,Urbanization: Open,Urbanization,2007,2012,1600
-2007,Flint Hills,Urbanization: Open,Urbanization,2007,2012,100
-2007,Cross Timbers,Urbanization: Open,Urbanization,2007,2012,1600
-2007,Edwards Plateau,Urbanization: Open,Urbanization,2007,2012,1340
-2007,Southern Texas Plains,Urbanization: Open,Urbanization,2007,2012,580
-2007,Texas Blackland Prairies,Urbanization: Open,Urbanization,2007,2012,2180
-2007,East Central Texas Plains,Urbanization: Open,Urbanization,2007,2012,340
-2007,Western Gulf Coastal Plain,Urbanization: Open,Urbanization,2007,2012,2860
-2007,South Central Plains,Urbanization: Open,Urbanization,2007,2012,2300
-2007,Ouachita Mountains,Urbanization: Open,Urbanization,2007,2012,220.00000000000003
-2007,Arkansas Valley,Urbanization: Open,Urbanization,2007,2012,320
-2007,Boston Mountains,Urbanization: Open,Urbanization,2007,2012,20
-2007,Ozark Highlands,Urbanization: Open,Urbanization,2007,2012,819.9999999999999
-2007,Central Irregular Plains,Urbanization: Open,Urbanization,2007,2012,1040
-2007,Canadian Rockies,Urbanization: Open,Urbanization,2007,2012,0
-2007,Northwestern Glaciated Plains,Urbanization: Open,Urbanization,2007,2012,280
-2007,Northwestern Great Plains,Urbanization: Open,Urbanization,2007,2012,480
-2007,Nebraska Sand Hills,Urbanization: Open,Urbanization,2007,2012,40
-2007,Piedmont,Urbanization: Open,Urbanization,2007,2012,5280
-2007,Northern Glaciated Plains,Urbanization: Open,Urbanization,2007,2012,320
-2007,Western Corn Belt Plains,Urbanization: Open,Urbanization,2007,2012,2120
-2007,Lake Agassiz Plain,Urbanization: Open,Urbanization,2007,2012,60
-2007,Northern Minnesota Wetlands,Urbanization: Open,Urbanization,2007,2012,20
-2007,Northern Lakes and Forests,Urbanization: Open,Urbanization,2007,2012,200
-2007,North Central Hardwood Forests,Urbanization: Open,Urbanization,2007,2012,1320
-2007,Driftless Area,Urbanization: Open,Urbanization,2007,2012,200
-2007,Southeastern Wisconsin Till Plains,Urbanization: Open,Urbanization,2007,2012,1420
-2007,Central Corn Belt Plains,Urbanization: Open,Urbanization,2007,2012,2220
-2007,Eastern Corn Belt Plains,Urbanization: Open,Urbanization,2007,2012,1860.0000000000002
-2007,Southern Michigan/Northern Indiana Drift Plains,Urbanization: Open,Urbanization,2007,2012,980.0000000000001
-2007,Huron/Erie Lake Plains,Urbanization: Open,Urbanization,2007,2012,560
-2007,Northeastern Highlands,Urbanization: Open,Urbanization,2007,2012,500
-2007,Northeastern Coastal Zone,Urbanization: Open,Urbanization,2007,2012,2600
-2007,Northern Allegheny Plateau,Urbanization: Open,Urbanization,2007,2012,120
-2007,Erie Drift Plain,Urbanization: Open,Urbanization,2007,2012,540
-2007,North Central Appalachians,Urbanization: Open,Urbanization,2007,2012,80
-2007,Middle Atlantic Coastal Plain,Urbanization: Open,Urbanization,2007,2012,1500
-2007,Northern Piedmont,Urbanization: Open,Urbanization,2007,2012,1540
-2007,Southeastern Plains,Urbanization: Open,Urbanization,2007,2012,3620.0000000000005
-2007,Blue Ridge,Urbanization: Open,Urbanization,2007,2012,500
-2007,Ridge and Valley,Urbanization: Open,Urbanization,2007,2012,2520
-2007,Southwestern Appalachians,Urbanization: Open,Urbanization,2007,2012,380
-2007,Central Appalachians,Urbanization: Open,Urbanization,2007,2012,100
-2007,Western Allegheny Plateau,Urbanization: Open,Urbanization,2007,2012,480
-2007,Interior Plateau,Urbanization: Open,Urbanization,2007,2012,1700
-2007,Interior River Valleys and Hills,Urbanization: Open,Urbanization,2007,2012,1560
-2007,Mississippi Alluvial Plain,Urbanization: Open,Urbanization,2007,2012,540
-2007,Mississippi Valley Loess Plains,Urbanization: Open,Urbanization,2007,2012,740
-2007,Southern Coastal Plain,Urbanization: Open,Urbanization,2007,2012,5220
-2007,Southern Florida Coastal Plain,Urbanization: Open,Urbanization,2007,2012,640
-2007,North Cascades,Urbanization: Open,Urbanization,2007,2012,0
-2007,Klamath Mountains/California High North Coast Range,Urbanization: Open,Urbanization,2007,2012,20
-2007,Madrean Archipelago,Urbanization: Open,Urbanization,2007,2012,40
-2007,Northern Basin and Range,Urbanization: Open,Urbanization,2007,2012,40
-2007,Sonoran Basin and Range,Urbanization: Open,Urbanization,2007,2012,1800
-2007,Acadian Plains and Hills,Urbanization: Open,Urbanization,2007,2012,60
-2007,Eastern Great Lakes Lowlands,Urbanization: Open,Urbanization,2007,2012,819.9999999999999
-2007,Atlantic Coastal Pine Barrens,Urbanization: Open,Urbanization,2007,2012,819.9999999999999
-2007,Southern California/Northern Baja Coast,Urbanization: Open,Urbanization,2007,2012,819.9999999999999
-2012,Coast Range,Urbanization: Open,Urbanization,2012,2017,80
-2012,Puget Lowland,Urbanization: Open,Urbanization,2012,2017,120
-2012,Willamette Valley,Urbanization: Open,Urbanization,2012,2017,120
-2012,Cascades,Urbanization: Open,Urbanization,2012,2017,0
-2012,Sierra Nevada,Urbanization: Open,Urbanization,2012,2017,20
-2012,Central California Foothills and Coastal Mountains,Urbanization: Open,Urbanization,2012,2017,480
-2012,Central California Valley,Urbanization: Open,Urbanization,2012,2017,1120
-2012,Southern California Mountains,Urbanization: Open,Urbanization,2012,2017,0
-2012,Eastern Cascades Slopes and Foothills,Urbanization: Open,Urbanization,2012,2017,0
-2012,Columbia Plateau,Urbanization: Open,Urbanization,2012,2017,160
-2012,Blue Mountains,Urbanization: Open,Urbanization,2012,2017,0
-2012,Snake River Plain,Urbanization: Open,Urbanization,2012,2017,220.00000000000003
-2012,Central Basin and Range,Urbanization: Open,Urbanization,2012,2017,459.99999999999994
-2012,Mojave Basin and Range,Urbanization: Open,Urbanization,2012,2017,1520
-2012,Northern Rockies,Urbanization: Open,Urbanization,2012,2017,80
-2012,Idaho Batholith,Urbanization: Open,Urbanization,2012,2017,0
-2012,Middle Rockies,Urbanization: Open,Urbanization,2012,2017,140
-2012,Wyoming Basin,Urbanization: Open,Urbanization,2012,2017,80
-2012,Wasatch and Uinta Mountains,Urbanization: Open,Urbanization,2012,2017,120
-2012,Colorado Plateaus,Urbanization: Open,Urbanization,2012,2017,160
-2012,Southern Rockies,Urbanization: Open,Urbanization,2012,2017,20
-2012,Arizona/New Mexico Plateau,Urbanization: Open,Urbanization,2012,2017,220.00000000000003
-2012,Arizona/New Mexico Mountains,Urbanization: Open,Urbanization,2012,2017,60
-2012,Chihuahuan Deserts,Urbanization: Open,Urbanization,2012,2017,1720
-2012,High Plains,Urbanization: Open,Urbanization,2012,2017,3720.0000000000005
-2012,Southwestern Tablelands,Urbanization: Open,Urbanization,2012,2017,560
-2012,Central Great Plains,Urbanization: Open,Urbanization,2012,2017,680
-2012,Flint Hills,Urbanization: Open,Urbanization,2012,2017,80
-2012,Cross Timbers,Urbanization: Open,Urbanization,2012,2017,940
-2012,Edwards Plateau,Urbanization: Open,Urbanization,2012,2017,1120
-2012,Southern Texas Plains,Urbanization: Open,Urbanization,2012,2017,940
-2012,Texas Blackland Prairies,Urbanization: Open,Urbanization,2012,2017,1639.9999999999998
-2012,East Central Texas Plains,Urbanization: Open,Urbanization,2012,2017,520
-2012,Western Gulf Coastal Plain,Urbanization: Open,Urbanization,2012,2017,2180
-2012,South Central Plains,Urbanization: Open,Urbanization,2012,2017,1000
-2012,Ouachita Mountains,Urbanization: Open,Urbanization,2012,2017,80
-2012,Arkansas Valley,Urbanization: Open,Urbanization,2012,2017,160
-2012,Boston Mountains,Urbanization: Open,Urbanization,2012,2017,40
-2012,Ozark Highlands,Urbanization: Open,Urbanization,2012,2017,360
-2012,Central Irregular Plains,Urbanization: Open,Urbanization,2012,2017,240
-2012,Canadian Rockies,Urbanization: Open,Urbanization,2012,2017,0
-2012,Northwestern Glaciated Plains,Urbanization: Open,Urbanization,2012,2017,680
-2012,Northwestern Great Plains,Urbanization: Open,Urbanization,2012,2017,1360
-2012,Nebraska Sand Hills,Urbanization: Open,Urbanization,2012,2017,20
-2012,Piedmont,Urbanization: Open,Urbanization,2012,2017,2240
-2012,Northern Glaciated Plains,Urbanization: Open,Urbanization,2012,2017,360
-2012,Western Corn Belt Plains,Urbanization: Open,Urbanization,2012,2017,900
-2012,Lake Agassiz Plain,Urbanization: Open,Urbanization,2012,2017,160
-2012,Northern Minnesota Wetlands,Urbanization: Open,Urbanization,2012,2017,20
-2012,Northern Lakes and Forests,Urbanization: Open,Urbanization,2012,2017,200
-2012,North Central Hardwood Forests,Urbanization: Open,Urbanization,2012,2017,260
-2012,Driftless Area,Urbanization: Open,Urbanization,2012,2017,80
-2012,Southeastern Wisconsin Till Plains,Urbanization: Open,Urbanization,2012,2017,140
-2012,Central Corn Belt Plains,Urbanization: Open,Urbanization,2012,2017,340
-2012,Eastern Corn Belt Plains,Urbanization: Open,Urbanization,2012,2017,660
-2012,Southern Michigan/Northern Indiana Drift Plains,Urbanization: Open,Urbanization,2012,2017,140
-2012,Huron/Erie Lake Plains,Urbanization: Open,Urbanization,2012,2017,100
-2012,Northeastern Highlands,Urbanization: Open,Urbanization,2012,2017,160
-2012,Northeastern Coastal Zone,Urbanization: Open,Urbanization,2012,2017,600
-2012,Northern Allegheny Plateau,Urbanization: Open,Urbanization,2012,2017,140
-2012,Erie Drift Plain,Urbanization: Open,Urbanization,2012,2017,140
-2012,North Central Appalachians,Urbanization: Open,Urbanization,2012,2017,80
-2012,Middle Atlantic Coastal Plain,Urbanization: Open,Urbanization,2012,2017,700
-2012,Northern Piedmont,Urbanization: Open,Urbanization,2012,2017,700
-2012,Southeastern Plains,Urbanization: Open,Urbanization,2012,2017,3140
-2012,Blue Ridge,Urbanization: Open,Urbanization,2012,2017,520
-2012,Ridge and Valley,Urbanization: Open,Urbanization,2012,2017,1120
-2012,Southwestern Appalachians,Urbanization: Open,Urbanization,2012,2017,300
-2012,Central Appalachians,Urbanization: Open,Urbanization,2012,2017,560
-2012,Western Allegheny Plateau,Urbanization: Open,Urbanization,2012,2017,1180
-2012,Interior Plateau,Urbanization: Open,Urbanization,2012,2017,880.0000000000001
-2012,Interior River Valleys and Hills,Urbanization: Open,Urbanization,2012,2017,220.00000000000003
-2012,Mississippi Alluvial Plain,Urbanization: Open,Urbanization,2012,2017,440.00000000000006
-2012,Mississippi Valley Loess Plains,Urbanization: Open,Urbanization,2012,2017,500
-2012,Southern Coastal Plain,Urbanization: Open,Urbanization,2012,2017,3760
-2012,Southern Florida Coastal Plain,Urbanization: Open,Urbanization,2012,2017,220.00000000000003
-2012,North Cascades,Urbanization: Open,Urbanization,2012,2017,80
-2012,Klamath Mountains/California High North Coast Range,Urbanization: Open,Urbanization,2012,2017,100
-2012,Madrean Archipelago,Urbanization: Open,Urbanization,2012,2017,120
-2012,Northern Basin and Range,Urbanization: Open,Urbanization,2012,2017,0
-2012,Sonoran Basin and Range,Urbanization: Open,Urbanization,2012,2017,1939.9999999999998
-2012,Acadian Plains and Hills,Urbanization: Open,Urbanization,2012,2017,40
-2012,Eastern Great Lakes Lowlands,Urbanization: Open,Urbanization,2012,2017,240
-2012,Atlantic Coastal Pine Barrens,Urbanization: Open,Urbanization,2012,2017,280
-2012,Southern California/Northern Baja Coast,Urbanization: Open,Urbanization,2012,2017,480
-2001,Coast Range,Urbanization: Low,Urbanization,2001,2006,20
-2001,Puget Lowland,Urbanization: Low,Urbanization,2001,2006,600
-2001,Willamette Valley,Urbanization: Low,Urbanization,2001,2006,160
-2001,Cascades,Urbanization: Low,Urbanization,2001,2006,0
-2001,Sierra Nevada,Urbanization: Low,Urbanization,2001,2006,40
-2001,Central California Foothills and Coastal Mountains,Urbanization: Low,Urbanization,2001,2006,459.99999999999994
-2001,Central California Valley,Urbanization: Low,Urbanization,2001,2006,1120
-2001,Southern California Mountains,Urbanization: Low,Urbanization,2001,2006,40
-2001,Eastern Cascades Slopes and Foothills,Urbanization: Low,Urbanization,2001,2006,80
-2001,Columbia Plateau,Urbanization: Low,Urbanization,2001,2006,380
-2001,Blue Mountains,Urbanization: Low,Urbanization,2001,2006,80
-2001,Snake River Plain,Urbanization: Low,Urbanization,2001,2006,520
-2001,Central Basin and Range,Urbanization: Low,Urbanization,2001,2006,1340
-2001,Mojave Basin and Range,Urbanization: Low,Urbanization,2001,2006,1320
-2001,Northern Rockies,Urbanization: Low,Urbanization,2001,2006,200
-2001,Idaho Batholith,Urbanization: Low,Urbanization,2001,2006,0
-2001,Middle Rockies,Urbanization: Low,Urbanization,2001,2006,40
-2001,Wyoming Basin,Urbanization: Low,Urbanization,2001,2006,40
-2001,Wasatch and Uinta Mountains,Urbanization: Low,Urbanization,2001,2006,60
-2001,Colorado Plateaus,Urbanization: Low,Urbanization,2001,2006,180
-2001,Southern Rockies,Urbanization: Low,Urbanization,2001,2006,40
-2001,Arizona/New Mexico Plateau,Urbanization: Low,Urbanization,2001,2006,440.00000000000006
-2001,Arizona/New Mexico Mountains,Urbanization: Low,Urbanization,2001,2006,160
-2001,Chihuahuan Deserts,Urbanization: Low,Urbanization,2001,2006,580
-2001,High Plains,Urbanization: Low,Urbanization,2001,2006,1900
-2001,Southwestern Tablelands,Urbanization: Low,Urbanization,2001,2006,740
-2001,Central Great Plains,Urbanization: Low,Urbanization,2001,2006,980.0000000000001
-2001,Flint Hills,Urbanization: Low,Urbanization,2001,2006,60
-2001,Cross Timbers,Urbanization: Low,Urbanization,2001,2006,1700
-2001,Edwards Plateau,Urbanization: Low,Urbanization,2001,2006,860
-2001,Southern Texas Plains,Urbanization: Low,Urbanization,2001,2006,360
-2001,Texas Blackland Prairies,Urbanization: Low,Urbanization,2001,2006,2020
-2001,East Central Texas Plains,Urbanization: Low,Urbanization,2001,2006,180
-2001,Western Gulf Coastal Plain,Urbanization: Low,Urbanization,2001,2006,2220
-2001,South Central Plains,Urbanization: Low,Urbanization,2001,2006,1580
-2001,Ouachita Mountains,Urbanization: Low,Urbanization,2001,2006,340
-2001,Arkansas Valley,Urbanization: Low,Urbanization,2001,2006,280
-2001,Boston Mountains,Urbanization: Low,Urbanization,2001,2006,20
-2001,Ozark Highlands,Urbanization: Low,Urbanization,2001,2006,900
-2001,Central Irregular Plains,Urbanization: Low,Urbanization,2001,2006,900
-2001,Canadian Rockies,Urbanization: Low,Urbanization,2001,2006,0
-2001,Northwestern Glaciated Plains,Urbanization: Low,Urbanization,2001,2006,80
-2001,Northwestern Great Plains,Urbanization: Low,Urbanization,2001,2006,200
-2001,Nebraska Sand Hills,Urbanization: Low,Urbanization,2001,2006,20
-2001,Piedmont,Urbanization: Low,Urbanization,2001,2006,9520
-2001,Northern Glaciated Plains,Urbanization: Low,Urbanization,2001,2006,140
-2001,Western Corn Belt Plains,Urbanization: Low,Urbanization,2001,2006,2160
-2001,Lake Agassiz Plain,Urbanization: Low,Urbanization,2001,2006,340
-2001,Northern Minnesota Wetlands,Urbanization: Low,Urbanization,2001,2006,0
-2001,Northern Lakes and Forests,Urbanization: Low,Urbanization,2001,2006,380
-2001,North Central Hardwood Forests,Urbanization: Low,Urbanization,2001,2006,1320
-2001,Driftless Area,Urbanization: Low,Urbanization,2001,2006,400
-2001,Southeastern Wisconsin Till Plains,Urbanization: Low,Urbanization,2001,2006,1860.0000000000002
-2001,Central Corn Belt Plains,Urbanization: Low,Urbanization,2001,2006,2640
-2001,Eastern Corn Belt Plains,Urbanization: Low,Urbanization,2001,2006,1960.0000000000002
-2001,Southern Michigan/Northern Indiana Drift Plains,Urbanization: Low,Urbanization,2001,2006,620
-2001,Huron/Erie Lake Plains,Urbanization: Low,Urbanization,2001,2006,500
-2001,Northeastern Highlands,Urbanization: Low,Urbanization,2001,2006,400
-2001,Northeastern Coastal Zone,Urbanization: Low,Urbanization,2001,2006,2500
-2001,Northern Allegheny Plateau,Urbanization: Low,Urbanization,2001,2006,100
-2001,Erie Drift Plain,Urbanization: Low,Urbanization,2001,2006,780
-2001,North Central Appalachians,Urbanization: Low,Urbanization,2001,2006,40
-2001,Middle Atlantic Coastal Plain,Urbanization: Low,Urbanization,2001,2006,2680
-2001,Northern Piedmont,Urbanization: Low,Urbanization,2001,2006,1860.0000000000002
-2001,Southeastern Plains,Urbanization: Low,Urbanization,2001,2006,5000
-2001,Blue Ridge,Urbanization: Low,Urbanization,2001,2006,200
-2001,Ridge and Valley,Urbanization: Low,Urbanization,2001,2006,3020
-2001,Southwestern Appalachians,Urbanization: Low,Urbanization,2001,2006,380
-2001,Central Appalachians,Urbanization: Low,Urbanization,2001,2006,180
-2001,Western Allegheny Plateau,Urbanization: Low,Urbanization,2001,2006,900
-2001,Interior Plateau,Urbanization: Low,Urbanization,2001,2006,2720
-2001,Interior River Valleys and Hills,Urbanization: Low,Urbanization,2001,2006,800
-2001,Mississippi Alluvial Plain,Urbanization: Low,Urbanization,2001,2006,520
-2001,Mississippi Valley Loess Plains,Urbanization: Low,Urbanization,2001,2006,1380
-2001,Southern Coastal Plain,Urbanization: Low,Urbanization,2001,2006,4440
-2001,Southern Florida Coastal Plain,Urbanization: Low,Urbanization,2001,2006,980.0000000000001
-2001,North Cascades,Urbanization: Low,Urbanization,2001,2006,40
-2001,Klamath Mountains/California High North Coast Range,Urbanization: Low,Urbanization,2001,2006,120
-2001,Madrean Archipelago,Urbanization: Low,Urbanization,2001,2006,80
-2001,Northern Basin and Range,Urbanization: Low,Urbanization,2001,2006,0
-2001,Sonoran Basin and Range,Urbanization: Low,Urbanization,2001,2006,3440
-2001,Acadian Plains and Hills,Urbanization: Low,Urbanization,2001,2006,100
-2001,Eastern Great Lakes Lowlands,Urbanization: Low,Urbanization,2001,2006,560
-2001,Atlantic Coastal Pine Barrens,Urbanization: Low,Urbanization,2001,2006,1220
-2001,Southern California/Northern Baja Coast,Urbanization: Low,Urbanization,2001,2006,1180
-2007,Coast Range,Urbanization: Low,Urbanization,2007,2012,60
-2007,Puget Lowland,Urbanization: Low,Urbanization,2007,2012,400
-2007,Willamette Valley,Urbanization: Low,Urbanization,2007,2012,240
-2007,Cascades,Urbanization: Low,Urbanization,2007,2012,0
-2007,Sierra Nevada,Urbanization: Low,Urbanization,2007,2012,20
-2007,Central California Foothills and Coastal Mountains,Urbanization: Low,Urbanization,2007,2012,140
-2007,Central California Valley,Urbanization: Low,Urbanization,2007,2012,819.9999999999999
-2007,Southern California Mountains,Urbanization: Low,Urbanization,2007,2012,0
-2007,Eastern Cascades Slopes and Foothills,Urbanization: Low,Urbanization,2007,2012,0
-2007,Columbia Plateau,Urbanization: Low,Urbanization,2007,2012,220.00000000000003
-2007,Blue Mountains,Urbanization: Low,Urbanization,2007,2012,80
-2007,Snake River Plain,Urbanization: Low,Urbanization,2007,2012,300
-2007,Central Basin and Range,Urbanization: Low,Urbanization,2007,2012,1000
-2007,Mojave Basin and Range,Urbanization: Low,Urbanization,2007,2012,660
-2007,Northern Rockies,Urbanization: Low,Urbanization,2007,2012,160
-2007,Idaho Batholith,Urbanization: Low,Urbanization,2007,2012,0
-2007,Middle Rockies,Urbanization: Low,Urbanization,2007,2012,80
-2007,Wyoming Basin,Urbanization: Low,Urbanization,2007,2012,120
-2007,Wasatch and Uinta Mountains,Urbanization: Low,Urbanization,2007,2012,140
-2007,Colorado Plateaus,Urbanization: Low,Urbanization,2007,2012,160
-2007,Southern Rockies,Urbanization: Low,Urbanization,2007,2012,80
-2007,Arizona/New Mexico Plateau,Urbanization: Low,Urbanization,2007,2012,140
-2007,Arizona/New Mexico Mountains,Urbanization: Low,Urbanization,2007,2012,180
-2007,Chihuahuan Deserts,Urbanization: Low,Urbanization,2007,2012,700
-2007,High Plains,Urbanization: Low,Urbanization,2007,2012,1120
-2007,Southwestern Tablelands,Urbanization: Low,Urbanization,2007,2012,480
-2007,Central Great Plains,Urbanization: Low,Urbanization,2007,2012,1100
-2007,Flint Hills,Urbanization: Low,Urbanization,2007,2012,60
-2007,Cross Timbers,Urbanization: Low,Urbanization,2007,2012,1620
-2007,Edwards Plateau,Urbanization: Low,Urbanization,2007,2012,1340
-2007,Southern Texas Plains,Urbanization: Low,Urbanization,2007,2012,440.00000000000006
-2007,Texas Blackland Prairies,Urbanization: Low,Urbanization,2007,2012,1720
-2007,East Central Texas Plains,Urbanization: Low,Urbanization,2007,2012,640
-2007,Western Gulf Coastal Plain,Urbanization: Low,Urbanization,2007,2012,2280
-2007,South Central Plains,Urbanization: Low,Urbanization,2007,2012,1760.0000000000002
-2007,Ouachita Mountains,Urbanization: Low,Urbanization,2007,2012,100
-2007,Arkansas Valley,Urbanization: Low,Urbanization,2007,2012,240
-2007,Boston Mountains,Urbanization: Low,Urbanization,2007,2012,20
-2007,Ozark Highlands,Urbanization: Low,Urbanization,2007,2012,680
-2007,Central Irregular Plains,Urbanization: Low,Urbanization,2007,2012,819.9999999999999
-2007,Canadian Rockies,Urbanization: Low,Urbanization,2007,2012,0
-2007,Northwestern Glaciated Plains,Urbanization: Low,Urbanization,2007,2012,160
-2007,Northwestern Great Plains,Urbanization: Low,Urbanization,2007,2012,540
-2007,Nebraska Sand Hills,Urbanization: Low,Urbanization,2007,2012,0
-2007,Piedmont,Urbanization: Low,Urbanization,2007,2012,3720.0000000000005
-2007,Northern Glaciated Plains,Urbanization: Low,Urbanization,2007,2012,180
-2007,Western Corn Belt Plains,Urbanization: Low,Urbanization,2007,2012,1300
-2007,Lake Agassiz Plain,Urbanization: Low,Urbanization,2007,2012,80
-2007,Northern Minnesota Wetlands,Urbanization: Low,Urbanization,2007,2012,0
-2007,Northern Lakes and Forests,Urbanization: Low,Urbanization,2007,2012,160
-2007,North Central Hardwood Forests,Urbanization: Low,Urbanization,2007,2012,919.9999999999999
-2007,Driftless Area,Urbanization: Low,Urbanization,2007,2012,120
-2007,Southeastern Wisconsin Till Plains,Urbanization: Low,Urbanization,2007,2012,1080
-2007,Central Corn Belt Plains,Urbanization: Low,Urbanization,2007,2012,1400
-2007,Eastern Corn Belt Plains,Urbanization: Low,Urbanization,2007,2012,1300
-2007,Southern Michigan/Northern Indiana Drift Plains,Urbanization: Low,Urbanization,2007,2012,520
-2007,Huron/Erie Lake Plains,Urbanization: Low,Urbanization,2007,2012,380
-2007,Northeastern Highlands,Urbanization: Low,Urbanization,2007,2012,320
-2007,Northeastern Coastal Zone,Urbanization: Low,Urbanization,2007,2012,1680
-2007,Northern Allegheny Plateau,Urbanization: Low,Urbanization,2007,2012,160
-2007,Erie Drift Plain,Urbanization: Low,Urbanization,2007,2012,360
-2007,North Central Appalachians,Urbanization: Low,Urbanization,2007,2012,80
-2007,Middle Atlantic Coastal Plain,Urbanization: Low,Urbanization,2007,2012,860
-2007,Northern Piedmont,Urbanization: Low,Urbanization,2007,2012,860
-2007,Southeastern Plains,Urbanization: Low,Urbanization,2007,2012,2500
-2007,Blue Ridge,Urbanization: Low,Urbanization,2007,2012,140
-2007,Ridge and Valley,Urbanization: Low,Urbanization,2007,2012,1480
-2007,Southwestern Appalachians,Urbanization: Low,Urbanization,2007,2012,200
-2007,Central Appalachians,Urbanization: Low,Urbanization,2007,2012,60
-2007,Western Allegheny Plateau,Urbanization: Low,Urbanization,2007,2012,480
-2007,Interior Plateau,Urbanization: Low,Urbanization,2007,2012,1280
-2007,Interior River Valleys and Hills,Urbanization: Low,Urbanization,2007,2012,919.9999999999999
-2007,Mississippi Alluvial Plain,Urbanization: Low,Urbanization,2007,2012,459.99999999999994
-2007,Mississippi Valley Loess Plains,Urbanization: Low,Urbanization,2007,2012,500
-2007,Southern Coastal Plain,Urbanization: Low,Urbanization,2007,2012,4120
-2007,Southern Florida Coastal Plain,Urbanization: Low,Urbanization,2007,2012,360
-2007,North Cascades,Urbanization: Low,Urbanization,2007,2012,0
-2007,Klamath Mountains/California High North Coast Range,Urbanization: Low,Urbanization,2007,2012,20
-2007,Madrean Archipelago,Urbanization: Low,Urbanization,2007,2012,0
-2007,Northern Basin and Range,Urbanization: Low,Urbanization,2007,2012,0
-2007,Sonoran Basin and Range,Urbanization: Low,Urbanization,2007,2012,2480
-2007,Acadian Plains and Hills,Urbanization: Low,Urbanization,2007,2012,80
-2007,Eastern Great Lakes Lowlands,Urbanization: Low,Urbanization,2007,2012,660
-2007,Atlantic Coastal Pine Barrens,Urbanization: Low,Urbanization,2007,2012,760
-2007,Southern California/Northern Baja Coast,Urbanization: Low,Urbanization,2007,2012,580
-2012,Coast Range,Urbanization: Low,Urbanization,2012,2017,0
-2012,Puget Lowland,Urbanization: Low,Urbanization,2012,2017,200
-2012,Willamette Valley,Urbanization: Low,Urbanization,2012,2017,80
-2012,Cascades,Urbanization: Low,Urbanization,2012,2017,0
-2012,Sierra Nevada,Urbanization: Low,Urbanization,2012,2017,0
-2012,Central California Foothills and Coastal Mountains,Urbanization: Low,Urbanization,2012,2017,240
-2012,Central California Valley,Urbanization: Low,Urbanization,2012,2017,640
-2012,Southern California Mountains,Urbanization: Low,Urbanization,2012,2017,0
-2012,Eastern Cascades Slopes and Foothills,Urbanization: Low,Urbanization,2012,2017,0
-2012,Columbia Plateau,Urbanization: Low,Urbanization,2012,2017,220.00000000000003
-2012,Blue Mountains,Urbanization: Low,Urbanization,2012,2017,20
-2012,Snake River Plain,Urbanization: Low,Urbanization,2012,2017,140
-2012,Central Basin and Range,Urbanization: Low,Urbanization,2012,2017,500
-2012,Mojave Basin and Range,Urbanization: Low,Urbanization,2012,2017,800
-2012,Northern Rockies,Urbanization: Low,Urbanization,2012,2017,80
-2012,Idaho Batholith,Urbanization: Low,Urbanization,2012,2017,0
-2012,Middle Rockies,Urbanization: Low,Urbanization,2012,2017,80
-2012,Wyoming Basin,Urbanization: Low,Urbanization,2012,2017,60
-2012,Wasatch and Uinta Mountains,Urbanization: Low,Urbanization,2012,2017,20
-2012,Colorado Plateaus,Urbanization: Low,Urbanization,2012,2017,40
-2012,Southern Rockies,Urbanization: Low,Urbanization,2012,2017,20
-2012,Arizona/New Mexico Plateau,Urbanization: Low,Urbanization,2012,2017,20
-2012,Arizona/New Mexico Mountains,Urbanization: Low,Urbanization,2012,2017,40
-2012,Chihuahuan Deserts,Urbanization: Low,Urbanization,2012,2017,720
-2012,High Plains,Urbanization: Low,Urbanization,2012,2017,1340
-2012,Southwestern Tablelands,Urbanization: Low,Urbanization,2012,2017,180
-2012,Central Great Plains,Urbanization: Low,Urbanization,2012,2017,800
-2012,Flint Hills,Urbanization: Low,Urbanization,2012,2017,60
-2012,Cross Timbers,Urbanization: Low,Urbanization,2012,2017,740
-2012,Edwards Plateau,Urbanization: Low,Urbanization,2012,2017,880.0000000000001
-2012,Southern Texas Plains,Urbanization: Low,Urbanization,2012,2017,700
-2012,Texas Blackland Prairies,Urbanization: Low,Urbanization,2012,2017,1780
-2012,East Central Texas Plains,Urbanization: Low,Urbanization,2012,2017,640
-2012,Western Gulf Coastal Plain,Urbanization: Low,Urbanization,2012,2017,1360
-2012,South Central Plains,Urbanization: Low,Urbanization,2012,2017,819.9999999999999
-2012,Ouachita Mountains,Urbanization: Low,Urbanization,2012,2017,60
-2012,Arkansas Valley,Urbanization: Low,Urbanization,2012,2017,140
-2012,Boston Mountains,Urbanization: Low,Urbanization,2012,2017,0
-2012,Ozark Highlands,Urbanization: Low,Urbanization,2012,2017,240
-2012,Central Irregular Plains,Urbanization: Low,Urbanization,2012,2017,480
-2012,Canadian Rockies,Urbanization: Low,Urbanization,2012,2017,0
-2012,Northwestern Glaciated Plains,Urbanization: Low,Urbanization,2012,2017,600
-2012,Northwestern Great Plains,Urbanization: Low,Urbanization,2012,2017,1360
-2012,Nebraska Sand Hills,Urbanization: Low,Urbanization,2012,2017,20
-2012,Piedmont,Urbanization: Low,Urbanization,2012,2017,2060
-2012,Northern Glaciated Plains,Urbanization: Low,Urbanization,2012,2017,200
-2012,Western Corn Belt Plains,Urbanization: Low,Urbanization,2012,2017,960
-2012,Lake Agassiz Plain,Urbanization: Low,Urbanization,2012,2017,240
-2012,Northern Minnesota Wetlands,Urbanization: Low,Urbanization,2012,2017,40
-2012,Northern Lakes and Forests,Urbanization: Low,Urbanization,2012,2017,200
-2012,North Central Hardwood Forests,Urbanization: Low,Urbanization,2012,2017,420
-2012,Driftless Area,Urbanization: Low,Urbanization,2012,2017,80
-2012,Southeastern Wisconsin Till Plains,Urbanization: Low,Urbanization,2012,2017,200
-2012,Central Corn Belt Plains,Urbanization: Low,Urbanization,2012,2017,320
-2012,Eastern Corn Belt Plains,Urbanization: Low,Urbanization,2012,2017,720
-2012,Southern Michigan/Northern Indiana Drift Plains,Urbanization: Low,Urbanization,2012,2017,140
-2012,Huron/Erie Lake Plains,Urbanization: Low,Urbanization,2012,2017,100
-2012,Northeastern Highlands,Urbanization: Low,Urbanization,2012,2017,100
-2012,Northeastern Coastal Zone,Urbanization: Low,Urbanization,2012,2017,660
-2012,Northern Allegheny Plateau,Urbanization: Low,Urbanization,2012,2017,120
-2012,Erie Drift Plain,Urbanization: Low,Urbanization,2012,2017,120
-2012,North Central Appalachians,Urbanization: Low,Urbanization,2012,2017,40
-2012,Middle Atlantic Coastal Plain,Urbanization: Low,Urbanization,2012,2017,700
-2012,Northern Piedmont,Urbanization: Low,Urbanization,2012,2017,600
-2012,Southeastern Plains,Urbanization: Low,Urbanization,2012,2017,1700
-2012,Blue Ridge,Urbanization: Low,Urbanization,2012,2017,100
-2012,Ridge and Valley,Urbanization: Low,Urbanization,2012,2017,400
-2012,Southwestern Appalachians,Urbanization: Low,Urbanization,2012,2017,60
-2012,Central Appalachians,Urbanization: Low,Urbanization,2012,2017,220.00000000000003
-2012,Western Allegheny Plateau,Urbanization: Low,Urbanization,2012,2017,340
-2012,Interior Plateau,Urbanization: Low,Urbanization,2012,2017,720
-2012,Interior River Valleys and Hills,Urbanization: Low,Urbanization,2012,2017,380
-2012,Mississippi Alluvial Plain,Urbanization: Low,Urbanization,2012,2017,440.00000000000006
-2012,Mississippi Valley Loess Plains,Urbanization: Low,Urbanization,2012,2017,240
-2012,Southern Coastal Plain,Urbanization: Low,Urbanization,2012,2017,1920
-2012,Southern Florida Coastal Plain,Urbanization: Low,Urbanization,2012,2017,500
-2012,North Cascades,Urbanization: Low,Urbanization,2012,2017,0
-2012,Klamath Mountains/California High North Coast Range,Urbanization: Low,Urbanization,2012,2017,60
-2012,Madrean Archipelago,Urbanization: Low,Urbanization,2012,2017,0
-2012,Northern Basin and Range,Urbanization: Low,Urbanization,2012,2017,20
-2012,Sonoran Basin and Range,Urbanization: Low,Urbanization,2012,2017,980.0000000000001
-2012,Acadian Plains and Hills,Urbanization: Low,Urbanization,2012,2017,20
-2012,Eastern Great Lakes Lowlands,Urbanization: Low,Urbanization,2012,2017,180
-2012,Atlantic Coastal Pine Barrens,Urbanization: Low,Urbanization,2012,2017,160
-2012,Southern California/Northern Baja Coast,Urbanization: Low,Urbanization,2012,2017,240
-2001,Coast Range,Urbanization: Medium,Urbanization,2001,2006,0
-2001,Puget Lowland,Urbanization: Medium,Urbanization,2001,2006,720
-2001,Willamette Valley,Urbanization: Medium,Urbanization,2001,2006,340
-2001,Cascades,Urbanization: Medium,Urbanization,2001,2006,20
-2001,Sierra Nevada,Urbanization: Medium,Urbanization,2001,2006,20
-2001,Central California Foothills and Coastal Mountains,Urbanization: Medium,Urbanization,2001,2006,480
-2001,Central California Valley,Urbanization: Medium,Urbanization,2001,2006,2000
-2001,Southern California Mountains,Urbanization: Medium,Urbanization,2001,2006,60
-2001,Eastern Cascades Slopes and Foothills,Urbanization: Medium,Urbanization,2001,2006,40
-2001,Columbia Plateau,Urbanization: Medium,Urbanization,2001,2006,220.00000000000003
-2001,Blue Mountains,Urbanization: Medium,Urbanization,2001,2006,20
-2001,Snake River Plain,Urbanization: Medium,Urbanization,2001,2006,260
-2001,Central Basin and Range,Urbanization: Medium,Urbanization,2001,2006,1360
-2001,Mojave Basin and Range,Urbanization: Medium,Urbanization,2001,2006,1580
-2001,Northern Rockies,Urbanization: Medium,Urbanization,2001,2006,200
-2001,Idaho Batholith,Urbanization: Medium,Urbanization,2001,2006,0
-2001,Middle Rockies,Urbanization: Medium,Urbanization,2001,2006,80
-2001,Wyoming Basin,Urbanization: Medium,Urbanization,2001,2006,80
-2001,Wasatch and Uinta Mountains,Urbanization: Medium,Urbanization,2001,2006,160
-2001,Colorado Plateaus,Urbanization: Medium,Urbanization,2001,2006,60
-2001,Southern Rockies,Urbanization: Medium,Urbanization,2001,2006,80
-2001,Arizona/New Mexico Plateau,Urbanization: Medium,Urbanization,2001,2006,500
-2001,Arizona/New Mexico Mountains,Urbanization: Medium,Urbanization,2001,2006,140
-2001,Chihuahuan Deserts,Urbanization: Medium,Urbanization,2001,2006,440.00000000000006
-2001,High Plains,Urbanization: Medium,Urbanization,2001,2006,1980
-2001,Southwestern Tablelands,Urbanization: Medium,Urbanization,2001,2006,500
-2001,Central Great Plains,Urbanization: Medium,Urbanization,2001,2006,1060
-2001,Flint Hills,Urbanization: Medium,Urbanization,2001,2006,80
-2001,Cross Timbers,Urbanization: Medium,Urbanization,2001,2006,1180
-2001,Edwards Plateau,Urbanization: Medium,Urbanization,2001,2006,540
-2001,Southern Texas Plains,Urbanization: Medium,Urbanization,2001,2006,260
-2001,Texas Blackland Prairies,Urbanization: Medium,Urbanization,2001,2006,2720
-2001,East Central Texas Plains,Urbanization: Medium,Urbanization,2001,2006,560
-2001,Western Gulf Coastal Plain,Urbanization: Medium,Urbanization,2001,2006,2400
-2001,South Central Plains,Urbanization: Medium,Urbanization,2001,2006,1100
-2001,Ouachita Mountains,Urbanization: Medium,Urbanization,2001,2006,80
-2001,Arkansas Valley,Urbanization: Medium,Urbanization,2001,2006,260
-2001,Boston Mountains,Urbanization: Medium,Urbanization,2001,2006,40
-2001,Ozark Highlands,Urbanization: Medium,Urbanization,2001,2006,860
-2001,Central Irregular Plains,Urbanization: Medium,Urbanization,2001,2006,1080
-2001,Canadian Rockies,Urbanization: Medium,Urbanization,2001,2006,0
-2001,Northwestern Glaciated Plains,Urbanization: Medium,Urbanization,2001,2006,80
-2001,Northwestern Great Plains,Urbanization: Medium,Urbanization,2001,2006,180
-2001,Nebraska Sand Hills,Urbanization: Medium,Urbanization,2001,2006,0
-2001,Piedmont,Urbanization: Medium,Urbanization,2001,2006,4700
-2001,Northern Glaciated Plains,Urbanization: Medium,Urbanization,2001,2006,260
-2001,Western Corn Belt Plains,Urbanization: Medium,Urbanization,2001,2006,1780
-2001,Lake Agassiz Plain,Urbanization: Medium,Urbanization,2001,2006,100
-2001,Northern Minnesota Wetlands,Urbanization: Medium,Urbanization,2001,2006,0
-2001,Northern Lakes and Forests,Urbanization: Medium,Urbanization,2001,2006,60
-2001,North Central Hardwood Forests,Urbanization: Medium,Urbanization,2001,2006,1460
-2001,Driftless Area,Urbanization: Medium,Urbanization,2001,2006,240
-2001,Southeastern Wisconsin Till Plains,Urbanization: Medium,Urbanization,2001,2006,1140
-2001,Central Corn Belt Plains,Urbanization: Medium,Urbanization,2001,2006,1600
-2001,Eastern Corn Belt Plains,Urbanization: Medium,Urbanization,2001,2006,1540
-2001,Southern Michigan/Northern Indiana Drift Plains,Urbanization: Medium,Urbanization,2001,2006,400
-2001,Huron/Erie Lake Plains,Urbanization: Medium,Urbanization,2001,2006,320
-2001,Northeastern Highlands,Urbanization: Medium,Urbanization,2001,2006,80
-2001,Northeastern Coastal Zone,Urbanization: Medium,Urbanization,2001,2006,1320
-2001,Northern Allegheny Plateau,Urbanization: Medium,Urbanization,2001,2006,20
-2001,Erie Drift Plain,Urbanization: Medium,Urbanization,2001,2006,320
-2001,North Central Appalachians,Urbanization: Medium,Urbanization,2001,2006,20
-2001,Middle Atlantic Coastal Plain,Urbanization: Medium,Urbanization,2001,2006,1400
-2001,Northern Piedmont,Urbanization: Medium,Urbanization,2001,2006,1360
-2001,Southeastern Plains,Urbanization: Medium,Urbanization,2001,2006,2620
-2001,Blue Ridge,Urbanization: Medium,Urbanization,2001,2006,140
-2001,Ridge and Valley,Urbanization: Medium,Urbanization,2001,2006,1680
-2001,Southwestern Appalachians,Urbanization: Medium,Urbanization,2001,2006,180
-2001,Central Appalachians,Urbanization: Medium,Urbanization,2001,2006,180
-2001,Western Allegheny Plateau,Urbanization: Medium,Urbanization,2001,2006,580
-2001,Interior Plateau,Urbanization: Medium,Urbanization,2001,2006,1839.9999999999998
-2001,Interior River Valleys and Hills,Urbanization: Medium,Urbanization,2001,2006,660
-2001,Mississippi Alluvial Plain,Urbanization: Medium,Urbanization,2001,2006,440.00000000000006
-2001,Mississippi Valley Loess Plains,Urbanization: Medium,Urbanization,2001,2006,960
-2001,Southern Coastal Plain,Urbanization: Medium,Urbanization,2001,2006,3779.9999999999995
-2001,Southern Florida Coastal Plain,Urbanization: Medium,Urbanization,2001,2006,600
-2001,North Cascades,Urbanization: Medium,Urbanization,2001,2006,20
-2001,Klamath Mountains/California High North Coast Range,Urbanization: Medium,Urbanization,2001,2006,100
-2001,Madrean Archipelago,Urbanization: Medium,Urbanization,2001,2006,180
-2001,Northern Basin and Range,Urbanization: Medium,Urbanization,2001,2006,20
-2001,Sonoran Basin and Range,Urbanization: Medium,Urbanization,2001,2006,2980
-2001,Acadian Plains and Hills,Urbanization: Medium,Urbanization,2001,2006,80
-2001,Eastern Great Lakes Lowlands,Urbanization: Medium,Urbanization,2001,2006,540
-2001,Atlantic Coastal Pine Barrens,Urbanization: Medium,Urbanization,2001,2006,800
-2001,Southern California/Northern Baja Coast,Urbanization: Medium,Urbanization,2001,2006,1760.0000000000002
-2007,Coast Range,Urbanization: Medium,Urbanization,2007,2012,60
-2007,Puget Lowland,Urbanization: Medium,Urbanization,2007,2012,260
-2007,Willamette Valley,Urbanization: Medium,Urbanization,2007,2012,60
-2007,Cascades,Urbanization: Medium,Urbanization,2007,2012,0
-2007,Sierra Nevada,Urbanization: Medium,Urbanization,2007,2012,0
-2007,Central California Foothills and Coastal Mountains,Urbanization: Medium,Urbanization,2007,2012,100
-2007,Central California Valley,Urbanization: Medium,Urbanization,2007,2012,819.9999999999999
-2007,Southern California Mountains,Urbanization: Medium,Urbanization,2007,2012,0
-2007,Eastern Cascades Slopes and Foothills,Urbanization: Medium,Urbanization,2007,2012,40
-2007,Columbia Plateau,Urbanization: Medium,Urbanization,2007,2012,120
-2007,Blue Mountains,Urbanization: Medium,Urbanization,2007,2012,0
-2007,Snake River Plain,Urbanization: Medium,Urbanization,2007,2012,140
-2007,Central Basin and Range,Urbanization: Medium,Urbanization,2007,2012,600
-2007,Mojave Basin and Range,Urbanization: Medium,Urbanization,2007,2012,360
-2007,Northern Rockies,Urbanization: Medium,Urbanization,2007,2012,240
-2007,Idaho Batholith,Urbanization: Medium,Urbanization,2007,2012,0
-2007,Middle Rockies,Urbanization: Medium,Urbanization,2007,2012,40
-2007,Wyoming Basin,Urbanization: Medium,Urbanization,2007,2012,140
-2007,Wasatch and Uinta Mountains,Urbanization: Medium,Urbanization,2007,2012,40
-2007,Colorado Plateaus,Urbanization: Medium,Urbanization,2007,2012,60
-2007,Southern Rockies,Urbanization: Medium,Urbanization,2007,2012,80
-2007,Arizona/New Mexico Plateau,Urbanization: Medium,Urbanization,2007,2012,260
-2007,Arizona/New Mexico Mountains,Urbanization: Medium,Urbanization,2007,2012,40
-2007,Chihuahuan Deserts,Urbanization: Medium,Urbanization,2007,2012,480
-2007,High Plains,Urbanization: Medium,Urbanization,2007,2012,760
-2007,Southwestern Tablelands,Urbanization: Medium,Urbanization,2007,2012,360
-2007,Central Great Plains,Urbanization: Medium,Urbanization,2007,2012,980.0000000000001
-2007,Flint Hills,Urbanization: Medium,Urbanization,2007,2012,80
-2007,Cross Timbers,Urbanization: Medium,Urbanization,2007,2012,1460
-2007,Edwards Plateau,Urbanization: Medium,Urbanization,2007,2012,640
-2007,Southern Texas Plains,Urbanization: Medium,Urbanization,2007,2012,280
-2007,Texas Blackland Prairies,Urbanization: Medium,Urbanization,2007,2012,1900
-2007,East Central Texas Plains,Urbanization: Medium,Urbanization,2007,2012,720
-2007,Western Gulf Coastal Plain,Urbanization: Medium,Urbanization,2007,2012,1800
-2007,South Central Plains,Urbanization: Medium,Urbanization,2007,2012,1280
-2007,Ouachita Mountains,Urbanization: Medium,Urbanization,2007,2012,140
-2007,Arkansas Valley,Urbanization: Medium,Urbanization,2007,2012,440.00000000000006
-2007,Boston Mountains,Urbanization: Medium,Urbanization,2007,2012,40
-2007,Ozark Highlands,Urbanization: Medium,Urbanization,2007,2012,640
-2007,Central Irregular Plains,Urbanization: Medium,Urbanization,2007,2012,480
-2007,Canadian Rockies,Urbanization: Medium,Urbanization,2007,2012,0
-2007,Northwestern Glaciated Plains,Urbanization: Medium,Urbanization,2007,2012,100
-2007,Northwestern Great Plains,Urbanization: Medium,Urbanization,2007,2012,260
-2007,Nebraska Sand Hills,Urbanization: Medium,Urbanization,2007,2012,0
-2007,Piedmont,Urbanization: Medium,Urbanization,2007,2012,1460
-2007,Northern Glaciated Plains,Urbanization: Medium,Urbanization,2007,2012,120
-2007,Western Corn Belt Plains,Urbanization: Medium,Urbanization,2007,2012,760
-2007,Lake Agassiz Plain,Urbanization: Medium,Urbanization,2007,2012,160
-2007,Northern Minnesota Wetlands,Urbanization: Medium,Urbanization,2007,2012,0
-2007,Northern Lakes and Forests,Urbanization: Medium,Urbanization,2007,2012,160
-2007,North Central Hardwood Forests,Urbanization: Medium,Urbanization,2007,2012,500
-2007,Driftless Area,Urbanization: Medium,Urbanization,2007,2012,80
-2007,Southeastern Wisconsin Till Plains,Urbanization: Medium,Urbanization,2007,2012,600
-2007,Central Corn Belt Plains,Urbanization: Medium,Urbanization,2007,2012,940
-2007,Eastern Corn Belt Plains,Urbanization: Medium,Urbanization,2007,2012,919.9999999999999
-2007,Southern Michigan/Northern Indiana Drift Plains,Urbanization: Medium,Urbanization,2007,2012,400
-2007,Huron/Erie Lake Plains,Urbanization: Medium,Urbanization,2007,2012,380
-2007,Northeastern Highlands,Urbanization: Medium,Urbanization,2007,2012,180
-2007,Northeastern Coastal Zone,Urbanization: Medium,Urbanization,2007,2012,1360
-2007,Northern Allegheny Plateau,Urbanization: Medium,Urbanization,2007,2012,100
-2007,Erie Drift Plain,Urbanization: Medium,Urbanization,2007,2012,200
-2007,North Central Appalachians,Urbanization: Medium,Urbanization,2007,2012,100
-2007,Middle Atlantic Coastal Plain,Urbanization: Medium,Urbanization,2007,2012,520
-2007,Northern Piedmont,Urbanization: Medium,Urbanization,2007,2012,440.00000000000006
-2007,Southeastern Plains,Urbanization: Medium,Urbanization,2007,2012,1560
-2007,Blue Ridge,Urbanization: Medium,Urbanization,2007,2012,100
-2007,Ridge and Valley,Urbanization: Medium,Urbanization,2007,2012,1300
-2007,Southwestern Appalachians,Urbanization: Medium,Urbanization,2007,2012,120
-2007,Central Appalachians,Urbanization: Medium,Urbanization,2007,2012,40
-2007,Western Allegheny Plateau,Urbanization: Medium,Urbanization,2007,2012,459.99999999999994
-2007,Interior Plateau,Urbanization: Medium,Urbanization,2007,2012,1000
-2007,Interior River Valleys and Hills,Urbanization: Medium,Urbanization,2007,2012,640
-2007,Mississippi Alluvial Plain,Urbanization: Medium,Urbanization,2007,2012,220.00000000000003
-2007,Mississippi Valley Loess Plains,Urbanization: Medium,Urbanization,2007,2012,400
-2007,Southern Coastal Plain,Urbanization: Medium,Urbanization,2007,2012,3279.9999999999995
-2007,Southern Florida Coastal Plain,Urbanization: Medium,Urbanization,2007,2012,360
-2007,North Cascades,Urbanization: Medium,Urbanization,2007,2012,0
-2007,Klamath Mountains/California High North Coast Range,Urbanization: Medium,Urbanization,2007,2012,0
-2007,Madrean Archipelago,Urbanization: Medium,Urbanization,2007,2012,20
-2007,Northern Basin and Range,Urbanization: Medium,Urbanization,2007,2012,20
-2007,Sonoran Basin and Range,Urbanization: Medium,Urbanization,2007,2012,1800
-2007,Acadian Plains and Hills,Urbanization: Medium,Urbanization,2007,2012,60
-2007,Eastern Great Lakes Lowlands,Urbanization: Medium,Urbanization,2007,2012,340
-2007,Atlantic Coastal Pine Barrens,Urbanization: Medium,Urbanization,2007,2012,340
-2007,Southern California/Northern Baja Coast,Urbanization: Medium,Urbanization,2007,2012,780
-2012,Coast Range,Urbanization: Medium,Urbanization,2012,2017,20
-2012,Puget Lowland,Urbanization: Medium,Urbanization,2012,2017,160
-2012,Willamette Valley,Urbanization: Medium,Urbanization,2012,2017,40
-2012,Cascades,Urbanization: Medium,Urbanization,2012,2017,0
-2012,Sierra Nevada,Urbanization: Medium,Urbanization,2012,2017,20
-2012,Central California Foothills and Coastal Mountains,Urbanization: Medium,Urbanization,2012,2017,180
-2012,Central California Valley,Urbanization: Medium,Urbanization,2012,2017,640
-2012,Southern California Mountains,Urbanization: Medium,Urbanization,2012,2017,0
-2012,Eastern Cascades Slopes and Foothills,Urbanization: Medium,Urbanization,2012,2017,0
-2012,Columbia Plateau,Urbanization: Medium,Urbanization,2012,2017,340
-2012,Blue Mountains,Urbanization: Medium,Urbanization,2012,2017,60
-2012,Snake River Plain,Urbanization: Medium,Urbanization,2012,2017,80
-2012,Central Basin and Range,Urbanization: Medium,Urbanization,2012,2017,280
-2012,Mojave Basin and Range,Urbanization: Medium,Urbanization,2012,2017,459.99999999999994
-2012,Northern Rockies,Urbanization: Medium,Urbanization,2012,2017,60
-2012,Idaho Batholith,Urbanization: Medium,Urbanization,2012,2017,0
-2012,Middle Rockies,Urbanization: Medium,Urbanization,2012,2017,100
-2012,Wyoming Basin,Urbanization: Medium,Urbanization,2012,2017,40
-2012,Wasatch and Uinta Mountains,Urbanization: Medium,Urbanization,2012,2017,20
-2012,Colorado Plateaus,Urbanization: Medium,Urbanization,2012,2017,20
-2012,Southern Rockies,Urbanization: Medium,Urbanization,2012,2017,60
-2012,Arizona/New Mexico Plateau,Urbanization: Medium,Urbanization,2012,2017,240
-2012,Arizona/New Mexico Mountains,Urbanization: Medium,Urbanization,2012,2017,0
-2012,Chihuahuan Deserts,Urbanization: Medium,Urbanization,2012,2017,380
-2012,High Plains,Urbanization: Medium,Urbanization,2012,2017,1240
-2012,Southwestern Tablelands,Urbanization: Medium,Urbanization,2012,2017,420
-2012,Central Great Plains,Urbanization: Medium,Urbanization,2012,2017,800
-2012,Flint Hills,Urbanization: Medium,Urbanization,2012,2017,60
-2012,Cross Timbers,Urbanization: Medium,Urbanization,2012,2017,1019.9999999999999
-2012,Edwards Plateau,Urbanization: Medium,Urbanization,2012,2017,480
-2012,Southern Texas Plains,Urbanization: Medium,Urbanization,2012,2017,440.00000000000006
-2012,Texas Blackland Prairies,Urbanization: Medium,Urbanization,2012,2017,1939.9999999999998
-2012,East Central Texas Plains,Urbanization: Medium,Urbanization,2012,2017,360
-2012,Western Gulf Coastal Plain,Urbanization: Medium,Urbanization,2012,2017,1440
-2012,South Central Plains,Urbanization: Medium,Urbanization,2012,2017,760
-2012,Ouachita Mountains,Urbanization: Medium,Urbanization,2012,2017,20
-2012,Arkansas Valley,Urbanization: Medium,Urbanization,2012,2017,180
-2012,Boston Mountains,Urbanization: Medium,Urbanization,2012,2017,0
-2012,Ozark Highlands,Urbanization: Medium,Urbanization,2012,2017,280
-2012,Central Irregular Plains,Urbanization: Medium,Urbanization,2012,2017,260
-2012,Canadian Rockies,Urbanization: Medium,Urbanization,2012,2017,0
-2012,Northwestern Glaciated Plains,Urbanization: Medium,Urbanization,2012,2017,800
-2012,Northwestern Great Plains,Urbanization: Medium,Urbanization,2012,2017,720
-2012,Nebraska Sand Hills,Urbanization: Medium,Urbanization,2012,2017,0
-2012,Piedmont,Urbanization: Medium,Urbanization,2012,2017,1380
-2012,Northern Glaciated Plains,Urbanization: Medium,Urbanization,2012,2017,280
-2012,Western Corn Belt Plains,Urbanization: Medium,Urbanization,2012,2017,800
-2012,Lake Agassiz Plain,Urbanization: Medium,Urbanization,2012,2017,60
-2012,Northern Minnesota Wetlands,Urbanization: Medium,Urbanization,2012,2017,0
-2012,Northern Lakes and Forests,Urbanization: Medium,Urbanization,2012,2017,120
-2012,North Central Hardwood Forests,Urbanization: Medium,Urbanization,2012,2017,459.99999999999994
-2012,Driftless Area,Urbanization: Medium,Urbanization,2012,2017,40
-2012,Southeastern Wisconsin Till Plains,Urbanization: Medium,Urbanization,2012,2017,380
-2012,Central Corn Belt Plains,Urbanization: Medium,Urbanization,2012,2017,400
-2012,Eastern Corn Belt Plains,Urbanization: Medium,Urbanization,2012,2017,720
-2012,Southern Michigan/Northern Indiana Drift Plains,Urbanization: Medium,Urbanization,2012,2017,260
-2012,Huron/Erie Lake Plains,Urbanization: Medium,Urbanization,2012,2017,60
-2012,Northeastern Highlands,Urbanization: Medium,Urbanization,2012,2017,80
-2012,Northeastern Coastal Zone,Urbanization: Medium,Urbanization,2012,2017,360
-2012,Northern Allegheny Plateau,Urbanization: Medium,Urbanization,2012,2017,60
-2012,Erie Drift Plain,Urbanization: Medium,Urbanization,2012,2017,60
-2012,North Central Appalachians,Urbanization: Medium,Urbanization,2012,2017,0
-2012,Middle Atlantic Coastal Plain,Urbanization: Medium,Urbanization,2012,2017,459.99999999999994
-2012,Northern Piedmont,Urbanization: Medium,Urbanization,2012,2017,560
-2012,Southeastern Plains,Urbanization: Medium,Urbanization,2012,2017,1160
-2012,Blue Ridge,Urbanization: Medium,Urbanization,2012,2017,40
-2012,Ridge and Valley,Urbanization: Medium,Urbanization,2012,2017,500
-2012,Southwestern Appalachians,Urbanization: Medium,Urbanization,2012,2017,80
-2012,Central Appalachians,Urbanization: Medium,Urbanization,2012,2017,140
-2012,Western Allegheny Plateau,Urbanization: Medium,Urbanization,2012,2017,400
-2012,Interior Plateau,Urbanization: Medium,Urbanization,2012,2017,940
-2012,Interior River Valleys and Hills,Urbanization: Medium,Urbanization,2012,2017,380
-2012,Mississippi Alluvial Plain,Urbanization: Medium,Urbanization,2012,2017,320
-2012,Mississippi Valley Loess Plains,Urbanization: Medium,Urbanization,2012,2017,360
-2012,Southern Coastal Plain,Urbanization: Medium,Urbanization,2012,2017,1939.9999999999998
-2012,Southern Florida Coastal Plain,Urbanization: Medium,Urbanization,2012,2017,240
-2012,North Cascades,Urbanization: Medium,Urbanization,2012,2017,0
-2012,Klamath Mountains/California High North Coast Range,Urbanization: Medium,Urbanization,2012,2017,40
-2012,Madrean Archipelago,Urbanization: Medium,Urbanization,2012,2017,0
-2012,Northern Basin and Range,Urbanization: Medium,Urbanization,2012,2017,0
-2012,Sonoran Basin and Range,Urbanization: Medium,Urbanization,2012,2017,880.0000000000001
-2012,Acadian Plains and Hills,Urbanization: Medium,Urbanization,2012,2017,0
-2012,Eastern Great Lakes Lowlands,Urbanization: Medium,Urbanization,2012,2017,220.00000000000003
-2012,Atlantic Coastal Pine Barrens,Urbanization: Medium,Urbanization,2012,2017,180
-2012,Southern California/Northern Baja Coast,Urbanization: Medium,Urbanization,2012,2017,360
-2001,Coast Range,Urbanization: High,Urbanization,2001,2006,20
-2001,Puget Lowland,Urbanization: High,Urbanization,2001,2006,120
-2001,Willamette Valley,Urbanization: High,Urbanization,2001,2006,80
-2001,Cascades,Urbanization: High,Urbanization,2001,2006,40
-2001,Sierra Nevada,Urbanization: High,Urbanization,2001,2006,0
-2001,Central California Foothills and Coastal Mountains,Urbanization: High,Urbanization,2001,2006,180
-2001,Central California Valley,Urbanization: High,Urbanization,2001,2006,420
-2001,Southern California Mountains,Urbanization: High,Urbanization,2001,2006,0
-2001,Eastern Cascades Slopes and Foothills,Urbanization: High,Urbanization,2001,2006,0
-2001,Columbia Plateau,Urbanization: High,Urbanization,2001,2006,20
-2001,Blue Mountains,Urbanization: High,Urbanization,2001,2006,0
-2001,Snake River Plain,Urbanization: High,Urbanization,2001,2006,20
-2001,Central Basin and Range,Urbanization: High,Urbanization,2001,2006,459.99999999999994
-2001,Mojave Basin and Range,Urbanization: High,Urbanization,2001,2006,340
-2001,Northern Rockies,Urbanization: High,Urbanization,2001,2006,20
-2001,Idaho Batholith,Urbanization: High,Urbanization,2001,2006,0
-2001,Middle Rockies,Urbanization: High,Urbanization,2001,2006,20
-2001,Wyoming Basin,Urbanization: High,Urbanization,2001,2006,0
-2001,Wasatch and Uinta Mountains,Urbanization: High,Urbanization,2001,2006,0
-2001,Colorado Plateaus,Urbanization: High,Urbanization,2001,2006,0
-2001,Southern Rockies,Urbanization: High,Urbanization,2001,2006,20
-2001,Arizona/New Mexico Plateau,Urbanization: High,Urbanization,2001,2006,140
-2001,Arizona/New Mexico Mountains,Urbanization: High,Urbanization,2001,2006,40
-2001,Chihuahuan Deserts,Urbanization: High,Urbanization,2001,2006,160
-2001,High Plains,Urbanization: High,Urbanization,2001,2006,340
-2001,Southwestern Tablelands,Urbanization: High,Urbanization,2001,2006,60
-2001,Central Great Plains,Urbanization: High,Urbanization,2001,2006,200
-2001,Flint Hills,Urbanization: High,Urbanization,2001,2006,20
-2001,Cross Timbers,Urbanization: High,Urbanization,2001,2006,260
-2001,Edwards Plateau,Urbanization: High,Urbanization,2001,2006,160
-2001,Southern Texas Plains,Urbanization: High,Urbanization,2001,2006,40
-2001,Texas Blackland Prairies,Urbanization: High,Urbanization,2001,2006,780
-2001,East Central Texas Plains,Urbanization: High,Urbanization,2001,2006,80
-2001,Western Gulf Coastal Plain,Urbanization: High,Urbanization,2001,2006,520
-2001,South Central Plains,Urbanization: High,Urbanization,2001,2006,480
-2001,Ouachita Mountains,Urbanization: High,Urbanization,2001,2006,20
-2001,Arkansas Valley,Urbanization: High,Urbanization,2001,2006,100
-2001,Boston Mountains,Urbanization: High,Urbanization,2001,2006,0
-2001,Ozark Highlands,Urbanization: High,Urbanization,2001,2006,200
-2001,Central Irregular Plains,Urbanization: High,Urbanization,2001,2006,280
-2001,Canadian Rockies,Urbanization: High,Urbanization,2001,2006,0
-2001,Northwestern Glaciated Plains,Urbanization: High,Urbanization,2001,2006,40
-2001,Northwestern Great Plains,Urbanization: High,Urbanization,2001,2006,0
-2001,Nebraska Sand Hills,Urbanization: High,Urbanization,2001,2006,0
-2001,Piedmont,Urbanization: High,Urbanization,2001,2006,1200
-2001,Northern Glaciated Plains,Urbanization: High,Urbanization,2001,2006,0
-2001,Western Corn Belt Plains,Urbanization: High,Urbanization,2001,2006,360
-2001,Lake Agassiz Plain,Urbanization: High,Urbanization,2001,2006,0
-2001,Northern Minnesota Wetlands,Urbanization: High,Urbanization,2001,2006,0
-2001,Northern Lakes and Forests,Urbanization: High,Urbanization,2001,2006,60
-2001,North Central Hardwood Forests,Urbanization: High,Urbanization,2001,2006,380
-2001,Driftless Area,Urbanization: High,Urbanization,2001,2006,0
-2001,Southeastern Wisconsin Till Plains,Urbanization: High,Urbanization,2001,2006,380
-2001,Central Corn Belt Plains,Urbanization: High,Urbanization,2001,2006,860
-2001,Eastern Corn Belt Plains,Urbanization: High,Urbanization,2001,2006,380
-2001,Southern Michigan/Northern Indiana Drift Plains,Urbanization: High,Urbanization,2001,2006,100
-2001,Huron/Erie Lake Plains,Urbanization: High,Urbanization,2001,2006,60
-2001,Northeastern Highlands,Urbanization: High,Urbanization,2001,2006,20
-2001,Northeastern Coastal Zone,Urbanization: High,Urbanization,2001,2006,459.99999999999994
-2001,Northern Allegheny Plateau,Urbanization: High,Urbanization,2001,2006,20
-2001,Erie Drift Plain,Urbanization: High,Urbanization,2001,2006,120
-2001,North Central Appalachians,Urbanization: High,Urbanization,2001,2006,0
-2001,Middle Atlantic Coastal Plain,Urbanization: High,Urbanization,2001,2006,180
-2001,Northern Piedmont,Urbanization: High,Urbanization,2001,2006,220.00000000000003
-2001,Southeastern Plains,Urbanization: High,Urbanization,2001,2006,720
-2001,Blue Ridge,Urbanization: High,Urbanization,2001,2006,60
-2001,Ridge and Valley,Urbanization: High,Urbanization,2001,2006,440.00000000000006
-2001,Southwestern Appalachians,Urbanization: High,Urbanization,2001,2006,60
-2001,Central Appalachians,Urbanization: High,Urbanization,2001,2006,80
-2001,Western Allegheny Plateau,Urbanization: High,Urbanization,2001,2006,140
-2001,Interior Plateau,Urbanization: High,Urbanization,2001,2006,540
-2001,Interior River Valleys and Hills,Urbanization: High,Urbanization,2001,2006,200
-2001,Mississippi Alluvial Plain,Urbanization: High,Urbanization,2001,2006,140
-2001,Mississippi Valley Loess Plains,Urbanization: High,Urbanization,2001,2006,300
-2001,Southern Coastal Plain,Urbanization: High,Urbanization,2001,2006,700
-2001,Southern Florida Coastal Plain,Urbanization: High,Urbanization,2001,2006,160
-2001,North Cascades,Urbanization: High,Urbanization,2001,2006,0
-2001,Klamath Mountains/California High North Coast Range,Urbanization: High,Urbanization,2001,2006,0
-2001,Madrean Archipelago,Urbanization: High,Urbanization,2001,2006,20
-2001,Northern Basin and Range,Urbanization: High,Urbanization,2001,2006,0
-2001,Sonoran Basin and Range,Urbanization: High,Urbanization,2001,2006,600
-2001,Acadian Plains and Hills,Urbanization: High,Urbanization,2001,2006,0
-2001,Eastern Great Lakes Lowlands,Urbanization: High,Urbanization,2001,2006,80
-2001,Atlantic Coastal Pine Barrens,Urbanization: High,Urbanization,2001,2006,200
-2001,Southern California/Northern Baja Coast,Urbanization: High,Urbanization,2001,2006,240
-2007,Coast Range,Urbanization: High,Urbanization,2007,2012,0
-2007,Puget Lowland,Urbanization: High,Urbanization,2007,2012,160
-2007,Willamette Valley,Urbanization: High,Urbanization,2007,2012,60
-2007,Cascades,Urbanization: High,Urbanization,2007,2012,20
-2007,Sierra Nevada,Urbanization: High,Urbanization,2007,2012,0
-2007,Central California Foothills and Coastal Mountains,Urbanization: High,Urbanization,2007,2012,60
-2007,Central California Valley,Urbanization: High,Urbanization,2007,2012,300
-2007,Southern California Mountains,Urbanization: High,Urbanization,2007,2012,0
-2007,Eastern Cascades Slopes and Foothills,Urbanization: High,Urbanization,2007,2012,0
-2007,Columbia Plateau,Urbanization: High,Urbanization,2007,2012,60
-2007,Blue Mountains,Urbanization: High,Urbanization,2007,2012,20
-2007,Snake River Plain,Urbanization: High,Urbanization,2007,2012,0
-2007,Central Basin and Range,Urbanization: High,Urbanization,2007,2012,120
-2007,Mojave Basin and Range,Urbanization: High,Urbanization,2007,2012,200
-2007,Northern Rockies,Urbanization: High,Urbanization,2007,2012,20
-2007,Idaho Batholith,Urbanization: High,Urbanization,2007,2012,0
-2007,Middle Rockies,Urbanization: High,Urbanization,2007,2012,60
-2007,Wyoming Basin,Urbanization: High,Urbanization,2007,2012,20
-2007,Wasatch and Uinta Mountains,Urbanization: High,Urbanization,2007,2012,0
-2007,Colorado Plateaus,Urbanization: High,Urbanization,2007,2012,0
-2007,Southern Rockies,Urbanization: High,Urbanization,2007,2012,20
-2007,Arizona/New Mexico Plateau,Urbanization: High,Urbanization,2007,2012,0
-2007,Arizona/New Mexico Mountains,Urbanization: High,Urbanization,2007,2012,40
-2007,Chihuahuan Deserts,Urbanization: High,Urbanization,2007,2012,40
-2007,High Plains,Urbanization: High,Urbanization,2007,2012,340
-2007,Southwestern Tablelands,Urbanization: High,Urbanization,2007,2012,100
-2007,Central Great Plains,Urbanization: High,Urbanization,2007,2012,260
-2007,Flint Hills,Urbanization: High,Urbanization,2007,2012,0
-2007,Cross Timbers,Urbanization: High,Urbanization,2007,2012,180
-2007,Edwards Plateau,Urbanization: High,Urbanization,2007,2012,0
-2007,Southern Texas Plains,Urbanization: High,Urbanization,2007,2012,80
-2007,Texas Blackland Prairies,Urbanization: High,Urbanization,2007,2012,780
-2007,East Central Texas Plains,Urbanization: High,Urbanization,2007,2012,260
-2007,Western Gulf Coastal Plain,Urbanization: High,Urbanization,2007,2012,620
-2007,South Central Plains,Urbanization: High,Urbanization,2007,2012,960
-2007,Ouachita Mountains,Urbanization: High,Urbanization,2007,2012,60
-2007,Arkansas Valley,Urbanization: High,Urbanization,2007,2012,200
-2007,Boston Mountains,Urbanization: High,Urbanization,2007,2012,0
-2007,Ozark Highlands,Urbanization: High,Urbanization,2007,2012,140
-2007,Central Irregular Plains,Urbanization: High,Urbanization,2007,2012,220.00000000000003
-2007,Canadian Rockies,Urbanization: High,Urbanization,2007,2012,0
-2007,Northwestern Glaciated Plains,Urbanization: High,Urbanization,2007,2012,0
-2007,Northwestern Great Plains,Urbanization: High,Urbanization,2007,2012,100
-2007,Nebraska Sand Hills,Urbanization: High,Urbanization,2007,2012,0
-2007,Piedmont,Urbanization: High,Urbanization,2007,2012,760
-2007,Northern Glaciated Plains,Urbanization: High,Urbanization,2007,2012,20
-2007,Western Corn Belt Plains,Urbanization: High,Urbanization,2007,2012,420
-2007,Lake Agassiz Plain,Urbanization: High,Urbanization,2007,2012,40
-2007,Northern Minnesota Wetlands,Urbanization: High,Urbanization,2007,2012,0
-2007,Northern Lakes and Forests,Urbanization: High,Urbanization,2007,2012,40
-2007,North Central Hardwood Forests,Urbanization: High,Urbanization,2007,2012,160
-2007,Driftless Area,Urbanization: High,Urbanization,2007,2012,40
-2007,Southeastern Wisconsin Till Plains,Urbanization: High,Urbanization,2007,2012,200
-2007,Central Corn Belt Plains,Urbanization: High,Urbanization,2007,2012,480
-2007,Eastern Corn Belt Plains,Urbanization: High,Urbanization,2007,2012,400
-2007,Southern Michigan/Northern Indiana Drift Plains,Urbanization: High,Urbanization,2007,2012,200
-2007,Huron/Erie Lake Plains,Urbanization: High,Urbanization,2007,2012,220.00000000000003
-2007,Northeastern Highlands,Urbanization: High,Urbanization,2007,2012,100
-2007,Northeastern Coastal Zone,Urbanization: High,Urbanization,2007,2012,380
-2007,Northern Allegheny Plateau,Urbanization: High,Urbanization,2007,2012,40
-2007,Erie Drift Plain,Urbanization: High,Urbanization,2007,2012,60
-2007,North Central Appalachians,Urbanization: High,Urbanization,2007,2012,20
-2007,Middle Atlantic Coastal Plain,Urbanization: High,Urbanization,2007,2012,240
-2007,Northern Piedmont,Urbanization: High,Urbanization,2007,2012,140
-2007,Southeastern Plains,Urbanization: High,Urbanization,2007,2012,600
-2007,Blue Ridge,Urbanization: High,Urbanization,2007,2012,0
-2007,Ridge and Valley,Urbanization: High,Urbanization,2007,2012,600
-2007,Southwestern Appalachians,Urbanization: High,Urbanization,2007,2012,40
-2007,Central Appalachians,Urbanization: High,Urbanization,2007,2012,40
-2007,Western Allegheny Plateau,Urbanization: High,Urbanization,2007,2012,220.00000000000003
-2007,Interior Plateau,Urbanization: High,Urbanization,2007,2012,300
-2007,Interior River Valleys and Hills,Urbanization: High,Urbanization,2007,2012,180
-2007,Mississippi Alluvial Plain,Urbanization: High,Urbanization,2007,2012,240
-2007,Mississippi Valley Loess Plains,Urbanization: High,Urbanization,2007,2012,120
-2007,Southern Coastal Plain,Urbanization: High,Urbanization,2007,2012,740
-2007,Southern Florida Coastal Plain,Urbanization: High,Urbanization,2007,2012,60
-2007,North Cascades,Urbanization: High,Urbanization,2007,2012,0
-2007,Klamath Mountains/California High North Coast Range,Urbanization: High,Urbanization,2007,2012,0
-2007,Madrean Archipelago,Urbanization: High,Urbanization,2007,2012,40
-2007,Northern Basin and Range,Urbanization: High,Urbanization,2007,2012,20
-2007,Sonoran Basin and Range,Urbanization: High,Urbanization,2007,2012,480
-2007,Acadian Plains and Hills,Urbanization: High,Urbanization,2007,2012,60
-2007,Eastern Great Lakes Lowlands,Urbanization: High,Urbanization,2007,2012,140
-2007,Atlantic Coastal Pine Barrens,Urbanization: High,Urbanization,2007,2012,160
-2007,Southern California/Northern Baja Coast,Urbanization: High,Urbanization,2007,2012,160
-2012,Coast Range,Urbanization: High,Urbanization,2012,2017,20
-2012,Puget Lowland,Urbanization: High,Urbanization,2012,2017,20
-2012,Willamette Valley,Urbanization: High,Urbanization,2012,2017,40
-2012,Cascades,Urbanization: High,Urbanization,2012,2017,0
-2012,Sierra Nevada,Urbanization: High,Urbanization,2012,2017,20
-2012,Central California Foothills and Coastal Mountains,Urbanization: High,Urbanization,2012,2017,40
-2012,Central California Valley,Urbanization: High,Urbanization,2012,2017,280
-2012,Southern California Mountains,Urbanization: High,Urbanization,2012,2017,0
-2012,Eastern Cascades Slopes and Foothills,Urbanization: High,Urbanization,2012,2017,0
-2012,Columbia Plateau,Urbanization: High,Urbanization,2012,2017,60
-2012,Blue Mountains,Urbanization: High,Urbanization,2012,2017,0
-2012,Snake River Plain,Urbanization: High,Urbanization,2012,2017,20
-2012,Central Basin and Range,Urbanization: High,Urbanization,2012,2017,240
-2012,Mojave Basin and Range,Urbanization: High,Urbanization,2012,2017,60
-2012,Northern Rockies,Urbanization: High,Urbanization,2012,2017,0
-2012,Idaho Batholith,Urbanization: High,Urbanization,2012,2017,0
-2012,Middle Rockies,Urbanization: High,Urbanization,2012,2017,60
-2012,Wyoming Basin,Urbanization: High,Urbanization,2012,2017,0
-2012,Wasatch and Uinta Mountains,Urbanization: High,Urbanization,2012,2017,0
-2012,Colorado Plateaus,Urbanization: High,Urbanization,2012,2017,20
-2012,Southern Rockies,Urbanization: High,Urbanization,2012,2017,0
-2012,Arizona/New Mexico Plateau,Urbanization: High,Urbanization,2012,2017,20
-2012,Arizona/New Mexico Mountains,Urbanization: High,Urbanization,2012,2017,0
-2012,Chihuahuan Deserts,Urbanization: High,Urbanization,2012,2017,320
-2012,High Plains,Urbanization: High,Urbanization,2012,2017,540
-2012,Southwestern Tablelands,Urbanization: High,Urbanization,2012,2017,80
-2012,Central Great Plains,Urbanization: High,Urbanization,2012,2017,320
-2012,Flint Hills,Urbanization: High,Urbanization,2012,2017,0
-2012,Cross Timbers,Urbanization: High,Urbanization,2012,2017,300
-2012,Edwards Plateau,Urbanization: High,Urbanization,2012,2017,200
-2012,Southern Texas Plains,Urbanization: High,Urbanization,2012,2017,120
-2012,Texas Blackland Prairies,Urbanization: High,Urbanization,2012,2017,900
-2012,East Central Texas Plains,Urbanization: High,Urbanization,2012,2017,300
-2012,Western Gulf Coastal Plain,Urbanization: High,Urbanization,2012,2017,880.0000000000001
-2012,South Central Plains,Urbanization: High,Urbanization,2012,2017,459.99999999999994
-2012,Ouachita Mountains,Urbanization: High,Urbanization,2012,2017,0
-2012,Arkansas Valley,Urbanization: High,Urbanization,2012,2017,60
-2012,Boston Mountains,Urbanization: High,Urbanization,2012,2017,0
-2012,Ozark Highlands,Urbanization: High,Urbanization,2012,2017,60
-2012,Central Irregular Plains,Urbanization: High,Urbanization,2012,2017,220.00000000000003
-2012,Canadian Rockies,Urbanization: High,Urbanization,2012,2017,0
-2012,Northwestern Glaciated Plains,Urbanization: High,Urbanization,2012,2017,60
-2012,Northwestern Great Plains,Urbanization: High,Urbanization,2012,2017,100
-2012,Nebraska Sand Hills,Urbanization: High,Urbanization,2012,2017,0
-2012,Piedmont,Urbanization: High,Urbanization,2012,2017,459.99999999999994
-2012,Northern Glaciated Plains,Urbanization: High,Urbanization,2012,2017,60
-2012,Western Corn Belt Plains,Urbanization: High,Urbanization,2012,2017,240
-2012,Lake Agassiz Plain,Urbanization: High,Urbanization,2012,2017,100
-2012,Northern Minnesota Wetlands,Urbanization: High,Urbanization,2012,2017,0
-2012,Northern Lakes and Forests,Urbanization: High,Urbanization,2012,2017,40
-2012,North Central Hardwood Forests,Urbanization: High,Urbanization,2012,2017,280
-2012,Driftless Area,Urbanization: High,Urbanization,2012,2017,80
-2012,Southeastern Wisconsin Till Plains,Urbanization: High,Urbanization,2012,2017,120
-2012,Central Corn Belt Plains,Urbanization: High,Urbanization,2012,2017,200
-2012,Eastern Corn Belt Plains,Urbanization: High,Urbanization,2012,2017,440.00000000000006
-2012,Southern Michigan/Northern Indiana Drift Plains,Urbanization: High,Urbanization,2012,2017,140
-2012,Huron/Erie Lake Plains,Urbanization: High,Urbanization,2012,2017,40
-2012,Northeastern Highlands,Urbanization: High,Urbanization,2012,2017,20
-2012,Northeastern Coastal Zone,Urbanization: High,Urbanization,2012,2017,180
-2012,Northern Allegheny Plateau,Urbanization: High,Urbanization,2012,2017,60
-2012,Erie Drift Plain,Urbanization: High,Urbanization,2012,2017,80
-2012,North Central Appalachians,Urbanization: High,Urbanization,2012,2017,0
-2012,Middle Atlantic Coastal Plain,Urbanization: High,Urbanization,2012,2017,300
-2012,Northern Piedmont,Urbanization: High,Urbanization,2012,2017,200
-2012,Southeastern Plains,Urbanization: High,Urbanization,2012,2017,580
-2012,Blue Ridge,Urbanization: High,Urbanization,2012,2017,0
-2012,Ridge and Valley,Urbanization: High,Urbanization,2012,2017,400
-2012,Southwestern Appalachians,Urbanization: High,Urbanization,2012,2017,60
-2012,Central Appalachians,Urbanization: High,Urbanization,2012,2017,60
-2012,Western Allegheny Plateau,Urbanization: High,Urbanization,2012,2017,180
-2012,Interior Plateau,Urbanization: High,Urbanization,2012,2017,440.00000000000006
-2012,Interior River Valleys and Hills,Urbanization: High,Urbanization,2012,2017,320
-2012,Mississippi Alluvial Plain,Urbanization: High,Urbanization,2012,2017,160
-2012,Mississippi Valley Loess Plains,Urbanization: High,Urbanization,2012,2017,200
-2012,Southern Coastal Plain,Urbanization: High,Urbanization,2012,2017,420
-2012,Southern Florida Coastal Plain,Urbanization: High,Urbanization,2012,2017,80
-2012,North Cascades,Urbanization: High,Urbanization,2012,2017,0
-2012,Klamath Mountains/California High North Coast Range,Urbanization: High,Urbanization,2012,2017,0
-2012,Madrean Archipelago,Urbanization: High,Urbanization,2012,2017,20
-2012,Northern Basin and Range,Urbanization: High,Urbanization,2012,2017,0
-2012,Sonoran Basin and Range,Urbanization: High,Urbanization,2012,2017,260
-2012,Acadian Plains and Hills,Urbanization: High,Urbanization,2012,2017,20
-2012,Eastern Great Lakes Lowlands,Urbanization: High,Urbanization,2012,2017,80
-2012,Atlantic Coastal Pine Barrens,Urbanization: High,Urbanization,2012,2017,80
-2012,Southern California/Northern Baja Coast,Urbanization: High,Urbanization,2012,2017,160
+SecondaryStratumID,DistributionTypeID,ExternalVariableTypeID,ExternalVariableMin,ExternalVariableMax,Value,ValueDistributionTypeID,ValueDistributionFrequency,ValueDistributionSD
+Alameda,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,94.089495,Normal,Timestep and iteration,47.0447475
+Alameda,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,499.180181,Normal,Timestep and iteration,249.5900905
+Alameda,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,462.55609799999996,Normal,Timestep and iteration,231.27804899999998
+Alameda,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,366.24083,Normal,Timestep and iteration,183.120415
+Alameda,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,835.878933,Normal,Timestep and iteration,417.9394665
+Alameda,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,287.32706,Normal,Timestep and iteration,143.66353
+Alameda,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,230.67102,Normal,Timestep and iteration,115.33551
+Alameda,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,183.120415,Normal,Timestep and iteration,91.5602075
+Alameda,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,159.446284,Normal,Timestep and iteration,79.723142
+Alameda,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,182.513386,Normal,Timestep and iteration,91.256693
+Alameda,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,312.619935,Normal,Timestep and iteration,156.3099675
+Alameda,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,196.070367,Normal,Timestep and iteration,98.0351835
+Amador,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,102.183215,Normal,Timestep and iteration,51.0916075
+Amador,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,12.342922999999999,Normal,Timestep and iteration,6.1714614999999995
+Amador,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,26.506933,Normal,Timestep and iteration,13.2534665
+Amador,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,26.102247,Normal,Timestep and iteration,13.0511235
+Amador,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,133.951066,Normal,Timestep and iteration,66.975533
+Amador,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,185.75087399999998,Normal,Timestep and iteration,92.87543699999999
+Amador,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,56.65604,Normal,Timestep and iteration,28.32802
+Amador,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,24.078817,Normal,Timestep and iteration,12.0394085
+Amador,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,68.189591,Normal,Timestep and iteration,34.0947955
+Amador,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,4.451546,Normal,Timestep and iteration,2.225773
+Amador,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,3.035145,Normal,Timestep and iteration,1.5175725
+Amador,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,168.349376,Normal,Timestep and iteration,84.174688
+Butte,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,NA,Normal,Timestep and iteration,NA
+Butte,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,NA,Normal,Timestep and iteration,NA
+Butte,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,NA,Normal,Timestep and iteration,NA
+Butte,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,NA,Normal,Timestep and iteration,NA
+Butte,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,NA,Normal,Timestep and iteration,NA
+Butte,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,NA,Normal,Timestep and iteration,NA
+Butte,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,263.450586,Normal,Timestep and iteration,131.725293
+Butte,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,131.725293,Normal,Timestep and iteration,65.8626465
+Butte,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,155.399424,Normal,Timestep and iteration,77.699712
+Butte,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,30.553793,Normal,Timestep and iteration,15.2768965
+Butte,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,90.042635,Normal,Timestep and iteration,45.0213175
+Butte,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,71.022393,Normal,Timestep and iteration,35.5111965
+Colusa,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,NA,Normal,Timestep and iteration,NA
+Colusa,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,NA,Normal,Timestep and iteration,NA
+Colusa,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,NA,Normal,Timestep and iteration,NA
+Colusa,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,80.330170999999993,Normal,Timestep and iteration,40.165085499999996
+Colusa,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,38.849856,Normal,Timestep and iteration,19.424928
+Colusa,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,39.052199,Normal,Timestep and iteration,19.5260995
+Colusa,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,51.192779,Normal,Timestep and iteration,25.5963895
+Colusa,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,55.037296,Normal,Timestep and iteration,27.518648
+Colusa,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,11.533551,Normal,Timestep and iteration,5.7667755
+Colusa,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,4.249203,Normal,Timestep and iteration,2.1246015
+Colusa,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,16.794469,Normal,Timestep and iteration,8.3972345
+Colusa,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,24.685845999999998,Normal,Timestep and iteration,12.342922999999999
+Contra Costa,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,342.162013,Normal,Timestep and iteration,171.0810065
+Contra Costa,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,520.02151,Normal,Timestep and iteration,260.010755
+Contra Costa,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,277.20991,Normal,Timestep and iteration,138.604955
+Contra Costa,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,1057.039832,Normal,Timestep and iteration,528.519916
+Contra Costa,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,1061.896064,Normal,Timestep and iteration,530.948032
+Contra Costa,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,1018.594662,Normal,Timestep and iteration,509.297331
+Contra Costa,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,310.798848,Normal,Timestep and iteration,155.399424
+Contra Costa,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,515.367621,Normal,Timestep and iteration,257.6838105
+Contra Costa,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,258.99904,Normal,Timestep and iteration,129.49952
+Contra Costa,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,247.263146,Normal,Timestep and iteration,123.631573
+Contra Costa,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,151.352564,Normal,Timestep and iteration,75.676282
+Contra Costa,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,220.756213,Normal,Timestep and iteration,110.3781065
+El Dorado,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,8.700749,Normal,Timestep and iteration,4.3503745
+El Dorado,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,225.814788,Normal,Timestep and iteration,112.907394
+El Dorado,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,68.594277,Normal,Timestep and iteration,34.2971385
+El Dorado,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,101.373843,Normal,Timestep and iteration,50.6869215
+El Dorado,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,1105.8044949999999,Normal,Timestep and iteration,552.9022474999999
+El Dorado,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,431.39527599999997,Normal,Timestep and iteration,215.69763799999998
+El Dorado,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,186.357903,Normal,Timestep and iteration,93.1789515
+El Dorado,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,176.03841,Normal,Timestep and iteration,88.019205
+El Dorado,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,38.242827,Normal,Timestep and iteration,19.1214135
+El Dorado,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,68.594277,Normal,Timestep and iteration,34.2971385
+Eldorado,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,82.758287,Normal,Timestep and iteration,41.3791435
+Eldorado,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,28.32802,Normal,Timestep and iteration,14.16401
+Fresno,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,301.086384,Normal,Timestep and iteration,150.543192
+Fresno,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,650.3304019999999,Normal,Timestep and iteration,325.16520099999997
+Fresno,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,1200.905705,Normal,Timestep and iteration,600.4528525
+Fresno,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,750.490187,Normal,Timestep and iteration,375.2450935
+Fresno,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,692.8224319999999,Normal,Timestep and iteration,346.41121599999997
+Fresno,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,716.091877,Normal,Timestep and iteration,358.0459385
+Fresno,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,992.4924149999999,Normal,Timestep and iteration,496.24620749999997
+Fresno,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,586.187671,Normal,Timestep and iteration,293.0938355
+Fresno,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,725.3996549999999,Normal,Timestep and iteration,362.69982749999997
+Fresno,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,428.96716,Normal,Timestep and iteration,214.48358
+Fresno,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,301.895756,Normal,Timestep and iteration,150.947878
+Fresno,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,1297.220973,Normal,Timestep and iteration,648.6104865
+Glenn,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,9.712464,Normal,Timestep and iteration,4.856232
+Glenn,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,11.128865,Normal,Timestep and iteration,5.5644325
+Glenn,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,11.331208,Normal,Timestep and iteration,5.665604
+Glenn,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,82.758287,Normal,Timestep and iteration,41.3791435
+Glenn,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,82.758287,Normal,Timestep and iteration,41.3791435
+Glenn,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,37.433455,Normal,Timestep and iteration,18.7167275
+Glenn,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,54.025580999999995,Normal,Timestep and iteration,27.012790499999998
+Glenn,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,12.14058,Normal,Timestep and iteration,6.07029
+Glenn,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,34.600653,Normal,Timestep and iteration,17.3003265
+Glenn,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,7.284348,Normal,Timestep and iteration,3.642174
+Glenn,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,31.160822,Normal,Timestep and iteration,15.580411
+Glenn,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,10.724179,Normal,Timestep and iteration,5.3620895
+Imperial,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,142.044786,Normal,Timestep and iteration,71.022393
+Imperial,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,96.315268,Normal,Timestep and iteration,48.157634
+Imperial,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,92.87543699999999,Normal,Timestep and iteration,46.437718499999995
+Imperial,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,97.326983,Normal,Timestep and iteration,48.6634915
+Imperial,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,220.958556,Normal,Timestep and iteration,110.479278
+Imperial,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,624.228155,Normal,Timestep and iteration,312.1140775
+Imperial,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,251.917035,Normal,Timestep and iteration,125.9585175
+Imperial,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,219.339812,Normal,Timestep and iteration,109.669906
+Imperial,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,173.812637,Normal,Timestep and iteration,86.9063185
+Imperial,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,64.345074,Normal,Timestep and iteration,32.172537
+Imperial,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,1482.567161,Normal,Timestep and iteration,741.2835805
+Imperial,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,403.876628,Normal,Timestep and iteration,201.938314
+Kern,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,647.699943,Normal,Timestep and iteration,323.8499715
+Kern,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,385.86810099999997,Normal,Timestep and iteration,192.93405049999998
+Kern,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,814.632918,Normal,Timestep and iteration,407.316459
+Kern,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,1019.80872,Normal,Timestep and iteration,509.90436
+Kern,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,1048.743769,Normal,Timestep and iteration,524.3718845
+Kern,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,1640.799387,Normal,Timestep and iteration,820.3996935
+Kern,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,1619.148686,Normal,Timestep and iteration,809.574343
+Kern,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,2106.7953159999997,Normal,Timestep and iteration,1053.3976579999999
+Kern,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,700.713809,Normal,Timestep and iteration,350.3569045
+Kern,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,483.80211299999996,Normal,Timestep and iteration,241.90105649999998
+Kern,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,2016.752681,Normal,Timestep and iteration,1008.3763405
+Kern,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,1753.302095,Normal,Timestep and iteration,876.6510475
+Kern,Historical Rate: Urbanization,Historical Year: Urbanization,2017,2018,1371.88554,Normal,Timestep and iteration,685.94277
+Kings,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,120.798771,Normal,Timestep and iteration,60.3993855
+Kings,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,176.443096,Normal,Timestep and iteration,88.221548
+Kings,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,525.889457,Normal,Timestep and iteration,262.9447285
+Kings,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,215.29295199999999,Normal,Timestep and iteration,107.64647599999999
+Kings,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,218.53044,Normal,Timestep and iteration,109.26522
+Kings,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,210.234377,Normal,Timestep and iteration,105.1171885
+Kings,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,182.31104299999998,Normal,Timestep and iteration,91.15552149999999
+Kings,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,132.737008,Normal,Timestep and iteration,66.368504
+Kings,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,745.2292689999999,Normal,Timestep and iteration,372.61463449999997
+Kings,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,177.454811,Normal,Timestep and iteration,88.7274055
+Kings,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,147.103361,Normal,Timestep and iteration,73.5516805
+Kings,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,618.36020799999994,Normal,Timestep and iteration,309.18010399999997
+Lake,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,216.50701,Normal,Timestep and iteration,108.253505
+Lake,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,18.008527,Normal,Timestep and iteration,9.0042635
+Lake,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,237.34833899999998,Normal,Timestep and iteration,118.67416949999999
+Lake,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,4.6538889999999995,Normal,Timestep and iteration,2.3269444999999997
+Lake,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,82.555944,Normal,Timestep and iteration,41.277972
+Lake,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,80.330170999999993,Normal,Timestep and iteration,40.165085499999996
+Lake,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,129.701863,Normal,Timestep and iteration,64.8509315
+Lake,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,9.914807,Normal,Timestep and iteration,4.9574035
+Lake,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,4.856232,Normal,Timestep and iteration,2.428116
+Lake,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,56.65604,Normal,Timestep and iteration,28.32802
+Los Angeles,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,409.137546,Normal,Timestep and iteration,204.568773
+Los Angeles,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,249.286576,Normal,Timestep and iteration,124.643288
+Los Angeles,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,794.600961,Normal,Timestep and iteration,397.3004805
+Los Angeles,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,787.518956,Normal,Timestep and iteration,393.759478
+Los Angeles,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,1966.976303,Normal,Timestep and iteration,983.4881515
+Los Angeles,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,655.793663,Normal,Timestep and iteration,327.8968315
+Los Angeles,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,980.3518349999999,Normal,Timestep and iteration,490.17591749999997
+Los Angeles,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,605.00557,Normal,Timestep and iteration,302.502785
+Los Angeles,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,868.8608419999999,Normal,Timestep and iteration,434.43042099999997
+Los Angeles,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,153.173651,Normal,Timestep and iteration,76.5868255
+Los Angeles,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,691.406031,Normal,Timestep and iteration,345.7030155
+Los Angeles,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,707.593471,Normal,Timestep and iteration,353.7967355
+Madera,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,306.144959,Normal,Timestep and iteration,153.0724795
+Madera,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,65.559132,Normal,Timestep and iteration,32.779566
+Madera,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,500.798925,Normal,Timestep and iteration,250.3994625
+Madera,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,196.475053,Normal,Timestep and iteration,98.2375265
+Madera,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,314.441022,Normal,Timestep and iteration,157.220511
+Madera,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,376.560323,Normal,Timestep and iteration,188.2801615
+Madera,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,210.841406,Normal,Timestep and iteration,105.420703
+Madera,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,233.099136,Normal,Timestep and iteration,116.549568
+Madera,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,51.192779,Normal,Timestep and iteration,25.5963895
+Madera,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,313.02462099999997,Normal,Timestep and iteration,156.51231049999998
+Madera,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,67.177876,Normal,Timestep and iteration,33.588938
+Madera,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,95.91058199999999,Normal,Timestep and iteration,47.955290999999995
+Marin,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,42.087344,Normal,Timestep and iteration,21.043672
+Marin,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,37.838141,Normal,Timestep and iteration,18.9190705
+Marin,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,96.517611,Normal,Timestep and iteration,48.2588055
+Marin,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,63.333359,Normal,Timestep and iteration,31.6666795
+Marin,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,636.166392,Normal,Timestep and iteration,318.083196
+Marin,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,90.244978,Normal,Timestep and iteration,45.122489
+Marin,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,37.231111999999996,Normal,Timestep and iteration,18.615555999999998
+Marin,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,40.670943,Normal,Timestep and iteration,20.3354715
+Marin,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,51.192779,Normal,Timestep and iteration,25.5963895
+Marin,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,18.21087,Normal,Timestep and iteration,9.105435
+Marin,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,92.066065,Normal,Timestep and iteration,46.0330325
+Marin,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,30.149107,Normal,Timestep and iteration,15.0745535
+Mariposa,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,3.8445169999999997,Normal,Timestep and iteration,1.9222584999999999
+Mariposa,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,1.011715,Normal,Timestep and iteration,0.5058575
+Mariposa,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,19.829614,Normal,Timestep and iteration,9.914807
+Mariposa,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,3.035145,Normal,Timestep and iteration,1.5175725
+Mariposa,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,85.793432,Normal,Timestep and iteration,42.896716
+Mariposa,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,5.867947,Normal,Timestep and iteration,2.9339735
+Mariposa,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,27.518648,Normal,Timestep and iteration,13.759324
+Mariposa,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,0.607029,Normal,Timestep and iteration,0.3035145
+Mariposa,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,3.439831,Normal,Timestep and iteration,1.7199155
+Mariposa,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,0.607029,Normal,Timestep and iteration,0.3035145
+Mariposa,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,3.8445169999999997,Normal,Timestep and iteration,1.9222584999999999
+Mariposa,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,14.16401,Normal,Timestep and iteration,7.082005
+Mendocino,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,0,Normal,Timestep and iteration,0
+Mendocino,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,35.005339,Normal,Timestep and iteration,17.5026695
+Mendocino,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,55.441981999999996,Normal,Timestep and iteration,27.720990999999998
+Mendocino,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,10.319493,Normal,Timestep and iteration,5.1597465
+Mendocino,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,6.07029,Normal,Timestep and iteration,3.035145
+Mendocino,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,45.527175,Normal,Timestep and iteration,22.7635875
+Merced,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,211.853121,Normal,Timestep and iteration,105.9265605
+Merced,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,177.050125,Normal,Timestep and iteration,88.5250625
+Merced,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,398.413367,Normal,Timestep and iteration,199.2066835
+Merced,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,230.46867699999999,Normal,Timestep and iteration,115.23433849999999
+Merced,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,281.661456,Normal,Timestep and iteration,140.830728
+Merced,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,399.829768,Normal,Timestep and iteration,199.914884
+Merced,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,396.389937,Normal,Timestep and iteration,198.1949685
+Merced,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,135.165124,Normal,Timestep and iteration,67.582562
+Merced,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,226.017131,Normal,Timestep and iteration,113.0085655
+Merced,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,88.423891,Normal,Timestep and iteration,44.2119455
+Merced,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,95.70823899999999,Normal,Timestep and iteration,47.854119499999996
+Merced,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,433.418706,Normal,Timestep and iteration,216.709353
+Modoc,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,5.058575,Normal,Timestep and iteration,2.5292875
+Modoc,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,30.958479,Normal,Timestep and iteration,15.4792395
+Modoc,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,0,Normal,Timestep and iteration,0
+Modoc,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,0.809372,Normal,Timestep and iteration,0.404686
+Modoc,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,73.652852,Normal,Timestep and iteration,36.826426
+Modoc,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,0,Normal,Timestep and iteration,0
+Modoc,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,46.134204,Normal,Timestep and iteration,23.067102
+Modoc,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,0.809372,Normal,Timestep and iteration,0.404686
+Modoc,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,45.729518,Normal,Timestep and iteration,22.864759
+Modoc,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,5.058575,Normal,Timestep and iteration,2.5292875
+Modoc,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,19.424928,Normal,Timestep and iteration,9.712464
+Modoc,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,0.202343,Normal,Timestep and iteration,0.1011715
+Monterey,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,138.200269,Normal,Timestep and iteration,69.1001345
+Monterey,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,436.049165,Normal,Timestep and iteration,218.0245825
+Monterey,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,782.865067,Normal,Timestep and iteration,391.4325335
+Monterey,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,903.461495,Normal,Timestep and iteration,451.7307475
+Monterey,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,351.67213399999997,Normal,Timestep and iteration,175.83606699999999
+Monterey,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,50.788092999999996,Normal,Timestep and iteration,25.394046499999998
+Monterey,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,382.42827,Normal,Timestep and iteration,191.214135
+Monterey,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,122.215172,Normal,Timestep and iteration,61.107586
+Monterey,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,112.502708,Normal,Timestep and iteration,56.251354
+Monterey,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,309.58479,Normal,Timestep and iteration,154.792395
+Monterey,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,46.741233,Normal,Timestep and iteration,23.3706165
+Monterey,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,41.480315,Normal,Timestep and iteration,20.7401575
+Napa,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,85.591089,Normal,Timestep and iteration,42.7955445
+Napa,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,21.448358,Normal,Timestep and iteration,10.724179
+Napa,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,70.415364,Normal,Timestep and iteration,35.207682
+Napa,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,125.655003,Normal,Timestep and iteration,62.8275015
+Napa,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,482.790398,Normal,Timestep and iteration,241.395199
+Napa,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,176.847782,Normal,Timestep and iteration,88.423891
+Napa,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,138.402612,Normal,Timestep and iteration,69.201306
+Napa,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,137.188554,Normal,Timestep and iteration,68.594277
+Napa,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,62.523987,Normal,Timestep and iteration,31.2619935
+Napa,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,18.413213,Normal,Timestep and iteration,9.2066065
+Napa,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,154.59005199999999,Normal,Timestep and iteration,77.295025999999993
+Napa,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,36.219397,Normal,Timestep and iteration,18.1096985
+Nevada,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,3.8445169999999997,Normal,Timestep and iteration,1.9222584999999999
+Nevada,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,12.14058,Normal,Timestep and iteration,6.07029
+Nevada,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,28.125677,Normal,Timestep and iteration,14.0628385
+Nevada,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,15.985097,Normal,Timestep and iteration,7.9925485
+Nevada,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,153.375994,Normal,Timestep and iteration,76.687997
+Nevada,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,380.40484,Normal,Timestep and iteration,190.20242
+Nevada,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,202.545343,Normal,Timestep and iteration,101.2726715
+Nevada,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,87.00749,Normal,Timestep and iteration,43.503745
+Nevada,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,7.082005,Normal,Timestep and iteration,3.5410025
+Nevada,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,3.035145,Normal,Timestep and iteration,1.5175725
+Nevada,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,4.6538889999999995,Normal,Timestep and iteration,2.3269444999999997
+Nevada,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,17.401498,Normal,Timestep and iteration,8.700749
+Nevada,Historical Rate: Urbanization,Historical Year: Urbanization,2017,2018,39.456885,Normal,Timestep and iteration,19.7284425
+Orange,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,640.617938,Normal,Timestep and iteration,320.308969
+Orange,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,457.90220899999997,Normal,Timestep and iteration,228.95110449999999
+Orange,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,1578.882429,Normal,Timestep and iteration,789.4412145
+Orange,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,807.146227,Normal,Timestep and iteration,403.5731135
+Orange,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,2154.95295,Normal,Timestep and iteration,1077.476475
+Orange,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,850.0429429999999,Normal,Timestep and iteration,425.02147149999996
+Orange,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,449.403803,Normal,Timestep and iteration,224.7019015
+Orange,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,781.04398,Normal,Timestep and iteration,390.52199
+Orange,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,267.902132,Normal,Timestep and iteration,133.951066
+Orange,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,159.648627,Normal,Timestep and iteration,79.8243135
+Orange,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,299.265297,Normal,Timestep and iteration,149.6326485
+Orange,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,372.715806,Normal,Timestep and iteration,186.357903
+Placer,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,208.008604,Normal,Timestep and iteration,104.004302
+Placer,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,491.895833,Normal,Timestep and iteration,245.9479165
+Placer,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,537.2206649999999,Normal,Timestep and iteration,268.61033249999997
+Placer,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,1309.766239,Normal,Timestep and iteration,654.8831195
+Placer,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,1105.399809,Normal,Timestep and iteration,552.6999045
+Placer,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,1081.118649,Normal,Timestep and iteration,540.5593245
+Placer,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,920.053621,Normal,Timestep and iteration,460.0268105
+Placer,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,603.9938549999999,Normal,Timestep and iteration,301.99692749999997
+Placer,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,177.657154,Normal,Timestep and iteration,88.828577
+Placer,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,285.30363,Normal,Timestep and iteration,142.651815
+Placer,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,158.839255,Normal,Timestep and iteration,79.4196275
+Placer,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,171.384521,Normal,Timestep and iteration,85.6922605
+Riverside,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,1706.763205,Normal,Timestep and iteration,853.3816025
+Riverside,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,1290.745997,Normal,Timestep and iteration,645.3729985
+Riverside,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,1894.9421949999999,Normal,Timestep and iteration,947.4710974999999
+Riverside,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,2917.78606,Normal,Timestep and iteration,1458.89303
+Riverside,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,4288.659885,Normal,Timestep and iteration,2144.3299425
+Riverside,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,3138.1375869999997,Normal,Timestep and iteration,1569.0687934999999
+Riverside,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,4939.19263,Normal,Timestep and iteration,2469.596315
+Riverside,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,3159.585945,Normal,Timestep and iteration,1579.7929725
+Riverside,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,1242.790706,Normal,Timestep and iteration,621.395353
+Riverside,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,869.467871,Normal,Timestep and iteration,434.7339355
+Riverside,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,946.1558679999999,Normal,Timestep and iteration,473.07793399999997
+Riverside,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,961.331593,Normal,Timestep and iteration,480.6657965
+Sacramento,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,354.504936,Normal,Timestep and iteration,177.252468
+Sacramento,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,512.737162,Normal,Timestep and iteration,256.368581
+Sacramento,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,1047.934397,Normal,Timestep and iteration,523.9671985
+Sacramento,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,1305.314693,Normal,Timestep and iteration,652.6573465
+Sacramento,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,908.924756,Normal,Timestep and iteration,454.462378
+Sacramento,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,1165.293337,Normal,Timestep and iteration,582.6466685
+Sacramento,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,2013.919879,Normal,Timestep and iteration,1006.9599395
+Sacramento,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,506.666872,Normal,Timestep and iteration,253.333436
+Sacramento,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,175.83606699999999,Normal,Timestep and iteration,87.91803349999999
+Sacramento,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,314.036336,Normal,Timestep and iteration,157.018168
+Sacramento,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,251.107663,Normal,Timestep and iteration,125.5538315
+Sacramento,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,197.89145399999998,Normal,Timestep and iteration,98.94572699999999
+Sacramento,Historical Rate: Urbanization,Historical Year: Urbanization,2017,2018,1056.028117,Normal,Timestep and iteration,528.0140585
+San Benito,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,26.709276,Normal,Timestep and iteration,13.354638
+San Benito,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,87.816862,Normal,Timestep and iteration,43.908431
+San Benito,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,114.930824,Normal,Timestep and iteration,57.465412
+San Benito,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,66.166161,Normal,Timestep and iteration,33.0830805
+San Benito,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,214.48358,Normal,Timestep and iteration,107.24179
+San Benito,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,60.095870999999995,Normal,Timestep and iteration,30.047935499999998
+San Benito,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,30.756135999999998,Normal,Timestep and iteration,15.378067999999999
+San Benito,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,27.923334,Normal,Timestep and iteration,13.961667
+San Benito,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,35.612368,Normal,Timestep and iteration,17.806184
+San Benito,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,6.07029,Normal,Timestep and iteration,3.035145
+San Benito,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,28.530362999999998,Normal,Timestep and iteration,14.265181499999999
+San Benito,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,17.603841,Normal,Timestep and iteration,8.8019205
+San Bernardino,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,953.03553,Normal,Timestep and iteration,476.517765
+San Bernardino,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,1134.941887,Normal,Timestep and iteration,567.4709435
+San Bernardino,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,509.90436,Normal,Timestep and iteration,254.95218
+San Bernardino,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,644.2601119999999,Normal,Timestep and iteration,322.13005599999997
+San Bernardino,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,4706.49818,Normal,Timestep and iteration,2353.24909
+San Bernardino,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,1903.8452869999999,Normal,Timestep and iteration,951.9226434999999
+San Bernardino,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,1975.272366,Normal,Timestep and iteration,987.636183
+San Bernardino,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,1481.555446,Normal,Timestep and iteration,740.777723
+San Bernardino,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,536.815979,Normal,Timestep and iteration,268.4079895
+San Bernardino,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,252.52406399999998,Normal,Timestep and iteration,126.26203199999999
+San Bernardino,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,831.225044,Normal,Timestep and iteration,415.612522
+San Bernardino,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,793.386903,Normal,Timestep and iteration,396.6934515
+San Diego,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,903.0568089999999,Normal,Timestep and iteration,451.52840449999997
+San Diego,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,1141.416863,Normal,Timestep and iteration,570.7084315
+San Diego,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,981.565893,Normal,Timestep and iteration,490.7829465
+San Diego,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,6035.284661,Normal,Timestep and iteration,3017.6423305
+San Diego,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,1833.025237,Normal,Timestep and iteration,916.5126185
+San Diego,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,1274.963243,Normal,Timestep and iteration,637.4816215
+San Diego,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,1332.6309979999999,Normal,Timestep and iteration,666.3154989999999
+San Diego,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,1181.480777,Normal,Timestep and iteration,590.7403885
+San Diego,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,953.2378729999999,Normal,Timestep and iteration,476.61893649999996
+San Diego,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,1277.998388,Normal,Timestep and iteration,638.999194
+San Diego,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,392.140734,Normal,Timestep and iteration,196.070367
+San Diego,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,529.936317,Normal,Timestep and iteration,264.9681585
+San Joaquin,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,271.948992,Normal,Timestep and iteration,135.974496
+San Joaquin,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,434.632764,Normal,Timestep and iteration,217.316382
+San Joaquin,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,650.937431,Normal,Timestep and iteration,325.4687155
+San Joaquin,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,519.0097949999999,Normal,Timestep and iteration,259.50489749999997
+San Joaquin,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,1280.021818,Normal,Timestep and iteration,640.010909
+San Joaquin,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,620.585981,Normal,Timestep and iteration,310.2929905
+San Joaquin,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,909.936471,Normal,Timestep and iteration,454.9682355
+San Joaquin,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,612.087575,Normal,Timestep and iteration,306.0437875
+San Joaquin,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,308.977761,Normal,Timestep and iteration,154.4888805
+San Joaquin,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,464.377185,Normal,Timestep and iteration,232.1885925
+San Joaquin,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,147.305704,Normal,Timestep and iteration,73.652852
+San Joaquin,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,365.43145799999996,Normal,Timestep and iteration,182.71572899999998
+San Luis Obispo,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,171.99155,Normal,Timestep and iteration,85.995775
+San Luis Obispo,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,215.29295199999999,Normal,Timestep and iteration,107.64647599999999
+San Luis Obispo,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,37.231111999999996,Normal,Timestep and iteration,18.615555999999998
+San Luis Obispo,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,661.66161,Normal,Timestep and iteration,330.830805
+San Luis Obispo,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,482.790398,Normal,Timestep and iteration,241.395199
+San Luis Obispo,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,184.94150199999999,Normal,Timestep and iteration,92.47075099999999
+San Luis Obispo,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,383.035299,Normal,Timestep and iteration,191.5176495
+San Luis Obispo,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,151.150221,Normal,Timestep and iteration,75.5751105
+San Luis Obispo,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,244.228001,Normal,Timestep and iteration,122.1140005
+San Luis Obispo,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,129.49952,Normal,Timestep and iteration,64.74976
+San Luis Obispo,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,814.632918,Normal,Timestep and iteration,407.316459
+San Luis Obispo,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,136.986211,Normal,Timestep and iteration,68.4931055
+San Mateo,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,88.828577,Normal,Timestep and iteration,44.4142885
+San Mateo,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,37.028769,Normal,Timestep and iteration,18.5143845
+San Mateo,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,137.795583,Normal,Timestep and iteration,68.8977915
+San Mateo,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,66.368504,Normal,Timestep and iteration,33.184252
+San Mateo,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,320.915998,Normal,Timestep and iteration,160.457999
+San Mateo,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,28.530362999999998,Normal,Timestep and iteration,14.265181499999999
+San Mateo,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,182.1087,Normal,Timestep and iteration,91.05435
+San Mateo,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,37.028769,Normal,Timestep and iteration,18.5143845
+San Mateo,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,131.52295,Normal,Timestep and iteration,65.761475
+San Mateo,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,13.759324,Normal,Timestep and iteration,6.879662
+San Mateo,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,5.058575,Normal,Timestep and iteration,2.5292875
+San Mateo,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,479.755253,Normal,Timestep and iteration,239.8776265
+San Mateo,Historical Rate: Urbanization,Historical Year: Urbanization,2017,2018,35.814711,Normal,Timestep and iteration,17.9073555
+Santa Barbara,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,77.49736899999999,Normal,Timestep and iteration,38.748684499999996
+Santa Barbara,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,220.55387,Normal,Timestep and iteration,110.276935
+Santa Barbara,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,355.111965,Normal,Timestep and iteration,177.5559825
+Santa Barbara,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,405.900058,Normal,Timestep and iteration,202.950029
+Santa Barbara,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,319.09491099999997,Normal,Timestep and iteration,159.54745549999998
+Santa Barbara,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,199.914884,Normal,Timestep and iteration,99.957442
+Santa Barbara,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,59.286499,Normal,Timestep and iteration,29.6432495
+Santa Barbara,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,32.577223,Normal,Timestep and iteration,16.2886115
+Santa Barbara,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,98.136355,Normal,Timestep and iteration,49.0681775
+Santa Barbara,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,145.484617,Normal,Timestep and iteration,72.7423085
+Santa Barbara,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,54.227924,Normal,Timestep and iteration,27.113962
+Santa Barbara,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,65.761475,Normal,Timestep and iteration,32.8807375
+Santa Clara,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,359.563511,Normal,Timestep and iteration,179.7817555
+Santa Clara,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,131.725293,Normal,Timestep and iteration,65.8626465
+Santa Clara,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,562.918226,Normal,Timestep and iteration,281.459113
+Santa Clara,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,1014.952488,Normal,Timestep and iteration,507.476244
+Santa Clara,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,1110.8630699999999,Normal,Timestep and iteration,555.4315349999999
+Santa Clara,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,422.694527,Normal,Timestep and iteration,211.3472635
+Santa Clara,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,240.38348399999998,Normal,Timestep and iteration,120.19174199999999
+Santa Clara,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,176.443096,Normal,Timestep and iteration,88.221548
+Santa Clara,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,88.221548,Normal,Timestep and iteration,44.110774
+Santa Clara,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,49.371691999999996,Normal,Timestep and iteration,24.685845999999998
+Santa Clara,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,47.955290999999995,Normal,Timestep and iteration,23.977645499999998
+Santa Clara,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,781.448666,Normal,Timestep and iteration,390.724333
+Santa Cruz,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,46.53889,Normal,Timestep and iteration,23.269445
+Santa Cruz,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,24.888189,Normal,Timestep and iteration,12.4440945
+Santa Cruz,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,178.466526,Normal,Timestep and iteration,89.233263
+Santa Cruz,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,149.73382,Normal,Timestep and iteration,74.86691
+Santa Cruz,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,550.37296,Normal,Timestep and iteration,275.18648
+Santa Cruz,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,66.77319,Normal,Timestep and iteration,33.386595
+Santa Cruz,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,136.379182,Normal,Timestep and iteration,68.189591
+Santa Cruz,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,64.547417,Normal,Timestep and iteration,32.2737085
+Santa Cruz,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,158.636912,Normal,Timestep and iteration,79.318456
+Santa Cruz,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,51.395122,Normal,Timestep and iteration,25.697561
+Santa Cruz,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,4.451546,Normal,Timestep and iteration,2.225773
+Santa Cruz,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,13.961667,Normal,Timestep and iteration,6.9808335
+Shasta,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,209.020319,Normal,Timestep and iteration,104.5101595
+Shasta,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,55.846668,Normal,Timestep and iteration,27.923334
+Shasta,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,241.395199,Normal,Timestep and iteration,120.6975995
+Shasta,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,401.650855,Normal,Timestep and iteration,200.8254275
+Shasta,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,284.291915,Normal,Timestep and iteration,142.1459575
+Shasta,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,434.43042099999997,Normal,Timestep and iteration,217.21521049999998
+Shasta,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,343.9831,Normal,Timestep and iteration,171.99155
+Shasta,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,55.239639,Normal,Timestep and iteration,27.6198195
+Shasta,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,98.94572699999999,Normal,Timestep and iteration,49.472863499999995
+Shasta,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,25.899904,Normal,Timestep and iteration,12.949952
+Shasta,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,28.125677,Normal,Timestep and iteration,14.0628385
+Shasta,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,91.05435,Normal,Timestep and iteration,45.527175
+Sierra Valley,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,0,Normal,Timestep and iteration,0
+Sierra Valley,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,0,Normal,Timestep and iteration,0
+Sierra Valley,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,0,Normal,Timestep and iteration,0
+Sierra Valley,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,24.888189,Normal,Timestep and iteration,12.4440945
+Sierra Valley,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,0,Normal,Timestep and iteration,0
+Sierra Valley,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,0,Normal,Timestep and iteration,0
+Sierra Valley,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,42.087344,Normal,Timestep and iteration,21.043672
+Sierra Valley,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,6.272633,Normal,Timestep and iteration,3.1363165
+Sierra Valley,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,2.02343,Normal,Timestep and iteration,1.011715
+Sierra Valley,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,2.225773,Normal,Timestep and iteration,1.1128865
+Sierra Valley,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,0.202343,Normal,Timestep and iteration,0.1011715
+Sierra Valley,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,3.439831,Normal,Timestep and iteration,1.7199155
+Siskiyou,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,27.518648,Normal,Timestep and iteration,13.759324
+Siskiyou,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,193.439908,Normal,Timestep and iteration,96.719954
+Siskiyou,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,17.603841,Normal,Timestep and iteration,8.8019205
+Siskiyou,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,56.049011,Normal,Timestep and iteration,28.0245055
+Siskiyou,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,715.687191,Normal,Timestep and iteration,357.8435955
+Siskiyou,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,4.6538889999999995,Normal,Timestep and iteration,2.3269444999999997
+Siskiyou,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,62.321644,Normal,Timestep and iteration,31.160822
+Siskiyou,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,0.809372,Normal,Timestep and iteration,0.404686
+Siskiyou,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,76.687997,Normal,Timestep and iteration,38.3439985
+Siskiyou,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,18.008527,Normal,Timestep and iteration,9.0042635
+Siskiyou,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,4.856232,Normal,Timestep and iteration,2.428116
+Siskiyou,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,28.125677,Normal,Timestep and iteration,14.0628385
+Solano,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,57.263069,Normal,Timestep and iteration,28.6315345
+Solano,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,469.43576,Normal,Timestep and iteration,234.71788
+Solano,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,429.776532,Normal,Timestep and iteration,214.888266
+Solano,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,137.59324,Normal,Timestep and iteration,68.79662
+Solano,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,796.826734,Normal,Timestep and iteration,398.413367
+Solano,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,480.159939,Normal,Timestep and iteration,240.0799695
+Solano,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,216.50701,Normal,Timestep and iteration,108.253505
+Solano,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,141.842443,Normal,Timestep and iteration,70.9212215
+Solano,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,127.071404,Normal,Timestep and iteration,63.535702
+Solano,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,112.502708,Normal,Timestep and iteration,56.251354
+Solano,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,97.731669,Normal,Timestep and iteration,48.8658345
+Solano,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,186.15556,Normal,Timestep and iteration,93.07778
+Sonoma,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,62.321644,Normal,Timestep and iteration,31.160822
+Sonoma,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,171.99155,Normal,Timestep and iteration,85.995775
+Sonoma,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,457.092837,Normal,Timestep and iteration,228.5464185
+Sonoma,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,1165.293337,Normal,Timestep and iteration,582.6466685
+Sonoma,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,1093.866258,Normal,Timestep and iteration,546.933129
+Sonoma,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,33.588938,Normal,Timestep and iteration,16.794469
+Sonoma,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,305.133244,Normal,Timestep and iteration,152.566622
+Sonoma,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,155.197081,Normal,Timestep and iteration,77.5985405
+Sonoma,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,144.472902,Normal,Timestep and iteration,72.236451
+Sonoma,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,16.389783,Normal,Timestep and iteration,8.1948915
+Sonoma,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,72.438794,Normal,Timestep and iteration,36.219397
+Sonoma,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,48.56232,Normal,Timestep and iteration,24.28116
+Stanislaus,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,196.677396,Normal,Timestep and iteration,98.338698
+Stanislaus,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,194.04693699999999,Normal,Timestep and iteration,97.02346849999999
+Stanislaus,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,511.11841799999996,Normal,Timestep and iteration,255.55920899999998
+Stanislaus,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,213.674208,Normal,Timestep and iteration,106.837104
+Stanislaus,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,569.797888,Normal,Timestep and iteration,284.898944
+Stanislaus,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,884.643596,Normal,Timestep and iteration,442.321798
+Stanislaus,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,357.135395,Normal,Timestep and iteration,178.5676975
+Stanislaus,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,248.274861,Normal,Timestep and iteration,124.1374305
+Stanislaus,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,136.986211,Normal,Timestep and iteration,68.4931055
+Stanislaus,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,74.664567,Normal,Timestep and iteration,37.3322835
+Stanislaus,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,62.72633,Normal,Timestep and iteration,31.363165
+Stanislaus,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,299.669983,Normal,Timestep and iteration,149.8349915
+Stanislaus,Historical Rate: Urbanization,Historical Year: Urbanization,2017,2018,144.068216,Normal,Timestep and iteration,72.034108
+Sutter,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,82.151258,Normal,Timestep and iteration,41.075629
+Sutter,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,54.227924,Normal,Timestep and iteration,27.113962
+Sutter,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,12.747608999999999,Normal,Timestep and iteration,6.373804499999999
+Sutter,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,185.75087399999998,Normal,Timestep and iteration,92.87543699999999
+Sutter,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,162.886115,Normal,Timestep and iteration,81.4430575
+Sutter,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,150.340849,Normal,Timestep and iteration,75.1704245
+Sutter,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,75.069253,Normal,Timestep and iteration,37.5346265
+Sutter,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,87.614519,Normal,Timestep and iteration,43.8072595
+Sutter,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,71.831765,Normal,Timestep and iteration,35.9158825
+Sutter,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,13.152295,Normal,Timestep and iteration,6.5761475
+Sutter,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,47.752947999999996,Normal,Timestep and iteration,23.876473999999998
+Sutter,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,7.284348,Normal,Timestep and iteration,3.642174
+Tehama,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,105.825389,Normal,Timestep and iteration,52.9126945
+Tehama,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,19.627271,Normal,Timestep and iteration,9.8136355
+Tehama,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,7.4866909999999995,Normal,Timestep and iteration,3.7433454999999998
+Tehama,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,307.763703,Normal,Timestep and iteration,153.8818515
+Tehama,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,39.052199,Normal,Timestep and iteration,19.5260995
+Tehama,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,373.322835,Normal,Timestep and iteration,186.6614175
+Tehama,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,71.629422,Normal,Timestep and iteration,35.814711
+Tehama,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,93.684809,Normal,Timestep and iteration,46.8424045
+Tehama,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,44.51546,Normal,Timestep and iteration,22.25773
+Tehama,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,15.580411,Normal,Timestep and iteration,7.7902055
+Tehama,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,62.119301,Normal,Timestep and iteration,31.0596505
+Tehama,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,33.184252,Normal,Timestep and iteration,16.592126
+Tulare,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,23.674131,Normal,Timestep and iteration,11.8370655
+Tulare,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,47.955290999999995,Normal,Timestep and iteration,23.977645499999998
+Tulare,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,120.19174199999999,Normal,Timestep and iteration,60.095870999999995
+Tulare,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,198.498483,Normal,Timestep and iteration,99.2492415
+Tulare,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,983.791666,Normal,Timestep and iteration,491.895833
+Tulare,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,401.246169,Normal,Timestep and iteration,200.6230845
+Tulare,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,469.840446,Normal,Timestep and iteration,234.920223
+Tulare,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,473.07793399999997,Normal,Timestep and iteration,236.53896699999999
+Tulare,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,422.89687,Normal,Timestep and iteration,211.448435
+Tulare,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,281.25677,Normal,Timestep and iteration,140.628385
+Tulare,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,470.245132,Normal,Timestep and iteration,235.122566
+Tulare,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,350.458076,Normal,Timestep and iteration,175.229038
+Ventura,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,500.596582,Normal,Timestep and iteration,250.298291
+Ventura,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,312.012906,Normal,Timestep and iteration,156.006453
+Ventura,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,563.1205689999999,Normal,Timestep and iteration,281.56028449999997
+Ventura,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,508.892645,Normal,Timestep and iteration,254.4463225
+Ventura,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,1579.691801,Normal,Timestep and iteration,789.8459005
+Ventura,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,419.052353,Normal,Timestep and iteration,209.5261765
+Ventura,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,214.685923,Normal,Timestep and iteration,107.3429615
+Ventura,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,300.88404099999997,Normal,Timestep and iteration,150.44202049999998
+Ventura,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,214.685923,Normal,Timestep and iteration,107.3429615
+Ventura,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,91.256693,Normal,Timestep and iteration,45.6283465
+Ventura,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,79.925485,Normal,Timestep and iteration,39.9627425
+Ventura,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,75.878625,Normal,Timestep and iteration,37.9393125
+Yolo,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,145.282274,Normal,Timestep and iteration,72.641137
+Yolo,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,126.666718,Normal,Timestep and iteration,63.333359
+Yolo,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,231.885078,Normal,Timestep and iteration,115.942539
+Yolo,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,148.519762,Normal,Timestep and iteration,74.259881
+Yolo,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,318.083196,Normal,Timestep and iteration,159.041598
+Yolo,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,275.18648,Normal,Timestep and iteration,137.59324
+Yolo,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,179.27589799999998,Normal,Timestep and iteration,89.63794899999999
+Yolo,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,178.668869,Normal,Timestep and iteration,89.3344345
+Yolo,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,67.177876,Normal,Timestep and iteration,33.588938
+Yolo,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,101.1715,Normal,Timestep and iteration,50.58575
+Yolo,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,44.717802999999996,Normal,Timestep and iteration,22.358901499999998
+Yolo,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,60.905243,Normal,Timestep and iteration,30.4526215
+Yuba,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,22.460072999999998,Normal,Timestep and iteration,11.230036499999999
+Yuba,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,30.756135999999998,Normal,Timestep and iteration,15.378067999999999
+Yuba,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,14.366353,Normal,Timestep and iteration,7.1831765
+Yuba,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,74.46222399999999,Normal,Timestep and iteration,37.231111999999996
+Yuba,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,88.626234,Normal,Timestep and iteration,44.313117
+Yuba,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,72.84348,Normal,Timestep and iteration,36.42174
+Yuba,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,203.15237199999999,Normal,Timestep and iteration,101.57618599999999
+Yuba,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,146.496332,Normal,Timestep and iteration,73.248166
+Yuba,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,93.887152,Normal,Timestep and iteration,46.943576
+Yuba,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,24.888189,Normal,Timestep and iteration,12.4440945
+Yuba,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,28.530362999999998,Normal,Timestep and iteration,14.265181499999999
+Yuba,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,15.175725,Normal,Timestep and iteration,7.5878625

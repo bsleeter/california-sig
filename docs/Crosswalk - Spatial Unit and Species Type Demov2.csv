@@ -1,0 +1,6 @@
+CBM-CFS3 Ecological Boundary,CBM-CFS3 Administrative Boundary,CBM-CFS3 Species Type,ST-Sim Stratum,ST-Sim Secondary Stratum,ST-Sim Tertiary Stratum,ST-Sim State Class,CBMSimulationDataFileName
+Pacific Maritime,British Columbia,Douglas-fir - Genus type,Pacific Maritime,British Columbia,,Douglas-fir - Genus type:Softwood,PacificMaritime_BC_DouglasFir_NoDisturbance.txt
+Mixedwood Plains,Ontario,Pine - Genus type,Mixedwood Plains,Ontario,,Pine - Genus type:Softwood,MixedwoodPlains_ON_Pine_NoDisturbance.txt
+Mixedwood Plains,Ontario,Maple - Genus type,Mixedwood Plains,Ontario,,Maple - Genus type:Hardwood,MixedwoodPlains_ON_Maple_NoDisturbance.txt
+Boreal Shield West,Ontario,Unspecified softwood species,Boreal Shield West,Ontario,,Generic:Softwood,BorealShieldWest_ON_Softwood_NoDisturbance.csv
+Boreal Shield West,Ontario,Unspecified hardwood species,Boreal Shield West,Ontario,,Generic:Hardwood,BorealShieldWest_ON_Hardwood_NoDisturbance.csv

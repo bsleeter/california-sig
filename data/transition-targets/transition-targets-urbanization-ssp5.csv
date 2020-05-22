@@ -1,0 +1,1045 @@
+Timestep,SecondaryStratumID,TransitionGroupID,Amount,DistributionType,DistributionFrequencyID,DistributionSD,DistributionMin,DistributionMax
+2017,Alameda,Urbanization,358.44083370967735,Normal,Timestep and iteration,230.76402937210273,106.23007499999999,943.7342791935482
+2020,Alameda,Urbanization,593.9876672903225,Normal,Timestep and iteration,382.40896295948454,176.03841,1563.9025198064514
+2030,Alameda,Urbanization,747.6051674516127,Normal,Timestep and iteration,481.3078326903857,221.56558499999997,1968.3600680322577
+2040,Alameda,Urbanization,1044.599001096774,Normal,Timestep and iteration,672.512314170128,309.58479,2750.3113279354834
+2050,Alameda,Urbanization,1126.528334516129,Normal,Timestep and iteration,725.2583780266086,333.86595,2966.0220203225804
+2060,Alameda,Urbanization,1228.9400012903225,Normal,Timestep and iteration,791.1909578472093,364.21739999999994,3235.6603858064514
+2070,Alameda,Urbanization,1136.7695011935482,Normal,Timestep and iteration,731.8516360086687,336.901095,2992.9858568709674
+2080,Alameda,Urbanization,696.399334064516,Normal,Timestep and iteration,448.3415427800853,206.38985999999997,1833.5408852903224
+2090,Alameda,Urbanization,501.8171671935484,Normal,Timestep and iteration,323.06964112094386,148.722105,1321.227990870968
+2017,Alpine,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2020,Alpine,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2030,Alpine,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2040,Alpine,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2050,Alpine,Urbanization,10,Normal,Timestep and iteration,5,0,20
+2060,Alpine,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2070,Alpine,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2080,Alpine,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2090,Alpine,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2017,Amador,Urbanization,5.6360956458333336,Normal,Timestep and iteration,5.408976040087828,0.25292875000000004,15.4792395
+2020,Amador,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2030,Amador,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2040,Amador,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2050,Amador,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2060,Amador,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2070,Amador,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2080,Amador,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2090,Amador,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2017,Butte,Urbanization,72.15776205555557,Normal,Timestep and iteration,47.52176436935262,17.82304591666667,153.6795085
+2020,Butte,Urbanization,77.31188791666666,Normal,Timestep and iteration,50.91617611002066,19.096120624999998,164.65661624999998
+2030,Butte,Urbanization,118.54489480555554,Normal,Timestep and iteration,78.07147003536501,29.280718291666663,252.47347824999997
+2040,Butte,Urbanization,123.69902066666667,Normal,Timestep and iteration,81.46588177603306,30.553793,263.450586
+2050,Butte,Urbanization,128.8531465277778,Normal,Timestep and iteration,84.8602935167011,31.826867708333335,274.42769375
+2060,Butte,Urbanization,128.8531465277778,Normal,Timestep and iteration,84.8602935167011,31.826867708333335,274.42769375
+2070,Butte,Urbanization,103.08251722222222,Normal,Timestep and iteration,67.88823481336088,25.461494166666668,219.542155
+2080,Butte,Urbanization,103.08251722222222,Normal,Timestep and iteration,67.88823481336088,25.461494166666668,219.542155
+2090,Butte,Urbanization,134.0072723888889,Normal,Timestep and iteration,88.25470525736915,33.09994241666667,285.4048015
+2017,Calaveras,Urbanization,20,Normal,Timestep and iteration,10,0,40
+2020,Calaveras,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2030,Calaveras,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2040,Calaveras,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2050,Calaveras,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2060,Calaveras,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2070,Calaveras,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2080,Calaveras,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2090,Calaveras,Urbanization,20,Normal,Timestep and iteration,10,0,40
+2017,Colusa,Urbanization,1787.3631666666665,Normal,Timestep and iteration,1209.1899002674816,212.46014999999997,4016.5085499999996
+2020,Colusa,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2030,Colusa,Urbanization,1429.8905333333332,Normal,Timestep and iteration,967.3519202139852,169.96812,3213.20684
+2040,Colusa,Urbanization,1787.3631666666665,Normal,Timestep and iteration,1209.1899002674816,212.46014999999997,4016.5085499999996
+2050,Colusa,Urbanization,2144.8358,Normal,Timestep and iteration,1451.0278803209778,254.95217999999997,4819.810259999999
+2060,Colusa,Urbanization,2502.308433333333,Normal,Timestep and iteration,1692.865860374474,297.44421,5623.11197
+2070,Colusa,Urbanization,2144.8358,Normal,Timestep and iteration,1451.0278803209778,254.95217999999997,4819.810259999999
+2080,Colusa,Urbanization,714.9452666666666,Normal,Timestep and iteration,483.6759601069926,84.98406,1606.60342
+2090,Colusa,Urbanization,1072.4179,Normal,Timestep and iteration,725.5139401604889,127.47608999999999,2409.9051299999996
+2017,Contra Costa,Urbanization,492.06466834508547,Normal,Timestep and iteration,342.9267588298785,149.41214651282053,1048.282011897436
+2020,Contra Costa,Urbanization,619.8736731100428,Normal,Timestep and iteration,431.99864424023656,188.22049625641026,1320.563053948718
+2030,Contra Costa,Urbanization,581.5309716805556,Normal,Timestep and iteration,405.2770786171292,176.57799133333336,1238.8787413333334
+2040,Contra Costa,Urbanization,651.825924301282,Normal,Timestep and iteration,454.2666155928261,197.92258369230768,1388.6333144615385
+2050,Contra Costa,Urbanization,511.2360190598291,Normal,Timestep and iteration,356.28754164143226,155.233398974359,1089.1241682051284
+2060,Contra Costa,Urbanization,472.8933176303419,Normal,Timestep and iteration,329.5659760183248,143.59089405128205,1007.4398555897437
+2070,Contra Costa,Urbanization,268.3989100064103,Normal,Timestep and iteration,187.05095936175195,81.49753446153848,571.7901883076925
+2080,Contra Costa,Urbanization,319.5225119123932,Normal,Timestep and iteration,222.67971352589515,97.02087435897437,680.7026051282052
+2090,Contra Costa,Urbanization,191.7135071474359,Normal,Timestep and iteration,133.60782811553707,58.212524615384616,408.4215630769231
+2017,Del Norte,Urbanization,50,Normal,Timestep and iteration,25,0,100
+2020,Del Norte,Urbanization,70,Normal,Timestep and iteration,35,0,140
+2030,Del Norte,Urbanization,50,Normal,Timestep and iteration,25,0,100
+2040,Del Norte,Urbanization,50,Normal,Timestep and iteration,25,0,100
+2050,Del Norte,Urbanization,80,Normal,Timestep and iteration,40,0,160
+2060,Del Norte,Urbanization,50,Normal,Timestep and iteration,25,0,100
+2070,Del Norte,Urbanization,100,Normal,Timestep and iteration,50,0,200
+2080,Del Norte,Urbanization,80,Normal,Timestep and iteration,40,0,160
+2090,Del Norte,Urbanization,100,Normal,Timestep and iteration,50,0,200
+2017,El Dorado,Urbanization,192.87334759999996,Normal,Timestep and iteration,262.0384762683998,6.9605992,884.6435959999998
+2020,El Dorado,Urbanization,309.97502292857143,Normal,Timestep and iteration,421.1332654313569,11.186677285714287,1421.7486364285714
+2030,El Dorado,Urbanization,371.97002751428573,Normal,Timestep and iteration,505.3599185176283,13.424012742857144,1706.0983637142856
+2040,El Dorado,Urbanization,454.63003362857137,Normal,Timestep and iteration,617.6621226326567,16.407126685714285,2085.231333428571
+2050,El Dorado,Urbanization,688.8333842857143,Normal,Timestep and iteration,935.8517009585709,24.85928285714286,3159.441414285714
+2060,El Dorado,Urbanization,640.6150473857143,Normal,Timestep and iteration,870.342081891471,23.11913305714286,2938.2805152857145
+2070,El Dorado,Urbanization,495.96003668571433,Normal,Timestep and iteration,673.8132246901711,17.89868365714286,2274.797818285714
+2080,El Dorado,Urbanization,433.9650321,Normal,Timestep and iteration,589.5865716038996,15.6613482,1990.4480909999997
+2090,El Dorado,Urbanization,392.6350290428571,Normal,Timestep and iteration,533.4354695463853,14.169791228571428,1800.881606142857
+2017,Fresno,Urbanization,1115.7963378153597,Normal,Timestep and iteration,489.4370264704293,466.38871247058836,2009.4207228823532
+2020,Fresno,Urbanization,1200.5403634722222,Normal,Timestep and iteration,526.6094588605885,501.81064000000003,2162.034955
+2030,Fresno,Urbanization,1567.7644746519609,Normal,Timestep and iteration,687.6899992179449,655.3056592941177,2823.363294176471
+2040,Fresno,Urbanization,1412.4004276143792,Normal,Timestep and iteration,619.5405398359864,590.3654588235295,2543.5705352941177
+2050,Fresno,Urbanization,1666.6325045849676,Normal,Timestep and iteration,731.057837006464,696.6312414117648,3001.413231647059
+2060,Fresno,Urbanization,1596.0124832042484,Normal,Timestep and iteration,700.0808100146646,667.1129684705883,2874.234704882353
+2070,Fresno,Urbanization,1186.4163591960785,Normal,Timestep and iteration,520.4140534622286,495.90698541176477,2136.599249647059
+2080,Fresno,Urbanization,1355.904410509804,Normal,Timestep and iteration,594.7589182425469,566.7508404705883,2441.827713882353
+2090,Fresno,Urbanization,1016.928307882353,Normal,Timestep and iteration,446.0691886819102,425.06313035294124,1831.3707854117647
+2017,Glenn,Urbanization,32.08822741666667,Normal,Timestep and iteration,27.785359670836343,7.284348,82.758287
+2020,Glenn,Urbanization,21.392151611111114,Normal,Timestep and iteration,18.523573113890897,4.856232,55.17219133333334
+2030,Glenn,Urbanization,21.392151611111114,Normal,Timestep and iteration,18.523573113890897,4.856232,55.17219133333334
+2040,Glenn,Urbanization,53.480379027777786,Normal,Timestep and iteration,46.30893278472724,12.14058,137.93047833333333
+2050,Glenn,Urbanization,21.392151611111114,Normal,Timestep and iteration,18.523573113890897,4.856232,55.17219133333334
+2060,Glenn,Urbanization,32.08822741666667,Normal,Timestep and iteration,27.785359670836343,7.284348,82.758287
+2070,Glenn,Urbanization,21.392151611111114,Normal,Timestep and iteration,18.523573113890897,4.856232,55.17219133333334
+2080,Glenn,Urbanization,21.392151611111114,Normal,Timestep and iteration,18.523573113890897,4.856232,55.17219133333334
+2090,Glenn,Urbanization,42.78430322222223,Normal,Timestep and iteration,37.047146227781795,9.712464,110.34438266666668
+2017,Humboldt,Urbanization,90,Normal,Timestep and iteration,45,0,180
+2020,Humboldt,Urbanization,160,Normal,Timestep and iteration,80,0,320
+2030,Humboldt,Urbanization,180,Normal,Timestep and iteration,90,0,360
+2040,Humboldt,Urbanization,150,Normal,Timestep and iteration,75,0,300
+2050,Humboldt,Urbanization,229.99999999999997,Normal,Timestep and iteration,114.99999999999999,0,459.99999999999994
+2060,Humboldt,Urbanization,260,Normal,Timestep and iteration,130,0,520
+2070,Humboldt,Urbanization,290,Normal,Timestep and iteration,145,0,580
+2080,Humboldt,Urbanization,340,Normal,Timestep and iteration,170,0,680
+2090,Humboldt,Urbanization,300,Normal,Timestep and iteration,150,0,600
+2017,Imperial,Urbanization,669.7397651538462,Normal,Timestep and iteration,827.2826736010062,133.63976907692307,3079.177949769231
+2020,Imperial,Urbanization,1041.8174124615384,Normal,Timestep and iteration,1286.8841589348986,207.88408523076922,4789.832366307693
+2030,Imperial,Urbanization,1165.8432948974357,Normal,Timestep and iteration,1440.084654046196,232.63219061538462,5360.050505153846
+2040,Imperial,Urbanization,1066.6225889487177,Normal,Timestep and iteration,1317.524257957158,212.8337063076923,4903.875994076922
+2050,Imperial,Urbanization,1116.2329419230769,Normal,Timestep and iteration,1378.8044560016767,222.73294846153843,5131.963249615384
+2060,Imperial,Urbanization,1091.4277654358973,Normal,Timestep and iteration,1348.1643569794176,217.78332738461538,5017.919621846154
+2070,Imperial,Urbanization,1091.4277654358973,Normal,Timestep and iteration,1348.1643569794176,217.78332738461538,5017.919621846154
+2080,Imperial,Urbanization,1165.8432948974357,Normal,Timestep and iteration,1440.084654046196,232.63219061538462,5360.050505153846
+2090,Imperial,Urbanization,1215.4536478717948,Normal,Timestep and iteration,1501.364852090715,242.53143276923075,5588.137760692307
+2017,Inyo,Urbanization,40,Normal,Timestep and iteration,20,0,80
+2020,Inyo,Urbanization,10,Normal,Timestep and iteration,5,0,20
+2030,Inyo,Urbanization,30,Normal,Timestep and iteration,15,0,60
+2040,Inyo,Urbanization,10,Normal,Timestep and iteration,5,0,20
+2050,Inyo,Urbanization,30,Normal,Timestep and iteration,15,0,60
+2060,Inyo,Urbanization,80,Normal,Timestep and iteration,40,0,160
+2070,Inyo,Urbanization,40,Normal,Timestep and iteration,20,0,80
+2080,Inyo,Urbanization,20,Normal,Timestep and iteration,10,0,40
+2090,Inyo,Urbanization,80,Normal,Timestep and iteration,40,0,160
+2017,Kern,Urbanization,1360.8677042358972,Normal,Timestep and iteration,664.7944363664278,437.3171811333333,2387.701358133333
+2020,Kern,Urbanization,2097.3372853517944,Normal,Timestep and iteration,1024.5655431059063,673.9829497466666,3679.869151946666
+2030,Kern,Urbanization,2193.398535062564,Normal,Timestep and iteration,1071.49220920236,704.8523978266666,3848.412777226666
+2040,Kern,Urbanization,2289.4597847733335,Normal,Timestep and iteration,1118.4188752988139,735.7218459066667,4016.956402506666
+2050,Kern,Urbanization,2577.643533905641,Normal,Timestep and iteration,1259.1988735881753,828.3301901466667,4522.587278346667
+2060,Kern,Urbanization,1953.2454107856406,Normal,Timestep and iteration,954.1755439612257,627.6787776266665,3427.053714026666
+2070,Kern,Urbanization,2433.551659339487,Normal,Timestep and iteration,1188.8088744434942,782.0260180266665,4269.771840426665
+2080,Kern,Urbanization,1985.2658273558973,Normal,Timestep and iteration,969.8177659933771,637.9685936533333,3483.2349224533327
+2090,Kern,Urbanization,1665.0616616533332,Normal,Timestep and iteration,813.3955456718646,535.0704333866667,2921.4228381866665
+2017,Kings,Urbanization,433.7980991249999,Normal,Timestep and iteration,319.3788170386733,181.19815649999998,1117.8439034999997
+2020,Kings,Urbanization,686.8469902812498,Normal,Timestep and iteration,505.68312697789935,286.89708112499994,1769.9195138749994
+2030,Kings,Urbanization,939.8958814375,Normal,Timestep and iteration,691.9874369171256,392.59600575,2421.9951242499997
+2040,Kings,Urbanization,903.7460398437499,Normal,Timestep and iteration,665.3725354972362,377.496159375,2328.8414656249997
+2050,Kings,Urbanization,722.996831875,Normal,Timestep and iteration,532.2980283977889,301.9969275,1863.0731724999998
+2060,Kings,Urbanization,831.4463566562498,Normal,Timestep and iteration,612.1427326574571,347.29646662499994,2142.5341483749994
+2070,Kings,Urbanization,831.4463566562498,Normal,Timestep and iteration,612.1427326574571,347.29646662499994,2142.5341483749994
+2080,Kings,Urbanization,614.54730709375,Normal,Timestep and iteration,452.4533241381206,256.697388375,1583.6121966249998
+2090,Kings,Urbanization,831.4463566562498,Normal,Timestep and iteration,612.1427326574571,347.29646662499994,2142.5341483749994
+2017,Lake,Urbanization,22.11928478947368,Normal,Timestep and iteration,22.591547866754734,1.2247076315789471,62.460089210526306
+2020,Lake,Urbanization,88.47713915789473,Normal,Timestep and iteration,90.36619146701894,4.8988305263157885,249.84035684210522
+2030,Lake,Urbanization,57.51014045263158,Normal,Timestep and iteration,58.73802445356231,3.1842398421052627,162.39623194736842
+2040,Lake,Urbanization,53.08628349473684,Normal,Timestep and iteration,54.219714880211356,2.939298315789473,149.90421410526315
+2050,Lake,Urbanization,84.0532822,Normal,Timestep and iteration,85.84788189366799,4.6538889999999995,237.34833899999998
+2060,Lake,Urbanization,141.56342265263157,Normal,Timestep and iteration,144.58590634723032,7.838128842105263,399.7445709473684
+2070,Lake,Urbanization,101.74871003157894,Normal,Timestep and iteration,103.92112018707178,5.633655105263157,287.31641036842103
+2080,Lake,Urbanization,115.02028090526316,Normal,Timestep and iteration,117.47604890712462,6.368479684210525,324.79246389473684
+2090,Lake,Urbanization,119.4441378631579,Normal,Timestep and iteration,121.99435848047558,6.613421210526316,337.2844817368421
+2017,Lassen,Urbanization,20,Normal,Timestep and iteration,10,0,40
+2020,Lassen,Urbanization,30,Normal,Timestep and iteration,15,0,60
+2030,Lassen,Urbanization,20,Normal,Timestep and iteration,10,0,40
+2040,Lassen,Urbanization,20,Normal,Timestep and iteration,10,0,40
+2050,Lassen,Urbanization,30,Normal,Timestep and iteration,15,0,60
+2060,Lassen,Urbanization,30,Normal,Timestep and iteration,15,0,60
+2070,Lassen,Urbanization,30,Normal,Timestep and iteration,15,0,60
+2080,Lassen,Urbanization,100,Normal,Timestep and iteration,50,0,200
+2090,Lassen,Urbanization,60,Normal,Timestep and iteration,30,0,120
+2017,Los Angeles,Urbanization,1605.989416699389,Normal,Timestep and iteration,995.3534055348126,332.8118595026178,4273.796679293193
+2020,Los Angeles,Urbanization,2341.261679766579,Normal,Timestep and iteration,1451.0573743338834,485.1835542146597,6230.474677041884
+2030,Los Angeles,Urbanization,2287.083723540576,Normal,Timestep and iteration,1417.4791871592151,473.95616618324607,6086.2984035235595
+2040,Los Angeles,Urbanization,2844.3427018651832,Normal,Timestep and iteration,1762.85482667009,589.4378716492147,7569.254359712041
+2050,Los Angeles,Urbanization,1714.345329151396,Normal,Timestep and iteration,1062.5097798841493,355.26663556544503,4562.149226329842
+2060,Los Angeles,Urbanization,483.7317520178883,Normal,Timestep and iteration,299.80524263096765,100.24453599476439,1287.2881564136123
+2070,Los Angeles,Urbanization,19.34927008071553,Normal,Timestep and iteration,11.992209705238706,4.009781439790576,51.491526256544496
+2080,Los Angeles,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2090,Los Angeles,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2017,Madera,Urbanization,281.1555985,Normal,Timestep and iteration,174.52569616055007,63.23813876470589,618.6339661764706
+2020,Madera,Urbanization,294.54396033333336,Normal,Timestep and iteration,182.83644359676674,66.24947870588235,648.0927264705882
+2030,Madera,Urbanization,361.4857695,Normal,Timestep and iteration,224.39018077785008,81.30617841176472,795.3865279411765
+2040,Madera,Urbanization,428.4275786666667,Normal,Timestep and iteration,265.94391795893347,96.36287811764707,942.6803294117648
+2050,Madera,Urbanization,535.5344733333334,Normal,Timestep and iteration,332.4298974486668,120.45359764705883,1178.350411764706
+2060,Madera,Urbanization,428.4275786666667,Normal,Timestep and iteration,265.94391795893347,96.36287811764707,942.6803294117648
+2070,Madera,Urbanization,481.981026,Normal,Timestep and iteration,299.1869077038001,108.40823788235295,1060.5153705882353
+2080,Madera,Urbanization,428.4275786666667,Normal,Timestep and iteration,265.94391795893347,96.36287811764707,942.6803294117648
+2090,Madera,Urbanization,281.1555985,Normal,Timestep and iteration,174.52569616055007,63.23813876470589,618.6339661764706
+2017,Marin,Urbanization,97.55595007894738,Normal,Timestep and iteration,160.95417005733705,17.252403157894737,602.6839503157895
+2020,Marin,Urbanization,124.65482510087719,Normal,Timestep and iteration,205.66366173993066,22.044737368421053,770.0961587368421
+2030,Marin,Urbanization,124.65482510087719,Normal,Timestep and iteration,205.66366173993066,22.044737368421053,770.0961587368421
+2040,Marin,Urbanization,135.49437510964913,Normal,Timestep and iteration,223.54745841296813,23.96167105263158,837.0610421052631
+2050,Marin,Urbanization,168.01302513596494,Normal,Timestep and iteration,277.19884843208047,29.71247210526316,1037.9556922105264
+2060,Marin,Urbanization,373.96447530263157,Normal,Timestep and iteration,616.990985219792,66.13421210526316,2310.2884762105264
+2070,Marin,Urbanization,249.30965020175438,Normal,Timestep and iteration,411.3273234798613,44.08947473684211,1540.1923174736842
+2080,Marin,Urbanization,357.7051502894737,Normal,Timestep and iteration,590.1652902102358,63.25881157894737,2209.8411511578947
+2090,Marin,Urbanization,254.72942520614035,Normal,Timestep and iteration,420.26922181638,45.04794157894737,1573.6747591578949
+2017,Mariposa,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2020,Mariposa,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2030,Mariposa,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2040,Mariposa,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2050,Mariposa,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2060,Mariposa,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2070,Mariposa,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2080,Mariposa,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2090,Mariposa,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2017,Mendocino,Urbanization,13.851298090909088,Normal,Timestep and iteration,12.548076154549204,0,30.241081090909088
+2020,Mendocino,Urbanization,20.776947136363635,Normal,Timestep and iteration,18.822114231823807,0,45.36162163636363
+2030,Mendocino,Urbanization,36.93679490909091,Normal,Timestep and iteration,33.46153641213121,0,80.6428829090909
+2040,Mendocino,Urbanization,43.86244395454545,Normal,Timestep and iteration,39.73557448940581,0,95.76342345454543
+2050,Mendocino,Urbanization,32.319695545454536,Normal,Timestep and iteration,29.278844360614805,0,70.56252254545453
+2060,Mendocino,Urbanization,62.33084140909091,Normal,Timestep and iteration,56.46634269547142,0,136.0848649090909
+2070,Mendocino,Urbanization,57.71374204545454,Normal,Timestep and iteration,52.28365064395501,0,126.00450454545452
+2080,Mendocino,Urbanization,62.33084140909091,Normal,Timestep and iteration,56.46634269547142,0,136.0848649090909
+2090,Mendocino,Urbanization,48.47954331818181,Normal,Timestep and iteration,43.91826654092221,0,105.8437838181818
+2017,Merced,Urbanization,226.63842777564096,Normal,Timestep and iteration,110.27008273148438,78.22113434615383,383.40885530769225
+2020,Merced,Urbanization,315.32302994871793,Normal,Timestep and iteration,153.41924553945654,108.82940430769231,533.4384073846154
+2030,Merced,Urbanization,374.4460980641025,Normal,Timestep and iteration,182.18535407810464,129.2349176153846,633.4581087692308
+2040,Merced,Urbanization,305.4691852628205,Normal,Timestep and iteration,148.62489411634851,105.42848542307692,516.7684571538462
+2050,Merced,Urbanization,482.8383896089743,Normal,Timestep and iteration,234.92321973229284,166.64502534615383,816.8275613076922
+2060,Merced,Urbanization,364.5922533782051,Normal,Timestep and iteration,177.39100265499664,125.83399873076924,616.7881585384615
+2070,Merced,Urbanization,384.29994274999996,Normal,Timestep and iteration,186.97970550121266,132.63583649999998,650.128059
+2080,Merced,Urbanization,206.93073840384614,Normal,Timestep and iteration,100.68137988526836,71.41929657692307,350.0689548461538
+2090,Merced,Urbanization,315.32302994871793,Normal,Timestep and iteration,153.41924553945654,108.82940430769231,533.4384073846154
+2017,Modoc,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2020,Modoc,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2030,Modoc,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2040,Modoc,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2050,Modoc,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2060,Modoc,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2070,Modoc,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2080,Modoc,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2090,Modoc,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2017,Mono,Urbanization,10,Normal,Timestep and iteration,5,0,20
+2020,Mono,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2030,Mono,Urbanization,20,Normal,Timestep and iteration,10,0,40
+2040,Mono,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2050,Mono,Urbanization,10,Normal,Timestep and iteration,5,0,20
+2060,Mono,Urbanization,10,Normal,Timestep and iteration,5,0,20
+2070,Mono,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2080,Mono,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2090,Mono,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2017,Monterey,Urbanization,373.12928952173917,Normal,Timestep and iteration,350.3242352217162,50.497774782608694,1099.8661678260871
+2020,Monterey,Urbanization,586.3460263913045,Normal,Timestep and iteration,550.5095124912684,79.35364608695653,1728.3611208695654
+2030,Monterey,Urbanization,573.0199803369566,Normal,Timestep and iteration,537.9979326619214,77.55015413043478,1689.080186304348
+2040,Monterey,Urbanization,772.910671152174,Normal,Timestep and iteration,725.6716301021264,104.60253347826087,2278.2942047826086
+2050,Monterey,Urbanization,746.2585790434783,Normal,Timestep and iteration,700.6484704434324,100.99554956521739,2199.7323356521742
+2060,Monterey,Urbanization,746.2585790434783,Normal,Timestep and iteration,700.6484704434324,100.99554956521739,2199.7323356521742
+2070,Monterey,Urbanization,479.7376579565218,Normal,Timestep and iteration,450.41687385649226,64.9257104347826,1414.1136443478263
+2080,Monterey,Urbanization,346.47719741304354,Normal,Timestep and iteration,325.3010755630222,46.89079086956522,1021.3042986956523
+2090,Monterey,Urbanization,306.49905925,Normal,Timestep and iteration,287.76633607498115,41.480315,903.461495
+2017,Napa,Urbanization,69.9113800462963,Normal,Timestep and iteration,69.12539916277325,10.229562777777778,268.2168877777778
+2020,Napa,Urbanization,209.73414013888888,Normal,Timestep and iteration,207.37619748831972,30.688688333333328,804.6506633333332
+2030,Napa,Urbanization,167.7873121111111,Normal,Timestep and iteration,165.9009579906558,24.550950666666665,643.7205306666666
+2040,Napa,Urbanization,125.84048408333334,Normal,Timestep and iteration,124.42571849299185,18.413213,482.790398
+2050,Napa,Urbanization,251.68096816666667,Normal,Timestep and iteration,248.8514369859837,36.826426,965.580796
+2060,Napa,Urbanization,237.6986921574074,Normal,Timestep and iteration,235.02635715342905,34.780513444444445,911.9374184444443
+2070,Napa,Urbanization,223.71641614814817,Normal,Timestep and iteration,221.20127732087442,32.73460088888889,858.294040888889
+2080,Napa,Urbanization,209.73414013888888,Normal,Timestep and iteration,207.37619748831972,30.688688333333328,804.6506633333332
+2090,Napa,Urbanization,251.68096816666667,Normal,Timestep and iteration,248.8514369859837,36.826426,965.580796
+2017,Nevada,Urbanization,29.38642953846154,Normal,Timestep and iteration,44.69331934433162,1.214058,152.161936
+2020,Nevada,Urbanization,44.079644307692305,Normal,Timestep and iteration,67.03997901649743,1.821087,228.24290399999998
+2030,Nevada,Urbanization,11.019911076923076,Normal,Timestep and iteration,16.759994754124357,0.45527175,57.060725999999995
+2040,Nevada,Urbanization,47.752948,Normal,Timestep and iteration,72.62664393453888,1.97284425,247.263146
+2050,Nevada,Urbanization,77.13937753846155,Normal,Timestep and iteration,117.31996327887049,3.18690225,399.425082
+2060,Nevada,Urbanization,69.79277015384615,Normal,Timestep and iteration,106.14663344278759,2.88338775,361.384598
+2070,Nevada,Urbanization,102.85250338461537,Normal,Timestep and iteration,156.42661770516065,4.249203,532.5667759999999
+2080,Nevada,Urbanization,84.48598492307691,Normal,Timestep and iteration,128.4932931149534,3.4904167499999996,437.46556599999997
+2090,Nevada,Urbanization,69.79277015384615,Normal,Timestep and iteration,106.14663344278759,2.88338775,361.384598
+2017,Orange,Urbanization,2204.88108525,Normal,Timestep and iteration,1760.136877691872,478.945881,6464.85885
+2020,Orange,Urbanization,2374.487322576923,Normal,Timestep and iteration,1895.5320221297084,515.7878718461538,6962.155684615384
+2030,Orange,Urbanization,1752.5977857115383,Normal,Timestep and iteration,1399.0831591909753,380.7005720769231,5138.733957692308
+2040,Orange,Urbanization,1413.385311057692,Normal,Timestep and iteration,1128.2928703153025,307.01659038461537,4144.140288461538
+2050,Orange,Urbanization,621.8895368653846,Normal,Timestep and iteration,496.44886293873316,135.08729976923078,1823.421726923077
+2060,Orange,Urbanization,113.07082488461538,Normal,Timestep and iteration,90.26342962522422,24.561327230769233,331.5312230769231
+2070,Orange,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2080,Orange,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2090,Orange,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2017,Placer,Urbanization,619.6018582272727,Normal,Timestep and iteration,440.14883893834093,167.50321436363635,1381.2080338545454
+2020,Placer,Urbanization,587.55348625,Normal,Timestep and iteration,417.38251968290956,158.839255,1309.766239
+2030,Placer,Urbanization,640.9674395454545,Normal,Timestep and iteration,455.3263851086286,173.27918727272726,1428.835897090909
+2040,Placer,Urbanization,502.09116097727275,Normal,Timestep and iteration,356.6723350017591,135.73536336363637,1119.2547860545455
+2050,Placer,Urbanization,373.8976730681818,Normal,Timestep and iteration,265.60705798003335,101.07952590909092,833.4876066363637
+2060,Placer,Urbanization,277.75255713636363,Normal,Timestep and iteration,197.30810021373907,75.08764781818182,619.1622220727273
+2070,Placer,Urbanization,384.58046372727273,Normal,Timestep and iteration,273.1958310651772,103.96751236363637,857.3015382545454
+2080,Placer,Urbanization,363.2148824090909,Normal,Timestep and iteration,258.0182848948895,98.19153945454546,809.6736750181818
+2090,Placer,Urbanization,128.1934879090909,Normal,Timestep and iteration,91.06527702172572,34.655837454545456,285.7671794181818
+2017,Plumas,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2020,Plumas,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2030,Plumas,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2040,Plumas,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2050,Plumas,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2060,Plumas,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2070,Plumas,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2080,Plumas,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2090,Plumas,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2017,Riverside,Urbanization,1059.413094295989,Normal,Timestep and iteration,643.0610778725857,404.0680562323651,2295.3924255601655
+2020,Riverside,Urbanization,1362.1025498091285,Normal,Timestep and iteration,826.7928144076101,519.5160722987551,2951.21883286307
+2030,Riverside,Urbanization,1040.4950033264176,Normal,Timestep and iteration,631.5778443391466,396.85255522821575,2254.4032751037344
+2040,Riverside,Urbanization,1314.8073223852005,Normal,Timestep and iteration,798.0847305740125,501.4773197883817,2848.745956721991
+2050,Riverside,Urbanization,1693.1691417766249,Normal,Timestep and iteration,1027.749401242793,645.7873398713692,3668.5289658506217
+2060,Riverside,Urbanization,1541.8244140200554,Normal,Timestep and iteration,935.883532975281,588.0633318381742,3340.61576219917
+2070,Riverside,Urbanization,1267.5120949612724,Normal,Timestep and iteration,769.376646740415,483.4385672780083,2746.273080580913
+2080,Riverside,Urbanization,1324.266367869986,Normal,Timestep and iteration,803.826347340732,505.0850702904563,2869.240531950207
+2090,Riverside,Urbanization,1059.413094295989,Normal,Timestep and iteration,643.0610778725857,404.0680562323651,2295.3924255601655
+2017,Sacramento,Urbanization,471.6440225480769,Normal,Timestep and iteration,343.8020719853944,109.89754187499999,1258.6999243750001
+2020,Sacramento,Urbanization,452.7782616461538,Normal,Timestep and iteration,330.04998910597857,105.50164019999998,1208.3519274
+2030,Sacramento,Urbanization,396.1809789403846,Normal,Timestep and iteration,288.7937404677313,92.313935175,1057.3079364750001
+2040,Sacramento,Urbanization,339.5836962346154,Normal,Timestep and iteration,247.53749182948397,79.12623015,906.26394555
+2050,Sacramento,Urbanization,509.3755443519231,Normal,Timestep and iteration,371.30623774422594,118.689345225,1359.3959183250001
+2060,Sacramento,Urbanization,528.2413052538461,Normal,Timestep and iteration,385.0583206236417,123.08524689999999,1409.7439153
+2070,Sacramento,Urbanization,377.3152180384615,Normal,Timestep and iteration,275.0416575883155,87.91803349999999,1006.9599395
+2080,Sacramento,Urbanization,301.85217443076925,Normal,Timestep and iteration,220.0333260706524,70.3344268,805.5679516
+2090,Sacramento,Urbanization,150.92608721538463,Normal,Timestep and iteration,110.0166630353262,35.1672134,402.7839758
+2017,San Benito,Urbanization,179.17472649999996,Normal,Timestep and iteration,173.93604618873943,18.210869999999996,643.4507399999999
+2020,San Benito,Urbanization,477.79927066666664,Normal,Timestep and iteration,463.8294565033052,48.56232,1715.86864
+2030,San Benito,Urbanization,821.2174964583332,Normal,Timestep and iteration,797.2068783650558,83.4664875,2949.1492249999997
+2040,San Benito,Urbanization,1209.4294038749997,Normal,Timestep and iteration,1174.0683117739911,122.92337249999997,4343.292494999999
+2050,San Benito,Urbanization,1134.773267833333,Normal,Timestep and iteration,1101.5949591953497,115.33550999999997,4075.188019999999
+2060,San Benito,Urbanization,1941.0595370833332,Normal,Timestep and iteration,1884.3071670446775,197.284425,6970.71635
+2070,San Benito,Urbanization,1657.3662201249997,Normal,Timestep and iteration,1608.9084272458397,168.45054749999997,5951.919344999999
+2080,San Benito,Urbanization,1567.778856875,Normal,Timestep and iteration,1521.9404041514701,159.3451125,5630.193975
+2090,San Benito,Urbanization,1508.0539480416664,Normal,Timestep and iteration,1463.9617220885568,153.27482249999997,5415.710394999999
+2017,San Bernardino,Urbanization,926.7778243536585,Normal,Timestep and iteration,848.0966026293063,178.61458185365854,3328.9865175609757
+2020,San Bernardino,Urbanization,1494.0297685701219,Normal,Timestep and iteration,1367.1902128593126,287.939024195122,5366.555851585366
+2030,San Bernardino,Urbanization,1486.0403045670732,Normal,Timestep and iteration,1359.8790352504393,286.39924331707317,5337.85769195122
+2040,San Bernardino,Urbanization,1294.2931684939024,Normal,Timestep and iteration,1184.4107726374793,249.4445022439024,4649.101860731706
+2050,San Bernardino,Urbanization,1446.0929845518292,Normal,Timestep and iteration,1323.3231472060727,278.70033892682926,5194.366893780488
+2060,San Bernardino,Urbanization,1398.1562005335365,Normal,Timestep and iteration,1279.4560815528328,269.4616536585366,5022.177935975609
+2070,San Bernardino,Urbanization,1166.461744445122,Normal,Timestep and iteration,1067.4319308955062,224.80800819512194,4189.931306585366
+2080,San Bernardino,Urbanization,910.7988963475609,Normal,Timestep and iteration,833.4742474115596,175.535020097561,3271.590198292683
+2090,San Bernardino,Urbanization,663.1255122530489,Normal,Timestep and iteration,606.8277415364864,127.8018128780488,2381.947249634147
+2017,San Diego,Urbanization,1098.6396466702897,Normal,Timestep and iteration,1094.6733884204182,289.84315121739127,4460.862575521739
+2020,San Diego,Urbanization,1107.8719126086955,Normal,Timestep and iteration,1103.8723244575647,292.2788079503106,4498.3488156521735
+2030,San Diego,Urbanization,1431.0012204528985,Normal,Timestep and iteration,1425.8350857576877,377.5267936024845,5810.36722021739
+2040,San Diego,Urbanization,1458.698018268116,Normal,Timestep and iteration,1453.4318938691267,384.83376380124224,5922.825940608695
+2050,San Diego,Urbanization,1615.6465392210143,Normal,Timestep and iteration,1609.813806500615,426.23992826086953,6560.092022826087
+2060,San Diego,Urbanization,1578.717475467391,Normal,Timestep and iteration,1573.0180623520296,416.4973013291925,6410.147062304347
+2070,San Diego,Urbanization,1357.143092945652,Normal,Timestep and iteration,1352.2435974605164,358.04153973913037,5510.477299173912
+2080,San Diego,Urbanization,1421.7689545144926,Normal,Timestep and iteration,1416.6361497205412,375.0911368695652,5772.880980086956
+2090,San Diego,Urbanization,932.4588597789855,Normal,Timestep and iteration,929.0925397517835,246.00133002484472,3786.1102531739125
+2017,San Francisco,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2020,San Francisco,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2030,San Francisco,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2040,San Francisco,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2050,San Francisco,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2060,San Francisco,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2070,San Francisco,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2080,San Francisco,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2090,San Francisco,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2017,San Joaquin,Urbanization,504.2761256531531,Normal,Timestep and iteration,281.8342575503635,135.36199827027025,1176.236265189189
+2020,San Joaquin,Urbanization,608.0976809346845,Normal,Timestep and iteration,339.8589576342618,163.23064497297293,1418.4025550810807
+2030,San Joaquin,Urbanization,815.7407914977476,Normal,Timestep and iteration,455.9083578020586,218.96793837837836,1902.7351348648647
+2040,San Joaquin,Urbanization,697.0875854617116,Normal,Timestep and iteration,389.5944148490319,187.1180564324324,1625.9736607027025
+2050,San Joaquin,Urbanization,697.0875854617116,Normal,Timestep and iteration,389.5944148490319,187.1180564324324,1625.9736607027025
+2060,San Joaquin,Urbanization,904.7306960247746,Normal,Timestep and iteration,505.6438150168286,242.8553498378378,2110.3062404864863
+2070,San Joaquin,Urbanization,578.4343794256756,Normal,Timestep and iteration,323.28047189600517,155.26817448648646,1349.2121865405404
+2080,San Joaquin,Urbanization,578.4343794256756,Normal,Timestep and iteration,323.28047189600517,155.26817448648646,1349.2121865405404
+2090,San Joaquin,Urbanization,326.2963165990991,Normal,Timestep and iteration,182.36334312082346,87.58717535135135,761.0940539459459
+2017,San Luis Obispo,Urbanization,86.03431652380952,Normal,Timestep and iteration,67.97884482665765,10.63746057142857,232.75226228571427
+2020,San Luis Obispo,Urbanization,146.2583380904762,Normal,Timestep and iteration,115.564036205318,18.08368297142857,395.6788458857143
+2030,San Luis Obispo,Urbanization,137.65490643809525,Normal,Timestep and iteration,108.76615172265225,17.019936914285715,372.4036196571429
+2040,San Luis Obispo,Urbanization,146.2583380904762,Normal,Timestep and iteration,115.564036205318,18.08368297142857,395.6788458857143
+2050,San Luis Obispo,Urbanization,197.87892800476192,Normal,Timestep and iteration,156.3513431013126,24.46615931428571,535.3302032571429
+2060,San Luis Obispo,Urbanization,154.86176974285718,Normal,Timestep and iteration,122.3619206879838,19.14742902857143,418.9540721142858
+2070,San Luis Obispo,Urbanization,180.6720647,Normal,Timestep and iteration,142.75557413598108,22.338667199999996,488.7797508
+2080,San Luis Obispo,Urbanization,120.44804313333333,Normal,Timestep and iteration,95.17038275732071,14.892444799999998,325.8531672
+2090,San Luis Obispo,Urbanization,43.01715826190476,Normal,Timestep and iteration,33.989422413328825,5.318730285714285,116.37613114285713
+2017,San Mateo,Urbanization,232.09853874725277,Normal,Timestep and iteration,267.9635192112751,9.755823214285716,925.2422736428572
+2020,San Mateo,Urbanization,214.9060543956044,Normal,Timestep and iteration,248.11436964006955,9.033169642857144,856.7058089285714
+2030,San Mateo,Urbanization,197.71357004395603,Normal,Timestep and iteration,228.26522006886398,8.310516071428571,788.1693442142856
+2040,San Mateo,Urbanization,163.32860134065933,Normal,Timestep and iteration,188.56692092645287,6.8652089285714295,651.0964147857143
+2050,San Mateo,Urbanization,189.11732786813187,Normal,Timestep and iteration,218.34064528326124,7.949189285714287,753.901111857143
+2060,San Mateo,Urbanization,335.2534448571429,Normal,Timestep and iteration,387.05841663850856,14.091744642857146,1336.4610619285716
+2070,San Mateo,Urbanization,464.19707749450555,Normal,Timestep and iteration,535.9270384225503,19.51164642857143,1850.4845472857144
+2080,San Mateo,Urbanization,567.3519836043956,Normal,Timestep and iteration,655.0219358497836,23.84756785714286,2261.7033355714284
+2090,San Mateo,Urbanization,429.8121087912088,Normal,Timestep and iteration,496.2287392801391,18.06633928571429,1713.4116178571428
+2017,Santa Barbara,Urbanization,266.29784107142854,Normal,Timestep and iteration,203.96962380325536,51.19277899999999,637.8429482857142
+2020,Santa Barbara,Urbanization,234.01931488095238,Normal,Timestep and iteration,179.24603303922444,44.98759366666666,560.5286515238096
+2030,Santa Barbara,Urbanization,250.15857797619051,Normal,Timestep and iteration,191.60782842123993,48.09018633333333,599.1857999047619
+2040,Santa Barbara,Urbanization,306.6459988095238,Normal,Timestep and iteration,234.87411225829408,58.94926066666665,734.4858192380951
+2050,Santa Barbara,Urbanization,298.57636726190475,Normal,Timestep and iteration,228.69321456728636,57.39796433333333,715.1572450476191
+2060,Santa Barbara,Urbanization,250.15857797619051,Normal,Timestep and iteration,191.60782842123993,48.09018633333333,599.1857999047619
+2070,Santa Barbara,Urbanization,217.8800517857143,Normal,Timestep and iteration,166.88423765720898,41.885000999999995,521.8715031428571
+2080,Santa Barbara,Urbanization,161.39263095238096,Normal,Timestep and iteration,123.61795382015478,31.025926666666663,386.5714838095238
+2090,Santa Barbara,Urbanization,129.11410476190477,Normal,Timestep and iteration,98.89436305612382,24.82074133333333,309.257187047619
+2017,Santa Clara,Urbanization,1320.8397005595239,Normal,Timestep and iteration,1191.7414141445238,152.42931782142858,3530.957615357143
+2020,Santa Clara,Urbanization,1513.7713422142856,Normal,Timestep and iteration,1365.8160027274316,174.69427435714283,4046.715469285714
+2030,Santa Clara,Urbanization,1454.4077601666668,Normal,Timestep and iteration,1312.254590855768,167.84351850000002,3888.0207450000003
+2040,Santa Clara,Urbanization,1587.9758197738097,Normal,Timestep and iteration,1432.7677675670118,183.25771917857142,4245.083874642857
+2050,Santa Clara,Urbanization,1498.930446702381,Normal,Timestep and iteration,1352.4256497595159,172.98158539285714,4007.041788214285
+2060,Santa Clara,Urbanization,816.249253154762,Normal,Timestep and iteration,736.4694132353799,94.19789303571429,2182.0524589285715
+2070,Santa Clara,Urbanization,801.4083576428573,Normal,Timestep and iteration,723.079060267464,92.48520407142857,2142.3787778571427
+2080,Santa Clara,Urbanization,415.54507433333333,Normal,Timestep and iteration,374.92988310164793,47.955290999999995,1110.8630699999999
+2090,Santa Clara,Urbanization,326.4997012619048,Normal,Timestep and iteration,294.587765294152,37.679157214285716,872.8209835714285
+2017,Santa Cruz,Urbanization,35.14936787152778,Normal,Timestep and iteration,43.16580105590328,1.2983675833333332,160.52544666666668
+2020,Santa Cruz,Urbanization,60.25605920833333,Normal,Timestep and iteration,73.99851609583419,2.225773,275.18648
+2030,Santa Cruz,Urbanization,45.19204440625,Normal,Timestep and iteration,55.49888707187564,1.6693297499999997,206.38986
+2040,Santa Cruz,Urbanization,65.27739747569446,Normal,Timestep and iteration,80.16505910382038,2.4112540833333336,298.11868666666675
+2050,Santa Cruz,Urbanization,55.234720940972224,Normal,Timestep and iteration,67.83197308784801,2.0402919166666664,252.25427333333337
+2060,Santa Cruz,Urbanization,40.170706138888896,Normal,Timestep and iteration,49.332344063889465,1.4838486666666666,183.45765333333335
+2070,Santa Cruz,Urbanization,60.25605920833333,Normal,Timestep and iteration,73.99851609583419,2.225773,275.18648
+2080,Santa Cruz,Urbanization,35.14936787152778,Normal,Timestep and iteration,43.16580105590328,1.2983675833333332,160.52544666666668
+2090,Santa Cruz,Urbanization,15.064014802083333,Normal,Timestep and iteration,18.499629023958548,0.55644325,68.79662
+2017,Shasta,Urbanization,52.18123618390805,Normal,Timestep and iteration,41.38010598369601,7.144801103448276,119.84287475862068
+2020,Shasta,Urbanization,58.70389070689655,Normal,Timestep and iteration,46.552619231658014,8.037901241379311,134.82323410344827
+2030,Shasta,Urbanization,65.22654522988506,Normal,Timestep and iteration,51.725132479620015,8.931001379310345,149.80359344827585
+2040,Shasta,Urbanization,97.83981784482759,Normal,Timestep and iteration,77.58769871943002,13.396502068965518,224.7053901724138
+2050,Shasta,Urbanization,117.4077814137931,Normal,Timestep and iteration,93.10523846331603,16.075802482758622,269.64646820689654
+2060,Shasta,Urbanization,130.45309045977012,Normal,Timestep and iteration,103.45026495924003,17.86200275862069,299.6071868965517
+2070,Shasta,Urbanization,117.4077814137931,Normal,Timestep and iteration,93.10523846331603,16.075802482758622,269.64646820689654
+2080,Shasta,Urbanization,189.15698116666667,Normal,Timestep and iteration,150.00288419089804,25.899904,434.43042099999997
+2090,Shasta,Urbanization,123.9304359367816,Normal,Timestep and iteration,98.27775171127803,16.968902620689654,284.6268275517241
+2017,Sierra Valley,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2020,Sierra Valley,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2030,Sierra Valley,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2040,Sierra Valley,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2050,Sierra Valley,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2060,Sierra Valley,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2070,Sierra Valley,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2080,Sierra Valley,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2090,Sierra Valley,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2017,Siskiyou,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2020,Siskiyou,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2030,Siskiyou,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2040,Siskiyou,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2050,Siskiyou,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2060,Siskiyou,Urbanization,20.096032283333333,Normal,Timestep and iteration,40.16361790339452,0.1618744,143.1374382
+2070,Siskiyou,Urbanization,10.048016141666666,Normal,Timestep and iteration,20.08180895169726,0.0809372,71.5687191
+2080,Siskiyou,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2090,Siskiyou,Urbanization,10.048016141666666,Normal,Timestep and iteration,20.08180895169726,0.0809372,71.5687191
+2017,Solano,Urbanization,117.85746623188408,Normal,Timestep and iteration,97.31024606618959,24.896986521739134,346.44640608695653
+2020,Solano,Urbanization,330.0009054492754,Normal,Timestep and iteration,272.46868898533086,69.71156226086957,970.0499370434783
+2030,Solano,Urbanization,259.286425710145,Normal,Timestep and iteration,214.08254134561713,54.773370347826095,762.1820933913044
+2040,Solano,Urbanization,212.14343921739132,Normal,Timestep and iteration,175.15844291914127,44.81457573913044,623.6035309565218
+2050,Solano,Urbanization,271.07217233333336,Normal,Timestep and iteration,223.81356595223605,57.263069,796.826734
+2060,Solano,Urbanization,200.35769259420294,Normal,Timestep and iteration,165.42741831252232,42.324877086956526,588.9588903478261
+2070,Solano,Urbanization,212.14343921739132,Normal,Timestep and iteration,175.15844291914127,44.81457573913044,623.6035309565218
+2080,Solano,Urbanization,141.42895947826088,Normal,Timestep and iteration,116.7722952794275,29.876383826086958,415.73568730434783
+2090,Solano,Urbanization,117.85746623188408,Normal,Timestep and iteration,97.31024606618959,24.896986521739134,346.44640608695653
+2017,Sonoma,Urbanization,51.754842888888895,Normal,Timestep and iteration,67.17192471310274,2.7316305000000005,194.2155561666667
+2020,Sonoma,Urbanization,213.48872691666668,Normal,Timestep and iteration,277.0841894415488,11.267975812500001,801.1391691875001
+2030,Sonoma,Urbanization,239.36614836111113,Normal,Timestep and iteration,310.67015179810016,12.633791062500002,898.2469472708334
+2040,Sonoma,Urbanization,226.42743763888893,Normal,Timestep and iteration,293.8771706198245,11.950883437500002,849.6930582291668
+2050,Sonoma,Urbanization,200.55001619444448,Normal,Timestep and iteration,260.2912082632731,10.585068187500001,752.5852801458334
+2060,Sonoma,Urbanization,226.42743763888893,Normal,Timestep and iteration,293.8771706198245,11.950883437500002,849.6930582291668
+2070,Sonoma,Urbanization,219.9580822777778,Normal,Timestep and iteration,285.48068003068664,11.609429625000002,825.4161137083335
+2080,Sonoma,Urbanization,155.26452866666668,Normal,Timestep and iteration,201.5157741393082,8.1948915,582.6466685
+2090,Sonoma,Urbanization,135.85646258333335,Normal,Timestep and iteration,176.3263023718947,7.170530062500002,509.8158349375001
+2017,Stanislaus,Urbanization,366.0540518461538,Normal,Timestep and iteration,284.9865697309502,76.66551444444444,1081.2310617777778
+2020,Stanislaus,Urbanization,321.6838637435897,Normal,Timestep and iteration,250.44274309689564,67.3727248148148,950.1727512592591
+2030,Stanislaus,Urbanization,366.0540518461538,Normal,Timestep and iteration,284.9865697309502,76.66551444444444,1081.2310617777778
+2040,Stanislaus,Urbanization,499.1646161538461,Normal,Timestep and iteration,388.6180496331139,104.54388333333333,1474.4059933333333
+2050,Stanislaus,Urbanization,377.1465988717948,Normal,Timestep and iteration,293.6225263894638,78.98871185185183,1113.9956394074072
+2060,Stanislaus,Urbanization,377.1465988717948,Normal,Timestep and iteration,293.6225263894638,78.98871185185183,1113.9956394074072
+2070,Stanislaus,Urbanization,288.4062226666666,Normal,Timestep and iteration,224.5348731213547,60.403132592592584,851.8790183703703
+2080,Stanislaus,Urbanization,476.97952210256403,Normal,Timestep and iteration,371.3461363160866,99.8974885185185,1408.876838074074
+2090,Stanislaus,Urbanization,244.03603456410258,Normal,Timestep and iteration,189.99104648730017,51.11034296296297,720.8207078518519
+2017,Sutter,Urbanization,264.1138213888889,Normal,Timestep and iteration,198.81195439295587,24.28116,619.16958
+2020,Sutter,Urbanization,316.93658566666664,Normal,Timestep and iteration,238.57434527154703,29.137392,743.0034959999999
+2030,Sutter,Urbanization,211.29105711111112,Normal,Timestep and iteration,159.0495635143647,19.424928,495.335664
+2040,Sutter,Urbanization,79.23414641666666,Normal,Timestep and iteration,59.64358631788676,7.284348,185.75087399999998
+2050,Sutter,Urbanization,79.23414641666666,Normal,Timestep and iteration,59.64358631788676,7.284348,185.75087399999998
+2060,Sutter,Urbanization,26.41138213888889,Normal,Timestep and iteration,19.88119543929559,2.428116,61.916958
+2070,Sutter,Urbanization,79.23414641666666,Normal,Timestep and iteration,59.64358631788676,7.284348,185.75087399999998
+2080,Sutter,Urbanization,52.82276427777778,Normal,Timestep and iteration,39.76239087859118,4.856232,123.833916
+2090,Sutter,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2017,Tehama,Urbanization,29.344793574999997,Normal,Timestep and iteration,35.44229490987131,2.2460072999999996,111.9968505
+2020,Tehama,Urbanization,68.47118500833332,Normal,Timestep and iteration,82.69868812303305,5.240683699999999,261.3259845
+2030,Tehama,Urbanization,146.723967875,Normal,Timestep and iteration,177.21147454935652,11.230036499999999,559.9842525
+2040,Tehama,Urbanization,117.37917429999999,Normal,Timestep and iteration,141.76917963948523,8.984029199999998,447.987402
+2050,Tehama,Urbanization,136.94237001666664,Normal,Timestep and iteration,165.3973762460661,10.481367399999998,522.651969
+2060,Tehama,Urbanization,313.0111314666667,Normal,Timestep and iteration,378.05114570529395,23.9574112,1194.633072
+2070,Tehama,Urbanization,205.41355502500002,Normal,Timestep and iteration,248.09606436909917,15.7220511,783.9779535
+2080,Tehama,Urbanization,293.44793575,Normal,Timestep and iteration,354.42294909871305,22.460072999999998,1119.968505
+2090,Tehama,Urbanization,254.3215443166667,Normal,Timestep and iteration,307.16655588555136,19.4653966,970.639371
+2017,Trinity,Urbanization,10,Normal,Timestep and iteration,5,0,20
+2020,Trinity,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2030,Trinity,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2040,Trinity,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2050,Trinity,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2060,Trinity,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2070,Trinity,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2080,Trinity,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2090,Trinity,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2017,Tulare,Urbanization,388.091406402439,Normal,Timestep and iteration,283.0646938088198,25.98380231707317,1079.7713407317074
+2020,Tulare,Urbanization,431.2126737804878,Normal,Timestep and iteration,314.5163264542442,28.870891463414637,1199.7459341463416
+2030,Tulare,Urbanization,569.2007293902439,Normal,Timestep and iteration,415.16155091960235,38.10957673170732,1583.6646330731708
+2040,Tulare,Urbanization,603.697743292683,Normal,Timestep and iteration,440.3228570359419,40.41924804878049,1679.6443078048783
+2050,Tulare,Urbanization,586.4492363414635,Normal,Timestep and iteration,427.74220397777214,39.264412390243905,1631.6544704390244
+2060,Tulare,Urbanization,569.2007293902439,Normal,Timestep and iteration,415.16155091960235,38.10957673170732,1583.6646330731708
+2070,Tulare,Urbanization,482.9581946341463,Normal,Timestep and iteration,352.2582856287535,32.33539843902439,1343.7154462439025
+2080,Tulare,Urbanization,448.4611807317074,Normal,Timestep and iteration,327.096979512414,30.025727121951224,1247.7357715121952
+2090,Tulare,Urbanization,293.22461817073173,Normal,Timestep and iteration,213.87110198888607,19.632206195121952,815.8272352195122
+2017,Tuolumne,Urbanization,40,Normal,Timestep and iteration,20,0,80
+2020,Tuolumne,Urbanization,120,Normal,Timestep and iteration,60,0,240
+2030,Tuolumne,Urbanization,140,Normal,Timestep and iteration,70,0,280
+2040,Tuolumne,Urbanization,100,Normal,Timestep and iteration,50,0,200
+2050,Tuolumne,Urbanization,130,Normal,Timestep and iteration,65,0,260
+2060,Tuolumne,Urbanization,210,Normal,Timestep and iteration,105,0,420
+2070,Tuolumne,Urbanization,270,Normal,Timestep and iteration,135,0,540
+2080,Tuolumne,Urbanization,190,Normal,Timestep and iteration,95,0,380
+2090,Tuolumne,Urbanization,190,Normal,Timestep and iteration,95,0,380
+2017,Ventura,Urbanization,428.88384229411764,Normal,Timestep and iteration,431.797479706812,80.34207352941176,1672.614848117647
+2020,Ventura,Urbanization,452.7107224215686,Normal,Timestep and iteration,455.78622857941264,84.80552205882353,1765.5378952352942
+2030,Ventura,Urbanization,333.57632178431373,Normal,Timestep and iteration,335.8424842164093,62.4882794117647,1300.9226596470587
+2040,Ventura,Urbanization,416.9704022303922,Normal,Timestep and iteration,419.8031052705117,78.11034926470589,1626.1533245588237
+2050,Ventura,Urbanization,393.1435221029412,Normal,Timestep and iteration,395.81435639791096,73.64690073529411,1533.2302774411764
+2060,Ventura,Urbanization,393.1435221029412,Normal,Timestep and iteration,395.81435639791096,73.64690073529411,1533.2302774411764
+2070,Ventura,Urbanization,512.277922740196,Normal,Timestep and iteration,515.7581007609143,95.96414338235293,1997.8455130294117
+2080,Ventura,Urbanization,393.1435221029412,Normal,Timestep and iteration,395.81435639791096,73.64690073529411,1533.2302774411764
+2090,Ventura,Urbanization,357.4032019117647,Normal,Timestep and iteration,359.83123308900997,66.95172794117647,1393.8457067647057
+2017,Yolo,Urbanization,195.5771559375,Normal,Timestep and iteration,107.0269391946325,55.89725375,397.603995
+2020,Yolo,Urbanization,234.69258712499996,Normal,Timestep and iteration,128.43232703355898,67.07670449999999,477.1247939999999
+2030,Yolo,Urbanization,156.46172475,Normal,Timestep and iteration,85.621551355706,44.717802999999996,318.083196
+2040,Yolo,Urbanization,234.69258712499996,Normal,Timestep and iteration,128.43232703355898,67.07670449999999,477.1247939999999
+2050,Yolo,Urbanization,195.5771559375,Normal,Timestep and iteration,107.0269391946325,55.89725375,397.603995
+2060,Yolo,Urbanization,234.69258712499996,Normal,Timestep and iteration,128.43232703355898,67.07670449999999,477.1247939999999
+2070,Yolo,Urbanization,156.46172475,Normal,Timestep and iteration,85.621551355706,44.717802999999996,318.083196
+2080,Yolo,Urbanization,195.5771559375,Normal,Timestep and iteration,107.0269391946325,55.89725375,397.603995
+2090,Yolo,Urbanization,156.46172475,Normal,Timestep and iteration,85.621551355706,44.717802999999996,318.083196
+2017,Yuba,Urbanization,54.37630886666666,Normal,Timestep and iteration,47.10256571761878,11.4930824,162.5218976
+2020,Yuba,Urbanization,122.34669494999999,Normal,Timestep and iteration,105.98077286464226,25.859435400000002,365.6742696
+2030,Yuba,Urbanization,244.69338989999997,Normal,Timestep and iteration,211.96154572928452,51.718870800000005,731.3485392
+2040,Yuba,Urbanization,217.50523546666665,Normal,Timestep and iteration,188.41026287047512,45.9723296,650.0875904
+2050,Yuba,Urbanization,312.66377598333327,Normal,Timestep and iteration,270.83975287630795,66.0852238,934.5009111999999
+2060,Yuba,Urbanization,380.6341620666666,Normal,Timestep and iteration,329.71796002333144,80.4515768,1137.6532831999998
+2070,Yuba,Urbanization,448.6045481499999,Normal,Timestep and iteration,388.59616717035493,94.8179298,1340.8056551999998
+2080,Yuba,Urbanization,312.66377598333327,Normal,Timestep and iteration,270.83975287630795,66.0852238,934.5009111999999
+2090,Yuba,Urbanization,285.47562154999997,Normal,Timestep and iteration,247.2884700174986,60.338682600000006,853.2399624
+2017,Alameda,Urbanization,358.44083370967735,Normal,Timestep and iteration,230.76402937210273,106.23007499999999,943.7342791935482
+2020,Alameda,Urbanization,593.9876672903225,Normal,Timestep and iteration,382.40896295948454,176.03841,1563.9025198064514
+2030,Alameda,Urbanization,747.6051674516127,Normal,Timestep and iteration,481.3078326903857,221.56558499999997,1968.3600680322577
+2040,Alameda,Urbanization,1044.599001096774,Normal,Timestep and iteration,672.512314170128,309.58479,2750.3113279354834
+2050,Alameda,Urbanization,1126.528334516129,Normal,Timestep and iteration,725.2583780266086,333.86595,2966.0220203225804
+2060,Alameda,Urbanization,1228.9400012903225,Normal,Timestep and iteration,791.1909578472093,364.21739999999994,3235.6603858064514
+2070,Alameda,Urbanization,1136.7695011935482,Normal,Timestep and iteration,731.8516360086687,336.901095,2992.9858568709674
+2080,Alameda,Urbanization,696.399334064516,Normal,Timestep and iteration,448.3415427800853,206.38985999999997,1833.5408852903224
+2090,Alameda,Urbanization,501.8171671935484,Normal,Timestep and iteration,323.06964112094386,148.722105,1321.227990870968
+2017,Alpine,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2020,Alpine,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2030,Alpine,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2040,Alpine,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2050,Alpine,Urbanization,10,Normal,Timestep and iteration,5,0,20
+2060,Alpine,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2070,Alpine,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2080,Alpine,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2090,Alpine,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2017,Amador,Urbanization,5.6360956458333336,Normal,Timestep and iteration,5.408976040087828,0.25292875000000004,15.4792395
+2020,Amador,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2030,Amador,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2040,Amador,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2050,Amador,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2060,Amador,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2070,Amador,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2080,Amador,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2090,Amador,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2017,Butte,Urbanization,72.15776205555557,Normal,Timestep and iteration,47.52176436935262,17.82304591666667,153.6795085
+2020,Butte,Urbanization,77.31188791666666,Normal,Timestep and iteration,50.91617611002066,19.096120624999998,164.65661624999998
+2030,Butte,Urbanization,118.54489480555554,Normal,Timestep and iteration,78.07147003536501,29.280718291666663,252.47347824999997
+2040,Butte,Urbanization,123.69902066666667,Normal,Timestep and iteration,81.46588177603306,30.553793,263.450586
+2050,Butte,Urbanization,128.8531465277778,Normal,Timestep and iteration,84.8602935167011,31.826867708333335,274.42769375
+2060,Butte,Urbanization,128.8531465277778,Normal,Timestep and iteration,84.8602935167011,31.826867708333335,274.42769375
+2070,Butte,Urbanization,103.08251722222222,Normal,Timestep and iteration,67.88823481336088,25.461494166666668,219.542155
+2080,Butte,Urbanization,103.08251722222222,Normal,Timestep and iteration,67.88823481336088,25.461494166666668,219.542155
+2090,Butte,Urbanization,134.0072723888889,Normal,Timestep and iteration,88.25470525736915,33.09994241666667,285.4048015
+2017,Calaveras,Urbanization,20,Normal,Timestep and iteration,10,0,40
+2020,Calaveras,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2030,Calaveras,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2040,Calaveras,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2050,Calaveras,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2060,Calaveras,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2070,Calaveras,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2080,Calaveras,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2090,Calaveras,Urbanization,20,Normal,Timestep and iteration,10,0,40
+2017,Colusa,Urbanization,1787.3631666666665,Normal,Timestep and iteration,1209.1899002674816,212.46014999999997,4016.5085499999996
+2020,Colusa,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2030,Colusa,Urbanization,1429.8905333333332,Normal,Timestep and iteration,967.3519202139852,169.96812,3213.20684
+2040,Colusa,Urbanization,1787.3631666666665,Normal,Timestep and iteration,1209.1899002674816,212.46014999999997,4016.5085499999996
+2050,Colusa,Urbanization,2144.8358,Normal,Timestep and iteration,1451.0278803209778,254.95217999999997,4819.810259999999
+2060,Colusa,Urbanization,2502.308433333333,Normal,Timestep and iteration,1692.865860374474,297.44421,5623.11197
+2070,Colusa,Urbanization,2144.8358,Normal,Timestep and iteration,1451.0278803209778,254.95217999999997,4819.810259999999
+2080,Colusa,Urbanization,714.9452666666666,Normal,Timestep and iteration,483.6759601069926,84.98406,1606.60342
+2090,Colusa,Urbanization,1072.4179,Normal,Timestep and iteration,725.5139401604889,127.47608999999999,2409.9051299999996
+2017,Contra Costa,Urbanization,492.06466834508547,Normal,Timestep and iteration,342.9267588298785,149.41214651282053,1048.282011897436
+2020,Contra Costa,Urbanization,619.8736731100428,Normal,Timestep and iteration,431.99864424023656,188.22049625641026,1320.563053948718
+2030,Contra Costa,Urbanization,581.5309716805556,Normal,Timestep and iteration,405.2770786171292,176.57799133333336,1238.8787413333334
+2040,Contra Costa,Urbanization,651.825924301282,Normal,Timestep and iteration,454.2666155928261,197.92258369230768,1388.6333144615385
+2050,Contra Costa,Urbanization,511.2360190598291,Normal,Timestep and iteration,356.28754164143226,155.233398974359,1089.1241682051284
+2060,Contra Costa,Urbanization,472.8933176303419,Normal,Timestep and iteration,329.5659760183248,143.59089405128205,1007.4398555897437
+2070,Contra Costa,Urbanization,268.3989100064103,Normal,Timestep and iteration,187.05095936175195,81.49753446153848,571.7901883076925
+2080,Contra Costa,Urbanization,319.5225119123932,Normal,Timestep and iteration,222.67971352589515,97.02087435897437,680.7026051282052
+2090,Contra Costa,Urbanization,191.7135071474359,Normal,Timestep and iteration,133.60782811553707,58.212524615384616,408.4215630769231
+2017,Del Norte,Urbanization,50,Normal,Timestep and iteration,25,0,100
+2020,Del Norte,Urbanization,70,Normal,Timestep and iteration,35,0,140
+2030,Del Norte,Urbanization,50,Normal,Timestep and iteration,25,0,100
+2040,Del Norte,Urbanization,50,Normal,Timestep and iteration,25,0,100
+2050,Del Norte,Urbanization,80,Normal,Timestep and iteration,40,0,160
+2060,Del Norte,Urbanization,50,Normal,Timestep and iteration,25,0,100
+2070,Del Norte,Urbanization,100,Normal,Timestep and iteration,50,0,200
+2080,Del Norte,Urbanization,80,Normal,Timestep and iteration,40,0,160
+2090,Del Norte,Urbanization,100,Normal,Timestep and iteration,50,0,200
+2017,El Dorado,Urbanization,192.87334759999996,Normal,Timestep and iteration,262.0384762683998,6.9605992,884.6435959999998
+2020,El Dorado,Urbanization,309.97502292857143,Normal,Timestep and iteration,421.1332654313569,11.186677285714287,1421.7486364285714
+2030,El Dorado,Urbanization,371.97002751428573,Normal,Timestep and iteration,505.3599185176283,13.424012742857144,1706.0983637142856
+2040,El Dorado,Urbanization,454.63003362857137,Normal,Timestep and iteration,617.6621226326567,16.407126685714285,2085.231333428571
+2050,El Dorado,Urbanization,688.8333842857143,Normal,Timestep and iteration,935.8517009585709,24.85928285714286,3159.441414285714
+2060,El Dorado,Urbanization,640.6150473857143,Normal,Timestep and iteration,870.342081891471,23.11913305714286,2938.2805152857145
+2070,El Dorado,Urbanization,495.96003668571433,Normal,Timestep and iteration,673.8132246901711,17.89868365714286,2274.797818285714
+2080,El Dorado,Urbanization,433.9650321,Normal,Timestep and iteration,589.5865716038996,15.6613482,1990.4480909999997
+2090,El Dorado,Urbanization,392.6350290428571,Normal,Timestep and iteration,533.4354695463853,14.169791228571428,1800.881606142857
+2017,Fresno,Urbanization,1115.7963378153597,Normal,Timestep and iteration,489.4370264704293,466.38871247058836,2009.4207228823532
+2020,Fresno,Urbanization,1200.5403634722222,Normal,Timestep and iteration,526.6094588605885,501.81064000000003,2162.034955
+2030,Fresno,Urbanization,1567.7644746519609,Normal,Timestep and iteration,687.6899992179449,655.3056592941177,2823.363294176471
+2040,Fresno,Urbanization,1412.4004276143792,Normal,Timestep and iteration,619.5405398359864,590.3654588235295,2543.5705352941177
+2050,Fresno,Urbanization,1666.6325045849676,Normal,Timestep and iteration,731.057837006464,696.6312414117648,3001.413231647059
+2060,Fresno,Urbanization,1596.0124832042484,Normal,Timestep and iteration,700.0808100146646,667.1129684705883,2874.234704882353
+2070,Fresno,Urbanization,1186.4163591960785,Normal,Timestep and iteration,520.4140534622286,495.90698541176477,2136.599249647059
+2080,Fresno,Urbanization,1355.904410509804,Normal,Timestep and iteration,594.7589182425469,566.7508404705883,2441.827713882353
+2090,Fresno,Urbanization,1016.928307882353,Normal,Timestep and iteration,446.0691886819102,425.06313035294124,1831.3707854117647
+2017,Glenn,Urbanization,32.08822741666667,Normal,Timestep and iteration,27.785359670836343,7.284348,82.758287
+2020,Glenn,Urbanization,21.392151611111114,Normal,Timestep and iteration,18.523573113890897,4.856232,55.17219133333334
+2030,Glenn,Urbanization,21.392151611111114,Normal,Timestep and iteration,18.523573113890897,4.856232,55.17219133333334
+2040,Glenn,Urbanization,53.480379027777786,Normal,Timestep and iteration,46.30893278472724,12.14058,137.93047833333333
+2050,Glenn,Urbanization,21.392151611111114,Normal,Timestep and iteration,18.523573113890897,4.856232,55.17219133333334
+2060,Glenn,Urbanization,32.08822741666667,Normal,Timestep and iteration,27.785359670836343,7.284348,82.758287
+2070,Glenn,Urbanization,21.392151611111114,Normal,Timestep and iteration,18.523573113890897,4.856232,55.17219133333334
+2080,Glenn,Urbanization,21.392151611111114,Normal,Timestep and iteration,18.523573113890897,4.856232,55.17219133333334
+2090,Glenn,Urbanization,42.78430322222223,Normal,Timestep and iteration,37.047146227781795,9.712464,110.34438266666668
+2017,Humboldt,Urbanization,90,Normal,Timestep and iteration,45,0,180
+2020,Humboldt,Urbanization,160,Normal,Timestep and iteration,80,0,320
+2030,Humboldt,Urbanization,180,Normal,Timestep and iteration,90,0,360
+2040,Humboldt,Urbanization,150,Normal,Timestep and iteration,75,0,300
+2050,Humboldt,Urbanization,229.99999999999997,Normal,Timestep and iteration,114.99999999999999,0,459.99999999999994
+2060,Humboldt,Urbanization,260,Normal,Timestep and iteration,130,0,520
+2070,Humboldt,Urbanization,290,Normal,Timestep and iteration,145,0,580
+2080,Humboldt,Urbanization,340,Normal,Timestep and iteration,170,0,680
+2090,Humboldt,Urbanization,300,Normal,Timestep and iteration,150,0,600
+2017,Imperial,Urbanization,669.7397651538462,Normal,Timestep and iteration,827.2826736010062,133.63976907692307,3079.177949769231
+2020,Imperial,Urbanization,1041.8174124615384,Normal,Timestep and iteration,1286.8841589348986,207.88408523076922,4789.832366307693
+2030,Imperial,Urbanization,1165.8432948974357,Normal,Timestep and iteration,1440.084654046196,232.63219061538462,5360.050505153846
+2040,Imperial,Urbanization,1066.6225889487177,Normal,Timestep and iteration,1317.524257957158,212.8337063076923,4903.875994076922
+2050,Imperial,Urbanization,1116.2329419230769,Normal,Timestep and iteration,1378.8044560016767,222.73294846153843,5131.963249615384
+2060,Imperial,Urbanization,1091.4277654358973,Normal,Timestep and iteration,1348.1643569794176,217.78332738461538,5017.919621846154
+2070,Imperial,Urbanization,1091.4277654358973,Normal,Timestep and iteration,1348.1643569794176,217.78332738461538,5017.919621846154
+2080,Imperial,Urbanization,1165.8432948974357,Normal,Timestep and iteration,1440.084654046196,232.63219061538462,5360.050505153846
+2090,Imperial,Urbanization,1215.4536478717948,Normal,Timestep and iteration,1501.364852090715,242.53143276923075,5588.137760692307
+2017,Inyo,Urbanization,40,Normal,Timestep and iteration,20,0,80
+2020,Inyo,Urbanization,10,Normal,Timestep and iteration,5,0,20
+2030,Inyo,Urbanization,30,Normal,Timestep and iteration,15,0,60
+2040,Inyo,Urbanization,10,Normal,Timestep and iteration,5,0,20
+2050,Inyo,Urbanization,30,Normal,Timestep and iteration,15,0,60
+2060,Inyo,Urbanization,80,Normal,Timestep and iteration,40,0,160
+2070,Inyo,Urbanization,40,Normal,Timestep and iteration,20,0,80
+2080,Inyo,Urbanization,20,Normal,Timestep and iteration,10,0,40
+2090,Inyo,Urbanization,80,Normal,Timestep and iteration,40,0,160
+2017,Kern,Urbanization,1360.8677042358972,Normal,Timestep and iteration,664.7944363664278,437.3171811333333,2387.701358133333
+2020,Kern,Urbanization,2097.3372853517944,Normal,Timestep and iteration,1024.5655431059063,673.9829497466666,3679.869151946666
+2030,Kern,Urbanization,2193.398535062564,Normal,Timestep and iteration,1071.49220920236,704.8523978266666,3848.412777226666
+2040,Kern,Urbanization,2289.4597847733335,Normal,Timestep and iteration,1118.4188752988139,735.7218459066667,4016.956402506666
+2050,Kern,Urbanization,2577.643533905641,Normal,Timestep and iteration,1259.1988735881753,828.3301901466667,4522.587278346667
+2060,Kern,Urbanization,1953.2454107856406,Normal,Timestep and iteration,954.1755439612257,627.6787776266665,3427.053714026666
+2070,Kern,Urbanization,2433.551659339487,Normal,Timestep and iteration,1188.8088744434942,782.0260180266665,4269.771840426665
+2080,Kern,Urbanization,1985.2658273558973,Normal,Timestep and iteration,969.8177659933771,637.9685936533333,3483.2349224533327
+2090,Kern,Urbanization,1665.0616616533332,Normal,Timestep and iteration,813.3955456718646,535.0704333866667,2921.4228381866665
+2017,Kings,Urbanization,433.7980991249999,Normal,Timestep and iteration,319.3788170386733,181.19815649999998,1117.8439034999997
+2020,Kings,Urbanization,686.8469902812498,Normal,Timestep and iteration,505.68312697789935,286.89708112499994,1769.9195138749994
+2030,Kings,Urbanization,939.8958814375,Normal,Timestep and iteration,691.9874369171256,392.59600575,2421.9951242499997
+2040,Kings,Urbanization,903.7460398437499,Normal,Timestep and iteration,665.3725354972362,377.496159375,2328.8414656249997
+2050,Kings,Urbanization,722.996831875,Normal,Timestep and iteration,532.2980283977889,301.9969275,1863.0731724999998
+2060,Kings,Urbanization,831.4463566562498,Normal,Timestep and iteration,612.1427326574571,347.29646662499994,2142.5341483749994
+2070,Kings,Urbanization,831.4463566562498,Normal,Timestep and iteration,612.1427326574571,347.29646662499994,2142.5341483749994
+2080,Kings,Urbanization,614.54730709375,Normal,Timestep and iteration,452.4533241381206,256.697388375,1583.6121966249998
+2090,Kings,Urbanization,831.4463566562498,Normal,Timestep and iteration,612.1427326574571,347.29646662499994,2142.5341483749994
+2017,Lake,Urbanization,22.11928478947368,Normal,Timestep and iteration,22.591547866754734,1.2247076315789471,62.460089210526306
+2020,Lake,Urbanization,88.47713915789473,Normal,Timestep and iteration,90.36619146701894,4.8988305263157885,249.84035684210522
+2030,Lake,Urbanization,57.51014045263158,Normal,Timestep and iteration,58.73802445356231,3.1842398421052627,162.39623194736842
+2040,Lake,Urbanization,53.08628349473684,Normal,Timestep and iteration,54.219714880211356,2.939298315789473,149.90421410526315
+2050,Lake,Urbanization,84.0532822,Normal,Timestep and iteration,85.84788189366799,4.6538889999999995,237.34833899999998
+2060,Lake,Urbanization,141.56342265263157,Normal,Timestep and iteration,144.58590634723032,7.838128842105263,399.7445709473684
+2070,Lake,Urbanization,101.74871003157894,Normal,Timestep and iteration,103.92112018707178,5.633655105263157,287.31641036842103
+2080,Lake,Urbanization,115.02028090526316,Normal,Timestep and iteration,117.47604890712462,6.368479684210525,324.79246389473684
+2090,Lake,Urbanization,119.4441378631579,Normal,Timestep and iteration,121.99435848047558,6.613421210526316,337.2844817368421
+2017,Lassen,Urbanization,20,Normal,Timestep and iteration,10,0,40
+2020,Lassen,Urbanization,30,Normal,Timestep and iteration,15,0,60
+2030,Lassen,Urbanization,20,Normal,Timestep and iteration,10,0,40
+2040,Lassen,Urbanization,20,Normal,Timestep and iteration,10,0,40
+2050,Lassen,Urbanization,30,Normal,Timestep and iteration,15,0,60
+2060,Lassen,Urbanization,30,Normal,Timestep and iteration,15,0,60
+2070,Lassen,Urbanization,30,Normal,Timestep and iteration,15,0,60
+2080,Lassen,Urbanization,100,Normal,Timestep and iteration,50,0,200
+2090,Lassen,Urbanization,60,Normal,Timestep and iteration,30,0,120
+2017,Los Angeles,Urbanization,1605.989416699389,Normal,Timestep and iteration,995.3534055348126,332.8118595026178,4273.796679293193
+2020,Los Angeles,Urbanization,2341.261679766579,Normal,Timestep and iteration,1451.0573743338834,485.1835542146597,6230.474677041884
+2030,Los Angeles,Urbanization,2287.083723540576,Normal,Timestep and iteration,1417.4791871592151,473.95616618324607,6086.2984035235595
+2040,Los Angeles,Urbanization,2844.3427018651832,Normal,Timestep and iteration,1762.85482667009,589.4378716492147,7569.254359712041
+2050,Los Angeles,Urbanization,1714.345329151396,Normal,Timestep and iteration,1062.5097798841493,355.26663556544503,4562.149226329842
+2060,Los Angeles,Urbanization,483.7317520178883,Normal,Timestep and iteration,299.80524263096765,100.24453599476439,1287.2881564136123
+2070,Los Angeles,Urbanization,19.34927008071553,Normal,Timestep and iteration,11.992209705238706,4.009781439790576,51.491526256544496
+2080,Los Angeles,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2090,Los Angeles,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2017,Madera,Urbanization,281.1555985,Normal,Timestep and iteration,174.52569616055007,63.23813876470589,618.6339661764706
+2020,Madera,Urbanization,294.54396033333336,Normal,Timestep and iteration,182.83644359676674,66.24947870588235,648.0927264705882
+2030,Madera,Urbanization,361.4857695,Normal,Timestep and iteration,224.39018077785008,81.30617841176472,795.3865279411765
+2040,Madera,Urbanization,428.4275786666667,Normal,Timestep and iteration,265.94391795893347,96.36287811764707,942.6803294117648
+2050,Madera,Urbanization,535.5344733333334,Normal,Timestep and iteration,332.4298974486668,120.45359764705883,1178.350411764706
+2060,Madera,Urbanization,428.4275786666667,Normal,Timestep and iteration,265.94391795893347,96.36287811764707,942.6803294117648
+2070,Madera,Urbanization,481.981026,Normal,Timestep and iteration,299.1869077038001,108.40823788235295,1060.5153705882353
+2080,Madera,Urbanization,428.4275786666667,Normal,Timestep and iteration,265.94391795893347,96.36287811764707,942.6803294117648
+2090,Madera,Urbanization,281.1555985,Normal,Timestep and iteration,174.52569616055007,63.23813876470589,618.6339661764706
+2017,Marin,Urbanization,97.55595007894738,Normal,Timestep and iteration,160.95417005733705,17.252403157894737,602.6839503157895
+2020,Marin,Urbanization,124.65482510087719,Normal,Timestep and iteration,205.66366173993066,22.044737368421053,770.0961587368421
+2030,Marin,Urbanization,124.65482510087719,Normal,Timestep and iteration,205.66366173993066,22.044737368421053,770.0961587368421
+2040,Marin,Urbanization,135.49437510964913,Normal,Timestep and iteration,223.54745841296813,23.96167105263158,837.0610421052631
+2050,Marin,Urbanization,168.01302513596494,Normal,Timestep and iteration,277.19884843208047,29.71247210526316,1037.9556922105264
+2060,Marin,Urbanization,373.96447530263157,Normal,Timestep and iteration,616.990985219792,66.13421210526316,2310.2884762105264
+2070,Marin,Urbanization,249.30965020175438,Normal,Timestep and iteration,411.3273234798613,44.08947473684211,1540.1923174736842
+2080,Marin,Urbanization,357.7051502894737,Normal,Timestep and iteration,590.1652902102358,63.25881157894737,2209.8411511578947
+2090,Marin,Urbanization,254.72942520614035,Normal,Timestep and iteration,420.26922181638,45.04794157894737,1573.6747591578949
+2017,Mariposa,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2020,Mariposa,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2030,Mariposa,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2040,Mariposa,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2050,Mariposa,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2060,Mariposa,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2070,Mariposa,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2080,Mariposa,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2090,Mariposa,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2017,Mendocino,Urbanization,13.851298090909088,Normal,Timestep and iteration,12.548076154549204,0,30.241081090909088
+2020,Mendocino,Urbanization,20.776947136363635,Normal,Timestep and iteration,18.822114231823807,0,45.36162163636363
+2030,Mendocino,Urbanization,36.93679490909091,Normal,Timestep and iteration,33.46153641213121,0,80.6428829090909
+2040,Mendocino,Urbanization,43.86244395454545,Normal,Timestep and iteration,39.73557448940581,0,95.76342345454543
+2050,Mendocino,Urbanization,32.319695545454536,Normal,Timestep and iteration,29.278844360614805,0,70.56252254545453
+2060,Mendocino,Urbanization,62.33084140909091,Normal,Timestep and iteration,56.46634269547142,0,136.0848649090909
+2070,Mendocino,Urbanization,57.71374204545454,Normal,Timestep and iteration,52.28365064395501,0,126.00450454545452
+2080,Mendocino,Urbanization,62.33084140909091,Normal,Timestep and iteration,56.46634269547142,0,136.0848649090909
+2090,Mendocino,Urbanization,48.47954331818181,Normal,Timestep and iteration,43.91826654092221,0,105.8437838181818
+2017,Merced,Urbanization,226.63842777564096,Normal,Timestep and iteration,110.27008273148438,78.22113434615383,383.40885530769225
+2020,Merced,Urbanization,315.32302994871793,Normal,Timestep and iteration,153.41924553945654,108.82940430769231,533.4384073846154
+2030,Merced,Urbanization,374.4460980641025,Normal,Timestep and iteration,182.18535407810464,129.2349176153846,633.4581087692308
+2040,Merced,Urbanization,305.4691852628205,Normal,Timestep and iteration,148.62489411634851,105.42848542307692,516.7684571538462
+2050,Merced,Urbanization,482.8383896089743,Normal,Timestep and iteration,234.92321973229284,166.64502534615383,816.8275613076922
+2060,Merced,Urbanization,364.5922533782051,Normal,Timestep and iteration,177.39100265499664,125.83399873076924,616.7881585384615
+2070,Merced,Urbanization,384.29994274999996,Normal,Timestep and iteration,186.97970550121266,132.63583649999998,650.128059
+2080,Merced,Urbanization,206.93073840384614,Normal,Timestep and iteration,100.68137988526836,71.41929657692307,350.0689548461538
+2090,Merced,Urbanization,315.32302994871793,Normal,Timestep and iteration,153.41924553945654,108.82940430769231,533.4384073846154
+2017,Modoc,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2020,Modoc,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2030,Modoc,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2040,Modoc,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2050,Modoc,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2060,Modoc,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2070,Modoc,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2080,Modoc,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2090,Modoc,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2017,Mono,Urbanization,10,Normal,Timestep and iteration,5,0,20
+2020,Mono,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2030,Mono,Urbanization,20,Normal,Timestep and iteration,10,0,40
+2040,Mono,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2050,Mono,Urbanization,10,Normal,Timestep and iteration,5,0,20
+2060,Mono,Urbanization,10,Normal,Timestep and iteration,5,0,20
+2070,Mono,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2080,Mono,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2090,Mono,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2017,Monterey,Urbanization,373.12928952173917,Normal,Timestep and iteration,350.3242352217162,50.497774782608694,1099.8661678260871
+2020,Monterey,Urbanization,586.3460263913045,Normal,Timestep and iteration,550.5095124912684,79.35364608695653,1728.3611208695654
+2030,Monterey,Urbanization,573.0199803369566,Normal,Timestep and iteration,537.9979326619214,77.55015413043478,1689.080186304348
+2040,Monterey,Urbanization,772.910671152174,Normal,Timestep and iteration,725.6716301021264,104.60253347826087,2278.2942047826086
+2050,Monterey,Urbanization,746.2585790434783,Normal,Timestep and iteration,700.6484704434324,100.99554956521739,2199.7323356521742
+2060,Monterey,Urbanization,746.2585790434783,Normal,Timestep and iteration,700.6484704434324,100.99554956521739,2199.7323356521742
+2070,Monterey,Urbanization,479.7376579565218,Normal,Timestep and iteration,450.41687385649226,64.9257104347826,1414.1136443478263
+2080,Monterey,Urbanization,346.47719741304354,Normal,Timestep and iteration,325.3010755630222,46.89079086956522,1021.3042986956523
+2090,Monterey,Urbanization,306.49905925,Normal,Timestep and iteration,287.76633607498115,41.480315,903.461495
+2017,Napa,Urbanization,69.9113800462963,Normal,Timestep and iteration,69.12539916277325,10.229562777777778,268.2168877777778
+2020,Napa,Urbanization,209.73414013888888,Normal,Timestep and iteration,207.37619748831972,30.688688333333328,804.6506633333332
+2030,Napa,Urbanization,167.7873121111111,Normal,Timestep and iteration,165.9009579906558,24.550950666666665,643.7205306666666
+2040,Napa,Urbanization,125.84048408333334,Normal,Timestep and iteration,124.42571849299185,18.413213,482.790398
+2050,Napa,Urbanization,251.68096816666667,Normal,Timestep and iteration,248.8514369859837,36.826426,965.580796
+2060,Napa,Urbanization,237.6986921574074,Normal,Timestep and iteration,235.02635715342905,34.780513444444445,911.9374184444443
+2070,Napa,Urbanization,223.71641614814817,Normal,Timestep and iteration,221.20127732087442,32.73460088888889,858.294040888889
+2080,Napa,Urbanization,209.73414013888888,Normal,Timestep and iteration,207.37619748831972,30.688688333333328,804.6506633333332
+2090,Napa,Urbanization,251.68096816666667,Normal,Timestep and iteration,248.8514369859837,36.826426,965.580796
+2017,Nevada,Urbanization,29.38642953846154,Normal,Timestep and iteration,44.69331934433162,1.214058,152.161936
+2020,Nevada,Urbanization,44.079644307692305,Normal,Timestep and iteration,67.03997901649743,1.821087,228.24290399999998
+2030,Nevada,Urbanization,11.019911076923076,Normal,Timestep and iteration,16.759994754124357,0.45527175,57.060725999999995
+2040,Nevada,Urbanization,47.752948,Normal,Timestep and iteration,72.62664393453888,1.97284425,247.263146
+2050,Nevada,Urbanization,77.13937753846155,Normal,Timestep and iteration,117.31996327887049,3.18690225,399.425082
+2060,Nevada,Urbanization,69.79277015384615,Normal,Timestep and iteration,106.14663344278759,2.88338775,361.384598
+2070,Nevada,Urbanization,102.85250338461537,Normal,Timestep and iteration,156.42661770516065,4.249203,532.5667759999999
+2080,Nevada,Urbanization,84.48598492307691,Normal,Timestep and iteration,128.4932931149534,3.4904167499999996,437.46556599999997
+2090,Nevada,Urbanization,69.79277015384615,Normal,Timestep and iteration,106.14663344278759,2.88338775,361.384598
+2017,Orange,Urbanization,2204.88108525,Normal,Timestep and iteration,1760.136877691872,478.945881,6464.85885
+2020,Orange,Urbanization,2374.487322576923,Normal,Timestep and iteration,1895.5320221297084,515.7878718461538,6962.155684615384
+2030,Orange,Urbanization,1752.5977857115383,Normal,Timestep and iteration,1399.0831591909753,380.7005720769231,5138.733957692308
+2040,Orange,Urbanization,1413.385311057692,Normal,Timestep and iteration,1128.2928703153025,307.01659038461537,4144.140288461538
+2050,Orange,Urbanization,621.8895368653846,Normal,Timestep and iteration,496.44886293873316,135.08729976923078,1823.421726923077
+2060,Orange,Urbanization,113.07082488461538,Normal,Timestep and iteration,90.26342962522422,24.561327230769233,331.5312230769231
+2070,Orange,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2080,Orange,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2090,Orange,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2017,Placer,Urbanization,619.6018582272727,Normal,Timestep and iteration,440.14883893834093,167.50321436363635,1381.2080338545454
+2020,Placer,Urbanization,587.55348625,Normal,Timestep and iteration,417.38251968290956,158.839255,1309.766239
+2030,Placer,Urbanization,640.9674395454545,Normal,Timestep and iteration,455.3263851086286,173.27918727272726,1428.835897090909
+2040,Placer,Urbanization,502.09116097727275,Normal,Timestep and iteration,356.6723350017591,135.73536336363637,1119.2547860545455
+2050,Placer,Urbanization,373.8976730681818,Normal,Timestep and iteration,265.60705798003335,101.07952590909092,833.4876066363637
+2060,Placer,Urbanization,277.75255713636363,Normal,Timestep and iteration,197.30810021373907,75.08764781818182,619.1622220727273
+2070,Placer,Urbanization,384.58046372727273,Normal,Timestep and iteration,273.1958310651772,103.96751236363637,857.3015382545454
+2080,Placer,Urbanization,363.2148824090909,Normal,Timestep and iteration,258.0182848948895,98.19153945454546,809.6736750181818
+2090,Placer,Urbanization,128.1934879090909,Normal,Timestep and iteration,91.06527702172572,34.655837454545456,285.7671794181818
+2017,Plumas,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2020,Plumas,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2030,Plumas,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2040,Plumas,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2050,Plumas,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2060,Plumas,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2070,Plumas,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2080,Plumas,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2090,Plumas,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2017,Riverside,Urbanization,1059.413094295989,Normal,Timestep and iteration,643.0610778725857,404.0680562323651,2295.3924255601655
+2020,Riverside,Urbanization,1362.1025498091285,Normal,Timestep and iteration,826.7928144076101,519.5160722987551,2951.21883286307
+2030,Riverside,Urbanization,1040.4950033264176,Normal,Timestep and iteration,631.5778443391466,396.85255522821575,2254.4032751037344
+2040,Riverside,Urbanization,1314.8073223852005,Normal,Timestep and iteration,798.0847305740125,501.4773197883817,2848.745956721991
+2050,Riverside,Urbanization,1693.1691417766249,Normal,Timestep and iteration,1027.749401242793,645.7873398713692,3668.5289658506217
+2060,Riverside,Urbanization,1541.8244140200554,Normal,Timestep and iteration,935.883532975281,588.0633318381742,3340.61576219917
+2070,Riverside,Urbanization,1267.5120949612724,Normal,Timestep and iteration,769.376646740415,483.4385672780083,2746.273080580913
+2080,Riverside,Urbanization,1324.266367869986,Normal,Timestep and iteration,803.826347340732,505.0850702904563,2869.240531950207
+2090,Riverside,Urbanization,1059.413094295989,Normal,Timestep and iteration,643.0610778725857,404.0680562323651,2295.3924255601655
+2017,Sacramento,Urbanization,471.6440225480769,Normal,Timestep and iteration,343.8020719853944,109.89754187499999,1258.6999243750001
+2020,Sacramento,Urbanization,452.7782616461538,Normal,Timestep and iteration,330.04998910597857,105.50164019999998,1208.3519274
+2030,Sacramento,Urbanization,396.1809789403846,Normal,Timestep and iteration,288.7937404677313,92.313935175,1057.3079364750001
+2040,Sacramento,Urbanization,339.5836962346154,Normal,Timestep and iteration,247.53749182948397,79.12623015,906.26394555
+2050,Sacramento,Urbanization,509.3755443519231,Normal,Timestep and iteration,371.30623774422594,118.689345225,1359.3959183250001
+2060,Sacramento,Urbanization,528.2413052538461,Normal,Timestep and iteration,385.0583206236417,123.08524689999999,1409.7439153
+2070,Sacramento,Urbanization,377.3152180384615,Normal,Timestep and iteration,275.0416575883155,87.91803349999999,1006.9599395
+2080,Sacramento,Urbanization,301.85217443076925,Normal,Timestep and iteration,220.0333260706524,70.3344268,805.5679516
+2090,Sacramento,Urbanization,150.92608721538463,Normal,Timestep and iteration,110.0166630353262,35.1672134,402.7839758
+2017,San Benito,Urbanization,179.17472649999996,Normal,Timestep and iteration,173.93604618873943,18.210869999999996,643.4507399999999
+2020,San Benito,Urbanization,477.79927066666664,Normal,Timestep and iteration,463.8294565033052,48.56232,1715.86864
+2030,San Benito,Urbanization,821.2174964583332,Normal,Timestep and iteration,797.2068783650558,83.4664875,2949.1492249999997
+2040,San Benito,Urbanization,1209.4294038749997,Normal,Timestep and iteration,1174.0683117739911,122.92337249999997,4343.292494999999
+2050,San Benito,Urbanization,1134.773267833333,Normal,Timestep and iteration,1101.5949591953497,115.33550999999997,4075.188019999999
+2060,San Benito,Urbanization,1941.0595370833332,Normal,Timestep and iteration,1884.3071670446775,197.284425,6970.71635
+2070,San Benito,Urbanization,1657.3662201249997,Normal,Timestep and iteration,1608.9084272458397,168.45054749999997,5951.919344999999
+2080,San Benito,Urbanization,1567.778856875,Normal,Timestep and iteration,1521.9404041514701,159.3451125,5630.193975
+2090,San Benito,Urbanization,1508.0539480416664,Normal,Timestep and iteration,1463.9617220885568,153.27482249999997,5415.710394999999
+2017,San Bernardino,Urbanization,926.7778243536585,Normal,Timestep and iteration,848.0966026293063,178.61458185365854,3328.9865175609757
+2020,San Bernardino,Urbanization,1494.0297685701219,Normal,Timestep and iteration,1367.1902128593126,287.939024195122,5366.555851585366
+2030,San Bernardino,Urbanization,1486.0403045670732,Normal,Timestep and iteration,1359.8790352504393,286.39924331707317,5337.85769195122
+2040,San Bernardino,Urbanization,1294.2931684939024,Normal,Timestep and iteration,1184.4107726374793,249.4445022439024,4649.101860731706
+2050,San Bernardino,Urbanization,1446.0929845518292,Normal,Timestep and iteration,1323.3231472060727,278.70033892682926,5194.366893780488
+2060,San Bernardino,Urbanization,1398.1562005335365,Normal,Timestep and iteration,1279.4560815528328,269.4616536585366,5022.177935975609
+2070,San Bernardino,Urbanization,1166.461744445122,Normal,Timestep and iteration,1067.4319308955062,224.80800819512194,4189.931306585366
+2080,San Bernardino,Urbanization,910.7988963475609,Normal,Timestep and iteration,833.4742474115596,175.535020097561,3271.590198292683
+2090,San Bernardino,Urbanization,663.1255122530489,Normal,Timestep and iteration,606.8277415364864,127.8018128780488,2381.947249634147
+2017,San Diego,Urbanization,1098.6396466702897,Normal,Timestep and iteration,1094.6733884204182,289.84315121739127,4460.862575521739
+2020,San Diego,Urbanization,1107.8719126086955,Normal,Timestep and iteration,1103.8723244575647,292.2788079503106,4498.3488156521735
+2030,San Diego,Urbanization,1431.0012204528985,Normal,Timestep and iteration,1425.8350857576877,377.5267936024845,5810.36722021739
+2040,San Diego,Urbanization,1458.698018268116,Normal,Timestep and iteration,1453.4318938691267,384.83376380124224,5922.825940608695
+2050,San Diego,Urbanization,1615.6465392210143,Normal,Timestep and iteration,1609.813806500615,426.23992826086953,6560.092022826087
+2060,San Diego,Urbanization,1578.717475467391,Normal,Timestep and iteration,1573.0180623520296,416.4973013291925,6410.147062304347
+2070,San Diego,Urbanization,1357.143092945652,Normal,Timestep and iteration,1352.2435974605164,358.04153973913037,5510.477299173912
+2080,San Diego,Urbanization,1421.7689545144926,Normal,Timestep and iteration,1416.6361497205412,375.0911368695652,5772.880980086956
+2090,San Diego,Urbanization,932.4588597789855,Normal,Timestep and iteration,929.0925397517835,246.00133002484472,3786.1102531739125
+2017,San Francisco,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2020,San Francisco,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2030,San Francisco,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2040,San Francisco,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2050,San Francisco,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2060,San Francisco,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2070,San Francisco,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2080,San Francisco,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2090,San Francisco,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2017,San Joaquin,Urbanization,504.2761256531531,Normal,Timestep and iteration,281.8342575503635,135.36199827027025,1176.236265189189
+2020,San Joaquin,Urbanization,608.0976809346845,Normal,Timestep and iteration,339.8589576342618,163.23064497297293,1418.4025550810807
+2030,San Joaquin,Urbanization,815.7407914977476,Normal,Timestep and iteration,455.9083578020586,218.96793837837836,1902.7351348648647
+2040,San Joaquin,Urbanization,697.0875854617116,Normal,Timestep and iteration,389.5944148490319,187.1180564324324,1625.9736607027025
+2050,San Joaquin,Urbanization,697.0875854617116,Normal,Timestep and iteration,389.5944148490319,187.1180564324324,1625.9736607027025
+2060,San Joaquin,Urbanization,904.7306960247746,Normal,Timestep and iteration,505.6438150168286,242.8553498378378,2110.3062404864863
+2070,San Joaquin,Urbanization,578.4343794256756,Normal,Timestep and iteration,323.28047189600517,155.26817448648646,1349.2121865405404
+2080,San Joaquin,Urbanization,578.4343794256756,Normal,Timestep and iteration,323.28047189600517,155.26817448648646,1349.2121865405404
+2090,San Joaquin,Urbanization,326.2963165990991,Normal,Timestep and iteration,182.36334312082346,87.58717535135135,761.0940539459459
+2017,San Luis Obispo,Urbanization,86.03431652380952,Normal,Timestep and iteration,67.97884482665765,10.63746057142857,232.75226228571427
+2020,San Luis Obispo,Urbanization,146.2583380904762,Normal,Timestep and iteration,115.564036205318,18.08368297142857,395.6788458857143
+2030,San Luis Obispo,Urbanization,137.65490643809525,Normal,Timestep and iteration,108.76615172265225,17.019936914285715,372.4036196571429
+2040,San Luis Obispo,Urbanization,146.2583380904762,Normal,Timestep and iteration,115.564036205318,18.08368297142857,395.6788458857143
+2050,San Luis Obispo,Urbanization,197.87892800476192,Normal,Timestep and iteration,156.3513431013126,24.46615931428571,535.3302032571429
+2060,San Luis Obispo,Urbanization,154.86176974285718,Normal,Timestep and iteration,122.3619206879838,19.14742902857143,418.9540721142858
+2070,San Luis Obispo,Urbanization,180.6720647,Normal,Timestep and iteration,142.75557413598108,22.338667199999996,488.7797508
+2080,San Luis Obispo,Urbanization,120.44804313333333,Normal,Timestep and iteration,95.17038275732071,14.892444799999998,325.8531672
+2090,San Luis Obispo,Urbanization,43.01715826190476,Normal,Timestep and iteration,33.989422413328825,5.318730285714285,116.37613114285713
+2017,San Mateo,Urbanization,232.09853874725277,Normal,Timestep and iteration,267.9635192112751,9.755823214285716,925.2422736428572
+2020,San Mateo,Urbanization,214.9060543956044,Normal,Timestep and iteration,248.11436964006955,9.033169642857144,856.7058089285714
+2030,San Mateo,Urbanization,197.71357004395603,Normal,Timestep and iteration,228.26522006886398,8.310516071428571,788.1693442142856
+2040,San Mateo,Urbanization,163.32860134065933,Normal,Timestep and iteration,188.56692092645287,6.8652089285714295,651.0964147857143
+2050,San Mateo,Urbanization,189.11732786813187,Normal,Timestep and iteration,218.34064528326124,7.949189285714287,753.901111857143
+2060,San Mateo,Urbanization,335.2534448571429,Normal,Timestep and iteration,387.05841663850856,14.091744642857146,1336.4610619285716
+2070,San Mateo,Urbanization,464.19707749450555,Normal,Timestep and iteration,535.9270384225503,19.51164642857143,1850.4845472857144
+2080,San Mateo,Urbanization,567.3519836043956,Normal,Timestep and iteration,655.0219358497836,23.84756785714286,2261.7033355714284
+2090,San Mateo,Urbanization,429.8121087912088,Normal,Timestep and iteration,496.2287392801391,18.06633928571429,1713.4116178571428
+2017,Santa Barbara,Urbanization,266.29784107142854,Normal,Timestep and iteration,203.96962380325536,51.19277899999999,637.8429482857142
+2020,Santa Barbara,Urbanization,234.01931488095238,Normal,Timestep and iteration,179.24603303922444,44.98759366666666,560.5286515238096
+2030,Santa Barbara,Urbanization,250.15857797619051,Normal,Timestep and iteration,191.60782842123993,48.09018633333333,599.1857999047619
+2040,Santa Barbara,Urbanization,306.6459988095238,Normal,Timestep and iteration,234.87411225829408,58.94926066666665,734.4858192380951
+2050,Santa Barbara,Urbanization,298.57636726190475,Normal,Timestep and iteration,228.69321456728636,57.39796433333333,715.1572450476191
+2060,Santa Barbara,Urbanization,250.15857797619051,Normal,Timestep and iteration,191.60782842123993,48.09018633333333,599.1857999047619
+2070,Santa Barbara,Urbanization,217.8800517857143,Normal,Timestep and iteration,166.88423765720898,41.885000999999995,521.8715031428571
+2080,Santa Barbara,Urbanization,161.39263095238096,Normal,Timestep and iteration,123.61795382015478,31.025926666666663,386.5714838095238
+2090,Santa Barbara,Urbanization,129.11410476190477,Normal,Timestep and iteration,98.89436305612382,24.82074133333333,309.257187047619
+2017,Santa Clara,Urbanization,1320.8397005595239,Normal,Timestep and iteration,1191.7414141445238,152.42931782142858,3530.957615357143
+2020,Santa Clara,Urbanization,1513.7713422142856,Normal,Timestep and iteration,1365.8160027274316,174.69427435714283,4046.715469285714
+2030,Santa Clara,Urbanization,1454.4077601666668,Normal,Timestep and iteration,1312.254590855768,167.84351850000002,3888.0207450000003
+2040,Santa Clara,Urbanization,1587.9758197738097,Normal,Timestep and iteration,1432.7677675670118,183.25771917857142,4245.083874642857
+2050,Santa Clara,Urbanization,1498.930446702381,Normal,Timestep and iteration,1352.4256497595159,172.98158539285714,4007.041788214285
+2060,Santa Clara,Urbanization,816.249253154762,Normal,Timestep and iteration,736.4694132353799,94.19789303571429,2182.0524589285715
+2070,Santa Clara,Urbanization,801.4083576428573,Normal,Timestep and iteration,723.079060267464,92.48520407142857,2142.3787778571427
+2080,Santa Clara,Urbanization,415.54507433333333,Normal,Timestep and iteration,374.92988310164793,47.955290999999995,1110.8630699999999
+2090,Santa Clara,Urbanization,326.4997012619048,Normal,Timestep and iteration,294.587765294152,37.679157214285716,872.8209835714285
+2017,Santa Cruz,Urbanization,35.14936787152778,Normal,Timestep and iteration,43.16580105590328,1.2983675833333332,160.52544666666668
+2020,Santa Cruz,Urbanization,60.25605920833333,Normal,Timestep and iteration,73.99851609583419,2.225773,275.18648
+2030,Santa Cruz,Urbanization,45.19204440625,Normal,Timestep and iteration,55.49888707187564,1.6693297499999997,206.38986
+2040,Santa Cruz,Urbanization,65.27739747569446,Normal,Timestep and iteration,80.16505910382038,2.4112540833333336,298.11868666666675
+2050,Santa Cruz,Urbanization,55.234720940972224,Normal,Timestep and iteration,67.83197308784801,2.0402919166666664,252.25427333333337
+2060,Santa Cruz,Urbanization,40.170706138888896,Normal,Timestep and iteration,49.332344063889465,1.4838486666666666,183.45765333333335
+2070,Santa Cruz,Urbanization,60.25605920833333,Normal,Timestep and iteration,73.99851609583419,2.225773,275.18648
+2080,Santa Cruz,Urbanization,35.14936787152778,Normal,Timestep and iteration,43.16580105590328,1.2983675833333332,160.52544666666668
+2090,Santa Cruz,Urbanization,15.064014802083333,Normal,Timestep and iteration,18.499629023958548,0.55644325,68.79662
+2017,Shasta,Urbanization,52.18123618390805,Normal,Timestep and iteration,41.38010598369601,7.144801103448276,119.84287475862068
+2020,Shasta,Urbanization,58.70389070689655,Normal,Timestep and iteration,46.552619231658014,8.037901241379311,134.82323410344827
+2030,Shasta,Urbanization,65.22654522988506,Normal,Timestep and iteration,51.725132479620015,8.931001379310345,149.80359344827585
+2040,Shasta,Urbanization,97.83981784482759,Normal,Timestep and iteration,77.58769871943002,13.396502068965518,224.7053901724138
+2050,Shasta,Urbanization,117.4077814137931,Normal,Timestep and iteration,93.10523846331603,16.075802482758622,269.64646820689654
+2060,Shasta,Urbanization,130.45309045977012,Normal,Timestep and iteration,103.45026495924003,17.86200275862069,299.6071868965517
+2070,Shasta,Urbanization,117.4077814137931,Normal,Timestep and iteration,93.10523846331603,16.075802482758622,269.64646820689654
+2080,Shasta,Urbanization,189.15698116666667,Normal,Timestep and iteration,150.00288419089804,25.899904,434.43042099999997
+2090,Shasta,Urbanization,123.9304359367816,Normal,Timestep and iteration,98.27775171127803,16.968902620689654,284.6268275517241
+2017,Sierra Valley,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2020,Sierra Valley,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2030,Sierra Valley,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2040,Sierra Valley,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2050,Sierra Valley,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2060,Sierra Valley,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2070,Sierra Valley,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2080,Sierra Valley,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2090,Sierra Valley,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2017,Siskiyou,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2020,Siskiyou,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2030,Siskiyou,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2040,Siskiyou,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2050,Siskiyou,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2060,Siskiyou,Urbanization,20.096032283333333,Normal,Timestep and iteration,40.16361790339452,0.1618744,143.1374382
+2070,Siskiyou,Urbanization,10.048016141666666,Normal,Timestep and iteration,20.08180895169726,0.0809372,71.5687191
+2080,Siskiyou,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2090,Siskiyou,Urbanization,10.048016141666666,Normal,Timestep and iteration,20.08180895169726,0.0809372,71.5687191
+2017,Solano,Urbanization,117.85746623188408,Normal,Timestep and iteration,97.31024606618959,24.896986521739134,346.44640608695653
+2020,Solano,Urbanization,330.0009054492754,Normal,Timestep and iteration,272.46868898533086,69.71156226086957,970.0499370434783
+2030,Solano,Urbanization,259.286425710145,Normal,Timestep and iteration,214.08254134561713,54.773370347826095,762.1820933913044
+2040,Solano,Urbanization,212.14343921739132,Normal,Timestep and iteration,175.15844291914127,44.81457573913044,623.6035309565218
+2050,Solano,Urbanization,271.07217233333336,Normal,Timestep and iteration,223.81356595223605,57.263069,796.826734
+2060,Solano,Urbanization,200.35769259420294,Normal,Timestep and iteration,165.42741831252232,42.324877086956526,588.9588903478261
+2070,Solano,Urbanization,212.14343921739132,Normal,Timestep and iteration,175.15844291914127,44.81457573913044,623.6035309565218
+2080,Solano,Urbanization,141.42895947826088,Normal,Timestep and iteration,116.7722952794275,29.876383826086958,415.73568730434783
+2090,Solano,Urbanization,117.85746623188408,Normal,Timestep and iteration,97.31024606618959,24.896986521739134,346.44640608695653
+2017,Sonoma,Urbanization,51.754842888888895,Normal,Timestep and iteration,67.17192471310274,2.7316305000000005,194.2155561666667
+2020,Sonoma,Urbanization,213.48872691666668,Normal,Timestep and iteration,277.0841894415488,11.267975812500001,801.1391691875001
+2030,Sonoma,Urbanization,239.36614836111113,Normal,Timestep and iteration,310.67015179810016,12.633791062500002,898.2469472708334
+2040,Sonoma,Urbanization,226.42743763888893,Normal,Timestep and iteration,293.8771706198245,11.950883437500002,849.6930582291668
+2050,Sonoma,Urbanization,200.55001619444448,Normal,Timestep and iteration,260.2912082632731,10.585068187500001,752.5852801458334
+2060,Sonoma,Urbanization,226.42743763888893,Normal,Timestep and iteration,293.8771706198245,11.950883437500002,849.6930582291668
+2070,Sonoma,Urbanization,219.9580822777778,Normal,Timestep and iteration,285.48068003068664,11.609429625000002,825.4161137083335
+2080,Sonoma,Urbanization,155.26452866666668,Normal,Timestep and iteration,201.5157741393082,8.1948915,582.6466685
+2090,Sonoma,Urbanization,135.85646258333335,Normal,Timestep and iteration,176.3263023718947,7.170530062500002,509.8158349375001
+2017,Stanislaus,Urbanization,366.0540518461538,Normal,Timestep and iteration,284.9865697309502,76.66551444444444,1081.2310617777778
+2020,Stanislaus,Urbanization,321.6838637435897,Normal,Timestep and iteration,250.44274309689564,67.3727248148148,950.1727512592591
+2030,Stanislaus,Urbanization,366.0540518461538,Normal,Timestep and iteration,284.9865697309502,76.66551444444444,1081.2310617777778
+2040,Stanislaus,Urbanization,499.1646161538461,Normal,Timestep and iteration,388.6180496331139,104.54388333333333,1474.4059933333333
+2050,Stanislaus,Urbanization,377.1465988717948,Normal,Timestep and iteration,293.6225263894638,78.98871185185183,1113.9956394074072
+2060,Stanislaus,Urbanization,377.1465988717948,Normal,Timestep and iteration,293.6225263894638,78.98871185185183,1113.9956394074072
+2070,Stanislaus,Urbanization,288.4062226666666,Normal,Timestep and iteration,224.5348731213547,60.403132592592584,851.8790183703703
+2080,Stanislaus,Urbanization,476.97952210256403,Normal,Timestep and iteration,371.3461363160866,99.8974885185185,1408.876838074074
+2090,Stanislaus,Urbanization,244.03603456410258,Normal,Timestep and iteration,189.99104648730017,51.11034296296297,720.8207078518519
+2017,Sutter,Urbanization,264.1138213888889,Normal,Timestep and iteration,198.81195439295587,24.28116,619.16958
+2020,Sutter,Urbanization,316.93658566666664,Normal,Timestep and iteration,238.57434527154703,29.137392,743.0034959999999
+2030,Sutter,Urbanization,211.29105711111112,Normal,Timestep and iteration,159.0495635143647,19.424928,495.335664
+2040,Sutter,Urbanization,79.23414641666666,Normal,Timestep and iteration,59.64358631788676,7.284348,185.75087399999998
+2050,Sutter,Urbanization,79.23414641666666,Normal,Timestep and iteration,59.64358631788676,7.284348,185.75087399999998
+2060,Sutter,Urbanization,26.41138213888889,Normal,Timestep and iteration,19.88119543929559,2.428116,61.916958
+2070,Sutter,Urbanization,79.23414641666666,Normal,Timestep and iteration,59.64358631788676,7.284348,185.75087399999998
+2080,Sutter,Urbanization,52.82276427777778,Normal,Timestep and iteration,39.76239087859118,4.856232,123.833916
+2090,Sutter,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2017,Tehama,Urbanization,29.344793574999997,Normal,Timestep and iteration,35.44229490987131,2.2460072999999996,111.9968505
+2020,Tehama,Urbanization,68.47118500833332,Normal,Timestep and iteration,82.69868812303305,5.240683699999999,261.3259845
+2030,Tehama,Urbanization,146.723967875,Normal,Timestep and iteration,177.21147454935652,11.230036499999999,559.9842525
+2040,Tehama,Urbanization,117.37917429999999,Normal,Timestep and iteration,141.76917963948523,8.984029199999998,447.987402
+2050,Tehama,Urbanization,136.94237001666664,Normal,Timestep and iteration,165.3973762460661,10.481367399999998,522.651969
+2060,Tehama,Urbanization,313.0111314666667,Normal,Timestep and iteration,378.05114570529395,23.9574112,1194.633072
+2070,Tehama,Urbanization,205.41355502500002,Normal,Timestep and iteration,248.09606436909917,15.7220511,783.9779535
+2080,Tehama,Urbanization,293.44793575,Normal,Timestep and iteration,354.42294909871305,22.460072999999998,1119.968505
+2090,Tehama,Urbanization,254.3215443166667,Normal,Timestep and iteration,307.16655588555136,19.4653966,970.639371
+2017,Trinity,Urbanization,10,Normal,Timestep and iteration,5,0,20
+2020,Trinity,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2030,Trinity,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2040,Trinity,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2050,Trinity,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2060,Trinity,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2070,Trinity,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2080,Trinity,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2090,Trinity,Urbanization,0,Normal,Timestep and iteration,0,0,0
+2017,Tulare,Urbanization,388.091406402439,Normal,Timestep and iteration,283.0646938088198,25.98380231707317,1079.7713407317074
+2020,Tulare,Urbanization,431.2126737804878,Normal,Timestep and iteration,314.5163264542442,28.870891463414637,1199.7459341463416
+2030,Tulare,Urbanization,569.2007293902439,Normal,Timestep and iteration,415.16155091960235,38.10957673170732,1583.6646330731708
+2040,Tulare,Urbanization,603.697743292683,Normal,Timestep and iteration,440.3228570359419,40.41924804878049,1679.6443078048783
+2050,Tulare,Urbanization,586.4492363414635,Normal,Timestep and iteration,427.74220397777214,39.264412390243905,1631.6544704390244
+2060,Tulare,Urbanization,569.2007293902439,Normal,Timestep and iteration,415.16155091960235,38.10957673170732,1583.6646330731708
+2070,Tulare,Urbanization,482.9581946341463,Normal,Timestep and iteration,352.2582856287535,32.33539843902439,1343.7154462439025
+2080,Tulare,Urbanization,448.4611807317074,Normal,Timestep and iteration,327.096979512414,30.025727121951224,1247.7357715121952
+2090,Tulare,Urbanization,293.22461817073173,Normal,Timestep and iteration,213.87110198888607,19.632206195121952,815.8272352195122
+2017,Tuolumne,Urbanization,40,Normal,Timestep and iteration,20,0,80
+2020,Tuolumne,Urbanization,120,Normal,Timestep and iteration,60,0,240
+2030,Tuolumne,Urbanization,140,Normal,Timestep and iteration,70,0,280
+2040,Tuolumne,Urbanization,100,Normal,Timestep and iteration,50,0,200
+2050,Tuolumne,Urbanization,130,Normal,Timestep and iteration,65,0,260
+2060,Tuolumne,Urbanization,210,Normal,Timestep and iteration,105,0,420
+2070,Tuolumne,Urbanization,270,Normal,Timestep and iteration,135,0,540
+2080,Tuolumne,Urbanization,190,Normal,Timestep and iteration,95,0,380
+2090,Tuolumne,Urbanization,190,Normal,Timestep and iteration,95,0,380
+2017,Ventura,Urbanization,428.88384229411764,Normal,Timestep and iteration,431.797479706812,80.34207352941176,1672.614848117647
+2020,Ventura,Urbanization,452.7107224215686,Normal,Timestep and iteration,455.78622857941264,84.80552205882353,1765.5378952352942
+2030,Ventura,Urbanization,333.57632178431373,Normal,Timestep and iteration,335.8424842164093,62.4882794117647,1300.9226596470587
+2040,Ventura,Urbanization,416.9704022303922,Normal,Timestep and iteration,419.8031052705117,78.11034926470589,1626.1533245588237
+2050,Ventura,Urbanization,393.1435221029412,Normal,Timestep and iteration,395.81435639791096,73.64690073529411,1533.2302774411764
+2060,Ventura,Urbanization,393.1435221029412,Normal,Timestep and iteration,395.81435639791096,73.64690073529411,1533.2302774411764
+2070,Ventura,Urbanization,512.277922740196,Normal,Timestep and iteration,515.7581007609143,95.96414338235293,1997.8455130294117
+2080,Ventura,Urbanization,393.1435221029412,Normal,Timestep and iteration,395.81435639791096,73.64690073529411,1533.2302774411764
+2090,Ventura,Urbanization,357.4032019117647,Normal,Timestep and iteration,359.83123308900997,66.95172794117647,1393.8457067647057
+2017,Yolo,Urbanization,195.5771559375,Normal,Timestep and iteration,107.0269391946325,55.89725375,397.603995
+2020,Yolo,Urbanization,234.69258712499996,Normal,Timestep and iteration,128.43232703355898,67.07670449999999,477.1247939999999
+2030,Yolo,Urbanization,156.46172475,Normal,Timestep and iteration,85.621551355706,44.717802999999996,318.083196
+2040,Yolo,Urbanization,234.69258712499996,Normal,Timestep and iteration,128.43232703355898,67.07670449999999,477.1247939999999
+2050,Yolo,Urbanization,195.5771559375,Normal,Timestep and iteration,107.0269391946325,55.89725375,397.603995
+2060,Yolo,Urbanization,234.69258712499996,Normal,Timestep and iteration,128.43232703355898,67.07670449999999,477.1247939999999
+2070,Yolo,Urbanization,156.46172475,Normal,Timestep and iteration,85.621551355706,44.717802999999996,318.083196
+2080,Yolo,Urbanization,195.5771559375,Normal,Timestep and iteration,107.0269391946325,55.89725375,397.603995
+2090,Yolo,Urbanization,156.46172475,Normal,Timestep and iteration,85.621551355706,44.717802999999996,318.083196
+2017,Yuba,Urbanization,54.37630886666666,Normal,Timestep and iteration,47.10256571761878,11.4930824,162.5218976
+2020,Yuba,Urbanization,122.34669494999999,Normal,Timestep and iteration,105.98077286464226,25.859435400000002,365.6742696
+2030,Yuba,Urbanization,244.69338989999997,Normal,Timestep and iteration,211.96154572928452,51.718870800000005,731.3485392
+2040,Yuba,Urbanization,217.50523546666665,Normal,Timestep and iteration,188.41026287047512,45.9723296,650.0875904
+2050,Yuba,Urbanization,312.66377598333327,Normal,Timestep and iteration,270.83975287630795,66.0852238,934.5009111999999
+2060,Yuba,Urbanization,380.6341620666666,Normal,Timestep and iteration,329.71796002333144,80.4515768,1137.6532831999998
+2070,Yuba,Urbanization,448.6045481499999,Normal,Timestep and iteration,388.59616717035493,94.8179298,1340.8056551999998
+2080,Yuba,Urbanization,312.66377598333327,Normal,Timestep and iteration,270.83975287630795,66.0852238,934.5009111999999
+2090,Yuba,Urbanization,285.47562154999997,Normal,Timestep and iteration,247.2884700174986,60.338682600000006,853.2399624

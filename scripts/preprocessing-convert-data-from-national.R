@@ -124,7 +124,10 @@ flow_pathways = read_csv("F:/national-assessment/data/stock-flow-model/flow-path
 
 
 
+##### Spatial Multipliers #####
 
-
-
-
+urbMult = raster("F:/national-assessment/data/spatial-multipliers/projection-urbanization.tif")
+urbMult = projectRaster(urbMult, ca_counties)
+urbMult = mask(urbMult, ca_counties)
+plot(urbMult)
+writeRaster(urbMult, format="GTiff", overwrite=T, filename=paste0("data/spatial-multipliers/sm-urbanization.tif"), options="COMPRESS=DEFLATE", datatype="INT2S")

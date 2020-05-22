@@ -48,21 +48,10 @@ writeRaster(pad_all, "data/spatial-multipliers/pad20-gapstatus.tif", format="GTi
 
 
 
-ownership = fasterize(pad.gap1, eco, field="Mang_Name")
-unique(pad$Own_Type)
-
-
-
-# Builds Tertiary Stratum Map
-paddf = read_csv("F:/national-assessment/data/definitions/land-managers.csv")
-landManagers = paddf %>% dplyr::select(Agency, ID) %>% distinct(paddf, Agency, .keep_all = T) %>% write_csv("F:/national-assessment/data/definitions/land-managers-strata.csv")
-pad1 = pad %>% left_join(paddf, by="Mang_Name")
-padRasterID = fasterize(pad1, eco, "ID")
-padRasterID = mask(padRasterID, eco)
-padRasterID[is.na(padRasterID)] = 18
-padRasterID = mask(padRasterID, eco)
-plot(padRasterID)
-writeRaster(padRasterID, "F:/national-assessment/data/initial-conditions/ic-land-managers.tif", format="GTiff", overwrite=T)
+#fxn to execute a conditional statement
+Con=function(condition, trueValue, falseValue){
+  return(condition * trueValue + (!condition)*falseValue)
+}
 
 
 
@@ -72,16 +61,38 @@ census$LSAD10 = as.numeric(census$LSAD10)
 census = st_transform(census, crs=crs(eco))
 
 censusR = fasterize(census, eco, field = "LSAD10")
-censusR = reclassify(censusR, c(-Inf,75.5,10, 75.6,76.5,2, 76.6,Inf,1))
+censusR = reclassify(censusR, c(-Inf,1.5,10, 1.6,2.5,2, 2.6,Inf,1))
 censusR[is.na(censusR)] = 1
 censusR = mask(censusR, eco)
 plot(censusR)
 
-urbMult = reclassify(pad.gap, c(0,3.5,0, 3.6,Inf,1))
+urbMult = reclassify(pad_all, c(0,3.5,0, 3.6,Inf,1))
 plot(urbMult)
 
 urbMultFinal = Con(urbMult == 0, 0, censusR)
 plot(urbMultFinal)
 
-writeRaster(urbMultFinal, "F:/national-assessment/data/spatial-multipliers/projection-urbanization.tif", format="GTiff", overwrite=TRUE, datatype="INT1U")
+writeRaster(urbMultFinal, "data/spatial-multipliers/sm-urbanization.tif", format="GTiff", overwrite=TRUE, datatype="INT1U")
+
+
+
+# Ag Expansion Spatial Multiplier
+# Prohibits ag expanion on all Gap Status 1-3 lands
+agExpMult = reclassify(pad_all, c(0,3.5,0, 3.6,Inf,1)) 
+plot(agExpMult)
+writeRaster(agExpMult, "data/spatial-multipliers/sm-ag-expansion.tif", format="GTiff", overwrite=TRUE, datatype="INT1U")
+
+
+# AForest Harvest Spatial Multiplier
+# Prohibits harvest on all Gap Status 1-2 lands
+harvMult = reclassify(pad_all, c(0,2.5,0, 2.6,Inf,1)) 
+plot(harvMult)
+writeRaster(harvMult, "data/spatial-multipliers/sm-harvest.tif", format="GTiff", overwrite=TRUE, datatype="INT1U")
+
+
+
+
+
+
+
 
