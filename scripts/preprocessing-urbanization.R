@@ -118,6 +118,7 @@ zonal_ssp = bind_rows(zonal_ssp2, zonal_ssp5) %>%
   rename("County"="Name") %>%
   ungroup() %>%
   dplyr::select(County, year, scenario, ref_annual_change, annual_change, change_mult)
+write_csv(zonal_ssp, "docs/ssp/iclus-ssp-zonal-county-summary.csv")
 
 # Merge with FMMP and create projection targets
 ssp_fmmp = zonal_ssp %>%
@@ -140,7 +141,7 @@ ggplot(ssp_fmmp, aes(x=year, y=MeanMult, color=scenario, fill=scenario)) +
 transition_urb_ssp2 = ssp_fmmp %>%
   filter(scenario=="ssp2", year>=2020) %>%
   mutate(SecondaryStratumID = County,
-         Timestep = if_else(year==2020, 2017, year-10),
+         Timestep = if_else(year==2020, 2017, year-9),
          TransitionGroupID = "Urbanization",
          Amount = MeanMult,
          DistributionType = "Normal",
@@ -152,10 +153,10 @@ transition_urb_ssp2 = ssp_fmmp %>%
 write_csv(transition_urb_ssp2, "data/transition-targets/transition-targets-urbanization-ssp2.csv")
 
 # Create SSP5 Transition Targets
-dist_urb_ssp5 = ssp_fmmp %>%
+transition_urb_ssp5 = ssp_fmmp %>%
   filter(scenario=="ssp5", year>=2020) %>%
   mutate(SecondaryStratumID = County,
-         Timestep = if_else(year==2020, 2017, year-10),
+         Timestep = if_else(year==2020, 2017, year-9),
          TransitionGroupID = "Urbanization",
          Amount = MeanMult,
          DistributionType = "Normal",

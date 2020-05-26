@@ -1,0 +1,1045 @@
+Timestep,SecondaryStratumID,TransitionGroupID,Amount,DistributionFrequencyID,DistributionSD,DistributionMin,DistributionMax
+2017,Alameda,Ag Expansion: Cropland,41.57822290322581,Iteration and Timestep,39.56067604625326,0,130.2175112903226
+2021,Alameda,Ag Expansion: Cropland,41.57822290322581,Iteration and Timestep,39.56067604625326,0,130.2175112903226
+2031,Alameda,Ag Expansion: Cropland,51.477799784946235,Iteration and Timestep,48.979884628694514,0,161.2216806451613
+2041,Alameda,Ag Expansion: Cropland,65.33720741935483,Iteration and Timestep,62.16677664411226,0,204.6275177419355
+2051,Alameda,Ag Expansion: Cropland,67.31712279569892,Iteration and Timestep,64.05061836060051,0,210.82835161290322
+2061,Alameda,Ag Expansion: Cropland,59.397461290322575,Iteration and Timestep,56.51525149464751,0,186.02501612903225
+2071,Alameda,Ag Expansion: Cropland,43.558138279569896,Iteration and Timestep,41.44451776274151,0,136.41834516129035
+2081,Alameda,Ag Expansion: Cropland,17.819238387096775,Iteration and Timestep,16.954575448394255,0,55.80750483870968
+2091,Alameda,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,Alpine,Ag Expansion: Cropland,0.1,Iteration and Timestep,0.05,0,0.2
+2021,Alpine,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2031,Alpine,Ag Expansion: Cropland,0.1,Iteration and Timestep,0.05,0,0.2
+2041,Alpine,Ag Expansion: Cropland,0.1,Iteration and Timestep,0.05,0,0.2
+2051,Alpine,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2061,Alpine,Ag Expansion: Cropland,0.1,Iteration and Timestep,0.05,0,0.2
+2071,Alpine,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2081,Alpine,Ag Expansion: Cropland,0.2,Iteration and Timestep,0.1,0,0.4
+2091,Alpine,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,Amador,Ag Expansion: Cropland,6.123686069444445,Iteration and Timestep,3.6306720879714374,1.4838486666666666,13.2534665
+2021,Amador,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2031,Amador,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2041,Amador,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2051,Amador,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2061,Amador,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2071,Amador,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2081,Amador,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2091,Amador,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,Butte,Ag Expansion: Cropland,189.78789788194445,Iteration and Timestep,96.81023855857326,84.2758595,341.1165741666667
+2021,Butte,Ag Expansion: Cropland,156.29591590277778,Iteration and Timestep,79.72607881294269,69.403649,280.91953166666667
+2031,Butte,Ag Expansion: Cropland,178.62390388888892,Iteration and Timestep,91.11551864336307,79.31845600000001,321.05089333333336
+2041,Butte,Ag Expansion: Cropland,189.78789788194445,Iteration and Timestep,96.81023855857326,84.2758595,341.1165741666667
+2051,Butte,Ag Expansion: Cropland,178.62390388888892,Iteration and Timestep,91.11551864336307,79.31845600000001,321.05089333333336
+2061,Butte,Ag Expansion: Cropland,122.80393392361113,Iteration and Timestep,62.64191906731212,54.5314385,220.72248916666666
+2071,Butte,Ag Expansion: Cropland,89.31195194444446,Iteration and Timestep,45.55775932168154,39.659228000000006,160.52544666666668
+2081,Butte,Ag Expansion: Cropland,78.14795795138889,Iteration and Timestep,39.863039406471344,34.7018245,140.45976583333334
+2091,Butte,Ag Expansion: Cropland,66.98396395833333,Iteration and Timestep,34.16831949126115,29.744421,120.39408499999999
+2017,Calaveras,Ag Expansion: Cropland,0.2,Iteration and Timestep,0.1,0,0.4
+2021,Calaveras,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2031,Calaveras,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2041,Calaveras,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2051,Calaveras,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2061,Calaveras,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2071,Calaveras,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2081,Calaveras,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2091,Calaveras,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,Colusa,Ag Expansion: Cropland,6666.527373333332,Iteration and Timestep,10389.359314610101,1019.8087199999999,33271.25949
+2021,Colusa,Ag Expansion: Cropland,2222.175791111111,Iteration and Timestep,3463.1197715367007,339.93624,11090.419829999999
+2031,Colusa,Ag Expansion: Cropland,4444.351582222222,Iteration and Timestep,6926.239543073401,679.87248,22180.839659999998
+2041,Colusa,Ag Expansion: Cropland,6666.527373333332,Iteration and Timestep,10389.359314610101,1019.8087199999999,33271.25949
+2051,Colusa,Ag Expansion: Cropland,8888.703164444443,Iteration and Timestep,13852.479086146803,1359.74496,44361.679319999996
+2061,Colusa,Ag Expansion: Cropland,2222.175791111111,Iteration and Timestep,3463.1197715367007,339.93624,11090.419829999999
+2071,Colusa,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2081,Colusa,Ag Expansion: Cropland,2222.175791111111,Iteration and Timestep,3463.1197715367007,339.93624,11090.419829999999
+2091,Colusa,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,Contra Costa,Ag Expansion: Cropland,129.17784651282054,Iteration and Timestep,367.4900771594803,0,1293.5009747692309
+2021,Contra Costa,Ag Expansion: Cropland,129.17784651282054,Iteration and Timestep,367.4900771594803,0,1293.5009747692309
+2031,Contra Costa,Ag Expansion: Cropland,107.64820542735045,Iteration and Timestep,306.2417309662336,0,1077.9174789743593
+2041,Contra Costa,Ag Expansion: Cropland,91.50097461324788,Iteration and Timestep,260.3054713212985,0,916.2298571282051
+2051,Contra Costa,Ag Expansion: Cropland,113.03061569871798,Iteration and Timestep,321.5538175145453,0,1131.8133529230772
+2061,Contra Costa,Ag Expansion: Cropland,75.3537437991453,Iteration and Timestep,214.3692116763635,0,754.5422352820514
+2071,Contra Costa,Ag Expansion: Cropland,56.51530784935899,Iteration and Timestep,160.77690875727265,0,565.9066764615386
+2081,Contra Costa,Ag Expansion: Cropland,26.912051356837612,Iteration and Timestep,76.5604327415584,0,269.4793697435898
+2091,Contra Costa,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,Del Norte,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2021,Del Norte,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2031,Del Norte,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2041,Del Norte,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2051,Del Norte,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2061,Del Norte,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2071,Del Norte,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2081,Del Norte,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2091,Del Norte,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,El Dorado,Ag Expansion: Cropland,29.055298554285713,Iteration and Timestep,37.66736846192664,0.15031194285714286,126.93843574285714
+2021,El Dorado,Ag Expansion: Cropland,40.230413382857144,Iteration and Timestep,52.15481787035997,0.2081242285714286,175.76091102857143
+2031,El Dorado,Ag Expansion: Cropland,58.110597108571426,Iteration and Timestep,75.33473692385328,0.3006238857142857,253.87687148571428
+2041,El Dorado,Ag Expansion: Cropland,51.40552821142857,Iteration and Timestep,66.64226727879328,0.2659365142857143,224.5833863142857
+2051,El Dorado,Ag Expansion: Cropland,58.110597108571426,Iteration and Timestep,75.33473692385328,0.3006238857142857,253.87687148571428
+2061,El Dorado,Ag Expansion: Cropland,55.87557414285714,Iteration and Timestep,72.43724704216662,0.2890614285714286,244.11237642857142
+2071,El Dorado,Ag Expansion: Cropland,37.99539041714285,Iteration and Timestep,49.257327988673296,0.19656177142857142,165.99641597142855
+2081,El Dorado,Ag Expansion: Cropland,15.645160759999998,Iteration and Timestep,20.28242917180665,0.08093719999999999,68.3514654
+2091,El Dorado,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,Fresno,Ag Expansion: Cropland,258.63072971688626,Iteration and Timestep,218.12357607448882,13.33083294117647,798.897774117647
+2021,Fresno,Ag Expansion: Cropland,312.5121317412375,Iteration and Timestep,263.565987756674,16.10808980392157,965.3348103921569
+2031,Fresno,Ag Expansion: Cropland,312.5121317412375,Iteration and Timestep,263.565987756674,16.10808980392157,965.3348103921569
+2041,Fresno,Ag Expansion: Cropland,258.63072971688626,Iteration and Timestep,218.12357607448882,13.33083294117647,798.897774117647
+2051,Fresno,Ag Expansion: Cropland,231.69002870471058,Iteration and Timestep,195.40237023339625,11.94220450980392,715.6792559803922
+2061,Fresno,Ag Expansion: Cropland,242.4663091095809,Iteration and Timestep,204.4908525698333,12.497655882352943,748.9666632352942
+2071,Fresno,Ag Expansion: Cropland,156.25606587061876,Iteration and Timestep,131.782993878337,8.054044901960784,482.66740519607845
+2081,Fresno,Ag Expansion: Cropland,102.37466384626748,Iteration and Timestep,86.34058219615183,5.2767880392156865,316.23036892156864
+2091,Fresno,Ag Expansion: Cropland,37.716981417045915,Iteration and Timestep,31.809688177529623,1.9440798039215688,116.50592539215687
+2017,Glenn,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2021,Glenn,Ag Expansion: Cropland,146.5075732777778,Iteration and Timestep,113.96565589079447,13.624428666666669,370.5574806666667
+2031,Glenn,Ag Expansion: Cropland,73.2537866388889,Iteration and Timestep,56.98282794539723,6.812214333333334,185.27874033333336
+2041,Glenn,Ag Expansion: Cropland,219.76135991666666,Iteration and Timestep,170.94848383619168,20.436643,555.836221
+2051,Glenn,Ag Expansion: Cropland,219.76135991666666,Iteration and Timestep,170.94848383619168,20.436643,555.836221
+2061,Glenn,Ag Expansion: Cropland,146.5075732777778,Iteration and Timestep,113.96565589079447,13.624428666666669,370.5574806666667
+2071,Glenn,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2081,Glenn,Ag Expansion: Cropland,146.5075732777778,Iteration and Timestep,113.96565589079447,13.624428666666669,370.5574806666667
+2091,Glenn,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,Humboldt,Ag Expansion: Cropland,0.2,Iteration and Timestep,0.1,0,0.4
+2021,Humboldt,Ag Expansion: Cropland,0.1,Iteration and Timestep,0.05,0,0.2
+2031,Humboldt,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2041,Humboldt,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2051,Humboldt,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2061,Humboldt,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2071,Humboldt,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2081,Humboldt,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2091,Humboldt,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,Imperial,Ag Expansion: Cropland,749.6808149999998,Iteration and Timestep,1078.5064198649022,80.31460615384614,3959.696861538461
+2021,Imperial,Ag Expansion: Cropland,649.7233729999999,Iteration and Timestep,934.7055638829154,69.605992,3431.73728
+2031,Imperial,Ag Expansion: Cropland,549.7659309999999,Iteration and Timestep,790.9047079009284,58.897377846153844,2903.7776984615384
+2041,Imperial,Ag Expansion: Cropland,424.8191285,Iteration and Timestep,611.1536379234446,45.511610153846156,2243.8282215384615
+2051,Imperial,Ag Expansion: Cropland,537.2712507499999,Iteration and Timestep,772.92960090318,57.558801076923075,2837.7827507692305
+2061,Imperial,Ag Expansion: Cropland,337.35636675,Iteration and Timestep,485.3278889392061,36.14157276923077,1781.8635876923076
+2071,Imperial,Ag Expansion: Cropland,462.30316924999994,Iteration and Timestep,665.0789589166898,49.527340461538465,2441.8130646153845
+2081,Imperial,Ag Expansion: Cropland,387.33508774999996,Iteration and Timestep,557.2283169301995,41.49587984615385,2045.8433784615384
+2091,Imperial,Ag Expansion: Cropland,287.37764574999994,Iteration and Timestep,413.4274609482125,30.787265692307688,1517.8837969230765
+2017,Inyo,Ag Expansion: Cropland,0.1,Iteration and Timestep,0.05,0,0.2
+2021,Inyo,Ag Expansion: Cropland,0.2,Iteration and Timestep,0.1,0,0.4
+2031,Inyo,Ag Expansion: Cropland,0.1,Iteration and Timestep,0.05,0,0.2
+2041,Inyo,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2051,Inyo,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2061,Inyo,Ag Expansion: Cropland,0.1,Iteration and Timestep,0.05,0,0.2
+2071,Inyo,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2081,Inyo,Ag Expansion: Cropland,0.1,Iteration and Timestep,0.05,0,0.2
+2091,Inyo,Ag Expansion: Cropland,0.1,Iteration and Timestep,0.05,0,0.2
+2017,Kern,Ag Expansion: Cropland,1238.2978612748716,Iteration and Timestep,568.6913226191622,154.80048871999998,2293.0560943599994
+2021,Kern,Ag Expansion: Cropland,1475.7796428892304,Iteration and Timestep,677.7554118885905,184.48825367999999,2732.8202768399997
+2031,Kern,Ag Expansion: Cropland,1390.9647208841022,Iteration and Timestep,638.8039514352232,173.88548047999998,2575.7616402399995
+2041,Kern,Ag Expansion: Cropland,1085.631001665641,Iteration and Timestep,498.57869380310115,135.71549696,2010.35054848
+2051,Kern,Ag Expansion: Cropland,1187.4089080717947,Iteration and Timestep,545.3204463471418,148.4388248,2198.8209124
+2061,Kern,Ag Expansion: Cropland,1051.7050328635896,Iteration and Timestep,482.99810962175417,131.47438768,1947.52709384
+2071,Kern,Ag Expansion: Cropland,1102.5939860666665,Iteration and Timestep,506.36898589377455,137.8360516,2041.7622757999998
+2081,Kern,Ag Expansion: Cropland,712.4453448430769,Iteration and Timestep,327.1922678082851,89.06329488,1319.29254744
+2091,Kern,Ag Expansion: Cropland,593.7044540358974,Iteration and Timestep,272.6602231735709,74.2194124,1099.4104562
+2017,Kings,Ag Expansion: Cropland,3581.2603260416663,Iteration and Timestep,3026.9903543006867,280.7509125,8694.42578125
+2021,Kings,Ag Expansion: Cropland,2793.3830543125,Iteration and Timestep,2361.052476354536,218.98571175,6781.652109375
+2031,Kings,Ag Expansion: Cropland,3366.3847064791667,Iteration and Timestep,2845.370933042646,263.90585775,8172.7602343749995
+2041,Kings,Ag Expansion: Cropland,2363.6318151874993,Iteration and Timestep,1997.813633838453,185.29560224999997,5738.321015624999
+2051,Kings,Ag Expansion: Cropland,2793.3830543125,Iteration and Timestep,2361.052476354536,218.98571175,6781.652109375
+2061,Kings,Ag Expansion: Cropland,1575.7545434583333,Iteration and Timestep,1331.8757558923023,123.53040150000001,3825.54734375
+2071,Kings,Ag Expansion: Cropland,1074.3780978125,Iteration and Timestep,908.09710629020606,84.22527375,2608.327734375
+2081,Kings,Ag Expansion: Cropland,1432.5041304166666,Iteration and Timestep,1210.7961417202748,112.300365,3477.7703125
+2091,Kings,Ag Expansion: Cropland,1074.3780978125,Iteration and Timestep,908.09710629020606,84.22527375,2608.327734375
+2017,Lake,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2021,Lake,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2031,Lake,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2041,Lake,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2051,Lake,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2061,Lake,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2071,Lake,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2081,Lake,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2091,Lake,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,Lassen,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2021,Lassen,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2031,Lassen,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2041,Lassen,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2051,Lassen,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2061,Lassen,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2071,Lassen,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2081,Lassen,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2091,Lassen,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,Los Angeles,Ag Expansion: Cropland,689.6564526518324,Iteration and Timestep,514.228727278067,173.01597764921465,1672.7017802041885
+2021,Los Angeles,Ag Expansion: Cropland,828.4981807434554,Iteration and Timestep,617.7533225386679,207.84757710994762,2009.4503234136123
+2031,Los Angeles,Ag Expansion: Cropland,760.2153636492145,Iteration and Timestep,566.8395871646019,190.71728229319368,1843.8362857696332
+2041,Los Angeles,Ag Expansion: Cropland,707.8652038769633,Iteration and Timestep,527.805723377818,177.5840562670157,1716.865523575916
+2051,Los Angeles,Ag Expansion: Cropland,805.7372417120417,Iteration and Timestep,600.7820774139793,202.1374788376963,1954.2456441989527
+2061,Los Angeles,Ag Expansion: Cropland,698.7608282643978,Iteration and Timestep,521.0172253279425,175.30001695811515,1694.783651890052
+2071,Los Angeles,Ag Expansion: Cropland,475.7036257565444,Iteration and Timestep,354.6990231059934,119.34105389005234,1153.7777955863871
+2081,Los Angeles,Ag Expansion: Cropland,336.8618976649214,Iteration and Timestep,251.17442784539247,84.50945442931936,817.0292523769632
+2091,Los Angeles,Ag Expansion: Cropland,118.35688296335078,Iteration and Timestep,88.25047464838114,29.692511015706806,287.06433191623034
+2017,Madera,Ag Expansion: Cropland,2293.253398622549,Iteration and Timestep,1832.2627035712364,327.95039288235296,6832.885059411765
+2021,Madera,Ag Expansion: Cropland,2215.515995279412,Iteration and Timestep,1770.1521034501775,316.8334304117647,6601.261837058823
+2031,Madera,Ag Expansion: Cropland,1593.6167685343137,Iteration and Timestep,1273.2673024817066,227.8977306470588,4748.276058235294
+2041,Madera,Ag Expansion: Cropland,1749.0915752205883,Iteration and Timestep,1397.4885027238242,250.13165558823528,5211.522502941176
+2051,Madera,Ag Expansion: Cropland,1166.0610501470587,Iteration and Timestep,931.6590018158828,166.75443705882353,3474.3483352941175
+2061,Madera,Ag Expansion: Cropland,1049.454945132353,Iteration and Timestep,838.4931016342946,150.07899335294118,3126.913501764706
+2071,Madera,Ag Expansion: Cropland,1088.3236468039215,Iteration and Timestep,869.548401694824,155.63747458823528,3242.725112941176
+2081,Madera,Ag Expansion: Cropland,738.505331759804,Iteration and Timestep,590.0507011500591,105.61114347058823,2200.420612352941
+2091,Madera,Ag Expansion: Cropland,272.0809117009804,Iteration and Timestep,217.387100423706,38.90936864705882,810.681278235294
+2017,Marin,Ag Expansion: Cropland,10.728616346491227,Iteration and Timestep,13.67228813990831,0,44.20662068421053
+2021,Marin,Ag Expansion: Cropland,16.85925425877193,Iteration and Timestep,21.48502421985592,0,69.46754678947369
+2031,Marin,Ag Expansion: Cropland,19.924573214912282,Iteration and Timestep,25.391392259829722,0,82.09800984210527
+2041,Marin,Ag Expansion: Cropland,16.85925425877193,Iteration and Timestep,21.48502421985592,0,69.46754678947369
+2051,Marin,Ag Expansion: Cropland,13.793935302631581,Iteration and Timestep,17.578656179882117,0,56.83708373684211
+2061,Marin,Ag Expansion: Cropland,15.326594780701754,Iteration and Timestep,19.531840199869016,0,63.152315263157895
+2071,Marin,Ag Expansion: Cropland,7.663297390350877,Iteration and Timestep,9.765920099934508,0,31.576157631578948
+2081,Marin,Ag Expansion: Cropland,7.663297390350877,Iteration and Timestep,9.765920099934508,0,31.576157631578948
+2091,Marin,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,Mariposa,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2021,Mariposa,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2031,Mariposa,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2041,Mariposa,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2051,Mariposa,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2061,Mariposa,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2071,Mariposa,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2081,Mariposa,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2091,Mariposa,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,Mendocino,Ag Expansion: Cropland,7.811666121212121,Iteration and Timestep,6.921025997779097,0,17.070391272727274
+2021,Mendocino,Ag Expansion: Cropland,7.811666121212121,Iteration and Timestep,6.921025997779097,0,17.070391272727274
+2031,Mendocino,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2041,Mendocino,Ag Expansion: Cropland,15.623332242424242,Iteration and Timestep,13.842051995558194,0,34.14078254545455
+2051,Mendocino,Ag Expansion: Cropland,31.246664484848484,Iteration and Timestep,27.684103991116388,0,68.2815650909091
+2061,Mendocino,Ag Expansion: Cropland,7.811666121212121,Iteration and Timestep,6.921025997779097,0,17.070391272727274
+2071,Mendocino,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2081,Mendocino,Ag Expansion: Cropland,7.811666121212121,Iteration and Timestep,6.921025997779097,0,17.070391272727274
+2091,Mendocino,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,Merced,Ag Expansion: Cropland,1462.4184676538462,Iteration and Timestep,694.4510018152437,468.43960984615387,3105.124548307692
+2021,Merced,Ag Expansion: Cropland,1163.287417451923,Iteration and Timestep,552.4042059893983,372.6224169230769,2469.985436153846
+2031,Merced,Ag Expansion: Cropland,897.3931506057693,Iteration and Timestep,426.1403874775359,287.4515787692308,1905.4173364615385
+2041,Merced,Ag Expansion: Cropland,764.4460171826922,Iteration and Timestep,363.0084782216046,244.86615969230766,1623.1332866153841
+2051,Merced,Ag Expansion: Cropland,1262.9977675192308,Iteration and Timestep,599.7531379313468,404.56148123076923,2681.6984735384613
+2061,Merced,Ag Expansion: Cropland,797.6828005384615,Iteration and Timestep,378.79145553558743,255.51251446153844,1693.7042990769228
+2071,Merced,Ag Expansion: Cropland,531.7885336923077,Iteration and Timestep,252.527637023725,170.34167630769232,1129.1361993846153
+2081,Merced,Ag Expansion: Cropland,365.60461691346154,Iteration and Timestep,173.61275045381092,117.10990246153847,776.281137076923
+2091,Merced,Ag Expansion: Cropland,232.6574834903846,Iteration and Timestep,110.48084119787967,74.52448338461538,493.9970872307692
+2017,Modoc,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2021,Modoc,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2031,Modoc,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2041,Modoc,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2051,Modoc,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2061,Modoc,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2071,Modoc,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2081,Modoc,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2091,Modoc,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,Mono,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2021,Mono,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2031,Mono,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2041,Mono,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2051,Mono,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2061,Mono,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2071,Mono,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2081,Mono,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2091,Mono,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,Monterey,Ag Expansion: Cropland,1303.7663291739132,Iteration and Timestep,1581.3725620573136,273.3214053913043,6097.949408347826
+2021,Monterey,Ag Expansion: Cropland,941.6090155144929,Iteration and Timestep,1142.1024059302822,197.39879278260872,4404.074572695652
+2031,Monterey,Ag Expansion: Cropland,1303.7663291739132,Iteration and Timestep,1581.3725620573136,273.3214053913043,6097.949408347826
+2041,Monterey,Ag Expansion: Cropland,760.5303586847826,Iteration and Timestep,922.4673278667663,159.43748647826087,3557.137154869565
+2051,Monterey,Ag Expansion: Cropland,579.4517018550725,Iteration and Timestep,702.8322498032505,121.47618017391305,2710.1997370434783
+2061,Monterey,Ag Expansion: Cropland,651.8831645869566,Iteration and Timestep,790.6862810286568,136.66070269565216,3048.974704173913
+2071,Monterey,Ag Expansion: Cropland,289.72585092753627,Iteration and Timestep,351.41612490162527,60.738090086956525,1355.0998685217392
+2081,Monterey,Ag Expansion: Cropland,36.215731365942034,Iteration and Timestep,43.92701561270316,7.592261260869566,169.3874835652174
+2091,Monterey,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,Napa,Ag Expansion: Cropland,966.0192058333333,Iteration and Timestep,1310.8265488975449,197.9813842222222,5025.210887555556
+2021,Napa,Ag Expansion: Cropland,966.0192058333333,Iteration and Timestep,1310.8265488975449,197.9813842222222,5025.210887555556
+2031,Napa,Ag Expansion: Cropland,880.7822170833334,Iteration and Timestep,1195.1653828183498,180.51243855555555,4581.809926888889
+2041,Napa,Ag Expansion: Cropland,823.9575579166666,Iteration and Timestep,1118.057938765553,168.86647477777774,4286.209286444444
+2051,Napa,Ag Expansion: Cropland,483.00960291666667,Iteration and Timestep,655.4132744487724,98.9906921111111,2512.605443777778
+2061,Napa,Ag Expansion: Cropland,539.8342620833333,Iteration and Timestep,732.5207185015693,110.63665588888888,2808.206084222222
+2071,Napa,Ag Expansion: Cropland,511.4219325,Iteration and Timestep,693.9669964751708,104.81367399999999,2660.405764
+2081,Napa,Ag Expansion: Cropland,340.947955,Iteration and Timestep,462.64466431678056,69.87578266666665,1773.6038426666667
+2091,Napa,Ag Expansion: Cropland,142.0616479166667,Iteration and Timestep,192.76861013199192,29.114909444444443,739.0016011111112
+2017,Nevada,Ag Expansion: Cropland,18.962652069230767,Iteration and Timestep,25.426621634470827,0.0607029,91.9648935
+2021,Nevada,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2031,Nevada,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2041,Nevada,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2051,Nevada,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2061,Nevada,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2071,Nevada,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2081,Nevada,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2091,Nevada,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,Orange,Ag Expansion: Cropland,83.15259643589744,Iteration and Timestep,84.14572298683981,16.887858076923077,286.61107707692304
+2021,Orange,Ag Expansion: Cropland,61.69386187179486,Iteration and Timestep,62.4306976999134,12.529701153846151,212.6469281538461
+2031,Orange,Ag Expansion: Cropland,49.62332367948718,Iteration and Timestep,50.21599597601731,10.078237884615385,171.04209438461538
+2041,Orange,Ag Expansion: Cropland,42.91746912820513,Iteration and Timestep,43.43005057385281,8.716313846153847,147.92829784615384
+2051,Orange,Ag Expansion: Cropland,33.52927275641025,Iteration and Timestep,33.9297270108225,6.809620192307691,115.56898269230767
+2061,Orange,Ag Expansion: Cropland,26.823418205128203,Iteration and Timestep,27.143781608658003,5.447696153846153,92.45518615384614
+2071,Orange,Ag Expansion: Cropland,10.729367282051282,Iteration and Timestep,10.857512643463203,2.1790784615384617,36.98207446153846
+2081,Orange,Ag Expansion: Cropland,17.435221833333333,Iteration and Timestep,17.643458045627703,3.5410025,60.095870999999995
+2091,Orange,Ag Expansion: Cropland,5.364683641025641,Iteration and Timestep,5.428756321731601,1.0895392307692309,18.49103723076923
+2017,Placer,Ag Expansion: Cropland,216.32306181818183,Iteration and Timestep,543.852273163937,4.944527127272727,1930.955570036364
+2021,Placer,Ag Expansion: Cropland,209.5629661363636,Iteration and Timestep,526.8568896275638,4.790010654545454,1870.6132084727271
+2031,Placer,Ag Expansion: Cropland,223.08315749999997,Iteration and Timestep,560.8476567003099,5.099043599999999,1991.2979315999999
+2041,Placer,Ag Expansion: Cropland,209.5629661363636,Iteration and Timestep,526.8568896275638,4.790010654545454,1870.6132084727271
+2051,Placer,Ag Expansion: Cropland,169.0023920454545,Iteration and Timestep,424.88458840932566,3.862911818181818,1508.559039090909
+2061,Placer,Ag Expansion: Cropland,141.9620093181818,Iteration and Timestep,356.9030542638336,3.2448459272727272,1267.1895928363638
+2071,Placer,Ag Expansion: Cropland,108.16153090909091,Iteration and Timestep,271.9261365819685,2.4722635636363637,965.477785018182
+2081,Placer,Ag Expansion: Cropland,47.320669772727264,Iteration and Timestep,118.96768475461118,1.0816153090909089,422.3965309454545
+2091,Placer,Ag Expansion: Cropland,13.520191363636364,Iteration and Timestep,33.99076707274606,0.30903294545454546,120.68472312727275
+2017,Plumas,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2021,Plumas,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2031,Plumas,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2041,Plumas,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2051,Plumas,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2061,Plumas,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2071,Plumas,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2081,Plumas,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2091,Plumas,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,Riverside,Ag Expansion: Cropland,112.47304222130012,Iteration and Timestep,102.12446812643054,37.65930673029045,383.5466138838174
+2021,Riverside,Ag Expansion: Cropland,117.95953208575379,Iteration and Timestep,107.10614949845154,39.49634608298755,402.2562048049792
+2031,Riverside,Ag Expansion: Cropland,109.7297972890733,Iteration and Timestep,99.63362744042006,36.74078705394191,374.1918184232365
+2041,Riverside,Ag Expansion: Cropland,79.55410303457813,Iteration and Timestep,72.23437989430454,26.637070614107884,271.28906835684643
+2051,Riverside,Ag Expansion: Cropland,65.83787837344398,Iteration and Timestep,59.78017646425203,22.044472232365145,224.5150910539419
+2061,Riverside,Ag Expansion: Cropland,60.351388508990325,Iteration and Timestep,54.798495092231036,20.207432879668055,205.80550013278008
+2071,Riverside,Ag Expansion: Cropland,31.54731672060857,Iteration and Timestep,28.64466788912076,10.562976278008298,107.58014779668048
+2081,Riverside,Ag Expansion: Cropland,21.945959457814663,Iteration and Timestep,19.92672548808401,7.3481574107883825,74.8383636846473
+2091,Riverside,Ag Expansion: Cropland,2.743244932226833,Iteration and Timestep,2.4908406860105012,0.9185196763485478,9.354795460580913
+2017,Sacramento,Ag Expansion: Cropland,112.55018078076924,Iteration and Timestep,106.31621517945251,17.57348955,412.56725985
+2021,Sacramento,Ag Expansion: Cropland,81.286241675,Iteration and Timestep,76.78393318516015,12.691964675000001,297.965243225
+2031,Sacramento,Ag Expansion: Cropland,56.27509039038462,Iteration and Timestep,53.15810758972626,8.786744775,206.283629925
+2041,Sacramento,Ag Expansion: Cropland,31.263939105769232,Iteration and Timestep,29.532281994292365,4.881524875,114.602016625
+2051,Sacramento,Ag Expansion: Cropland,56.27509039038462,Iteration and Timestep,53.15810758972626,8.786744775,206.283629925
+2061,Sacramento,Ag Expansion: Cropland,56.27509039038462,Iteration and Timestep,53.15810758972626,8.786744775,206.283629925
+2071,Sacramento,Ag Expansion: Cropland,37.51672692692308,Iteration and Timestep,35.438738393150835,5.85782985,137.52241995
+2081,Sacramento,Ag Expansion: Cropland,31.263939105769232,Iteration and Timestep,29.532281994292365,4.881524875,114.602016625
+2091,Sacramento,Ag Expansion: Cropland,6.252787821153847,Iteration and Timestep,5.906456398858474,0.9763049750000001,22.920403325000002
+2017,San Benito,Ag Expansion: Cropland,218.32809699999999,Iteration and Timestep,155.00062134846226,40.670943,509.702017
+2021,San Benito,Ag Expansion: Cropland,764.1483394999999,Iteration and Timestep,542.5021747196179,142.3483005,1783.9570594999998
+2031,San Benito,Ag Expansion: Cropland,1419.1326305,Iteration and Timestep,1007.5040387650047,264.3611295,3313.0631105
+2041,San Benito,Ag Expansion: Cropland,1528.2966789999998,Iteration and Timestep,1085.0043494392357,284.696601,3567.9141189999996
+2051,San Benito,Ag Expansion: Cropland,1746.6247759999999,Iteration and Timestep,1240.004970787698,325.367544,4077.616136
+2061,San Benito,Ag Expansion: Cropland,1473.71465475,Iteration and Timestep,1046.2541941021202,274.52886525,3440.48861475
+2071,San Benito,Ag Expansion: Cropland,982.4764365,Iteration and Timestep,697.5027960680802,183.01924350000002,2293.6590765
+2081,San Benito,Ag Expansion: Cropland,600.40226675,Iteration and Timestep,426.2517087082712,111.84509325,1401.68054675
+2091,San Benito,Ag Expansion: Cropland,272.91012125,Iteration and Timestep,193.75077668557782,50.83867875,637.12752125
+2017,San Bernardino,Ag Expansion: Cropland,99.86120569512198,Iteration and Timestep,75.31764292773602,28.33789039024391,266.44131424390247
+2021,San Bernardino,Ag Expansion: Cropland,124.82650711890244,Iteration and Timestep,94.14705365967,35.42236298780488,333.05164280487804
+2031,San Bernardino,Ag Expansion: Cropland,114.61342926371951,Iteration and Timestep,86.44411290569698,32.52416965243903,305.80196293902435
+2041,San Bernardino,Ag Expansion: Cropland,71.49154498628049,Iteration and Timestep,53.92058527781099,20.287353347560977,190.7477590609756
+2051,San Bernardino,Ag Expansion: Cropland,93.052487125,Iteration and Timestep,70.18234909175399,26.4057615,248.274861
+2061,San Bernardino,Ag Expansion: Cropland,77.16547712804879,Iteration and Timestep,58.199996807796,21.897460756097562,205.886470097561
+2071,San Bernardino,Ag Expansion: Cropland,46.5262435625,Iteration and Timestep,35.091174545876996,13.20288075,124.1374305
+2081,San Bernardino,Ag Expansion: Cropland,17.02179642530488,Iteration and Timestep,12.838234589955,4.830322225609756,45.4161331097561
+2091,San Bernardino,Ag Expansion: Cropland,1.1347864283536586,Iteration and Timestep,0.855882305997,0.32202148170731715,3.0277422073170737
+2017,San Diego,Ag Expansion: Cropland,333.5762601770186,Iteration and Timestep,601.5079096989706,24.73863113043478,1982.2525711055898
+2021,San Diego,Ag Expansion: Cropland,342.59183477639743,Iteration and Timestep,617.7648802313752,25.40724278260869,2035.8269649192544
+2031,San Diego,Ag Expansion: Cropland,261.45166338198754,Iteration and Timestep,471.45214543973367,19.389737913043476,1553.657420596273
+2041,San Diego,Ag Expansion: Cropland,293.00617447981364,Iteration and Timestep,528.3515423031498,21.72987869565217,1741.167798944099
+2051,San Diego,Ag Expansion: Cropland,283.99059988043473,Iteration and Timestep,512.0945717707451,21.061267043478257,1687.5934051304346
+2061,San Diego,Ag Expansion: Cropland,234.4049395838509,Iteration and Timestep,422.6812338425199,17.383902956521737,1392.9342391552793
+2071,San Diego,Ag Expansion: Cropland,139.74140629037265,Iteration and Timestep,251.98304325227141,10.36348060869565,830.4031041118011
+2081,San Diego,Ag Expansion: Cropland,49.585660296583846,Iteration and Timestep,89.41333792822536,3.677364086956522,294.65916597515525
+2091,San Diego,Ag Expansion: Cropland,4.50778729968944,Iteration and Timestep,8.128485266202304,0.33430582608695647,26.787196906832293
+2017,San Francisco,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2021,San Francisco,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2031,San Francisco,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2041,San Francisco,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2051,San Francisco,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2061,San Francisco,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2071,San Francisco,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2081,San Francisco,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2091,San Francisco,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,San Joaquin,Ag Expansion: Cropland,146.5118267342342,Iteration and Timestep,79.74579643235371,16.40618918918919,294.9285943243243
+2021,San Joaquin,Ag Expansion: Cropland,410.2331148558558,Iteration and Timestep,223.2882300105904,45.937329729729726,825.800064108108
+2031,San Joaquin,Ag Expansion: Cropland,293.0236534684684,Iteration and Timestep,159.49159286470743,32.81237837837838,589.8571886486486
+2041,San Joaquin,Ag Expansion: Cropland,293.0236534684684,Iteration and Timestep,159.49159286470743,32.81237837837838,589.8571886486486
+2051,San Joaquin,Ag Expansion: Cropland,322.3260188153153,Iteration and Timestep,175.4407521511782,36.09361621621622,648.8429075135135
+2061,San Joaquin,Ag Expansion: Cropland,293.0236534684684,Iteration and Timestep,159.49159286470743,32.81237837837838,589.8571886486486
+2071,San Joaquin,Ag Expansion: Cropland,161.16300940765765,Iteration and Timestep,87.7203760755891,18.04680810810811,324.42145375675676
+2081,San Joaquin,Ag Expansion: Cropland,87.90709604054052,Iteration and Timestep,47.84747785941223,9.843713513513512,176.95715659459458
+2091,San Joaquin,Ag Expansion: Cropland,29.302365346846845,Iteration and Timestep,15.949159286470746,3.281237837837838,58.98571886486487
+2017,San Luis Obispo,Ag Expansion: Cropland,460.11449246666666,Iteration and Timestep,255.8306555667524,146.33445759999998,858.7436919999999
+2021,San Luis Obispo,Ag Expansion: Cropland,805.2003618166668,Iteration and Timestep,447.7036472418168,256.0853008,1502.8014610000002
+2031,San Luis Obispo,Ag Expansion: Cropland,492.97981335714286,Iteration and Timestep,274.10427382152045,156.78691885714284,920.0825271428571
+2041,San Luis Obispo,Ag Expansion: Cropland,542.2777946928571,Iteration and Timestep,301.5147012036725,172.46561074285714,1012.0907798571428
+2051,San Luis Obispo,Ag Expansion: Cropland,443.68183202142865,Iteration and Timestep,246.69384643936843,141.10822697142856,828.0742744285715
+2061,San Luis Obispo,Ag Expansion: Cropland,443.68183202142865,Iteration and Timestep,246.69384643936843,141.10822697142856,828.0742744285715
+2071,San Luis Obispo,Ag Expansion: Cropland,345.08586935,Iteration and Timestep,191.8729916750643,109.75084319999999,644.057769
+2081,San Luis Obispo,Ag Expansion: Cropland,131.4612835619048,Iteration and Timestep,73.09447301907213,41.80984502857143,245.3553405714286
+2091,San Luis Obispo,Ag Expansion: Cropland,180.7592648976191,Iteration and Timestep,100.50490040122418,57.488536914285724,337.36359328571433
+2017,San Mateo,Ag Expansion: Cropland,53.331833571428575,Iteration and Timestep,33.80250530252321,0,97.03792157142858
+2021,San Mateo,Ag Expansion: Cropland,14.814398214285713,Iteration and Timestep,9.389584806256448,0,26.954978214285717
+2031,San Mateo,Ag Expansion: Cropland,68.14623178571428,Iteration and Timestep,43.19209010877965,0,123.99289978571429
+2041,San Mateo,Ag Expansion: Cropland,35.55455571428571,Iteration and Timestep,22.535003535015473,0,64.69194771428572
+2051,San Mateo,Ag Expansion: Cropland,44.44319464285714,Iteration and Timestep,28.16875441876934,0,80.86493464285714
+2061,San Mateo,Ag Expansion: Cropland,14.814398214285713,Iteration and Timestep,9.389584806256448,0,26.954978214285717
+2071,San Mateo,Ag Expansion: Cropland,14.814398214285713,Iteration and Timestep,9.389584806256448,0,26.954978214285717
+2081,San Mateo,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2091,San Mateo,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,Santa Barbara,Ag Expansion: Cropland,775.6481666666667,Iteration and Timestep,689.8368947475738,194.24928,2422.450396
+2021,Santa Barbara,Ag Expansion: Cropland,590.9700317460317,Iteration and Timestep,525.5900150457704,147.99945142857143,1845.6764921904762
+2031,Santa Barbara,Ag Expansion: Cropland,184.67813492063493,Iteration and Timestep,164.24687970180327,46.249828571428566,576.7739038095239
+2041,Santa Barbara,Ag Expansion: Cropland,701.7769126984126,Iteration and Timestep,624.1381428668524,175.74934857142856,2191.7408344761902
+2051,Santa Barbara,Ag Expansion: Cropland,369.35626984126986,Iteration and Timestep,328.49375940360653,92.49965714285713,1153.5478076190477
+2061,Santa Barbara,Ag Expansion: Cropland,443.2275238095238,Iteration and Timestep,394.19251128432785,110.99958857142856,1384.2573691428572
+2071,Santa Barbara,Ag Expansion: Cropland,184.67813492063493,Iteration and Timestep,164.24687970180327,46.249828571428566,576.7739038095239
+2081,Santa Barbara,Ag Expansion: Cropland,73.87125396825397,Iteration and Timestep,65.6987518807213,18.49993142857143,230.70956152380953
+2091,Santa Barbara,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,Santa Clara,Ag Expansion: Cropland,167.16422414285717,Iteration and Timestep,161.75040240455152,6.243726857142858,460.3014188571429
+2021,Santa Clara,Ag Expansion: Cropland,240.29857220535717,Iteration and Timestep,232.5162034565428,8.975357357142856,661.6832896071429
+2031,Santa Clara,Ag Expansion: Cropland,254.22892421726192,Iteration and Timestep,245.9954036569221,9.495667928571429,700.0417411785714
+2041,Santa Clara,Ag Expansion: Cropland,191.5423401636905,Iteration and Timestep,185.33900275521526,7.154270357142857,527.4287091071429
+2051,Santa Clara,Ag Expansion: Cropland,153.23387213095242,Iteration and Timestep,148.27120220417223,5.723416285714286,421.94296728571436
+2061,Santa Clara,Ag Expansion: Cropland,107.96022809226191,Iteration and Timestep,104.46380155293951,4.032406928571429,297.27799967857146
+2071,Santa Clara,Ag Expansion: Cropland,90.54728807738097,Iteration and Timestep,87.61480130246541,3.3820187142857145,249.32993521428577
+2081,Santa Clara,Ag Expansion: Cropland,45.273644038690485,Iteration and Timestep,43.807400651232705,1.6910093571428573,124.66496760714288
+2091,Santa Clara,Ag Expansion: Cropland,13.930352011904764,Iteration and Timestep,13.479200200379294,0.5203105714285715,38.358451571428574
+2017,Santa Cruz,Ag Expansion: Cropland,59.57877222222222,Iteration and Timestep,81.74983625408409,6.744766666666667,306.88688333333334
+2021,Santa Cruz,Ag Expansion: Cropland,23.831508888888887,Iteration and Timestep,32.699934501633635,2.697906666666667,122.75475333333333
+2031,Santa Cruz,Ag Expansion: Cropland,21.448358,Iteration and Timestep,29.42994105147027,2.428116,110.479278
+2041,Santa Cruz,Ag Expansion: Cropland,16.682056222222222,Iteration and Timestep,22.889954151143545,1.8885346666666667,85.92832733333333
+2051,Santa Cruz,Ag Expansion: Cropland,21.448358,Iteration and Timestep,29.42994105147027,2.428116,110.479278
+2061,Santa Cruz,Ag Expansion: Cropland,26.21465977777778,Iteration and Timestep,35.969927951797,2.9676973333333336,135.03022866666666
+2071,Santa Cruz,Ag Expansion: Cropland,19.06520711111111,Iteration and Timestep,26.159947601306907,2.1583253333333334,98.20380266666668
+2081,Santa Cruz,Ag Expansion: Cropland,11.915754444444444,Iteration and Timestep,16.349967250816817,1.3489533333333334,61.37737666666666
+2091,Santa Cruz,Ag Expansion: Cropland,4.766301777777778,Iteration and Timestep,6.539986900326727,0.5395813333333334,24.55095066666667
+2017,Shasta,Ag Expansion: Cropland,53.07201054022988,Iteration and Timestep,48.548184657631246,1.7234041724137932,167.4353438275862
+2021,Shasta,Ag Expansion: Cropland,44.69221940229885,Iteration and Timestep,40.882681816952626,1.4512877241379312,140.99818427586206
+2031,Shasta,Ag Expansion: Cropland,44.69221940229885,Iteration and Timestep,40.882681816952626,1.4512877241379312,140.99818427586206
+2041,Shasta,Ag Expansion: Cropland,41.898955689655175,Iteration and Timestep,38.32751420339309,1.3605822413793105,132.1857977586207
+2051,Shasta,Ag Expansion: Cropland,55.86527425287357,Iteration and Timestep,51.103352271190786,1.814109655172414,176.2477303448276
+2061,Shasta,Ag Expansion: Cropland,53.07201054022988,Iteration and Timestep,48.548184657631246,1.7234041724137932,167.4353438275862
+2071,Shasta,Ag Expansion: Cropland,30.725900839080463,Iteration and Timestep,28.106843749154933,0.9977603103448277,96.93625168965518
+2081,Shasta,Ag Expansion: Cropland,36.31242826436782,Iteration and Timestep,33.21717897627401,1.179171275862069,114.56102472413794
+2091,Shasta,Ag Expansion: Cropland,25.139373413793106,Iteration and Timestep,22.996508522035853,0.8163493448275863,79.31147865517242
+2017,Sierra Valley,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2021,Sierra Valley,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2031,Sierra Valley,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2041,Sierra Valley,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2051,Sierra Valley,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2061,Sierra Valley,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2071,Sierra Valley,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2081,Sierra Valley,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2091,Sierra Valley,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,Siskiyou,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2021,Siskiyou,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2031,Siskiyou,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2041,Siskiyou,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2051,Siskiyou,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2061,Siskiyou,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2071,Siskiyou,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2081,Siskiyou,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2091,Siskiyou,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,Solano,Ag Expansion: Cropland,102.42587997463768,Iteration and Timestep,96.723552516087,0,331.54340426086964
+2021,Solano,Ag Expansion: Cropland,148.98309814492754,Iteration and Timestep,140.6888036597629,0,482.244951652174
+2031,Solano,Ag Expansion: Cropland,130.36021087681158,Iteration and Timestep,123.10270320229253,0,421.9643326956522
+2041,Solano,Ag Expansion: Cropland,83.80299270652174,Iteration and Timestep,79.13745205861663,0,271.26278530434786
+2051,Solano,Ag Expansion: Cropland,65.18010543840579,Iteration and Timestep,61.551351601146266,0,210.9821663478261
+2061,Solano,Ag Expansion: Cropland,93.11443634057972,Iteration and Timestep,87.93050228735181,0,301.4030947826087
+2071,Solano,Ag Expansion: Cropland,65.18010543840579,Iteration and Timestep,61.551351601146266,0,210.9821663478261
+2081,Solano,Ag Expansion: Cropland,55.868661804347816,Iteration and Timestep,52.75830137241108,0,180.84185686956522
+2091,Solano,Ag Expansion: Cropland,9.311443634057971,Iteration and Timestep,8.793050228735181,0,30.140309478260875
+2017,Sonoma,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2021,Sonoma,Ag Expansion: Cropland,88.338527546875,Iteration and Timestep,104.22293621750998,18.2488093125,356.81923406249996
+2031,Sonoma,Ag Expansion: Cropland,78.52313559722224,Iteration and Timestep,92.64260997112,16.221163833333335,317.1726525
+2041,Sonoma,Ag Expansion: Cropland,58.892351697916666,Iteration and Timestep,69.48195747834,12.165872875,237.879489375
+2051,Sonoma,Ag Expansion: Cropland,68.70774364756944,Iteration and Timestep,81.06228372473,14.193518354166667,277.5260709375
+2061,Sonoma,Ag Expansion: Cropland,68.70774364756944,Iteration and Timestep,81.06228372473,14.193518354166667,277.5260709375
+2071,Sonoma,Ag Expansion: Cropland,29.446175848958333,Iteration and Timestep,34.74097873917,6.0829364375,118.9397446875
+2081,Sonoma,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2091,Sonoma,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,Stanislaus,Ag Expansion: Cropland,993.5986720284899,Iteration and Timestep,631.3850801812657,57.05323181481481,2046.1598636666663
+2021,Stanislaus,Ag Expansion: Cropland,734.3990184558403,Iteration and Timestep,466.6759288296311,42.16978003703703,1512.3790296666664
+2031,Stanislaus,Ag Expansion: Cropland,561.5992494074073,Iteration and Timestep,356.8698279285415,32.24747885185185,1156.5251403333332
+2041,Stanislaus,Ag Expansion: Cropland,691.1990761937321,Iteration and Timestep,439.22440360435877,39.689204740740735,1423.415557333333
+2051,Stanislaus,Ag Expansion: Cropland,518.3993071452991,Iteration and Timestep,329.4183027032691,29.766903555555555,1067.5616679999998
+2061,Stanislaus,Ag Expansion: Cropland,475.1993648831909,Iteration and Timestep,301.9667774779967,27.28632825925926,978.5981956666666
+2071,Stanislaus,Ag Expansion: Cropland,518.3993071452991,Iteration and Timestep,329.4183027032691,29.766903555555555,1067.5616679999998
+2081,Stanislaus,Ag Expansion: Cropland,345.59953809686607,Iteration and Timestep,219.61220180217938,19.844602370370367,711.7077786666665
+2091,Stanislaus,Ag Expansion: Cropland,86.39988452421652,Iteration and Timestep,54.903050450544846,4.961150592592592,177.92694466666663
+2017,Sutter,Ag Expansion: Cropland,1436.3542680555554,Iteration and Timestep,808.8202820826672,185.81832166666663,2791.119342
+2021,Sutter,Ag Expansion: Cropland,604.7807444444445,Iteration and Timestep,340.55590824533357,78.23929333333334,1175.2081440000002
+2031,Sutter,Ag Expansion: Cropland,453.5855583333333,Iteration and Timestep,255.41693118400016,58.679469999999995,881.406108
+2041,Sutter,Ag Expansion: Cropland,75.59759305555556,Iteration and Timestep,42.569488530666696,9.779911666666667,146.90101800000002
+2051,Sutter,Ag Expansion: Cropland,226.79277916666666,Iteration and Timestep,127.70846559200008,29.339734999999997,440.703054
+2061,Sutter,Ag Expansion: Cropland,75.59759305555556,Iteration and Timestep,42.569488530666696,9.779911666666667,146.90101800000002
+2071,Sutter,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2081,Sutter,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2091,Sutter,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,Tehama,Ag Expansion: Cropland,35.7135395,Iteration and Timestep,32.640105721500575,7.6283311000000005,132.3930249
+2021,Tehama,Ag Expansion: Cropland,107.1406185,Iteration and Timestep,97.92031716450171,22.884993299999998,397.1790747
+2031,Tehama,Ag Expansion: Cropland,71.427079,Iteration and Timestep,65.28021144300115,15.256662200000001,264.7860498
+2041,Tehama,Ag Expansion: Cropland,142.854158,Iteration and Timestep,130.5604228860023,30.513324400000002,529.5720996
+2051,Tehama,Ag Expansion: Cropland,35.7135395,Iteration and Timestep,32.640105721500575,7.6283311000000005,132.3930249
+2061,Tehama,Ag Expansion: Cropland,71.427079,Iteration and Timestep,65.28021144300115,15.256662200000001,264.7860498
+2071,Tehama,Ag Expansion: Cropland,35.7135395,Iteration and Timestep,32.640105721500575,7.6283311000000005,132.3930249
+2081,Tehama,Ag Expansion: Cropland,71.427079,Iteration and Timestep,65.28021144300115,15.256662200000001,264.7860498
+2091,Tehama,Ag Expansion: Cropland,142.854158,Iteration and Timestep,130.5604228860023,30.513324400000002,529.5720996
+2017,Trinity,Ag Expansion: Cropland,0.1,Iteration and Timestep,0.05,0,0.2
+2021,Trinity,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2031,Trinity,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2041,Trinity,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2051,Trinity,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2061,Trinity,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2071,Trinity,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2081,Trinity,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2091,Trinity,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,Tulare,Ag Expansion: Cropland,378.1017489430895,Iteration and Timestep,432.5113907955755,10.423132097560977,1561.2588472195123
+2021,Tulare,Ag Expansion: Cropland,307.20767101626024,Iteration and Timestep,351.41550502140507,8.468794829268294,1268.5228133658538
+2031,Tulare,Ag Expansion: Cropland,448.9958268699187,Iteration and Timestep,513.6072765697459,12.377469365853658,1853.9948810731707
+2041,Tulare,Ag Expansion: Cropland,378.1017489430895,Iteration and Timestep,432.5113907955755,10.423132097560977,1561.2588472195123
+2051,Tulare,Ag Expansion: Cropland,307.20767101626024,Iteration and Timestep,351.41550502140507,8.468794829268294,1268.5228133658538
+2061,Tulare,Ag Expansion: Cropland,460.81150652439027,Iteration and Timestep,527.1232575321076,12.70319224390244,1902.7842200487805
+2071,Tulare,Ag Expansion: Cropland,200.86655412601627,Iteration and Timestep,229.77167636014946,5.537288926829269,829.4187625853658
+2081,Tulare,Ag Expansion: Cropland,82.70975758130082,Iteration and Timestep,94.61186673653212,2.2800601463414636,341.5253728292683
+2091,Tulare,Ag Expansion: Cropland,94.52543723577237,Iteration and Timestep,108.12784769889387,2.6057830243902442,390.3147118048781
+2017,Tuolumne,Ag Expansion: Cropland,0.2,Iteration and Timestep,0.1,0,0.4
+2021,Tuolumne,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2031,Tuolumne,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2041,Tuolumne,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2051,Tuolumne,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2061,Tuolumne,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2071,Tuolumne,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2081,Tuolumne,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2091,Tuolumne,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,Ventura,Ag Expansion: Cropland,115.92914865441176,Iteration and Timestep,154.9960048254992,7.123663852941176,589.5679893529411
+2021,Ventura,Ag Expansion: Cropland,115.92914865441176,Iteration and Timestep,154.9960048254992,7.123663852941176,589.5679893529411
+2031,Ventura,Ag Expansion: Cropland,103.726080375,Iteration and Timestep,138.68063589649927,6.373804499999999,527.508201
+2041,Ventura,Ag Expansion: Cropland,73.21840967647059,Iteration and Timestep,97.89221357399948,4.4991561176470585,372.3587301176471
+2051,Ventura,Ag Expansion: Cropland,61.015341397058826,Iteration and Timestep,81.57684464499957,3.7492967647058824,310.2989417647059
+2061,Ventura,Ag Expansion: Cropland,91.52301209558823,Iteration and Timestep,122.36526696749935,5.623945147058823,465.4484126470588
+2071,Ventura,Ag Expansion: Cropland,24.40613655882353,Iteration and Timestep,32.63073785799983,1.499718705882353,124.11957670588237
+2081,Ventura,Ag Expansion: Cropland,24.40613655882353,Iteration and Timestep,32.63073785799983,1.499718705882353,124.11957670588237
+2091,Ventura,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,Yolo,Ag Expansion: Cropland,509.297331,Iteration and Timestep,370.8886626097051,21.043671999999997,1161.44882
+2021,Yolo,Ag Expansion: Cropland,127.32433275,Iteration and Timestep,92.72216565242627,5.260917999999999,290.362205
+2031,Yolo,Ag Expansion: Cropland,63.662166375,Iteration and Timestep,46.361082826213135,2.6304589999999997,145.1811025
+2041,Yolo,Ag Expansion: Cropland,63.662166375,Iteration and Timestep,46.361082826213135,2.6304589999999997,145.1811025
+2051,Yolo,Ag Expansion: Cropland,63.662166375,Iteration and Timestep,46.361082826213135,2.6304589999999997,145.1811025
+2061,Yolo,Ag Expansion: Cropland,127.32433275,Iteration and Timestep,92.72216565242627,5.260917999999999,290.362205
+2071,Yolo,Ag Expansion: Cropland,127.32433275,Iteration and Timestep,92.72216565242627,5.260917999999999,290.362205
+2081,Yolo,Ag Expansion: Cropland,63.662166375,Iteration and Timestep,46.361082826213135,2.6304589999999997,145.1811025
+2091,Yolo,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,Yuba,Ag Expansion: Cropland,662.9296261333334,Iteration and Timestep,267.2578773351473,380.0810912,1176.5031391999999
+2021,Yuba,Ag Expansion: Cropland,1160.126845733333,Iteration and Timestep,467.70128533650774,665.1419096,2058.8804935999997
+2031,Yuba,Ag Expansion: Cropland,1284.4261506333332,Iteration and Timestep,517.812137336848,736.4071142,2279.4748322
+2041,Yuba,Ag Expansion: Cropland,745.7958294,Iteration and Timestep,300.6651120020407,427.5912276,1323.5660315999999
+2051,Yuba,Ag Expansion: Cropland,745.7958294,Iteration and Timestep,300.6651120020407,427.5912276,1323.5660315999999
+2061,Yuba,Ag Expansion: Cropland,870.0951343,Iteration and Timestep,350.7759640023809,498.85643220000003,1544.1603702
+2071,Yuba,Ag Expansion: Cropland,787.2289310333332,Iteration and Timestep,317.3687293354874,451.34629579999995,1397.0974777999998
+2081,Yuba,Ag Expansion: Cropland,372.8979147,Iteration and Timestep,150.33255600102035,213.7956138,661.7830157999999
+2091,Yuba,Ag Expansion: Cropland,455.7641179666667,Iteration and Timestep,183.73979066791378,261.30575020000003,808.8459081999999
+2017,Alameda,Ag Expansion: Cropland,41.57822290322581,Iteration and Timestep,39.56067604625326,0,130.2175112903226
+2021,Alameda,Ag Expansion: Cropland,41.57822290322581,Iteration and Timestep,39.56067604625326,0,130.2175112903226
+2031,Alameda,Ag Expansion: Cropland,51.477799784946235,Iteration and Timestep,48.979884628694514,0,161.2216806451613
+2041,Alameda,Ag Expansion: Cropland,65.33720741935483,Iteration and Timestep,62.16677664411226,0,204.6275177419355
+2051,Alameda,Ag Expansion: Cropland,67.31712279569892,Iteration and Timestep,64.05061836060051,0,210.82835161290322
+2061,Alameda,Ag Expansion: Cropland,59.397461290322575,Iteration and Timestep,56.51525149464751,0,186.02501612903225
+2071,Alameda,Ag Expansion: Cropland,43.558138279569896,Iteration and Timestep,41.44451776274151,0,136.41834516129035
+2081,Alameda,Ag Expansion: Cropland,17.819238387096775,Iteration and Timestep,16.954575448394255,0,55.80750483870968
+2091,Alameda,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,Alpine,Ag Expansion: Cropland,0.1,Iteration and Timestep,0.05,0,0.2
+2021,Alpine,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2031,Alpine,Ag Expansion: Cropland,0.1,Iteration and Timestep,0.05,0,0.2
+2041,Alpine,Ag Expansion: Cropland,0.1,Iteration and Timestep,0.05,0,0.2
+2051,Alpine,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2061,Alpine,Ag Expansion: Cropland,0.1,Iteration and Timestep,0.05,0,0.2
+2071,Alpine,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2081,Alpine,Ag Expansion: Cropland,0.2,Iteration and Timestep,0.1,0,0.4
+2091,Alpine,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,Amador,Ag Expansion: Cropland,6.123686069444445,Iteration and Timestep,3.6306720879714374,1.4838486666666666,13.2534665
+2021,Amador,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2031,Amador,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2041,Amador,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2051,Amador,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2061,Amador,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2071,Amador,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2081,Amador,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2091,Amador,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,Butte,Ag Expansion: Cropland,189.78789788194445,Iteration and Timestep,96.81023855857326,84.2758595,341.1165741666667
+2021,Butte,Ag Expansion: Cropland,156.29591590277778,Iteration and Timestep,79.72607881294269,69.403649,280.91953166666667
+2031,Butte,Ag Expansion: Cropland,178.62390388888892,Iteration and Timestep,91.11551864336307,79.31845600000001,321.05089333333336
+2041,Butte,Ag Expansion: Cropland,189.78789788194445,Iteration and Timestep,96.81023855857326,84.2758595,341.1165741666667
+2051,Butte,Ag Expansion: Cropland,178.62390388888892,Iteration and Timestep,91.11551864336307,79.31845600000001,321.05089333333336
+2061,Butte,Ag Expansion: Cropland,122.80393392361113,Iteration and Timestep,62.64191906731212,54.5314385,220.72248916666666
+2071,Butte,Ag Expansion: Cropland,89.31195194444446,Iteration and Timestep,45.55775932168154,39.659228000000006,160.52544666666668
+2081,Butte,Ag Expansion: Cropland,78.14795795138889,Iteration and Timestep,39.863039406471344,34.7018245,140.45976583333334
+2091,Butte,Ag Expansion: Cropland,66.98396395833333,Iteration and Timestep,34.16831949126115,29.744421,120.39408499999999
+2017,Calaveras,Ag Expansion: Cropland,0.2,Iteration and Timestep,0.1,0,0.4
+2021,Calaveras,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2031,Calaveras,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2041,Calaveras,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2051,Calaveras,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2061,Calaveras,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2071,Calaveras,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2081,Calaveras,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2091,Calaveras,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,Colusa,Ag Expansion: Cropland,6666.527373333332,Iteration and Timestep,10389.359314610101,1019.8087199999999,33271.25949
+2021,Colusa,Ag Expansion: Cropland,2222.175791111111,Iteration and Timestep,3463.1197715367007,339.93624,11090.419829999999
+2031,Colusa,Ag Expansion: Cropland,4444.351582222222,Iteration and Timestep,6926.239543073401,679.87248,22180.839659999998
+2041,Colusa,Ag Expansion: Cropland,6666.527373333332,Iteration and Timestep,10389.359314610101,1019.8087199999999,33271.25949
+2051,Colusa,Ag Expansion: Cropland,8888.703164444443,Iteration and Timestep,13852.479086146803,1359.74496,44361.679319999996
+2061,Colusa,Ag Expansion: Cropland,2222.175791111111,Iteration and Timestep,3463.1197715367007,339.93624,11090.419829999999
+2071,Colusa,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2081,Colusa,Ag Expansion: Cropland,2222.175791111111,Iteration and Timestep,3463.1197715367007,339.93624,11090.419829999999
+2091,Colusa,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,Contra Costa,Ag Expansion: Cropland,129.17784651282054,Iteration and Timestep,367.4900771594803,0,1293.5009747692309
+2021,Contra Costa,Ag Expansion: Cropland,129.17784651282054,Iteration and Timestep,367.4900771594803,0,1293.5009747692309
+2031,Contra Costa,Ag Expansion: Cropland,107.64820542735045,Iteration and Timestep,306.2417309662336,0,1077.9174789743593
+2041,Contra Costa,Ag Expansion: Cropland,91.50097461324788,Iteration and Timestep,260.3054713212985,0,916.2298571282051
+2051,Contra Costa,Ag Expansion: Cropland,113.03061569871798,Iteration and Timestep,321.5538175145453,0,1131.8133529230772
+2061,Contra Costa,Ag Expansion: Cropland,75.3537437991453,Iteration and Timestep,214.3692116763635,0,754.5422352820514
+2071,Contra Costa,Ag Expansion: Cropland,56.51530784935899,Iteration and Timestep,160.77690875727265,0,565.9066764615386
+2081,Contra Costa,Ag Expansion: Cropland,26.912051356837612,Iteration and Timestep,76.5604327415584,0,269.4793697435898
+2091,Contra Costa,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,Del Norte,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2021,Del Norte,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2031,Del Norte,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2041,Del Norte,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2051,Del Norte,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2061,Del Norte,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2071,Del Norte,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2081,Del Norte,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2091,Del Norte,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,El Dorado,Ag Expansion: Cropland,29.055298554285713,Iteration and Timestep,37.66736846192664,0.15031194285714286,126.93843574285714
+2021,El Dorado,Ag Expansion: Cropland,40.230413382857144,Iteration and Timestep,52.15481787035997,0.2081242285714286,175.76091102857143
+2031,El Dorado,Ag Expansion: Cropland,58.110597108571426,Iteration and Timestep,75.33473692385328,0.3006238857142857,253.87687148571428
+2041,El Dorado,Ag Expansion: Cropland,51.40552821142857,Iteration and Timestep,66.64226727879328,0.2659365142857143,224.5833863142857
+2051,El Dorado,Ag Expansion: Cropland,58.110597108571426,Iteration and Timestep,75.33473692385328,0.3006238857142857,253.87687148571428
+2061,El Dorado,Ag Expansion: Cropland,55.87557414285714,Iteration and Timestep,72.43724704216662,0.2890614285714286,244.11237642857142
+2071,El Dorado,Ag Expansion: Cropland,37.99539041714285,Iteration and Timestep,49.257327988673296,0.19656177142857142,165.99641597142855
+2081,El Dorado,Ag Expansion: Cropland,15.645160759999998,Iteration and Timestep,20.28242917180665,0.08093719999999999,68.3514654
+2091,El Dorado,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,Fresno,Ag Expansion: Cropland,258.63072971688626,Iteration and Timestep,218.12357607448882,13.33083294117647,798.897774117647
+2021,Fresno,Ag Expansion: Cropland,312.5121317412375,Iteration and Timestep,263.565987756674,16.10808980392157,965.3348103921569
+2031,Fresno,Ag Expansion: Cropland,312.5121317412375,Iteration and Timestep,263.565987756674,16.10808980392157,965.3348103921569
+2041,Fresno,Ag Expansion: Cropland,258.63072971688626,Iteration and Timestep,218.12357607448882,13.33083294117647,798.897774117647
+2051,Fresno,Ag Expansion: Cropland,231.69002870471058,Iteration and Timestep,195.40237023339625,11.94220450980392,715.6792559803922
+2061,Fresno,Ag Expansion: Cropland,242.4663091095809,Iteration and Timestep,204.4908525698333,12.497655882352943,748.9666632352942
+2071,Fresno,Ag Expansion: Cropland,156.25606587061876,Iteration and Timestep,131.782993878337,8.054044901960784,482.66740519607845
+2081,Fresno,Ag Expansion: Cropland,102.37466384626748,Iteration and Timestep,86.34058219615183,5.2767880392156865,316.23036892156864
+2091,Fresno,Ag Expansion: Cropland,37.716981417045915,Iteration and Timestep,31.809688177529623,1.9440798039215688,116.50592539215687
+2017,Glenn,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2021,Glenn,Ag Expansion: Cropland,146.5075732777778,Iteration and Timestep,113.96565589079447,13.624428666666669,370.5574806666667
+2031,Glenn,Ag Expansion: Cropland,73.2537866388889,Iteration and Timestep,56.98282794539723,6.812214333333334,185.27874033333336
+2041,Glenn,Ag Expansion: Cropland,219.76135991666666,Iteration and Timestep,170.94848383619168,20.436643,555.836221
+2051,Glenn,Ag Expansion: Cropland,219.76135991666666,Iteration and Timestep,170.94848383619168,20.436643,555.836221
+2061,Glenn,Ag Expansion: Cropland,146.5075732777778,Iteration and Timestep,113.96565589079447,13.624428666666669,370.5574806666667
+2071,Glenn,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2081,Glenn,Ag Expansion: Cropland,146.5075732777778,Iteration and Timestep,113.96565589079447,13.624428666666669,370.5574806666667
+2091,Glenn,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,Humboldt,Ag Expansion: Cropland,0.2,Iteration and Timestep,0.1,0,0.4
+2021,Humboldt,Ag Expansion: Cropland,0.1,Iteration and Timestep,0.05,0,0.2
+2031,Humboldt,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2041,Humboldt,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2051,Humboldt,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2061,Humboldt,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2071,Humboldt,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2081,Humboldt,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2091,Humboldt,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,Imperial,Ag Expansion: Cropland,749.6808149999998,Iteration and Timestep,1078.5064198649022,80.31460615384614,3959.696861538461
+2021,Imperial,Ag Expansion: Cropland,649.7233729999999,Iteration and Timestep,934.7055638829154,69.605992,3431.73728
+2031,Imperial,Ag Expansion: Cropland,549.7659309999999,Iteration and Timestep,790.9047079009284,58.897377846153844,2903.7776984615384
+2041,Imperial,Ag Expansion: Cropland,424.8191285,Iteration and Timestep,611.1536379234446,45.511610153846156,2243.8282215384615
+2051,Imperial,Ag Expansion: Cropland,537.2712507499999,Iteration and Timestep,772.92960090318,57.558801076923075,2837.7827507692305
+2061,Imperial,Ag Expansion: Cropland,337.35636675,Iteration and Timestep,485.3278889392061,36.14157276923077,1781.8635876923076
+2071,Imperial,Ag Expansion: Cropland,462.30316924999994,Iteration and Timestep,665.0789589166898,49.527340461538465,2441.8130646153845
+2081,Imperial,Ag Expansion: Cropland,387.33508774999996,Iteration and Timestep,557.2283169301995,41.49587984615385,2045.8433784615384
+2091,Imperial,Ag Expansion: Cropland,287.37764574999994,Iteration and Timestep,413.4274609482125,30.787265692307688,1517.8837969230765
+2017,Inyo,Ag Expansion: Cropland,0.1,Iteration and Timestep,0.05,0,0.2
+2021,Inyo,Ag Expansion: Cropland,0.2,Iteration and Timestep,0.1,0,0.4
+2031,Inyo,Ag Expansion: Cropland,0.1,Iteration and Timestep,0.05,0,0.2
+2041,Inyo,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2051,Inyo,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2061,Inyo,Ag Expansion: Cropland,0.1,Iteration and Timestep,0.05,0,0.2
+2071,Inyo,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2081,Inyo,Ag Expansion: Cropland,0.1,Iteration and Timestep,0.05,0,0.2
+2091,Inyo,Ag Expansion: Cropland,0.1,Iteration and Timestep,0.05,0,0.2
+2017,Kern,Ag Expansion: Cropland,1238.2978612748716,Iteration and Timestep,568.6913226191622,154.80048871999998,2293.0560943599994
+2021,Kern,Ag Expansion: Cropland,1475.7796428892304,Iteration and Timestep,677.7554118885905,184.48825367999999,2732.8202768399997
+2031,Kern,Ag Expansion: Cropland,1390.9647208841022,Iteration and Timestep,638.8039514352232,173.88548047999998,2575.7616402399995
+2041,Kern,Ag Expansion: Cropland,1085.631001665641,Iteration and Timestep,498.57869380310115,135.71549696,2010.35054848
+2051,Kern,Ag Expansion: Cropland,1187.4089080717947,Iteration and Timestep,545.3204463471418,148.4388248,2198.8209124
+2061,Kern,Ag Expansion: Cropland,1051.7050328635896,Iteration and Timestep,482.99810962175417,131.47438768,1947.52709384
+2071,Kern,Ag Expansion: Cropland,1102.5939860666665,Iteration and Timestep,506.36898589377455,137.8360516,2041.7622757999998
+2081,Kern,Ag Expansion: Cropland,712.4453448430769,Iteration and Timestep,327.1922678082851,89.06329488,1319.29254744
+2091,Kern,Ag Expansion: Cropland,593.7044540358974,Iteration and Timestep,272.6602231735709,74.2194124,1099.4104562
+2017,Kings,Ag Expansion: Cropland,3581.2603260416663,Iteration and Timestep,3026.9903543006867,280.7509125,8694.42578125
+2021,Kings,Ag Expansion: Cropland,2793.3830543125,Iteration and Timestep,2361.052476354536,218.98571175,6781.652109375
+2031,Kings,Ag Expansion: Cropland,3366.3847064791667,Iteration and Timestep,2845.370933042646,263.90585775,8172.7602343749995
+2041,Kings,Ag Expansion: Cropland,2363.6318151874993,Iteration and Timestep,1997.813633838453,185.29560224999997,5738.321015624999
+2051,Kings,Ag Expansion: Cropland,2793.3830543125,Iteration and Timestep,2361.052476354536,218.98571175,6781.652109375
+2061,Kings,Ag Expansion: Cropland,1575.7545434583333,Iteration and Timestep,1331.8757558923023,123.53040150000001,3825.54734375
+2071,Kings,Ag Expansion: Cropland,1074.3780978125,Iteration and Timestep,908.09710629020606,84.22527375,2608.327734375
+2081,Kings,Ag Expansion: Cropland,1432.5041304166666,Iteration and Timestep,1210.7961417202748,112.300365,3477.7703125
+2091,Kings,Ag Expansion: Cropland,1074.3780978125,Iteration and Timestep,908.09710629020606,84.22527375,2608.327734375
+2017,Lake,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2021,Lake,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2031,Lake,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2041,Lake,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2051,Lake,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2061,Lake,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2071,Lake,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2081,Lake,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2091,Lake,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,Lassen,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2021,Lassen,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2031,Lassen,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2041,Lassen,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2051,Lassen,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2061,Lassen,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2071,Lassen,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2081,Lassen,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2091,Lassen,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,Los Angeles,Ag Expansion: Cropland,689.6564526518324,Iteration and Timestep,514.228727278067,173.01597764921465,1672.7017802041885
+2021,Los Angeles,Ag Expansion: Cropland,828.4981807434554,Iteration and Timestep,617.7533225386679,207.84757710994762,2009.4503234136123
+2031,Los Angeles,Ag Expansion: Cropland,760.2153636492145,Iteration and Timestep,566.8395871646019,190.71728229319368,1843.8362857696332
+2041,Los Angeles,Ag Expansion: Cropland,707.8652038769633,Iteration and Timestep,527.805723377818,177.5840562670157,1716.865523575916
+2051,Los Angeles,Ag Expansion: Cropland,805.7372417120417,Iteration and Timestep,600.7820774139793,202.1374788376963,1954.2456441989527
+2061,Los Angeles,Ag Expansion: Cropland,698.7608282643978,Iteration and Timestep,521.0172253279425,175.30001695811515,1694.783651890052
+2071,Los Angeles,Ag Expansion: Cropland,475.7036257565444,Iteration and Timestep,354.6990231059934,119.34105389005234,1153.7777955863871
+2081,Los Angeles,Ag Expansion: Cropland,336.8618976649214,Iteration and Timestep,251.17442784539247,84.50945442931936,817.0292523769632
+2091,Los Angeles,Ag Expansion: Cropland,118.35688296335078,Iteration and Timestep,88.25047464838114,29.692511015706806,287.06433191623034
+2017,Madera,Ag Expansion: Cropland,2293.253398622549,Iteration and Timestep,1832.2627035712364,327.95039288235296,6832.885059411765
+2021,Madera,Ag Expansion: Cropland,2215.515995279412,Iteration and Timestep,1770.1521034501775,316.8334304117647,6601.261837058823
+2031,Madera,Ag Expansion: Cropland,1593.6167685343137,Iteration and Timestep,1273.2673024817066,227.8977306470588,4748.276058235294
+2041,Madera,Ag Expansion: Cropland,1749.0915752205883,Iteration and Timestep,1397.4885027238242,250.13165558823528,5211.522502941176
+2051,Madera,Ag Expansion: Cropland,1166.0610501470587,Iteration and Timestep,931.6590018158828,166.75443705882353,3474.3483352941175
+2061,Madera,Ag Expansion: Cropland,1049.454945132353,Iteration and Timestep,838.4931016342946,150.07899335294118,3126.913501764706
+2071,Madera,Ag Expansion: Cropland,1088.3236468039215,Iteration and Timestep,869.548401694824,155.63747458823528,3242.725112941176
+2081,Madera,Ag Expansion: Cropland,738.505331759804,Iteration and Timestep,590.0507011500591,105.61114347058823,2200.420612352941
+2091,Madera,Ag Expansion: Cropland,272.0809117009804,Iteration and Timestep,217.387100423706,38.90936864705882,810.681278235294
+2017,Marin,Ag Expansion: Cropland,10.728616346491227,Iteration and Timestep,13.67228813990831,0,44.20662068421053
+2021,Marin,Ag Expansion: Cropland,16.85925425877193,Iteration and Timestep,21.48502421985592,0,69.46754678947369
+2031,Marin,Ag Expansion: Cropland,19.924573214912282,Iteration and Timestep,25.391392259829722,0,82.09800984210527
+2041,Marin,Ag Expansion: Cropland,16.85925425877193,Iteration and Timestep,21.48502421985592,0,69.46754678947369
+2051,Marin,Ag Expansion: Cropland,13.793935302631581,Iteration and Timestep,17.578656179882117,0,56.83708373684211
+2061,Marin,Ag Expansion: Cropland,15.326594780701754,Iteration and Timestep,19.531840199869016,0,63.152315263157895
+2071,Marin,Ag Expansion: Cropland,7.663297390350877,Iteration and Timestep,9.765920099934508,0,31.576157631578948
+2081,Marin,Ag Expansion: Cropland,7.663297390350877,Iteration and Timestep,9.765920099934508,0,31.576157631578948
+2091,Marin,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,Mariposa,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2021,Mariposa,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2031,Mariposa,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2041,Mariposa,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2051,Mariposa,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2061,Mariposa,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2071,Mariposa,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2081,Mariposa,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2091,Mariposa,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,Mendocino,Ag Expansion: Cropland,7.811666121212121,Iteration and Timestep,6.921025997779097,0,17.070391272727274
+2021,Mendocino,Ag Expansion: Cropland,7.811666121212121,Iteration and Timestep,6.921025997779097,0,17.070391272727274
+2031,Mendocino,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2041,Mendocino,Ag Expansion: Cropland,15.623332242424242,Iteration and Timestep,13.842051995558194,0,34.14078254545455
+2051,Mendocino,Ag Expansion: Cropland,31.246664484848484,Iteration and Timestep,27.684103991116388,0,68.2815650909091
+2061,Mendocino,Ag Expansion: Cropland,7.811666121212121,Iteration and Timestep,6.921025997779097,0,17.070391272727274
+2071,Mendocino,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2081,Mendocino,Ag Expansion: Cropland,7.811666121212121,Iteration and Timestep,6.921025997779097,0,17.070391272727274
+2091,Mendocino,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,Merced,Ag Expansion: Cropland,1462.4184676538462,Iteration and Timestep,694.4510018152437,468.43960984615387,3105.124548307692
+2021,Merced,Ag Expansion: Cropland,1163.287417451923,Iteration and Timestep,552.4042059893983,372.6224169230769,2469.985436153846
+2031,Merced,Ag Expansion: Cropland,897.3931506057693,Iteration and Timestep,426.1403874775359,287.4515787692308,1905.4173364615385
+2041,Merced,Ag Expansion: Cropland,764.4460171826922,Iteration and Timestep,363.0084782216046,244.86615969230766,1623.1332866153841
+2051,Merced,Ag Expansion: Cropland,1262.9977675192308,Iteration and Timestep,599.7531379313468,404.56148123076923,2681.6984735384613
+2061,Merced,Ag Expansion: Cropland,797.6828005384615,Iteration and Timestep,378.79145553558743,255.51251446153844,1693.7042990769228
+2071,Merced,Ag Expansion: Cropland,531.7885336923077,Iteration and Timestep,252.527637023725,170.34167630769232,1129.1361993846153
+2081,Merced,Ag Expansion: Cropland,365.60461691346154,Iteration and Timestep,173.61275045381092,117.10990246153847,776.281137076923
+2091,Merced,Ag Expansion: Cropland,232.6574834903846,Iteration and Timestep,110.48084119787967,74.52448338461538,493.9970872307692
+2017,Modoc,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2021,Modoc,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2031,Modoc,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2041,Modoc,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2051,Modoc,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2061,Modoc,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2071,Modoc,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2081,Modoc,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2091,Modoc,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,Mono,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2021,Mono,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2031,Mono,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2041,Mono,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2051,Mono,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2061,Mono,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2071,Mono,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2081,Mono,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2091,Mono,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,Monterey,Ag Expansion: Cropland,1303.7663291739132,Iteration and Timestep,1581.3725620573136,273.3214053913043,6097.949408347826
+2021,Monterey,Ag Expansion: Cropland,941.6090155144929,Iteration and Timestep,1142.1024059302822,197.39879278260872,4404.074572695652
+2031,Monterey,Ag Expansion: Cropland,1303.7663291739132,Iteration and Timestep,1581.3725620573136,273.3214053913043,6097.949408347826
+2041,Monterey,Ag Expansion: Cropland,760.5303586847826,Iteration and Timestep,922.4673278667663,159.43748647826087,3557.137154869565
+2051,Monterey,Ag Expansion: Cropland,579.4517018550725,Iteration and Timestep,702.8322498032505,121.47618017391305,2710.1997370434783
+2061,Monterey,Ag Expansion: Cropland,651.8831645869566,Iteration and Timestep,790.6862810286568,136.66070269565216,3048.974704173913
+2071,Monterey,Ag Expansion: Cropland,289.72585092753627,Iteration and Timestep,351.41612490162527,60.738090086956525,1355.0998685217392
+2081,Monterey,Ag Expansion: Cropland,36.215731365942034,Iteration and Timestep,43.92701561270316,7.592261260869566,169.3874835652174
+2091,Monterey,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,Napa,Ag Expansion: Cropland,966.0192058333333,Iteration and Timestep,1310.8265488975449,197.9813842222222,5025.210887555556
+2021,Napa,Ag Expansion: Cropland,966.0192058333333,Iteration and Timestep,1310.8265488975449,197.9813842222222,5025.210887555556
+2031,Napa,Ag Expansion: Cropland,880.7822170833334,Iteration and Timestep,1195.1653828183498,180.51243855555555,4581.809926888889
+2041,Napa,Ag Expansion: Cropland,823.9575579166666,Iteration and Timestep,1118.057938765553,168.86647477777774,4286.209286444444
+2051,Napa,Ag Expansion: Cropland,483.00960291666667,Iteration and Timestep,655.4132744487724,98.9906921111111,2512.605443777778
+2061,Napa,Ag Expansion: Cropland,539.8342620833333,Iteration and Timestep,732.5207185015693,110.63665588888888,2808.206084222222
+2071,Napa,Ag Expansion: Cropland,511.4219325,Iteration and Timestep,693.9669964751708,104.81367399999999,2660.405764
+2081,Napa,Ag Expansion: Cropland,340.947955,Iteration and Timestep,462.64466431678056,69.87578266666665,1773.6038426666667
+2091,Napa,Ag Expansion: Cropland,142.0616479166667,Iteration and Timestep,192.76861013199192,29.114909444444443,739.0016011111112
+2017,Nevada,Ag Expansion: Cropland,18.962652069230767,Iteration and Timestep,25.426621634470827,0.0607029,91.9648935
+2021,Nevada,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2031,Nevada,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2041,Nevada,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2051,Nevada,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2061,Nevada,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2071,Nevada,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2081,Nevada,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2091,Nevada,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,Orange,Ag Expansion: Cropland,83.15259643589744,Iteration and Timestep,84.14572298683981,16.887858076923077,286.61107707692304
+2021,Orange,Ag Expansion: Cropland,61.69386187179486,Iteration and Timestep,62.4306976999134,12.529701153846151,212.6469281538461
+2031,Orange,Ag Expansion: Cropland,49.62332367948718,Iteration and Timestep,50.21599597601731,10.078237884615385,171.04209438461538
+2041,Orange,Ag Expansion: Cropland,42.91746912820513,Iteration and Timestep,43.43005057385281,8.716313846153847,147.92829784615384
+2051,Orange,Ag Expansion: Cropland,33.52927275641025,Iteration and Timestep,33.9297270108225,6.809620192307691,115.56898269230767
+2061,Orange,Ag Expansion: Cropland,26.823418205128203,Iteration and Timestep,27.143781608658003,5.447696153846153,92.45518615384614
+2071,Orange,Ag Expansion: Cropland,10.729367282051282,Iteration and Timestep,10.857512643463203,2.1790784615384617,36.98207446153846
+2081,Orange,Ag Expansion: Cropland,17.435221833333333,Iteration and Timestep,17.643458045627703,3.5410025,60.095870999999995
+2091,Orange,Ag Expansion: Cropland,5.364683641025641,Iteration and Timestep,5.428756321731601,1.0895392307692309,18.49103723076923
+2017,Placer,Ag Expansion: Cropland,216.32306181818183,Iteration and Timestep,543.852273163937,4.944527127272727,1930.955570036364
+2021,Placer,Ag Expansion: Cropland,209.5629661363636,Iteration and Timestep,526.8568896275638,4.790010654545454,1870.6132084727271
+2031,Placer,Ag Expansion: Cropland,223.08315749999997,Iteration and Timestep,560.8476567003099,5.099043599999999,1991.2979315999999
+2041,Placer,Ag Expansion: Cropland,209.5629661363636,Iteration and Timestep,526.8568896275638,4.790010654545454,1870.6132084727271
+2051,Placer,Ag Expansion: Cropland,169.0023920454545,Iteration and Timestep,424.88458840932566,3.862911818181818,1508.559039090909
+2061,Placer,Ag Expansion: Cropland,141.9620093181818,Iteration and Timestep,356.9030542638336,3.2448459272727272,1267.1895928363638
+2071,Placer,Ag Expansion: Cropland,108.16153090909091,Iteration and Timestep,271.9261365819685,2.4722635636363637,965.477785018182
+2081,Placer,Ag Expansion: Cropland,47.320669772727264,Iteration and Timestep,118.96768475461118,1.0816153090909089,422.3965309454545
+2091,Placer,Ag Expansion: Cropland,13.520191363636364,Iteration and Timestep,33.99076707274606,0.30903294545454546,120.68472312727275
+2017,Plumas,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2021,Plumas,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2031,Plumas,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2041,Plumas,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2051,Plumas,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2061,Plumas,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2071,Plumas,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2081,Plumas,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2091,Plumas,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,Riverside,Ag Expansion: Cropland,112.47304222130012,Iteration and Timestep,102.12446812643054,37.65930673029045,383.5466138838174
+2021,Riverside,Ag Expansion: Cropland,117.95953208575379,Iteration and Timestep,107.10614949845154,39.49634608298755,402.2562048049792
+2031,Riverside,Ag Expansion: Cropland,109.7297972890733,Iteration and Timestep,99.63362744042006,36.74078705394191,374.1918184232365
+2041,Riverside,Ag Expansion: Cropland,79.55410303457813,Iteration and Timestep,72.23437989430454,26.637070614107884,271.28906835684643
+2051,Riverside,Ag Expansion: Cropland,65.83787837344398,Iteration and Timestep,59.78017646425203,22.044472232365145,224.5150910539419
+2061,Riverside,Ag Expansion: Cropland,60.351388508990325,Iteration and Timestep,54.798495092231036,20.207432879668055,205.80550013278008
+2071,Riverside,Ag Expansion: Cropland,31.54731672060857,Iteration and Timestep,28.64466788912076,10.562976278008298,107.58014779668048
+2081,Riverside,Ag Expansion: Cropland,21.945959457814663,Iteration and Timestep,19.92672548808401,7.3481574107883825,74.8383636846473
+2091,Riverside,Ag Expansion: Cropland,2.743244932226833,Iteration and Timestep,2.4908406860105012,0.9185196763485478,9.354795460580913
+2017,Sacramento,Ag Expansion: Cropland,112.55018078076924,Iteration and Timestep,106.31621517945251,17.57348955,412.56725985
+2021,Sacramento,Ag Expansion: Cropland,81.286241675,Iteration and Timestep,76.78393318516015,12.691964675000001,297.965243225
+2031,Sacramento,Ag Expansion: Cropland,56.27509039038462,Iteration and Timestep,53.15810758972626,8.786744775,206.283629925
+2041,Sacramento,Ag Expansion: Cropland,31.263939105769232,Iteration and Timestep,29.532281994292365,4.881524875,114.602016625
+2051,Sacramento,Ag Expansion: Cropland,56.27509039038462,Iteration and Timestep,53.15810758972626,8.786744775,206.283629925
+2061,Sacramento,Ag Expansion: Cropland,56.27509039038462,Iteration and Timestep,53.15810758972626,8.786744775,206.283629925
+2071,Sacramento,Ag Expansion: Cropland,37.51672692692308,Iteration and Timestep,35.438738393150835,5.85782985,137.52241995
+2081,Sacramento,Ag Expansion: Cropland,31.263939105769232,Iteration and Timestep,29.532281994292365,4.881524875,114.602016625
+2091,Sacramento,Ag Expansion: Cropland,6.252787821153847,Iteration and Timestep,5.906456398858474,0.9763049750000001,22.920403325000002
+2017,San Benito,Ag Expansion: Cropland,218.32809699999999,Iteration and Timestep,155.00062134846226,40.670943,509.702017
+2021,San Benito,Ag Expansion: Cropland,764.1483394999999,Iteration and Timestep,542.5021747196179,142.3483005,1783.9570594999998
+2031,San Benito,Ag Expansion: Cropland,1419.1326305,Iteration and Timestep,1007.5040387650047,264.3611295,3313.0631105
+2041,San Benito,Ag Expansion: Cropland,1528.2966789999998,Iteration and Timestep,1085.0043494392357,284.696601,3567.9141189999996
+2051,San Benito,Ag Expansion: Cropland,1746.6247759999999,Iteration and Timestep,1240.004970787698,325.367544,4077.616136
+2061,San Benito,Ag Expansion: Cropland,1473.71465475,Iteration and Timestep,1046.2541941021202,274.52886525,3440.48861475
+2071,San Benito,Ag Expansion: Cropland,982.4764365,Iteration and Timestep,697.5027960680802,183.01924350000002,2293.6590765
+2081,San Benito,Ag Expansion: Cropland,600.40226675,Iteration and Timestep,426.2517087082712,111.84509325,1401.68054675
+2091,San Benito,Ag Expansion: Cropland,272.91012125,Iteration and Timestep,193.75077668557782,50.83867875,637.12752125
+2017,San Bernardino,Ag Expansion: Cropland,99.86120569512198,Iteration and Timestep,75.31764292773602,28.33789039024391,266.44131424390247
+2021,San Bernardino,Ag Expansion: Cropland,124.82650711890244,Iteration and Timestep,94.14705365967,35.42236298780488,333.05164280487804
+2031,San Bernardino,Ag Expansion: Cropland,114.61342926371951,Iteration and Timestep,86.44411290569698,32.52416965243903,305.80196293902435
+2041,San Bernardino,Ag Expansion: Cropland,71.49154498628049,Iteration and Timestep,53.92058527781099,20.287353347560977,190.7477590609756
+2051,San Bernardino,Ag Expansion: Cropland,93.052487125,Iteration and Timestep,70.18234909175399,26.4057615,248.274861
+2061,San Bernardino,Ag Expansion: Cropland,77.16547712804879,Iteration and Timestep,58.199996807796,21.897460756097562,205.886470097561
+2071,San Bernardino,Ag Expansion: Cropland,46.5262435625,Iteration and Timestep,35.091174545876996,13.20288075,124.1374305
+2081,San Bernardino,Ag Expansion: Cropland,17.02179642530488,Iteration and Timestep,12.838234589955,4.830322225609756,45.4161331097561
+2091,San Bernardino,Ag Expansion: Cropland,1.1347864283536586,Iteration and Timestep,0.855882305997,0.32202148170731715,3.0277422073170737
+2017,San Diego,Ag Expansion: Cropland,333.5762601770186,Iteration and Timestep,601.5079096989706,24.73863113043478,1982.2525711055898
+2021,San Diego,Ag Expansion: Cropland,342.59183477639743,Iteration and Timestep,617.7648802313752,25.40724278260869,2035.8269649192544
+2031,San Diego,Ag Expansion: Cropland,261.45166338198754,Iteration and Timestep,471.45214543973367,19.389737913043476,1553.657420596273
+2041,San Diego,Ag Expansion: Cropland,293.00617447981364,Iteration and Timestep,528.3515423031498,21.72987869565217,1741.167798944099
+2051,San Diego,Ag Expansion: Cropland,283.99059988043473,Iteration and Timestep,512.0945717707451,21.061267043478257,1687.5934051304346
+2061,San Diego,Ag Expansion: Cropland,234.4049395838509,Iteration and Timestep,422.6812338425199,17.383902956521737,1392.9342391552793
+2071,San Diego,Ag Expansion: Cropland,139.74140629037265,Iteration and Timestep,251.98304325227141,10.36348060869565,830.4031041118011
+2081,San Diego,Ag Expansion: Cropland,49.585660296583846,Iteration and Timestep,89.41333792822536,3.677364086956522,294.65916597515525
+2091,San Diego,Ag Expansion: Cropland,4.50778729968944,Iteration and Timestep,8.128485266202304,0.33430582608695647,26.787196906832293
+2017,San Francisco,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2021,San Francisco,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2031,San Francisco,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2041,San Francisco,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2051,San Francisco,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2061,San Francisco,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2071,San Francisco,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2081,San Francisco,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2091,San Francisco,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,San Joaquin,Ag Expansion: Cropland,146.5118267342342,Iteration and Timestep,79.74579643235371,16.40618918918919,294.9285943243243
+2021,San Joaquin,Ag Expansion: Cropland,410.2331148558558,Iteration and Timestep,223.2882300105904,45.937329729729726,825.800064108108
+2031,San Joaquin,Ag Expansion: Cropland,293.0236534684684,Iteration and Timestep,159.49159286470743,32.81237837837838,589.8571886486486
+2041,San Joaquin,Ag Expansion: Cropland,293.0236534684684,Iteration and Timestep,159.49159286470743,32.81237837837838,589.8571886486486
+2051,San Joaquin,Ag Expansion: Cropland,322.3260188153153,Iteration and Timestep,175.4407521511782,36.09361621621622,648.8429075135135
+2061,San Joaquin,Ag Expansion: Cropland,293.0236534684684,Iteration and Timestep,159.49159286470743,32.81237837837838,589.8571886486486
+2071,San Joaquin,Ag Expansion: Cropland,161.16300940765765,Iteration and Timestep,87.7203760755891,18.04680810810811,324.42145375675676
+2081,San Joaquin,Ag Expansion: Cropland,87.90709604054052,Iteration and Timestep,47.84747785941223,9.843713513513512,176.95715659459458
+2091,San Joaquin,Ag Expansion: Cropland,29.302365346846845,Iteration and Timestep,15.949159286470746,3.281237837837838,58.98571886486487
+2017,San Luis Obispo,Ag Expansion: Cropland,460.11449246666666,Iteration and Timestep,255.8306555667524,146.33445759999998,858.7436919999999
+2021,San Luis Obispo,Ag Expansion: Cropland,805.2003618166668,Iteration and Timestep,447.7036472418168,256.0853008,1502.8014610000002
+2031,San Luis Obispo,Ag Expansion: Cropland,492.97981335714286,Iteration and Timestep,274.10427382152045,156.78691885714284,920.0825271428571
+2041,San Luis Obispo,Ag Expansion: Cropland,542.2777946928571,Iteration and Timestep,301.5147012036725,172.46561074285714,1012.0907798571428
+2051,San Luis Obispo,Ag Expansion: Cropland,443.68183202142865,Iteration and Timestep,246.69384643936843,141.10822697142856,828.0742744285715
+2061,San Luis Obispo,Ag Expansion: Cropland,443.68183202142865,Iteration and Timestep,246.69384643936843,141.10822697142856,828.0742744285715
+2071,San Luis Obispo,Ag Expansion: Cropland,345.08586935,Iteration and Timestep,191.8729916750643,109.75084319999999,644.057769
+2081,San Luis Obispo,Ag Expansion: Cropland,131.4612835619048,Iteration and Timestep,73.09447301907213,41.80984502857143,245.3553405714286
+2091,San Luis Obispo,Ag Expansion: Cropland,180.7592648976191,Iteration and Timestep,100.50490040122418,57.488536914285724,337.36359328571433
+2017,San Mateo,Ag Expansion: Cropland,53.331833571428575,Iteration and Timestep,33.80250530252321,0,97.03792157142858
+2021,San Mateo,Ag Expansion: Cropland,14.814398214285713,Iteration and Timestep,9.389584806256448,0,26.954978214285717
+2031,San Mateo,Ag Expansion: Cropland,68.14623178571428,Iteration and Timestep,43.19209010877965,0,123.99289978571429
+2041,San Mateo,Ag Expansion: Cropland,35.55455571428571,Iteration and Timestep,22.535003535015473,0,64.69194771428572
+2051,San Mateo,Ag Expansion: Cropland,44.44319464285714,Iteration and Timestep,28.16875441876934,0,80.86493464285714
+2061,San Mateo,Ag Expansion: Cropland,14.814398214285713,Iteration and Timestep,9.389584806256448,0,26.954978214285717
+2071,San Mateo,Ag Expansion: Cropland,14.814398214285713,Iteration and Timestep,9.389584806256448,0,26.954978214285717
+2081,San Mateo,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2091,San Mateo,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,Santa Barbara,Ag Expansion: Cropland,775.6481666666667,Iteration and Timestep,689.8368947475738,194.24928,2422.450396
+2021,Santa Barbara,Ag Expansion: Cropland,590.9700317460317,Iteration and Timestep,525.5900150457704,147.99945142857143,1845.6764921904762
+2031,Santa Barbara,Ag Expansion: Cropland,184.67813492063493,Iteration and Timestep,164.24687970180327,46.249828571428566,576.7739038095239
+2041,Santa Barbara,Ag Expansion: Cropland,701.7769126984126,Iteration and Timestep,624.1381428668524,175.74934857142856,2191.7408344761902
+2051,Santa Barbara,Ag Expansion: Cropland,369.35626984126986,Iteration and Timestep,328.49375940360653,92.49965714285713,1153.5478076190477
+2061,Santa Barbara,Ag Expansion: Cropland,443.2275238095238,Iteration and Timestep,394.19251128432785,110.99958857142856,1384.2573691428572
+2071,Santa Barbara,Ag Expansion: Cropland,184.67813492063493,Iteration and Timestep,164.24687970180327,46.249828571428566,576.7739038095239
+2081,Santa Barbara,Ag Expansion: Cropland,73.87125396825397,Iteration and Timestep,65.6987518807213,18.49993142857143,230.70956152380953
+2091,Santa Barbara,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,Santa Clara,Ag Expansion: Cropland,167.16422414285717,Iteration and Timestep,161.75040240455152,6.243726857142858,460.3014188571429
+2021,Santa Clara,Ag Expansion: Cropland,240.29857220535717,Iteration and Timestep,232.5162034565428,8.975357357142856,661.6832896071429
+2031,Santa Clara,Ag Expansion: Cropland,254.22892421726192,Iteration and Timestep,245.9954036569221,9.495667928571429,700.0417411785714
+2041,Santa Clara,Ag Expansion: Cropland,191.5423401636905,Iteration and Timestep,185.33900275521526,7.154270357142857,527.4287091071429
+2051,Santa Clara,Ag Expansion: Cropland,153.23387213095242,Iteration and Timestep,148.27120220417223,5.723416285714286,421.94296728571436
+2061,Santa Clara,Ag Expansion: Cropland,107.96022809226191,Iteration and Timestep,104.46380155293951,4.032406928571429,297.27799967857146
+2071,Santa Clara,Ag Expansion: Cropland,90.54728807738097,Iteration and Timestep,87.61480130246541,3.3820187142857145,249.32993521428577
+2081,Santa Clara,Ag Expansion: Cropland,45.273644038690485,Iteration and Timestep,43.807400651232705,1.6910093571428573,124.66496760714288
+2091,Santa Clara,Ag Expansion: Cropland,13.930352011904764,Iteration and Timestep,13.479200200379294,0.5203105714285715,38.358451571428574
+2017,Santa Cruz,Ag Expansion: Cropland,59.57877222222222,Iteration and Timestep,81.74983625408409,6.744766666666667,306.88688333333334
+2021,Santa Cruz,Ag Expansion: Cropland,23.831508888888887,Iteration and Timestep,32.699934501633635,2.697906666666667,122.75475333333333
+2031,Santa Cruz,Ag Expansion: Cropland,21.448358,Iteration and Timestep,29.42994105147027,2.428116,110.479278
+2041,Santa Cruz,Ag Expansion: Cropland,16.682056222222222,Iteration and Timestep,22.889954151143545,1.8885346666666667,85.92832733333333
+2051,Santa Cruz,Ag Expansion: Cropland,21.448358,Iteration and Timestep,29.42994105147027,2.428116,110.479278
+2061,Santa Cruz,Ag Expansion: Cropland,26.21465977777778,Iteration and Timestep,35.969927951797,2.9676973333333336,135.03022866666666
+2071,Santa Cruz,Ag Expansion: Cropland,19.06520711111111,Iteration and Timestep,26.159947601306907,2.1583253333333334,98.20380266666668
+2081,Santa Cruz,Ag Expansion: Cropland,11.915754444444444,Iteration and Timestep,16.349967250816817,1.3489533333333334,61.37737666666666
+2091,Santa Cruz,Ag Expansion: Cropland,4.766301777777778,Iteration and Timestep,6.539986900326727,0.5395813333333334,24.55095066666667
+2017,Shasta,Ag Expansion: Cropland,53.07201054022988,Iteration and Timestep,48.548184657631246,1.7234041724137932,167.4353438275862
+2021,Shasta,Ag Expansion: Cropland,44.69221940229885,Iteration and Timestep,40.882681816952626,1.4512877241379312,140.99818427586206
+2031,Shasta,Ag Expansion: Cropland,44.69221940229885,Iteration and Timestep,40.882681816952626,1.4512877241379312,140.99818427586206
+2041,Shasta,Ag Expansion: Cropland,41.898955689655175,Iteration and Timestep,38.32751420339309,1.3605822413793105,132.1857977586207
+2051,Shasta,Ag Expansion: Cropland,55.86527425287357,Iteration and Timestep,51.103352271190786,1.814109655172414,176.2477303448276
+2061,Shasta,Ag Expansion: Cropland,53.07201054022988,Iteration and Timestep,48.548184657631246,1.7234041724137932,167.4353438275862
+2071,Shasta,Ag Expansion: Cropland,30.725900839080463,Iteration and Timestep,28.106843749154933,0.9977603103448277,96.93625168965518
+2081,Shasta,Ag Expansion: Cropland,36.31242826436782,Iteration and Timestep,33.21717897627401,1.179171275862069,114.56102472413794
+2091,Shasta,Ag Expansion: Cropland,25.139373413793106,Iteration and Timestep,22.996508522035853,0.8163493448275863,79.31147865517242
+2017,Sierra Valley,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2021,Sierra Valley,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2031,Sierra Valley,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2041,Sierra Valley,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2051,Sierra Valley,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2061,Sierra Valley,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2071,Sierra Valley,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2081,Sierra Valley,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2091,Sierra Valley,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,Siskiyou,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2021,Siskiyou,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2031,Siskiyou,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2041,Siskiyou,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2051,Siskiyou,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2061,Siskiyou,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2071,Siskiyou,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2081,Siskiyou,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2091,Siskiyou,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,Solano,Ag Expansion: Cropland,102.42587997463768,Iteration and Timestep,96.723552516087,0,331.54340426086964
+2021,Solano,Ag Expansion: Cropland,148.98309814492754,Iteration and Timestep,140.6888036597629,0,482.244951652174
+2031,Solano,Ag Expansion: Cropland,130.36021087681158,Iteration and Timestep,123.10270320229253,0,421.9643326956522
+2041,Solano,Ag Expansion: Cropland,83.80299270652174,Iteration and Timestep,79.13745205861663,0,271.26278530434786
+2051,Solano,Ag Expansion: Cropland,65.18010543840579,Iteration and Timestep,61.551351601146266,0,210.9821663478261
+2061,Solano,Ag Expansion: Cropland,93.11443634057972,Iteration and Timestep,87.93050228735181,0,301.4030947826087
+2071,Solano,Ag Expansion: Cropland,65.18010543840579,Iteration and Timestep,61.551351601146266,0,210.9821663478261
+2081,Solano,Ag Expansion: Cropland,55.868661804347816,Iteration and Timestep,52.75830137241108,0,180.84185686956522
+2091,Solano,Ag Expansion: Cropland,9.311443634057971,Iteration and Timestep,8.793050228735181,0,30.140309478260875
+2017,Sonoma,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2021,Sonoma,Ag Expansion: Cropland,88.338527546875,Iteration and Timestep,104.22293621750998,18.2488093125,356.81923406249996
+2031,Sonoma,Ag Expansion: Cropland,78.52313559722224,Iteration and Timestep,92.64260997112,16.221163833333335,317.1726525
+2041,Sonoma,Ag Expansion: Cropland,58.892351697916666,Iteration and Timestep,69.48195747834,12.165872875,237.879489375
+2051,Sonoma,Ag Expansion: Cropland,68.70774364756944,Iteration and Timestep,81.06228372473,14.193518354166667,277.5260709375
+2061,Sonoma,Ag Expansion: Cropland,68.70774364756944,Iteration and Timestep,81.06228372473,14.193518354166667,277.5260709375
+2071,Sonoma,Ag Expansion: Cropland,29.446175848958333,Iteration and Timestep,34.74097873917,6.0829364375,118.9397446875
+2081,Sonoma,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2091,Sonoma,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,Stanislaus,Ag Expansion: Cropland,993.5986720284899,Iteration and Timestep,631.3850801812657,57.05323181481481,2046.1598636666663
+2021,Stanislaus,Ag Expansion: Cropland,734.3990184558403,Iteration and Timestep,466.6759288296311,42.16978003703703,1512.3790296666664
+2031,Stanislaus,Ag Expansion: Cropland,561.5992494074073,Iteration and Timestep,356.8698279285415,32.24747885185185,1156.5251403333332
+2041,Stanislaus,Ag Expansion: Cropland,691.1990761937321,Iteration and Timestep,439.22440360435877,39.689204740740735,1423.415557333333
+2051,Stanislaus,Ag Expansion: Cropland,518.3993071452991,Iteration and Timestep,329.4183027032691,29.766903555555555,1067.5616679999998
+2061,Stanislaus,Ag Expansion: Cropland,475.1993648831909,Iteration and Timestep,301.9667774779967,27.28632825925926,978.5981956666666
+2071,Stanislaus,Ag Expansion: Cropland,518.3993071452991,Iteration and Timestep,329.4183027032691,29.766903555555555,1067.5616679999998
+2081,Stanislaus,Ag Expansion: Cropland,345.59953809686607,Iteration and Timestep,219.61220180217938,19.844602370370367,711.7077786666665
+2091,Stanislaus,Ag Expansion: Cropland,86.39988452421652,Iteration and Timestep,54.903050450544846,4.961150592592592,177.92694466666663
+2017,Sutter,Ag Expansion: Cropland,1436.3542680555554,Iteration and Timestep,808.8202820826672,185.81832166666663,2791.119342
+2021,Sutter,Ag Expansion: Cropland,604.7807444444445,Iteration and Timestep,340.55590824533357,78.23929333333334,1175.2081440000002
+2031,Sutter,Ag Expansion: Cropland,453.5855583333333,Iteration and Timestep,255.41693118400016,58.679469999999995,881.406108
+2041,Sutter,Ag Expansion: Cropland,75.59759305555556,Iteration and Timestep,42.569488530666696,9.779911666666667,146.90101800000002
+2051,Sutter,Ag Expansion: Cropland,226.79277916666666,Iteration and Timestep,127.70846559200008,29.339734999999997,440.703054
+2061,Sutter,Ag Expansion: Cropland,75.59759305555556,Iteration and Timestep,42.569488530666696,9.779911666666667,146.90101800000002
+2071,Sutter,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2081,Sutter,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2091,Sutter,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,Tehama,Ag Expansion: Cropland,35.7135395,Iteration and Timestep,32.640105721500575,7.6283311000000005,132.3930249
+2021,Tehama,Ag Expansion: Cropland,107.1406185,Iteration and Timestep,97.92031716450171,22.884993299999998,397.1790747
+2031,Tehama,Ag Expansion: Cropland,71.427079,Iteration and Timestep,65.28021144300115,15.256662200000001,264.7860498
+2041,Tehama,Ag Expansion: Cropland,142.854158,Iteration and Timestep,130.5604228860023,30.513324400000002,529.5720996
+2051,Tehama,Ag Expansion: Cropland,35.7135395,Iteration and Timestep,32.640105721500575,7.6283311000000005,132.3930249
+2061,Tehama,Ag Expansion: Cropland,71.427079,Iteration and Timestep,65.28021144300115,15.256662200000001,264.7860498
+2071,Tehama,Ag Expansion: Cropland,35.7135395,Iteration and Timestep,32.640105721500575,7.6283311000000005,132.3930249
+2081,Tehama,Ag Expansion: Cropland,71.427079,Iteration and Timestep,65.28021144300115,15.256662200000001,264.7860498
+2091,Tehama,Ag Expansion: Cropland,142.854158,Iteration and Timestep,130.5604228860023,30.513324400000002,529.5720996
+2017,Trinity,Ag Expansion: Cropland,0.1,Iteration and Timestep,0.05,0,0.2
+2021,Trinity,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2031,Trinity,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2041,Trinity,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2051,Trinity,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2061,Trinity,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2071,Trinity,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2081,Trinity,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2091,Trinity,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,Tulare,Ag Expansion: Cropland,378.1017489430895,Iteration and Timestep,432.5113907955755,10.423132097560977,1561.2588472195123
+2021,Tulare,Ag Expansion: Cropland,307.20767101626024,Iteration and Timestep,351.41550502140507,8.468794829268294,1268.5228133658538
+2031,Tulare,Ag Expansion: Cropland,448.9958268699187,Iteration and Timestep,513.6072765697459,12.377469365853658,1853.9948810731707
+2041,Tulare,Ag Expansion: Cropland,378.1017489430895,Iteration and Timestep,432.5113907955755,10.423132097560977,1561.2588472195123
+2051,Tulare,Ag Expansion: Cropland,307.20767101626024,Iteration and Timestep,351.41550502140507,8.468794829268294,1268.5228133658538
+2061,Tulare,Ag Expansion: Cropland,460.81150652439027,Iteration and Timestep,527.1232575321076,12.70319224390244,1902.7842200487805
+2071,Tulare,Ag Expansion: Cropland,200.86655412601627,Iteration and Timestep,229.77167636014946,5.537288926829269,829.4187625853658
+2081,Tulare,Ag Expansion: Cropland,82.70975758130082,Iteration and Timestep,94.61186673653212,2.2800601463414636,341.5253728292683
+2091,Tulare,Ag Expansion: Cropland,94.52543723577237,Iteration and Timestep,108.12784769889387,2.6057830243902442,390.3147118048781
+2017,Tuolumne,Ag Expansion: Cropland,0.2,Iteration and Timestep,0.1,0,0.4
+2021,Tuolumne,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2031,Tuolumne,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2041,Tuolumne,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2051,Tuolumne,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2061,Tuolumne,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2071,Tuolumne,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2081,Tuolumne,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2091,Tuolumne,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,Ventura,Ag Expansion: Cropland,115.92914865441176,Iteration and Timestep,154.9960048254992,7.123663852941176,589.5679893529411
+2021,Ventura,Ag Expansion: Cropland,115.92914865441176,Iteration and Timestep,154.9960048254992,7.123663852941176,589.5679893529411
+2031,Ventura,Ag Expansion: Cropland,103.726080375,Iteration and Timestep,138.68063589649927,6.373804499999999,527.508201
+2041,Ventura,Ag Expansion: Cropland,73.21840967647059,Iteration and Timestep,97.89221357399948,4.4991561176470585,372.3587301176471
+2051,Ventura,Ag Expansion: Cropland,61.015341397058826,Iteration and Timestep,81.57684464499957,3.7492967647058824,310.2989417647059
+2061,Ventura,Ag Expansion: Cropland,91.52301209558823,Iteration and Timestep,122.36526696749935,5.623945147058823,465.4484126470588
+2071,Ventura,Ag Expansion: Cropland,24.40613655882353,Iteration and Timestep,32.63073785799983,1.499718705882353,124.11957670588237
+2081,Ventura,Ag Expansion: Cropland,24.40613655882353,Iteration and Timestep,32.63073785799983,1.499718705882353,124.11957670588237
+2091,Ventura,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,Yolo,Ag Expansion: Cropland,509.297331,Iteration and Timestep,370.8886626097051,21.043671999999997,1161.44882
+2021,Yolo,Ag Expansion: Cropland,127.32433275,Iteration and Timestep,92.72216565242627,5.260917999999999,290.362205
+2031,Yolo,Ag Expansion: Cropland,63.662166375,Iteration and Timestep,46.361082826213135,2.6304589999999997,145.1811025
+2041,Yolo,Ag Expansion: Cropland,63.662166375,Iteration and Timestep,46.361082826213135,2.6304589999999997,145.1811025
+2051,Yolo,Ag Expansion: Cropland,63.662166375,Iteration and Timestep,46.361082826213135,2.6304589999999997,145.1811025
+2061,Yolo,Ag Expansion: Cropland,127.32433275,Iteration and Timestep,92.72216565242627,5.260917999999999,290.362205
+2071,Yolo,Ag Expansion: Cropland,127.32433275,Iteration and Timestep,92.72216565242627,5.260917999999999,290.362205
+2081,Yolo,Ag Expansion: Cropland,63.662166375,Iteration and Timestep,46.361082826213135,2.6304589999999997,145.1811025
+2091,Yolo,Ag Expansion: Cropland,0,Iteration and Timestep,0,0,0
+2017,Yuba,Ag Expansion: Cropland,662.9296261333334,Iteration and Timestep,267.2578773351473,380.0810912,1176.5031391999999
+2021,Yuba,Ag Expansion: Cropland,1160.126845733333,Iteration and Timestep,467.70128533650774,665.1419096,2058.8804935999997
+2031,Yuba,Ag Expansion: Cropland,1284.4261506333332,Iteration and Timestep,517.812137336848,736.4071142,2279.4748322
+2041,Yuba,Ag Expansion: Cropland,745.7958294,Iteration and Timestep,300.6651120020407,427.5912276,1323.5660315999999
+2051,Yuba,Ag Expansion: Cropland,745.7958294,Iteration and Timestep,300.6651120020407,427.5912276,1323.5660315999999
+2061,Yuba,Ag Expansion: Cropland,870.0951343,Iteration and Timestep,350.7759640023809,498.85643220000003,1544.1603702
+2071,Yuba,Ag Expansion: Cropland,787.2289310333332,Iteration and Timestep,317.3687293354874,451.34629579999995,1397.0974777999998
+2081,Yuba,Ag Expansion: Cropland,372.8979147,Iteration and Timestep,150.33255600102035,213.7956138,661.7830157999999
+2091,Yuba,Ag Expansion: Cropland,455.7641179666667,Iteration and Timestep,183.73979066791378,261.30575020000003,808.8459081999999

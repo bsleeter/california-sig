@@ -1,0 +1,235 @@
+PrimaryStratumID,DistributionTypeID,ExternalVariableTypeID,ExternalVariableMin,ExternalVariableMax,Value,ValueDistributionFrequency,ValueDistributionSD
+Coast Range,Fire: Low Severity,Fire,1999,1999,0,Iteration and Timestep,0
+Coast Range,Fire: Low Severity,Fire,2000,2000,0,Iteration and Timestep,0
+Coast Range,Fire: Low Severity,Fire,2001,2001,500,Iteration and Timestep,250
+Coast Range,Fire: Low Severity,Fire,2002,2002,200,Iteration and Timestep,100
+Coast Range,Fire: Low Severity,Fire,2003,2003,5000,Iteration and Timestep,2500
+Coast Range,Fire: Low Severity,Fire,2004,2004,200,Iteration and Timestep,100
+Coast Range,Fire: Low Severity,Fire,2005,2005,600,Iteration and Timestep,300
+Coast Range,Fire: Low Severity,Fire,2006,2006,300,Iteration and Timestep,150
+Coast Range,Fire: Low Severity,Fire,2007,2007,100,Iteration and Timestep,50
+Coast Range,Fire: Low Severity,Fire,2008,2008,8600,Iteration and Timestep,4300
+Coast Range,Fire: Low Severity,Fire,2009,2009,2500,Iteration and Timestep,1250
+Coast Range,Fire: Low Severity,Fire,2010,2010,800,Iteration and Timestep,400
+Coast Range,Fire: Low Severity,Fire,2011,2011,400,Iteration and Timestep,200
+Coast Range,Fire: Low Severity,Fire,2012,2012,100,Iteration and Timestep,50
+Coast Range,Fire: Low Severity,Fire,2013,2013,100,Iteration and Timestep,50
+Coast Range,Fire: Low Severity,Fire,2014,2014,3600,Iteration and Timestep,1800
+Coast Range,Fire: Low Severity,Fire,2015,2015,600,Iteration and Timestep,300
+Coast Range,Fire: Low Severity,Fire,2016,2016,1100,Iteration and Timestep,550
+Cascades,Fire: Low Severity,Fire,1999,1999,2600,Iteration and Timestep,1300
+Cascades,Fire: Low Severity,Fire,2000,2000,3300,Iteration and Timestep,1650
+Cascades,Fire: Low Severity,Fire,2001,2001,200,Iteration and Timestep,100
+Cascades,Fire: Low Severity,Fire,2002,2002,1000,Iteration and Timestep,500
+Cascades,Fire: Low Severity,Fire,2003,2003,1500,Iteration and Timestep,750
+Cascades,Fire: Low Severity,Fire,2004,2004,3000,Iteration and Timestep,1500
+Cascades,Fire: Low Severity,Fire,2005,2005,4300,Iteration and Timestep,2150
+Cascades,Fire: Low Severity,Fire,2006,2006,5500,Iteration and Timestep,2750
+Cascades,Fire: Low Severity,Fire,2007,2007,2400,Iteration and Timestep,1200
+Cascades,Fire: Low Severity,Fire,2008,2008,7700,Iteration and Timestep,3850
+Cascades,Fire: Low Severity,Fire,2009,2009,9400,Iteration and Timestep,4700
+Cascades,Fire: Low Severity,Fire,2010,2010,2000,Iteration and Timestep,1000
+Cascades,Fire: Low Severity,Fire,2011,2011,1700,Iteration and Timestep,850
+Cascades,Fire: Low Severity,Fire,2012,2012,11300,Iteration and Timestep,5650
+Cascades,Fire: Low Severity,Fire,2013,2013,3300,Iteration and Timestep,1650
+Cascades,Fire: Low Severity,Fire,2014,2014,12500,Iteration and Timestep,6250
+Cascades,Fire: Low Severity,Fire,2015,2015,6200,Iteration and Timestep,3100
+Cascades,Fire: Low Severity,Fire,2016,2016,3600,Iteration and Timestep,1800
+Sierra Nevada,Fire: Low Severity,Fire,1999,1999,20100,Iteration and Timestep,10050
+Sierra Nevada,Fire: Low Severity,Fire,2000,2000,18100,Iteration and Timestep,9050
+Sierra Nevada,Fire: Low Severity,Fire,2001,2001,12900,Iteration and Timestep,6450
+Sierra Nevada,Fire: Low Severity,Fire,2002,2002,27400,Iteration and Timestep,13700
+Sierra Nevada,Fire: Low Severity,Fire,2003,2003,14600,Iteration and Timestep,7300
+Sierra Nevada,Fire: Low Severity,Fire,2004,2004,10400,Iteration and Timestep,5200
+Sierra Nevada,Fire: Low Severity,Fire,2005,2005,10500,Iteration and Timestep,5250
+Sierra Nevada,Fire: Low Severity,Fire,2006,2006,15900,Iteration and Timestep,7950
+Sierra Nevada,Fire: Low Severity,Fire,2007,2007,25600,Iteration and Timestep,12800
+Sierra Nevada,Fire: Low Severity,Fire,2008,2008,45600,Iteration and Timestep,22800
+Sierra Nevada,Fire: Low Severity,Fire,2009,2009,22100,Iteration and Timestep,11050
+Sierra Nevada,Fire: Low Severity,Fire,2010,2010,7000,Iteration and Timestep,3500
+Sierra Nevada,Fire: Low Severity,Fire,2011,2011,18600,Iteration and Timestep,9300
+Sierra Nevada,Fire: Low Severity,Fire,2012,2012,18000,Iteration and Timestep,9000
+Sierra Nevada,Fire: Low Severity,Fire,2013,2013,47200,Iteration and Timestep,23600
+Sierra Nevada,Fire: Low Severity,Fire,2014,2014,18300,Iteration and Timestep,9150
+Sierra Nevada,Fire: Low Severity,Fire,2015,2015,38300,Iteration and Timestep,19150
+Sierra Nevada,Fire: Low Severity,Fire,2016,2016,17300,Iteration and Timestep,8650
+Central California Foothills and Coastal Mountains,Fire: Low Severity,Fire,1999,1999,57400,Iteration and Timestep,28700
+Central California Foothills and Coastal Mountains,Fire: Low Severity,Fire,2000,2000,15900,Iteration and Timestep,7950
+Central California Foothills and Coastal Mountains,Fire: Low Severity,Fire,2001,2001,8400,Iteration and Timestep,4200
+Central California Foothills and Coastal Mountains,Fire: Low Severity,Fire,2002,2002,10600,Iteration and Timestep,5300
+Central California Foothills and Coastal Mountains,Fire: Low Severity,Fire,2003,2003,16700,Iteration and Timestep,8350
+Central California Foothills and Coastal Mountains,Fire: Low Severity,Fire,2004,2004,17700,Iteration and Timestep,8850
+Central California Foothills and Coastal Mountains,Fire: Low Severity,Fire,2005,2005,16100,Iteration and Timestep,8050
+Central California Foothills and Coastal Mountains,Fire: Low Severity,Fire,2006,2006,23900,Iteration and Timestep,11950
+Central California Foothills and Coastal Mountains,Fire: Low Severity,Fire,2007,2007,16600,Iteration and Timestep,8300
+Central California Foothills and Coastal Mountains,Fire: Low Severity,Fire,2008,2008,58800,Iteration and Timestep,29400
+Central California Foothills and Coastal Mountains,Fire: Low Severity,Fire,2009,2009,13600,Iteration and Timestep,6800
+Central California Foothills and Coastal Mountains,Fire: Low Severity,Fire,2010,2010,11400,Iteration and Timestep,5700
+Central California Foothills and Coastal Mountains,Fire: Low Severity,Fire,2011,2011,26000,Iteration and Timestep,13000
+Central California Foothills and Coastal Mountains,Fire: Low Severity,Fire,2012,2012,12600,Iteration and Timestep,6300
+Central California Foothills and Coastal Mountains,Fire: Low Severity,Fire,2013,2013,14300,Iteration and Timestep,7150
+Central California Foothills and Coastal Mountains,Fire: Low Severity,Fire,2014,2014,6900,Iteration and Timestep,3450
+Central California Foothills and Coastal Mountains,Fire: Low Severity,Fire,2015,2015,37500,Iteration and Timestep,18750
+Central California Foothills and Coastal Mountains,Fire: Low Severity,Fire,2016,2016,53000,Iteration and Timestep,26500
+Central California Valley,Fire: Low Severity,Fire,1999,1999,1000,Iteration and Timestep,500
+Central California Valley,Fire: Low Severity,Fire,2000,2000,200,Iteration and Timestep,100
+Central California Valley,Fire: Low Severity,Fire,2001,2001,700,Iteration and Timestep,350
+Central California Valley,Fire: Low Severity,Fire,2002,2002,600,Iteration and Timestep,300
+Central California Valley,Fire: Low Severity,Fire,2003,2003,600,Iteration and Timestep,300
+Central California Valley,Fire: Low Severity,Fire,2004,2004,700,Iteration and Timestep,350
+Central California Valley,Fire: Low Severity,Fire,2005,2005,2400,Iteration and Timestep,1200
+Central California Valley,Fire: Low Severity,Fire,2006,2006,1700,Iteration and Timestep,850
+Central California Valley,Fire: Low Severity,Fire,2007,2007,1600,Iteration and Timestep,800
+Central California Valley,Fire: Low Severity,Fire,2008,2008,2300,Iteration and Timestep,1150
+Central California Valley,Fire: Low Severity,Fire,2009,2009,1300,Iteration and Timestep,650
+Central California Valley,Fire: Low Severity,Fire,2010,2010,3500,Iteration and Timestep,1750
+Central California Valley,Fire: Low Severity,Fire,2011,2011,16300,Iteration and Timestep,8150
+Central California Valley,Fire: Low Severity,Fire,2012,2012,700,Iteration and Timestep,350
+Central California Valley,Fire: Low Severity,Fire,2013,2013,2000,Iteration and Timestep,1000
+Central California Valley,Fire: Low Severity,Fire,2014,2014,600,Iteration and Timestep,300
+Central California Valley,Fire: Low Severity,Fire,2015,2015,2700,Iteration and Timestep,1350
+Central California Valley,Fire: Low Severity,Fire,2016,2016,1500,Iteration and Timestep,750
+Southern California Mountains,Fire: Low Severity,Fire,1999,1999,13700,Iteration and Timestep,6850
+Southern California Mountains,Fire: Low Severity,Fire,2000,2000,2100,Iteration and Timestep,1050
+Southern California Mountains,Fire: Low Severity,Fire,2001,2001,1400,Iteration and Timestep,700
+Southern California Mountains,Fire: Low Severity,Fire,2002,2002,35600,Iteration and Timestep,17800
+Southern California Mountains,Fire: Low Severity,Fire,2003,2003,23600,Iteration and Timestep,11800
+Southern California Mountains,Fire: Low Severity,Fire,2004,2004,10500,Iteration and Timestep,5250
+Southern California Mountains,Fire: Low Severity,Fire,2005,2005,2500,Iteration and Timestep,1250
+Southern California Mountains,Fire: Low Severity,Fire,2006,2006,46200,Iteration and Timestep,23100
+Southern California Mountains,Fire: Low Severity,Fire,2007,2007,31300,Iteration and Timestep,15650
+Southern California Mountains,Fire: Low Severity,Fire,2008,2008,4100,Iteration and Timestep,2050
+Southern California Mountains,Fire: Low Severity,Fire,2009,2009,33000,Iteration and Timestep,16500
+Southern California Mountains,Fire: Low Severity,Fire,2010,2010,1500,Iteration and Timestep,750
+Southern California Mountains,Fire: Low Severity,Fire,2011,2011,2400,Iteration and Timestep,1200
+Southern California Mountains,Fire: Low Severity,Fire,2012,2012,3600,Iteration and Timestep,1800
+Southern California Mountains,Fire: Low Severity,Fire,2013,2013,10500,Iteration and Timestep,5250
+Southern California Mountains,Fire: Low Severity,Fire,2014,2014,800,Iteration and Timestep,400
+Southern California Mountains,Fire: Low Severity,Fire,2015,2015,9200,Iteration and Timestep,4600
+Southern California Mountains,Fire: Low Severity,Fire,2016,2016,17500,Iteration and Timestep,8750
+Eastern Cascades Slopes and Foothills,Fire: Low Severity,Fire,1999,1999,10100,Iteration and Timestep,5050
+Eastern Cascades Slopes and Foothills,Fire: Low Severity,Fire,2000,2000,600,Iteration and Timestep,300
+Eastern Cascades Slopes and Foothills,Fire: Low Severity,Fire,2001,2001,15200,Iteration and Timestep,7600
+Eastern Cascades Slopes and Foothills,Fire: Low Severity,Fire,2002,2002,1300,Iteration and Timestep,650
+Eastern Cascades Slopes and Foothills,Fire: Low Severity,Fire,2003,2003,4900,Iteration and Timestep,2450
+Eastern Cascades Slopes and Foothills,Fire: Low Severity,Fire,2004,2004,2300,Iteration and Timestep,1150
+Eastern Cascades Slopes and Foothills,Fire: Low Severity,Fire,2005,2005,3800,Iteration and Timestep,1900
+Eastern Cascades Slopes and Foothills,Fire: Low Severity,Fire,2006,2006,6400,Iteration and Timestep,3200
+Eastern Cascades Slopes and Foothills,Fire: Low Severity,Fire,2007,2007,1300,Iteration and Timestep,650
+Eastern Cascades Slopes and Foothills,Fire: Low Severity,Fire,2008,2008,2300,Iteration and Timestep,1150
+Eastern Cascades Slopes and Foothills,Fire: Low Severity,Fire,2009,2009,3900,Iteration and Timestep,1950
+Eastern Cascades Slopes and Foothills,Fire: Low Severity,Fire,2010,2010,2300,Iteration and Timestep,1150
+Eastern Cascades Slopes and Foothills,Fire: Low Severity,Fire,2011,2011,3600,Iteration and Timestep,1800
+Eastern Cascades Slopes and Foothills,Fire: Low Severity,Fire,2012,2012,14000,Iteration and Timestep,7000
+Eastern Cascades Slopes and Foothills,Fire: Low Severity,Fire,2013,2013,1300,Iteration and Timestep,650
+Eastern Cascades Slopes and Foothills,Fire: Low Severity,Fire,2014,2014,8400,Iteration and Timestep,4200
+Eastern Cascades Slopes and Foothills,Fire: Low Severity,Fire,2015,2015,2900,Iteration and Timestep,1450
+Eastern Cascades Slopes and Foothills,Fire: Low Severity,Fire,2016,2016,5200,Iteration and Timestep,2600
+Central Basin and Range,Fire: Low Severity,Fire,1999,1999,1600,Iteration and Timestep,800
+Central Basin and Range,Fire: Low Severity,Fire,2000,2000,400,Iteration and Timestep,200
+Central Basin and Range,Fire: Low Severity,Fire,2001,2001,2700,Iteration and Timestep,1350
+Central Basin and Range,Fire: Low Severity,Fire,2002,2002,700,Iteration and Timestep,350
+Central Basin and Range,Fire: Low Severity,Fire,2003,2003,1200,Iteration and Timestep,600
+Central Basin and Range,Fire: Low Severity,Fire,2004,2004,700,Iteration and Timestep,350
+Central Basin and Range,Fire: Low Severity,Fire,2005,2005,500,Iteration and Timestep,250
+Central Basin and Range,Fire: Low Severity,Fire,2006,2006,1500,Iteration and Timestep,750
+Central Basin and Range,Fire: Low Severity,Fire,2007,2007,7500,Iteration and Timestep,3750
+Central Basin and Range,Fire: Low Severity,Fire,2008,2008,1200,Iteration and Timestep,600
+Central Basin and Range,Fire: Low Severity,Fire,2009,2009,1300,Iteration and Timestep,650
+Central Basin and Range,Fire: Low Severity,Fire,2010,2010,100,Iteration and Timestep,50
+Central Basin and Range,Fire: Low Severity,Fire,2011,2011,2500,Iteration and Timestep,1250
+Central Basin and Range,Fire: Low Severity,Fire,2012,2012,5600,Iteration and Timestep,2800
+Central Basin and Range,Fire: Low Severity,Fire,2013,2013,600,Iteration and Timestep,300
+Central Basin and Range,Fire: Low Severity,Fire,2014,2014,100,Iteration and Timestep,50
+Central Basin and Range,Fire: Low Severity,Fire,2015,2015,2000,Iteration and Timestep,1000
+Central Basin and Range,Fire: Low Severity,Fire,2016,2016,500,Iteration and Timestep,250
+Mojave Basin and Range,Fire: Low Severity,Fire,1999,1999,4300,Iteration and Timestep,2150
+Mojave Basin and Range,Fire: Low Severity,Fire,2000,2000,1100,Iteration and Timestep,550
+Mojave Basin and Range,Fire: Low Severity,Fire,2001,2001,0,Iteration and Timestep,0
+Mojave Basin and Range,Fire: Low Severity,Fire,2002,2002,1600,Iteration and Timestep,800
+Mojave Basin and Range,Fire: Low Severity,Fire,2003,2003,4000,Iteration and Timestep,2000
+Mojave Basin and Range,Fire: Low Severity,Fire,2004,2004,1100,Iteration and Timestep,550
+Mojave Basin and Range,Fire: Low Severity,Fire,2005,2005,28900,Iteration and Timestep,14450
+Mojave Basin and Range,Fire: Low Severity,Fire,2006,2006,6600,Iteration and Timestep,3300
+Mojave Basin and Range,Fire: Low Severity,Fire,2007,2007,3100,Iteration and Timestep,1550
+Mojave Basin and Range,Fire: Low Severity,Fire,2008,2008,0,Iteration and Timestep,0
+Mojave Basin and Range,Fire: Low Severity,Fire,2009,2009,300,Iteration and Timestep,150
+Mojave Basin and Range,Fire: Low Severity,Fire,2010,2010,400,Iteration and Timestep,200
+Mojave Basin and Range,Fire: Low Severity,Fire,2011,2011,2700,Iteration and Timestep,1350
+Mojave Basin and Range,Fire: Low Severity,Fire,2012,2012,200,Iteration and Timestep,100
+Mojave Basin and Range,Fire: Low Severity,Fire,2013,2013,1300,Iteration and Timestep,650
+Mojave Basin and Range,Fire: Low Severity,Fire,2014,2014,0,Iteration and Timestep,0
+Mojave Basin and Range,Fire: Low Severity,Fire,2015,2015,1400,Iteration and Timestep,700
+Mojave Basin and Range,Fire: Low Severity,Fire,2016,2016,4100,Iteration and Timestep,2050
+Klamath Mountains/California High North Coast Range,Fire: Low Severity,Fire,1999,1999,33200,Iteration and Timestep,16600
+Klamath Mountains/California High North Coast Range,Fire: Low Severity,Fire,2000,2000,1300,Iteration and Timestep,650
+Klamath Mountains/California High North Coast Range,Fire: Low Severity,Fire,2001,2001,5400,Iteration and Timestep,2700
+Klamath Mountains/California High North Coast Range,Fire: Low Severity,Fire,2002,2002,6200,Iteration and Timestep,3100
+Klamath Mountains/California High North Coast Range,Fire: Low Severity,Fire,2003,2003,5600,Iteration and Timestep,2800
+Klamath Mountains/California High North Coast Range,Fire: Low Severity,Fire,2004,2004,7900,Iteration and Timestep,3950
+Klamath Mountains/California High North Coast Range,Fire: Low Severity,Fire,2005,2005,3000,Iteration and Timestep,1500
+Klamath Mountains/California High North Coast Range,Fire: Low Severity,Fire,2006,2006,30100,Iteration and Timestep,15050
+Klamath Mountains/California High North Coast Range,Fire: Low Severity,Fire,2007,2007,7800,Iteration and Timestep,3900
+Klamath Mountains/California High North Coast Range,Fire: Low Severity,Fire,2008,2008,86400,Iteration and Timestep,43200
+Klamath Mountains/California High North Coast Range,Fire: Low Severity,Fire,2009,2009,12000,Iteration and Timestep,6000
+Klamath Mountains/California High North Coast Range,Fire: Low Severity,Fire,2010,2010,400,Iteration and Timestep,200
+Klamath Mountains/California High North Coast Range,Fire: Low Severity,Fire,2011,2011,4000,Iteration and Timestep,2000
+Klamath Mountains/California High North Coast Range,Fire: Low Severity,Fire,2012,2012,26300,Iteration and Timestep,13150
+Klamath Mountains/California High North Coast Range,Fire: Low Severity,Fire,2013,2013,11700,Iteration and Timestep,5850
+Klamath Mountains/California High North Coast Range,Fire: Low Severity,Fire,2014,2014,29200,Iteration and Timestep,14600
+Klamath Mountains/California High North Coast Range,Fire: Low Severity,Fire,2015,2015,53400,Iteration and Timestep,26700
+Klamath Mountains/California High North Coast Range,Fire: Low Severity,Fire,2016,2016,8700,Iteration and Timestep,4350
+Northern Basin and Range,Fire: Low Severity,Fire,1999,1999,1500,Iteration and Timestep,750
+Northern Basin and Range,Fire: Low Severity,Fire,2000,2000,0,Iteration and Timestep,0
+Northern Basin and Range,Fire: Low Severity,Fire,2001,2001,6800,Iteration and Timestep,3400
+Northern Basin and Range,Fire: Low Severity,Fire,2002,2002,1400,Iteration and Timestep,700
+Northern Basin and Range,Fire: Low Severity,Fire,2003,2003,1000,Iteration and Timestep,500
+Northern Basin and Range,Fire: Low Severity,Fire,2004,2004,200,Iteration and Timestep,100
+Northern Basin and Range,Fire: Low Severity,Fire,2005,2005,0,Iteration and Timestep,0
+Northern Basin and Range,Fire: Low Severity,Fire,2006,2006,400,Iteration and Timestep,200
+Northern Basin and Range,Fire: Low Severity,Fire,2007,2007,100,Iteration and Timestep,50
+Northern Basin and Range,Fire: Low Severity,Fire,2008,2008,0,Iteration and Timestep,0
+Northern Basin and Range,Fire: Low Severity,Fire,2009,2009,0,Iteration and Timestep,0
+Northern Basin and Range,Fire: Low Severity,Fire,2010,2010,100,Iteration and Timestep,50
+Northern Basin and Range,Fire: Low Severity,Fire,2011,2011,600,Iteration and Timestep,300
+Northern Basin and Range,Fire: Low Severity,Fire,2012,2012,52200,Iteration and Timestep,26100
+Northern Basin and Range,Fire: Low Severity,Fire,2013,2013,0,Iteration and Timestep,0
+Northern Basin and Range,Fire: Low Severity,Fire,2014,2014,0,Iteration and Timestep,0
+Northern Basin and Range,Fire: Low Severity,Fire,2015,2015,600,Iteration and Timestep,300
+Northern Basin and Range,Fire: Low Severity,Fire,2016,2016,0,Iteration and Timestep,0
+Sonoran Basin and Range,Fire: Low Severity,Fire,1999,1999,500,Iteration and Timestep,250
+Sonoran Basin and Range,Fire: Low Severity,Fire,2000,2000,0,Iteration and Timestep,0
+Sonoran Basin and Range,Fire: Low Severity,Fire,2001,2001,0,Iteration and Timestep,0
+Sonoran Basin and Range,Fire: Low Severity,Fire,2002,2002,7900,Iteration and Timestep,3950
+Sonoran Basin and Range,Fire: Low Severity,Fire,2003,2003,500,Iteration and Timestep,250
+Sonoran Basin and Range,Fire: Low Severity,Fire,2004,2004,200,Iteration and Timestep,100
+Sonoran Basin and Range,Fire: Low Severity,Fire,2005,2005,1200,Iteration and Timestep,600
+Sonoran Basin and Range,Fire: Low Severity,Fire,2006,2006,0,Iteration and Timestep,0
+Sonoran Basin and Range,Fire: Low Severity,Fire,2007,2007,300,Iteration and Timestep,150
+Sonoran Basin and Range,Fire: Low Severity,Fire,2008,2008,100,Iteration and Timestep,50
+Sonoran Basin and Range,Fire: Low Severity,Fire,2009,2009,0,Iteration and Timestep,0
+Sonoran Basin and Range,Fire: Low Severity,Fire,2010,2010,100,Iteration and Timestep,50
+Sonoran Basin and Range,Fire: Low Severity,Fire,2011,2011,1800,Iteration and Timestep,900
+Sonoran Basin and Range,Fire: Low Severity,Fire,2012,2012,5100,Iteration and Timestep,2550
+Sonoran Basin and Range,Fire: Low Severity,Fire,2013,2013,1600,Iteration and Timestep,800
+Sonoran Basin and Range,Fire: Low Severity,Fire,2014,2014,0,Iteration and Timestep,0
+Sonoran Basin and Range,Fire: Low Severity,Fire,2015,2015,100,Iteration and Timestep,50
+Sonoran Basin and Range,Fire: Low Severity,Fire,2016,2016,300,Iteration and Timestep,150
+Southern California/Northern Baja Coast,Fire: Low Severity,Fire,1999,1999,3300,Iteration and Timestep,1650
+Southern California/Northern Baja Coast,Fire: Low Severity,Fire,2000,2000,1600,Iteration and Timestep,800
+Southern California/Northern Baja Coast,Fire: Low Severity,Fire,2001,2001,4800,Iteration and Timestep,2400
+Southern California/Northern Baja Coast,Fire: Low Severity,Fire,2002,2002,3700,Iteration and Timestep,1850
+Southern California/Northern Baja Coast,Fire: Low Severity,Fire,2003,2003,50400,Iteration and Timestep,25200
+Southern California/Northern Baja Coast,Fire: Low Severity,Fire,2004,2004,10800,Iteration and Timestep,5400
+Southern California/Northern Baja Coast,Fire: Low Severity,Fire,2005,2005,6700,Iteration and Timestep,3350
+Southern California/Northern Baja Coast,Fire: Low Severity,Fire,2006,2006,11800,Iteration and Timestep,5900
+Southern California/Northern Baja Coast,Fire: Low Severity,Fire,2007,2007,49900,Iteration and Timestep,24950
+Southern California/Northern Baja Coast,Fire: Low Severity,Fire,2008,2008,19700,Iteration and Timestep,9850
+Southern California/Northern Baja Coast,Fire: Low Severity,Fire,2009,2009,7500,Iteration and Timestep,3750
+Southern California/Northern Baja Coast,Fire: Low Severity,Fire,2010,2010,1900,Iteration and Timestep,950
+Southern California/Northern Baja Coast,Fire: Low Severity,Fire,2011,2011,1300,Iteration and Timestep,650
+Southern California/Northern Baja Coast,Fire: Low Severity,Fire,2012,2012,1700,Iteration and Timestep,850
+Southern California/Northern Baja Coast,Fire: Low Severity,Fire,2013,2013,6000,Iteration and Timestep,3000
+Southern California/Northern Baja Coast,Fire: Low Severity,Fire,2014,2014,5400,Iteration and Timestep,2700
+Southern California/Northern Baja Coast,Fire: Low Severity,Fire,2015,2015,2700,Iteration and Timestep,1350
+Southern California/Northern Baja Coast,Fire: Low Severity,Fire,2016,2016,4800,Iteration and Timestep,2400
