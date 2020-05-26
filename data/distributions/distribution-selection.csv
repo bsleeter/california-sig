@@ -1,0 +1,1045 @@
+PrimaryStratumID,DistributionTypeID,ExternalVariableTypeID,ExternalVariableMin,ExternalVariableMax,Value,ValueDistributionFrequency,ValueDistributionSD
+Alameda,Management: Forest Selection,Forest Harvest,1999,1999,0,Timestep and iteration,0
+Alameda,Management: Forest Selection,Forest Harvest,2000,2000,0,Timestep and iteration,0
+Alameda,Management: Forest Selection,Forest Harvest,2001,2001,0,Timestep and iteration,0
+Alameda,Management: Forest Selection,Forest Harvest,2002,2002,0,Timestep and iteration,0
+Alameda,Management: Forest Selection,Forest Harvest,2003,2003,0,Timestep and iteration,0
+Alameda,Management: Forest Selection,Forest Harvest,2004,2004,0,Timestep and iteration,0
+Alameda,Management: Forest Selection,Forest Harvest,2005,2005,0,Timestep and iteration,0
+Alameda,Management: Forest Selection,Forest Harvest,2006,2006,0,Timestep and iteration,0
+Alameda,Management: Forest Selection,Forest Harvest,2007,2007,0,Timestep and iteration,0
+Alameda,Management: Forest Selection,Forest Harvest,2008,2008,0,Timestep and iteration,0
+Alameda,Management: Forest Selection,Forest Harvest,2009,2009,0,Timestep and iteration,0
+Alameda,Management: Forest Selection,Forest Harvest,2010,2010,0,Timestep and iteration,0
+Alameda,Management: Forest Selection,Forest Harvest,2011,2011,0,Timestep and iteration,0
+Alameda,Management: Forest Selection,Forest Harvest,2012,2012,0,Timestep and iteration,0
+Alameda,Management: Forest Selection,Forest Harvest,2013,2013,0,Timestep and iteration,0
+Alameda,Management: Forest Selection,Forest Harvest,2014,2014,0,Timestep and iteration,0
+Alameda,Management: Forest Selection,Forest Harvest,2015,2015,0,Timestep and iteration,0
+Alameda,Management: Forest Selection,Forest Harvest,2016,2016,0,Timestep and iteration,0
+Alpine,Management: Forest Selection,Forest Harvest,1999,1999,0,Timestep and iteration,0
+Alpine,Management: Forest Selection,Forest Harvest,2000,2000,0,Timestep and iteration,0
+Alpine,Management: Forest Selection,Forest Harvest,2001,2001,0,Timestep and iteration,0
+Alpine,Management: Forest Selection,Forest Harvest,2002,2002,0,Timestep and iteration,0
+Alpine,Management: Forest Selection,Forest Harvest,2003,2003,600,Timestep and iteration,300
+Alpine,Management: Forest Selection,Forest Harvest,2004,2004,0,Timestep and iteration,0
+Alpine,Management: Forest Selection,Forest Harvest,2005,2005,0,Timestep and iteration,0
+Alpine,Management: Forest Selection,Forest Harvest,2006,2006,0,Timestep and iteration,0
+Alpine,Management: Forest Selection,Forest Harvest,2007,2007,0,Timestep and iteration,0
+Alpine,Management: Forest Selection,Forest Harvest,2008,2008,0,Timestep and iteration,0
+Alpine,Management: Forest Selection,Forest Harvest,2009,2009,0,Timestep and iteration,0
+Alpine,Management: Forest Selection,Forest Harvest,2010,2010,0,Timestep and iteration,0
+Alpine,Management: Forest Selection,Forest Harvest,2011,2011,0,Timestep and iteration,0
+Alpine,Management: Forest Selection,Forest Harvest,2012,2012,0,Timestep and iteration,0
+Alpine,Management: Forest Selection,Forest Harvest,2013,2013,0,Timestep and iteration,0
+Alpine,Management: Forest Selection,Forest Harvest,2014,2014,0,Timestep and iteration,0
+Alpine,Management: Forest Selection,Forest Harvest,2015,2015,100,Timestep and iteration,50
+Alpine,Management: Forest Selection,Forest Harvest,2016,2016,0,Timestep and iteration,0
+Amador,Management: Forest Selection,Forest Harvest,1999,1999,300,Timestep and iteration,150
+Amador,Management: Forest Selection,Forest Harvest,2000,2000,200,Timestep and iteration,100
+Amador,Management: Forest Selection,Forest Harvest,2001,2001,400,Timestep and iteration,200
+Amador,Management: Forest Selection,Forest Harvest,2002,2002,600,Timestep and iteration,300
+Amador,Management: Forest Selection,Forest Harvest,2003,2003,700,Timestep and iteration,350
+Amador,Management: Forest Selection,Forest Harvest,2004,2004,400,Timestep and iteration,200
+Amador,Management: Forest Selection,Forest Harvest,2005,2005,200,Timestep and iteration,100
+Amador,Management: Forest Selection,Forest Harvest,2006,2006,200,Timestep and iteration,100
+Amador,Management: Forest Selection,Forest Harvest,2007,2007,100,Timestep and iteration,50
+Amador,Management: Forest Selection,Forest Harvest,2008,2008,200,Timestep and iteration,100
+Amador,Management: Forest Selection,Forest Harvest,2009,2009,300,Timestep and iteration,150
+Amador,Management: Forest Selection,Forest Harvest,2010,2010,0,Timestep and iteration,0
+Amador,Management: Forest Selection,Forest Harvest,2011,2011,100,Timestep and iteration,50
+Amador,Management: Forest Selection,Forest Harvest,2012,2012,0,Timestep and iteration,0
+Amador,Management: Forest Selection,Forest Harvest,2013,2013,0,Timestep and iteration,0
+Amador,Management: Forest Selection,Forest Harvest,2014,2014,0,Timestep and iteration,0
+Amador,Management: Forest Selection,Forest Harvest,2015,2015,0,Timestep and iteration,0
+Amador,Management: Forest Selection,Forest Harvest,2016,2016,0,Timestep and iteration,0
+Butte,Management: Forest Selection,Forest Harvest,1999,1999,200,Timestep and iteration,100
+Butte,Management: Forest Selection,Forest Harvest,2000,2000,300,Timestep and iteration,150
+Butte,Management: Forest Selection,Forest Harvest,2001,2001,500,Timestep and iteration,250
+Butte,Management: Forest Selection,Forest Harvest,2002,2002,500,Timestep and iteration,250
+Butte,Management: Forest Selection,Forest Harvest,2003,2003,200,Timestep and iteration,100
+Butte,Management: Forest Selection,Forest Harvest,2004,2004,500,Timestep and iteration,250
+Butte,Management: Forest Selection,Forest Harvest,2005,2005,500,Timestep and iteration,250
+Butte,Management: Forest Selection,Forest Harvest,2006,2006,300,Timestep and iteration,150
+Butte,Management: Forest Selection,Forest Harvest,2007,2007,200,Timestep and iteration,100
+Butte,Management: Forest Selection,Forest Harvest,2008,2008,100,Timestep and iteration,50
+Butte,Management: Forest Selection,Forest Harvest,2009,2009,0,Timestep and iteration,0
+Butte,Management: Forest Selection,Forest Harvest,2010,2010,0,Timestep and iteration,0
+Butte,Management: Forest Selection,Forest Harvest,2011,2011,300,Timestep and iteration,150
+Butte,Management: Forest Selection,Forest Harvest,2012,2012,200,Timestep and iteration,100
+Butte,Management: Forest Selection,Forest Harvest,2013,2013,0,Timestep and iteration,0
+Butte,Management: Forest Selection,Forest Harvest,2014,2014,100,Timestep and iteration,50
+Butte,Management: Forest Selection,Forest Harvest,2015,2015,0,Timestep and iteration,0
+Butte,Management: Forest Selection,Forest Harvest,2016,2016,100,Timestep and iteration,50
+Calaveras,Management: Forest Selection,Forest Harvest,1999,1999,600,Timestep and iteration,300
+Calaveras,Management: Forest Selection,Forest Harvest,2000,2000,700,Timestep and iteration,350
+Calaveras,Management: Forest Selection,Forest Harvest,2001,2001,1100,Timestep and iteration,550
+Calaveras,Management: Forest Selection,Forest Harvest,2002,2002,1200,Timestep and iteration,600
+Calaveras,Management: Forest Selection,Forest Harvest,2003,2003,3300,Timestep and iteration,1650
+Calaveras,Management: Forest Selection,Forest Harvest,2004,2004,600,Timestep and iteration,300
+Calaveras,Management: Forest Selection,Forest Harvest,2005,2005,0,Timestep and iteration,0
+Calaveras,Management: Forest Selection,Forest Harvest,2006,2006,1400,Timestep and iteration,700
+Calaveras,Management: Forest Selection,Forest Harvest,2007,2007,200,Timestep and iteration,100
+Calaveras,Management: Forest Selection,Forest Harvest,2008,2008,100,Timestep and iteration,50
+Calaveras,Management: Forest Selection,Forest Harvest,2009,2009,0,Timestep and iteration,0
+Calaveras,Management: Forest Selection,Forest Harvest,2010,2010,0,Timestep and iteration,0
+Calaveras,Management: Forest Selection,Forest Harvest,2011,2011,500,Timestep and iteration,250
+Calaveras,Management: Forest Selection,Forest Harvest,2012,2012,0,Timestep and iteration,0
+Calaveras,Management: Forest Selection,Forest Harvest,2013,2013,0,Timestep and iteration,0
+Calaveras,Management: Forest Selection,Forest Harvest,2014,2014,0,Timestep and iteration,0
+Calaveras,Management: Forest Selection,Forest Harvest,2015,2015,0,Timestep and iteration,0
+Calaveras,Management: Forest Selection,Forest Harvest,2016,2016,100,Timestep and iteration,50
+Colusa,Management: Forest Selection,Forest Harvest,1999,1999,0,Timestep and iteration,0
+Colusa,Management: Forest Selection,Forest Harvest,2000,2000,0,Timestep and iteration,0
+Colusa,Management: Forest Selection,Forest Harvest,2001,2001,0,Timestep and iteration,0
+Colusa,Management: Forest Selection,Forest Harvest,2002,2002,0,Timestep and iteration,0
+Colusa,Management: Forest Selection,Forest Harvest,2003,2003,0,Timestep and iteration,0
+Colusa,Management: Forest Selection,Forest Harvest,2004,2004,0,Timestep and iteration,0
+Colusa,Management: Forest Selection,Forest Harvest,2005,2005,0,Timestep and iteration,0
+Colusa,Management: Forest Selection,Forest Harvest,2006,2006,100,Timestep and iteration,50
+Colusa,Management: Forest Selection,Forest Harvest,2007,2007,0,Timestep and iteration,0
+Colusa,Management: Forest Selection,Forest Harvest,2008,2008,0,Timestep and iteration,0
+Colusa,Management: Forest Selection,Forest Harvest,2009,2009,0,Timestep and iteration,0
+Colusa,Management: Forest Selection,Forest Harvest,2010,2010,0,Timestep and iteration,0
+Colusa,Management: Forest Selection,Forest Harvest,2011,2011,0,Timestep and iteration,0
+Colusa,Management: Forest Selection,Forest Harvest,2012,2012,0,Timestep and iteration,0
+Colusa,Management: Forest Selection,Forest Harvest,2013,2013,0,Timestep and iteration,0
+Colusa,Management: Forest Selection,Forest Harvest,2014,2014,0,Timestep and iteration,0
+Colusa,Management: Forest Selection,Forest Harvest,2015,2015,200,Timestep and iteration,100
+Colusa,Management: Forest Selection,Forest Harvest,2016,2016,200,Timestep and iteration,100
+Contra Costa,Management: Forest Selection,Forest Harvest,1999,1999,0,Timestep and iteration,0
+Contra Costa,Management: Forest Selection,Forest Harvest,2000,2000,0,Timestep and iteration,0
+Contra Costa,Management: Forest Selection,Forest Harvest,2001,2001,0,Timestep and iteration,0
+Contra Costa,Management: Forest Selection,Forest Harvest,2002,2002,0,Timestep and iteration,0
+Contra Costa,Management: Forest Selection,Forest Harvest,2003,2003,0,Timestep and iteration,0
+Contra Costa,Management: Forest Selection,Forest Harvest,2004,2004,0,Timestep and iteration,0
+Contra Costa,Management: Forest Selection,Forest Harvest,2005,2005,0,Timestep and iteration,0
+Contra Costa,Management: Forest Selection,Forest Harvest,2006,2006,0,Timestep and iteration,0
+Contra Costa,Management: Forest Selection,Forest Harvest,2007,2007,0,Timestep and iteration,0
+Contra Costa,Management: Forest Selection,Forest Harvest,2008,2008,0,Timestep and iteration,0
+Contra Costa,Management: Forest Selection,Forest Harvest,2009,2009,0,Timestep and iteration,0
+Contra Costa,Management: Forest Selection,Forest Harvest,2010,2010,0,Timestep and iteration,0
+Contra Costa,Management: Forest Selection,Forest Harvest,2011,2011,0,Timestep and iteration,0
+Contra Costa,Management: Forest Selection,Forest Harvest,2012,2012,0,Timestep and iteration,0
+Contra Costa,Management: Forest Selection,Forest Harvest,2013,2013,0,Timestep and iteration,0
+Contra Costa,Management: Forest Selection,Forest Harvest,2014,2014,0,Timestep and iteration,0
+Contra Costa,Management: Forest Selection,Forest Harvest,2015,2015,0,Timestep and iteration,0
+Contra Costa,Management: Forest Selection,Forest Harvest,2016,2016,0,Timestep and iteration,0
+Del Norte,Management: Forest Selection,Forest Harvest,1999,1999,100,Timestep and iteration,50
+Del Norte,Management: Forest Selection,Forest Harvest,2000,2000,0,Timestep and iteration,0
+Del Norte,Management: Forest Selection,Forest Harvest,2001,2001,0,Timestep and iteration,0
+Del Norte,Management: Forest Selection,Forest Harvest,2002,2002,0,Timestep and iteration,0
+Del Norte,Management: Forest Selection,Forest Harvest,2003,2003,0,Timestep and iteration,0
+Del Norte,Management: Forest Selection,Forest Harvest,2004,2004,100,Timestep and iteration,50
+Del Norte,Management: Forest Selection,Forest Harvest,2005,2005,100,Timestep and iteration,50
+Del Norte,Management: Forest Selection,Forest Harvest,2006,2006,0,Timestep and iteration,0
+Del Norte,Management: Forest Selection,Forest Harvest,2007,2007,100,Timestep and iteration,50
+Del Norte,Management: Forest Selection,Forest Harvest,2008,2008,400,Timestep and iteration,200
+Del Norte,Management: Forest Selection,Forest Harvest,2009,2009,100,Timestep and iteration,50
+Del Norte,Management: Forest Selection,Forest Harvest,2010,2010,0,Timestep and iteration,0
+Del Norte,Management: Forest Selection,Forest Harvest,2011,2011,0,Timestep and iteration,0
+Del Norte,Management: Forest Selection,Forest Harvest,2012,2012,0,Timestep and iteration,0
+Del Norte,Management: Forest Selection,Forest Harvest,2013,2013,0,Timestep and iteration,0
+Del Norte,Management: Forest Selection,Forest Harvest,2014,2014,100,Timestep and iteration,50
+Del Norte,Management: Forest Selection,Forest Harvest,2015,2015,0,Timestep and iteration,0
+Del Norte,Management: Forest Selection,Forest Harvest,2016,2016,100,Timestep and iteration,50
+El Dorado,Management: Forest Selection,Forest Harvest,1999,1999,1900,Timestep and iteration,950
+El Dorado,Management: Forest Selection,Forest Harvest,2000,2000,2400,Timestep and iteration,1200
+El Dorado,Management: Forest Selection,Forest Harvest,2001,2001,1700,Timestep and iteration,850
+El Dorado,Management: Forest Selection,Forest Harvest,2002,2002,2200,Timestep and iteration,1100
+El Dorado,Management: Forest Selection,Forest Harvest,2003,2003,1200,Timestep and iteration,600
+El Dorado,Management: Forest Selection,Forest Harvest,2004,2004,1800,Timestep and iteration,900
+El Dorado,Management: Forest Selection,Forest Harvest,2005,2005,1600,Timestep and iteration,800
+El Dorado,Management: Forest Selection,Forest Harvest,2006,2006,2700,Timestep and iteration,1350
+El Dorado,Management: Forest Selection,Forest Harvest,2007,2007,2600,Timestep and iteration,1300
+El Dorado,Management: Forest Selection,Forest Harvest,2008,2008,1400,Timestep and iteration,700
+El Dorado,Management: Forest Selection,Forest Harvest,2009,2009,1500,Timestep and iteration,750
+El Dorado,Management: Forest Selection,Forest Harvest,2010,2010,700,Timestep and iteration,350
+El Dorado,Management: Forest Selection,Forest Harvest,2011,2011,1500,Timestep and iteration,750
+El Dorado,Management: Forest Selection,Forest Harvest,2012,2012,200,Timestep and iteration,100
+El Dorado,Management: Forest Selection,Forest Harvest,2013,2013,100,Timestep and iteration,50
+El Dorado,Management: Forest Selection,Forest Harvest,2014,2014,0,Timestep and iteration,0
+El Dorado,Management: Forest Selection,Forest Harvest,2015,2015,1000,Timestep and iteration,500
+El Dorado,Management: Forest Selection,Forest Harvest,2016,2016,1000,Timestep and iteration,500
+Fresno,Management: Forest Selection,Forest Harvest,1999,1999,400,Timestep and iteration,200
+Fresno,Management: Forest Selection,Forest Harvest,2000,2000,1300,Timestep and iteration,650
+Fresno,Management: Forest Selection,Forest Harvest,2001,2001,300,Timestep and iteration,150
+Fresno,Management: Forest Selection,Forest Harvest,2002,2002,200,Timestep and iteration,100
+Fresno,Management: Forest Selection,Forest Harvest,2003,2003,400,Timestep and iteration,200
+Fresno,Management: Forest Selection,Forest Harvest,2004,2004,1000,Timestep and iteration,500
+Fresno,Management: Forest Selection,Forest Harvest,2005,2005,4200,Timestep and iteration,2100
+Fresno,Management: Forest Selection,Forest Harvest,2006,2006,400,Timestep and iteration,200
+Fresno,Management: Forest Selection,Forest Harvest,2007,2007,2100,Timestep and iteration,1050
+Fresno,Management: Forest Selection,Forest Harvest,2008,2008,3100,Timestep and iteration,1550
+Fresno,Management: Forest Selection,Forest Harvest,2009,2009,1100,Timestep and iteration,550
+Fresno,Management: Forest Selection,Forest Harvest,2010,2010,1300,Timestep and iteration,650
+Fresno,Management: Forest Selection,Forest Harvest,2011,2011,100,Timestep and iteration,50
+Fresno,Management: Forest Selection,Forest Harvest,2012,2012,300,Timestep and iteration,150
+Fresno,Management: Forest Selection,Forest Harvest,2013,2013,1200,Timestep and iteration,600
+Fresno,Management: Forest Selection,Forest Harvest,2014,2014,900,Timestep and iteration,450
+Fresno,Management: Forest Selection,Forest Harvest,2015,2015,1200,Timestep and iteration,600
+Fresno,Management: Forest Selection,Forest Harvest,2016,2016,2800,Timestep and iteration,1400
+Glenn,Management: Forest Selection,Forest Harvest,1999,1999,100,Timestep and iteration,50
+Glenn,Management: Forest Selection,Forest Harvest,2000,2000,0,Timestep and iteration,0
+Glenn,Management: Forest Selection,Forest Harvest,2001,2001,300,Timestep and iteration,150
+Glenn,Management: Forest Selection,Forest Harvest,2002,2002,500,Timestep and iteration,250
+Glenn,Management: Forest Selection,Forest Harvest,2003,2003,200,Timestep and iteration,100
+Glenn,Management: Forest Selection,Forest Harvest,2004,2004,0,Timestep and iteration,0
+Glenn,Management: Forest Selection,Forest Harvest,2005,2005,200,Timestep and iteration,100
+Glenn,Management: Forest Selection,Forest Harvest,2006,2006,300,Timestep and iteration,150
+Glenn,Management: Forest Selection,Forest Harvest,2007,2007,400,Timestep and iteration,200
+Glenn,Management: Forest Selection,Forest Harvest,2008,2008,300,Timestep and iteration,150
+Glenn,Management: Forest Selection,Forest Harvest,2009,2009,200,Timestep and iteration,100
+Glenn,Management: Forest Selection,Forest Harvest,2010,2010,0,Timestep and iteration,0
+Glenn,Management: Forest Selection,Forest Harvest,2011,2011,100,Timestep and iteration,50
+Glenn,Management: Forest Selection,Forest Harvest,2012,2012,0,Timestep and iteration,0
+Glenn,Management: Forest Selection,Forest Harvest,2013,2013,0,Timestep and iteration,0
+Glenn,Management: Forest Selection,Forest Harvest,2014,2014,0,Timestep and iteration,0
+Glenn,Management: Forest Selection,Forest Harvest,2015,2015,200,Timestep and iteration,100
+Glenn,Management: Forest Selection,Forest Harvest,2016,2016,0,Timestep and iteration,0
+Humboldt,Management: Forest Selection,Forest Harvest,1999,1999,1800,Timestep and iteration,900
+Humboldt,Management: Forest Selection,Forest Harvest,2000,2000,2700,Timestep and iteration,1350
+Humboldt,Management: Forest Selection,Forest Harvest,2001,2001,3200,Timestep and iteration,1600
+Humboldt,Management: Forest Selection,Forest Harvest,2002,2002,3600,Timestep and iteration,1800
+Humboldt,Management: Forest Selection,Forest Harvest,2003,2003,3100,Timestep and iteration,1550
+Humboldt,Management: Forest Selection,Forest Harvest,2004,2004,2400,Timestep and iteration,1200
+Humboldt,Management: Forest Selection,Forest Harvest,2005,2005,3300,Timestep and iteration,1650
+Humboldt,Management: Forest Selection,Forest Harvest,2006,2006,2100,Timestep and iteration,1050
+Humboldt,Management: Forest Selection,Forest Harvest,2007,2007,2500,Timestep and iteration,1250
+Humboldt,Management: Forest Selection,Forest Harvest,2008,2008,1900,Timestep and iteration,950
+Humboldt,Management: Forest Selection,Forest Harvest,2009,2009,1700,Timestep and iteration,850
+Humboldt,Management: Forest Selection,Forest Harvest,2010,2010,800,Timestep and iteration,400
+Humboldt,Management: Forest Selection,Forest Harvest,2011,2011,1000,Timestep and iteration,500
+Humboldt,Management: Forest Selection,Forest Harvest,2012,2012,1000,Timestep and iteration,500
+Humboldt,Management: Forest Selection,Forest Harvest,2013,2013,0,Timestep and iteration,0
+Humboldt,Management: Forest Selection,Forest Harvest,2014,2014,0,Timestep and iteration,0
+Humboldt,Management: Forest Selection,Forest Harvest,2015,2015,1400,Timestep and iteration,700
+Humboldt,Management: Forest Selection,Forest Harvest,2016,2016,600,Timestep and iteration,300
+Imperial,Management: Forest Selection,Forest Harvest,1999,1999,0,Timestep and iteration,0
+Imperial,Management: Forest Selection,Forest Harvest,2000,2000,0,Timestep and iteration,0
+Imperial,Management: Forest Selection,Forest Harvest,2001,2001,0,Timestep and iteration,0
+Imperial,Management: Forest Selection,Forest Harvest,2002,2002,0,Timestep and iteration,0
+Imperial,Management: Forest Selection,Forest Harvest,2003,2003,0,Timestep and iteration,0
+Imperial,Management: Forest Selection,Forest Harvest,2004,2004,0,Timestep and iteration,0
+Imperial,Management: Forest Selection,Forest Harvest,2005,2005,0,Timestep and iteration,0
+Imperial,Management: Forest Selection,Forest Harvest,2006,2006,0,Timestep and iteration,0
+Imperial,Management: Forest Selection,Forest Harvest,2007,2007,0,Timestep and iteration,0
+Imperial,Management: Forest Selection,Forest Harvest,2008,2008,0,Timestep and iteration,0
+Imperial,Management: Forest Selection,Forest Harvest,2009,2009,0,Timestep and iteration,0
+Imperial,Management: Forest Selection,Forest Harvest,2010,2010,0,Timestep and iteration,0
+Imperial,Management: Forest Selection,Forest Harvest,2011,2011,0,Timestep and iteration,0
+Imperial,Management: Forest Selection,Forest Harvest,2012,2012,0,Timestep and iteration,0
+Imperial,Management: Forest Selection,Forest Harvest,2013,2013,0,Timestep and iteration,0
+Imperial,Management: Forest Selection,Forest Harvest,2014,2014,0,Timestep and iteration,0
+Imperial,Management: Forest Selection,Forest Harvest,2015,2015,0,Timestep and iteration,0
+Imperial,Management: Forest Selection,Forest Harvest,2016,2016,0,Timestep and iteration,0
+Inyo,Management: Forest Selection,Forest Harvest,1999,1999,0,Timestep and iteration,0
+Inyo,Management: Forest Selection,Forest Harvest,2000,2000,0,Timestep and iteration,0
+Inyo,Management: Forest Selection,Forest Harvest,2001,2001,0,Timestep and iteration,0
+Inyo,Management: Forest Selection,Forest Harvest,2002,2002,0,Timestep and iteration,0
+Inyo,Management: Forest Selection,Forest Harvest,2003,2003,0,Timestep and iteration,0
+Inyo,Management: Forest Selection,Forest Harvest,2004,2004,0,Timestep and iteration,0
+Inyo,Management: Forest Selection,Forest Harvest,2005,2005,0,Timestep and iteration,0
+Inyo,Management: Forest Selection,Forest Harvest,2006,2006,0,Timestep and iteration,0
+Inyo,Management: Forest Selection,Forest Harvest,2007,2007,0,Timestep and iteration,0
+Inyo,Management: Forest Selection,Forest Harvest,2008,2008,0,Timestep and iteration,0
+Inyo,Management: Forest Selection,Forest Harvest,2009,2009,0,Timestep and iteration,0
+Inyo,Management: Forest Selection,Forest Harvest,2010,2010,0,Timestep and iteration,0
+Inyo,Management: Forest Selection,Forest Harvest,2011,2011,0,Timestep and iteration,0
+Inyo,Management: Forest Selection,Forest Harvest,2012,2012,0,Timestep and iteration,0
+Inyo,Management: Forest Selection,Forest Harvest,2013,2013,0,Timestep and iteration,0
+Inyo,Management: Forest Selection,Forest Harvest,2014,2014,0,Timestep and iteration,0
+Inyo,Management: Forest Selection,Forest Harvest,2015,2015,0,Timestep and iteration,0
+Inyo,Management: Forest Selection,Forest Harvest,2016,2016,0,Timestep and iteration,0
+Kern,Management: Forest Selection,Forest Harvest,1999,1999,200,Timestep and iteration,100
+Kern,Management: Forest Selection,Forest Harvest,2000,2000,0,Timestep and iteration,0
+Kern,Management: Forest Selection,Forest Harvest,2001,2001,0,Timestep and iteration,0
+Kern,Management: Forest Selection,Forest Harvest,2002,2002,700,Timestep and iteration,350
+Kern,Management: Forest Selection,Forest Harvest,2003,2003,0,Timestep and iteration,0
+Kern,Management: Forest Selection,Forest Harvest,2004,2004,100,Timestep and iteration,50
+Kern,Management: Forest Selection,Forest Harvest,2005,2005,800,Timestep and iteration,400
+Kern,Management: Forest Selection,Forest Harvest,2006,2006,400,Timestep and iteration,200
+Kern,Management: Forest Selection,Forest Harvest,2007,2007,100,Timestep and iteration,50
+Kern,Management: Forest Selection,Forest Harvest,2008,2008,100,Timestep and iteration,50
+Kern,Management: Forest Selection,Forest Harvest,2009,2009,400,Timestep and iteration,200
+Kern,Management: Forest Selection,Forest Harvest,2010,2010,300,Timestep and iteration,150
+Kern,Management: Forest Selection,Forest Harvest,2011,2011,900,Timestep and iteration,450
+Kern,Management: Forest Selection,Forest Harvest,2012,2012,0,Timestep and iteration,0
+Kern,Management: Forest Selection,Forest Harvest,2013,2013,700,Timestep and iteration,350
+Kern,Management: Forest Selection,Forest Harvest,2014,2014,0,Timestep and iteration,0
+Kern,Management: Forest Selection,Forest Harvest,2015,2015,100,Timestep and iteration,50
+Kern,Management: Forest Selection,Forest Harvest,2016,2016,100,Timestep and iteration,50
+Kings,Management: Forest Selection,Forest Harvest,1999,1999,0,Timestep and iteration,0
+Kings,Management: Forest Selection,Forest Harvest,2000,2000,0,Timestep and iteration,0
+Kings,Management: Forest Selection,Forest Harvest,2001,2001,0,Timestep and iteration,0
+Kings,Management: Forest Selection,Forest Harvest,2002,2002,0,Timestep and iteration,0
+Kings,Management: Forest Selection,Forest Harvest,2003,2003,0,Timestep and iteration,0
+Kings,Management: Forest Selection,Forest Harvest,2004,2004,0,Timestep and iteration,0
+Kings,Management: Forest Selection,Forest Harvest,2005,2005,0,Timestep and iteration,0
+Kings,Management: Forest Selection,Forest Harvest,2006,2006,0,Timestep and iteration,0
+Kings,Management: Forest Selection,Forest Harvest,2007,2007,0,Timestep and iteration,0
+Kings,Management: Forest Selection,Forest Harvest,2008,2008,0,Timestep and iteration,0
+Kings,Management: Forest Selection,Forest Harvest,2009,2009,0,Timestep and iteration,0
+Kings,Management: Forest Selection,Forest Harvest,2010,2010,0,Timestep and iteration,0
+Kings,Management: Forest Selection,Forest Harvest,2011,2011,0,Timestep and iteration,0
+Kings,Management: Forest Selection,Forest Harvest,2012,2012,0,Timestep and iteration,0
+Kings,Management: Forest Selection,Forest Harvest,2013,2013,0,Timestep and iteration,0
+Kings,Management: Forest Selection,Forest Harvest,2014,2014,0,Timestep and iteration,0
+Kings,Management: Forest Selection,Forest Harvest,2015,2015,0,Timestep and iteration,0
+Kings,Management: Forest Selection,Forest Harvest,2016,2016,0,Timestep and iteration,0
+Lake,Management: Forest Selection,Forest Harvest,1999,1999,100,Timestep and iteration,50
+Lake,Management: Forest Selection,Forest Harvest,2000,2000,0,Timestep and iteration,0
+Lake,Management: Forest Selection,Forest Harvest,2001,2001,100,Timestep and iteration,50
+Lake,Management: Forest Selection,Forest Harvest,2002,2002,0,Timestep and iteration,0
+Lake,Management: Forest Selection,Forest Harvest,2003,2003,0,Timestep and iteration,0
+Lake,Management: Forest Selection,Forest Harvest,2004,2004,600,Timestep and iteration,300
+Lake,Management: Forest Selection,Forest Harvest,2005,2005,500,Timestep and iteration,250
+Lake,Management: Forest Selection,Forest Harvest,2006,2006,500,Timestep and iteration,250
+Lake,Management: Forest Selection,Forest Harvest,2007,2007,600,Timestep and iteration,300
+Lake,Management: Forest Selection,Forest Harvest,2008,2008,0,Timestep and iteration,0
+Lake,Management: Forest Selection,Forest Harvest,2009,2009,0,Timestep and iteration,0
+Lake,Management: Forest Selection,Forest Harvest,2010,2010,100,Timestep and iteration,50
+Lake,Management: Forest Selection,Forest Harvest,2011,2011,0,Timestep and iteration,0
+Lake,Management: Forest Selection,Forest Harvest,2012,2012,0,Timestep and iteration,0
+Lake,Management: Forest Selection,Forest Harvest,2013,2013,0,Timestep and iteration,0
+Lake,Management: Forest Selection,Forest Harvest,2014,2014,100,Timestep and iteration,50
+Lake,Management: Forest Selection,Forest Harvest,2015,2015,0,Timestep and iteration,0
+Lake,Management: Forest Selection,Forest Harvest,2016,2016,0,Timestep and iteration,0
+Lassen,Management: Forest Selection,Forest Harvest,1999,1999,7700,Timestep and iteration,3850
+Lassen,Management: Forest Selection,Forest Harvest,2000,2000,4400,Timestep and iteration,2200
+Lassen,Management: Forest Selection,Forest Harvest,2001,2001,2600,Timestep and iteration,1300
+Lassen,Management: Forest Selection,Forest Harvest,2002,2002,3200,Timestep and iteration,1600
+Lassen,Management: Forest Selection,Forest Harvest,2003,2003,3700,Timestep and iteration,1850
+Lassen,Management: Forest Selection,Forest Harvest,2004,2004,12000,Timestep and iteration,6000
+Lassen,Management: Forest Selection,Forest Harvest,2005,2005,2000,Timestep and iteration,1000
+Lassen,Management: Forest Selection,Forest Harvest,2006,2006,4900,Timestep and iteration,2450
+Lassen,Management: Forest Selection,Forest Harvest,2007,2007,300,Timestep and iteration,150
+Lassen,Management: Forest Selection,Forest Harvest,2008,2008,4300,Timestep and iteration,2150
+Lassen,Management: Forest Selection,Forest Harvest,2009,2009,1000,Timestep and iteration,500
+Lassen,Management: Forest Selection,Forest Harvest,2010,2010,700,Timestep and iteration,350
+Lassen,Management: Forest Selection,Forest Harvest,2011,2011,1900,Timestep and iteration,950
+Lassen,Management: Forest Selection,Forest Harvest,2012,2012,4300,Timestep and iteration,2150
+Lassen,Management: Forest Selection,Forest Harvest,2013,2013,100,Timestep and iteration,50
+Lassen,Management: Forest Selection,Forest Harvest,2014,2014,300,Timestep and iteration,150
+Lassen,Management: Forest Selection,Forest Harvest,2015,2015,1800,Timestep and iteration,900
+Lassen,Management: Forest Selection,Forest Harvest,2016,2016,2300,Timestep and iteration,1150
+Los Angeles,Management: Forest Selection,Forest Harvest,1999,1999,0,Timestep and iteration,0
+Los Angeles,Management: Forest Selection,Forest Harvest,2000,2000,0,Timestep and iteration,0
+Los Angeles,Management: Forest Selection,Forest Harvest,2001,2001,0,Timestep and iteration,0
+Los Angeles,Management: Forest Selection,Forest Harvest,2002,2002,0,Timestep and iteration,0
+Los Angeles,Management: Forest Selection,Forest Harvest,2003,2003,0,Timestep and iteration,0
+Los Angeles,Management: Forest Selection,Forest Harvest,2004,2004,200,Timestep and iteration,100
+Los Angeles,Management: Forest Selection,Forest Harvest,2005,2005,300,Timestep and iteration,150
+Los Angeles,Management: Forest Selection,Forest Harvest,2006,2006,0,Timestep and iteration,0
+Los Angeles,Management: Forest Selection,Forest Harvest,2007,2007,100,Timestep and iteration,50
+Los Angeles,Management: Forest Selection,Forest Harvest,2008,2008,200,Timestep and iteration,100
+Los Angeles,Management: Forest Selection,Forest Harvest,2009,2009,300,Timestep and iteration,150
+Los Angeles,Management: Forest Selection,Forest Harvest,2010,2010,0,Timestep and iteration,0
+Los Angeles,Management: Forest Selection,Forest Harvest,2011,2011,300,Timestep and iteration,150
+Los Angeles,Management: Forest Selection,Forest Harvest,2012,2012,1000,Timestep and iteration,500
+Los Angeles,Management: Forest Selection,Forest Harvest,2013,2013,1100,Timestep and iteration,550
+Los Angeles,Management: Forest Selection,Forest Harvest,2014,2014,1600,Timestep and iteration,800
+Los Angeles,Management: Forest Selection,Forest Harvest,2015,2015,700,Timestep and iteration,350
+Los Angeles,Management: Forest Selection,Forest Harvest,2016,2016,400,Timestep and iteration,200
+Madera,Management: Forest Selection,Forest Harvest,1999,1999,300,Timestep and iteration,150
+Madera,Management: Forest Selection,Forest Harvest,2000,2000,100,Timestep and iteration,50
+Madera,Management: Forest Selection,Forest Harvest,2001,2001,100,Timestep and iteration,50
+Madera,Management: Forest Selection,Forest Harvest,2002,2002,100,Timestep and iteration,50
+Madera,Management: Forest Selection,Forest Harvest,2003,2003,0,Timestep and iteration,0
+Madera,Management: Forest Selection,Forest Harvest,2004,2004,300,Timestep and iteration,150
+Madera,Management: Forest Selection,Forest Harvest,2005,2005,1000,Timestep and iteration,500
+Madera,Management: Forest Selection,Forest Harvest,2006,2006,500,Timestep and iteration,250
+Madera,Management: Forest Selection,Forest Harvest,2007,2007,800,Timestep and iteration,400
+Madera,Management: Forest Selection,Forest Harvest,2008,2008,700,Timestep and iteration,350
+Madera,Management: Forest Selection,Forest Harvest,2009,2009,400,Timestep and iteration,200
+Madera,Management: Forest Selection,Forest Harvest,2010,2010,500,Timestep and iteration,250
+Madera,Management: Forest Selection,Forest Harvest,2011,2011,1000,Timestep and iteration,500
+Madera,Management: Forest Selection,Forest Harvest,2012,2012,500,Timestep and iteration,250
+Madera,Management: Forest Selection,Forest Harvest,2013,2013,500,Timestep and iteration,250
+Madera,Management: Forest Selection,Forest Harvest,2014,2014,400,Timestep and iteration,200
+Madera,Management: Forest Selection,Forest Harvest,2015,2015,200,Timestep and iteration,100
+Madera,Management: Forest Selection,Forest Harvest,2016,2016,400,Timestep and iteration,200
+Marin,Management: Forest Selection,Forest Harvest,1999,1999,0,Timestep and iteration,0
+Marin,Management: Forest Selection,Forest Harvest,2000,2000,0,Timestep and iteration,0
+Marin,Management: Forest Selection,Forest Harvest,2001,2001,0,Timestep and iteration,0
+Marin,Management: Forest Selection,Forest Harvest,2002,2002,0,Timestep and iteration,0
+Marin,Management: Forest Selection,Forest Harvest,2003,2003,0,Timestep and iteration,0
+Marin,Management: Forest Selection,Forest Harvest,2004,2004,0,Timestep and iteration,0
+Marin,Management: Forest Selection,Forest Harvest,2005,2005,0,Timestep and iteration,0
+Marin,Management: Forest Selection,Forest Harvest,2006,2006,0,Timestep and iteration,0
+Marin,Management: Forest Selection,Forest Harvest,2007,2007,0,Timestep and iteration,0
+Marin,Management: Forest Selection,Forest Harvest,2008,2008,0,Timestep and iteration,0
+Marin,Management: Forest Selection,Forest Harvest,2009,2009,0,Timestep and iteration,0
+Marin,Management: Forest Selection,Forest Harvest,2010,2010,100,Timestep and iteration,50
+Marin,Management: Forest Selection,Forest Harvest,2011,2011,0,Timestep and iteration,0
+Marin,Management: Forest Selection,Forest Harvest,2012,2012,0,Timestep and iteration,0
+Marin,Management: Forest Selection,Forest Harvest,2013,2013,0,Timestep and iteration,0
+Marin,Management: Forest Selection,Forest Harvest,2014,2014,0,Timestep and iteration,0
+Marin,Management: Forest Selection,Forest Harvest,2015,2015,0,Timestep and iteration,0
+Marin,Management: Forest Selection,Forest Harvest,2016,2016,0,Timestep and iteration,0
+Mariposa,Management: Forest Selection,Forest Harvest,1999,1999,0,Timestep and iteration,0
+Mariposa,Management: Forest Selection,Forest Harvest,2000,2000,300,Timestep and iteration,150
+Mariposa,Management: Forest Selection,Forest Harvest,2001,2001,0,Timestep and iteration,0
+Mariposa,Management: Forest Selection,Forest Harvest,2002,2002,0,Timestep and iteration,0
+Mariposa,Management: Forest Selection,Forest Harvest,2003,2003,200,Timestep and iteration,100
+Mariposa,Management: Forest Selection,Forest Harvest,2004,2004,400,Timestep and iteration,200
+Mariposa,Management: Forest Selection,Forest Harvest,2005,2005,400,Timestep and iteration,200
+Mariposa,Management: Forest Selection,Forest Harvest,2006,2006,1100,Timestep and iteration,550
+Mariposa,Management: Forest Selection,Forest Harvest,2007,2007,1200,Timestep and iteration,600
+Mariposa,Management: Forest Selection,Forest Harvest,2008,2008,300,Timestep and iteration,150
+Mariposa,Management: Forest Selection,Forest Harvest,2009,2009,600,Timestep and iteration,300
+Mariposa,Management: Forest Selection,Forest Harvest,2010,2010,500,Timestep and iteration,250
+Mariposa,Management: Forest Selection,Forest Harvest,2011,2011,600,Timestep and iteration,300
+Mariposa,Management: Forest Selection,Forest Harvest,2012,2012,100,Timestep and iteration,50
+Mariposa,Management: Forest Selection,Forest Harvest,2013,2013,0,Timestep and iteration,0
+Mariposa,Management: Forest Selection,Forest Harvest,2014,2014,100,Timestep and iteration,50
+Mariposa,Management: Forest Selection,Forest Harvest,2015,2015,100,Timestep and iteration,50
+Mariposa,Management: Forest Selection,Forest Harvest,2016,2016,100,Timestep and iteration,50
+Mendocino,Management: Forest Selection,Forest Harvest,1999,1999,1700,Timestep and iteration,850
+Mendocino,Management: Forest Selection,Forest Harvest,2000,2000,4600,Timestep and iteration,2300
+Mendocino,Management: Forest Selection,Forest Harvest,2001,2001,3300,Timestep and iteration,1650
+Mendocino,Management: Forest Selection,Forest Harvest,2002,2002,3800,Timestep and iteration,1900
+Mendocino,Management: Forest Selection,Forest Harvest,2003,2003,2200,Timestep and iteration,1100
+Mendocino,Management: Forest Selection,Forest Harvest,2004,2004,2400,Timestep and iteration,1200
+Mendocino,Management: Forest Selection,Forest Harvest,2005,2005,2600,Timestep and iteration,1300
+Mendocino,Management: Forest Selection,Forest Harvest,2006,2006,2700,Timestep and iteration,1350
+Mendocino,Management: Forest Selection,Forest Harvest,2007,2007,2000,Timestep and iteration,1000
+Mendocino,Management: Forest Selection,Forest Harvest,2008,2008,2300,Timestep and iteration,1150
+Mendocino,Management: Forest Selection,Forest Harvest,2009,2009,1500,Timestep and iteration,750
+Mendocino,Management: Forest Selection,Forest Harvest,2010,2010,300,Timestep and iteration,150
+Mendocino,Management: Forest Selection,Forest Harvest,2011,2011,1100,Timestep and iteration,550
+Mendocino,Management: Forest Selection,Forest Harvest,2012,2012,600,Timestep and iteration,300
+Mendocino,Management: Forest Selection,Forest Harvest,2013,2013,0,Timestep and iteration,0
+Mendocino,Management: Forest Selection,Forest Harvest,2014,2014,0,Timestep and iteration,0
+Mendocino,Management: Forest Selection,Forest Harvest,2015,2015,1700,Timestep and iteration,850
+Mendocino,Management: Forest Selection,Forest Harvest,2016,2016,900,Timestep and iteration,450
+Merced,Management: Forest Selection,Forest Harvest,1999,1999,0,Timestep and iteration,0
+Merced,Management: Forest Selection,Forest Harvest,2000,2000,0,Timestep and iteration,0
+Merced,Management: Forest Selection,Forest Harvest,2001,2001,0,Timestep and iteration,0
+Merced,Management: Forest Selection,Forest Harvest,2002,2002,0,Timestep and iteration,0
+Merced,Management: Forest Selection,Forest Harvest,2003,2003,0,Timestep and iteration,0
+Merced,Management: Forest Selection,Forest Harvest,2004,2004,0,Timestep and iteration,0
+Merced,Management: Forest Selection,Forest Harvest,2005,2005,0,Timestep and iteration,0
+Merced,Management: Forest Selection,Forest Harvest,2006,2006,0,Timestep and iteration,0
+Merced,Management: Forest Selection,Forest Harvest,2007,2007,0,Timestep and iteration,0
+Merced,Management: Forest Selection,Forest Harvest,2008,2008,0,Timestep and iteration,0
+Merced,Management: Forest Selection,Forest Harvest,2009,2009,0,Timestep and iteration,0
+Merced,Management: Forest Selection,Forest Harvest,2010,2010,0,Timestep and iteration,0
+Merced,Management: Forest Selection,Forest Harvest,2011,2011,0,Timestep and iteration,0
+Merced,Management: Forest Selection,Forest Harvest,2012,2012,0,Timestep and iteration,0
+Merced,Management: Forest Selection,Forest Harvest,2013,2013,0,Timestep and iteration,0
+Merced,Management: Forest Selection,Forest Harvest,2014,2014,0,Timestep and iteration,0
+Merced,Management: Forest Selection,Forest Harvest,2015,2015,0,Timestep and iteration,0
+Merced,Management: Forest Selection,Forest Harvest,2016,2016,0,Timestep and iteration,0
+Modoc,Management: Forest Selection,Forest Harvest,1999,1999,700,Timestep and iteration,350
+Modoc,Management: Forest Selection,Forest Harvest,2000,2000,400,Timestep and iteration,200
+Modoc,Management: Forest Selection,Forest Harvest,2001,2001,1100,Timestep and iteration,550
+Modoc,Management: Forest Selection,Forest Harvest,2002,2002,0,Timestep and iteration,0
+Modoc,Management: Forest Selection,Forest Harvest,2003,2003,0,Timestep and iteration,0
+Modoc,Management: Forest Selection,Forest Harvest,2004,2004,200,Timestep and iteration,100
+Modoc,Management: Forest Selection,Forest Harvest,2005,2005,200,Timestep and iteration,100
+Modoc,Management: Forest Selection,Forest Harvest,2006,2006,800,Timestep and iteration,400
+Modoc,Management: Forest Selection,Forest Harvest,2007,2007,1300,Timestep and iteration,650
+Modoc,Management: Forest Selection,Forest Harvest,2008,2008,1100,Timestep and iteration,550
+Modoc,Management: Forest Selection,Forest Harvest,2009,2009,2700,Timestep and iteration,1350
+Modoc,Management: Forest Selection,Forest Harvest,2010,2010,800,Timestep and iteration,400
+Modoc,Management: Forest Selection,Forest Harvest,2011,2011,3100,Timestep and iteration,1550
+Modoc,Management: Forest Selection,Forest Harvest,2012,2012,0,Timestep and iteration,0
+Modoc,Management: Forest Selection,Forest Harvest,2013,2013,0,Timestep and iteration,0
+Modoc,Management: Forest Selection,Forest Harvest,2014,2014,300,Timestep and iteration,150
+Modoc,Management: Forest Selection,Forest Harvest,2015,2015,4100,Timestep and iteration,2050
+Modoc,Management: Forest Selection,Forest Harvest,2016,2016,2500,Timestep and iteration,1250
+Mono,Management: Forest Selection,Forest Harvest,1999,1999,500,Timestep and iteration,250
+Mono,Management: Forest Selection,Forest Harvest,2000,2000,400,Timestep and iteration,200
+Mono,Management: Forest Selection,Forest Harvest,2001,2001,400,Timestep and iteration,200
+Mono,Management: Forest Selection,Forest Harvest,2002,2002,200,Timestep and iteration,100
+Mono,Management: Forest Selection,Forest Harvest,2003,2003,100,Timestep and iteration,50
+Mono,Management: Forest Selection,Forest Harvest,2004,2004,1600,Timestep and iteration,800
+Mono,Management: Forest Selection,Forest Harvest,2005,2005,1100,Timestep and iteration,550
+Mono,Management: Forest Selection,Forest Harvest,2006,2006,700,Timestep and iteration,350
+Mono,Management: Forest Selection,Forest Harvest,2007,2007,100,Timestep and iteration,50
+Mono,Management: Forest Selection,Forest Harvest,2008,2008,400,Timestep and iteration,200
+Mono,Management: Forest Selection,Forest Harvest,2009,2009,600,Timestep and iteration,300
+Mono,Management: Forest Selection,Forest Harvest,2010,2010,400,Timestep and iteration,200
+Mono,Management: Forest Selection,Forest Harvest,2011,2011,200,Timestep and iteration,100
+Mono,Management: Forest Selection,Forest Harvest,2012,2012,400,Timestep and iteration,200
+Mono,Management: Forest Selection,Forest Harvest,2013,2013,200,Timestep and iteration,100
+Mono,Management: Forest Selection,Forest Harvest,2014,2014,400,Timestep and iteration,200
+Mono,Management: Forest Selection,Forest Harvest,2015,2015,200,Timestep and iteration,100
+Mono,Management: Forest Selection,Forest Harvest,2016,2016,100,Timestep and iteration,50
+Monterey,Management: Forest Selection,Forest Harvest,1999,1999,0,Timestep and iteration,0
+Monterey,Management: Forest Selection,Forest Harvest,2000,2000,0,Timestep and iteration,0
+Monterey,Management: Forest Selection,Forest Harvest,2001,2001,0,Timestep and iteration,0
+Monterey,Management: Forest Selection,Forest Harvest,2002,2002,0,Timestep and iteration,0
+Monterey,Management: Forest Selection,Forest Harvest,2003,2003,0,Timestep and iteration,0
+Monterey,Management: Forest Selection,Forest Harvest,2004,2004,0,Timestep and iteration,0
+Monterey,Management: Forest Selection,Forest Harvest,2005,2005,0,Timestep and iteration,0
+Monterey,Management: Forest Selection,Forest Harvest,2006,2006,0,Timestep and iteration,0
+Monterey,Management: Forest Selection,Forest Harvest,2007,2007,0,Timestep and iteration,0
+Monterey,Management: Forest Selection,Forest Harvest,2008,2008,0,Timestep and iteration,0
+Monterey,Management: Forest Selection,Forest Harvest,2009,2009,0,Timestep and iteration,0
+Monterey,Management: Forest Selection,Forest Harvest,2010,2010,0,Timestep and iteration,0
+Monterey,Management: Forest Selection,Forest Harvest,2011,2011,0,Timestep and iteration,0
+Monterey,Management: Forest Selection,Forest Harvest,2012,2012,0,Timestep and iteration,0
+Monterey,Management: Forest Selection,Forest Harvest,2013,2013,0,Timestep and iteration,0
+Monterey,Management: Forest Selection,Forest Harvest,2014,2014,0,Timestep and iteration,0
+Monterey,Management: Forest Selection,Forest Harvest,2015,2015,0,Timestep and iteration,0
+Monterey,Management: Forest Selection,Forest Harvest,2016,2016,0,Timestep and iteration,0
+Napa,Management: Forest Selection,Forest Harvest,1999,1999,0,Timestep and iteration,0
+Napa,Management: Forest Selection,Forest Harvest,2000,2000,0,Timestep and iteration,0
+Napa,Management: Forest Selection,Forest Harvest,2001,2001,0,Timestep and iteration,0
+Napa,Management: Forest Selection,Forest Harvest,2002,2002,0,Timestep and iteration,0
+Napa,Management: Forest Selection,Forest Harvest,2003,2003,0,Timestep and iteration,0
+Napa,Management: Forest Selection,Forest Harvest,2004,2004,0,Timestep and iteration,0
+Napa,Management: Forest Selection,Forest Harvest,2005,2005,0,Timestep and iteration,0
+Napa,Management: Forest Selection,Forest Harvest,2006,2006,100,Timestep and iteration,50
+Napa,Management: Forest Selection,Forest Harvest,2007,2007,0,Timestep and iteration,0
+Napa,Management: Forest Selection,Forest Harvest,2008,2008,0,Timestep and iteration,0
+Napa,Management: Forest Selection,Forest Harvest,2009,2009,0,Timestep and iteration,0
+Napa,Management: Forest Selection,Forest Harvest,2010,2010,0,Timestep and iteration,0
+Napa,Management: Forest Selection,Forest Harvest,2011,2011,0,Timestep and iteration,0
+Napa,Management: Forest Selection,Forest Harvest,2012,2012,0,Timestep and iteration,0
+Napa,Management: Forest Selection,Forest Harvest,2013,2013,0,Timestep and iteration,0
+Napa,Management: Forest Selection,Forest Harvest,2014,2014,0,Timestep and iteration,0
+Napa,Management: Forest Selection,Forest Harvest,2015,2015,0,Timestep and iteration,0
+Napa,Management: Forest Selection,Forest Harvest,2016,2016,0,Timestep and iteration,0
+Nevada,Management: Forest Selection,Forest Harvest,1999,1999,1100,Timestep and iteration,550
+Nevada,Management: Forest Selection,Forest Harvest,2000,2000,1400,Timestep and iteration,700
+Nevada,Management: Forest Selection,Forest Harvest,2001,2001,1300,Timestep and iteration,650
+Nevada,Management: Forest Selection,Forest Harvest,2002,2002,700,Timestep and iteration,350
+Nevada,Management: Forest Selection,Forest Harvest,2003,2003,900,Timestep and iteration,450
+Nevada,Management: Forest Selection,Forest Harvest,2004,2004,1100,Timestep and iteration,550
+Nevada,Management: Forest Selection,Forest Harvest,2005,2005,800,Timestep and iteration,400
+Nevada,Management: Forest Selection,Forest Harvest,2006,2006,500,Timestep and iteration,250
+Nevada,Management: Forest Selection,Forest Harvest,2007,2007,500,Timestep and iteration,250
+Nevada,Management: Forest Selection,Forest Harvest,2008,2008,300,Timestep and iteration,150
+Nevada,Management: Forest Selection,Forest Harvest,2009,2009,200,Timestep and iteration,100
+Nevada,Management: Forest Selection,Forest Harvest,2010,2010,200,Timestep and iteration,100
+Nevada,Management: Forest Selection,Forest Harvest,2011,2011,400,Timestep and iteration,200
+Nevada,Management: Forest Selection,Forest Harvest,2012,2012,100,Timestep and iteration,50
+Nevada,Management: Forest Selection,Forest Harvest,2013,2013,200,Timestep and iteration,100
+Nevada,Management: Forest Selection,Forest Harvest,2014,2014,200,Timestep and iteration,100
+Nevada,Management: Forest Selection,Forest Harvest,2015,2015,400,Timestep and iteration,200
+Nevada,Management: Forest Selection,Forest Harvest,2016,2016,600,Timestep and iteration,300
+Orange,Management: Forest Selection,Forest Harvest,1999,1999,0,Timestep and iteration,0
+Orange,Management: Forest Selection,Forest Harvest,2000,2000,0,Timestep and iteration,0
+Orange,Management: Forest Selection,Forest Harvest,2001,2001,0,Timestep and iteration,0
+Orange,Management: Forest Selection,Forest Harvest,2002,2002,0,Timestep and iteration,0
+Orange,Management: Forest Selection,Forest Harvest,2003,2003,0,Timestep and iteration,0
+Orange,Management: Forest Selection,Forest Harvest,2004,2004,0,Timestep and iteration,0
+Orange,Management: Forest Selection,Forest Harvest,2005,2005,0,Timestep and iteration,0
+Orange,Management: Forest Selection,Forest Harvest,2006,2006,0,Timestep and iteration,0
+Orange,Management: Forest Selection,Forest Harvest,2007,2007,0,Timestep and iteration,0
+Orange,Management: Forest Selection,Forest Harvest,2008,2008,0,Timestep and iteration,0
+Orange,Management: Forest Selection,Forest Harvest,2009,2009,0,Timestep and iteration,0
+Orange,Management: Forest Selection,Forest Harvest,2010,2010,0,Timestep and iteration,0
+Orange,Management: Forest Selection,Forest Harvest,2011,2011,0,Timestep and iteration,0
+Orange,Management: Forest Selection,Forest Harvest,2012,2012,0,Timestep and iteration,0
+Orange,Management: Forest Selection,Forest Harvest,2013,2013,0,Timestep and iteration,0
+Orange,Management: Forest Selection,Forest Harvest,2014,2014,0,Timestep and iteration,0
+Orange,Management: Forest Selection,Forest Harvest,2015,2015,0,Timestep and iteration,0
+Orange,Management: Forest Selection,Forest Harvest,2016,2016,0,Timestep and iteration,0
+Placer,Management: Forest Selection,Forest Harvest,1999,1999,1200,Timestep and iteration,600
+Placer,Management: Forest Selection,Forest Harvest,2000,2000,600,Timestep and iteration,300
+Placer,Management: Forest Selection,Forest Harvest,2001,2001,1600,Timestep and iteration,800
+Placer,Management: Forest Selection,Forest Harvest,2002,2002,700,Timestep and iteration,350
+Placer,Management: Forest Selection,Forest Harvest,2003,2003,1900,Timestep and iteration,950
+Placer,Management: Forest Selection,Forest Harvest,2004,2004,700,Timestep and iteration,350
+Placer,Management: Forest Selection,Forest Harvest,2005,2005,1000,Timestep and iteration,500
+Placer,Management: Forest Selection,Forest Harvest,2006,2006,600,Timestep and iteration,300
+Placer,Management: Forest Selection,Forest Harvest,2007,2007,1300,Timestep and iteration,650
+Placer,Management: Forest Selection,Forest Harvest,2008,2008,900,Timestep and iteration,450
+Placer,Management: Forest Selection,Forest Harvest,2009,2009,500,Timestep and iteration,250
+Placer,Management: Forest Selection,Forest Harvest,2010,2010,200,Timestep and iteration,100
+Placer,Management: Forest Selection,Forest Harvest,2011,2011,1500,Timestep and iteration,750
+Placer,Management: Forest Selection,Forest Harvest,2012,2012,100,Timestep and iteration,50
+Placer,Management: Forest Selection,Forest Harvest,2013,2013,500,Timestep and iteration,250
+Placer,Management: Forest Selection,Forest Harvest,2014,2014,400,Timestep and iteration,200
+Placer,Management: Forest Selection,Forest Harvest,2015,2015,1100,Timestep and iteration,550
+Placer,Management: Forest Selection,Forest Harvest,2016,2016,700,Timestep and iteration,350
+Plumas,Management: Forest Selection,Forest Harvest,1999,1999,4900,Timestep and iteration,2450
+Plumas,Management: Forest Selection,Forest Harvest,2000,2000,4900,Timestep and iteration,2450
+Plumas,Management: Forest Selection,Forest Harvest,2001,2001,2000,Timestep and iteration,1000
+Plumas,Management: Forest Selection,Forest Harvest,2002,2002,700,Timestep and iteration,350
+Plumas,Management: Forest Selection,Forest Harvest,2003,2003,3600,Timestep and iteration,1800
+Plumas,Management: Forest Selection,Forest Harvest,2004,2004,10200,Timestep and iteration,5100
+Plumas,Management: Forest Selection,Forest Harvest,2005,2005,2200,Timestep and iteration,1100
+Plumas,Management: Forest Selection,Forest Harvest,2006,2006,1500,Timestep and iteration,750
+Plumas,Management: Forest Selection,Forest Harvest,2007,2007,2500,Timestep and iteration,1250
+Plumas,Management: Forest Selection,Forest Harvest,2008,2008,6300,Timestep and iteration,3150
+Plumas,Management: Forest Selection,Forest Harvest,2009,2009,5400,Timestep and iteration,2700
+Plumas,Management: Forest Selection,Forest Harvest,2010,2010,1600,Timestep and iteration,800
+Plumas,Management: Forest Selection,Forest Harvest,2011,2011,1400,Timestep and iteration,700
+Plumas,Management: Forest Selection,Forest Harvest,2012,2012,1500,Timestep and iteration,750
+Plumas,Management: Forest Selection,Forest Harvest,2013,2013,2500,Timestep and iteration,1250
+Plumas,Management: Forest Selection,Forest Harvest,2014,2014,1100,Timestep and iteration,550
+Plumas,Management: Forest Selection,Forest Harvest,2015,2015,2200,Timestep and iteration,1100
+Plumas,Management: Forest Selection,Forest Harvest,2016,2016,3500,Timestep and iteration,1750
+Riverside,Management: Forest Selection,Forest Harvest,1999,1999,0,Timestep and iteration,0
+Riverside,Management: Forest Selection,Forest Harvest,2000,2000,0,Timestep and iteration,0
+Riverside,Management: Forest Selection,Forest Harvest,2001,2001,0,Timestep and iteration,0
+Riverside,Management: Forest Selection,Forest Harvest,2002,2002,0,Timestep and iteration,0
+Riverside,Management: Forest Selection,Forest Harvest,2003,2003,0,Timestep and iteration,0
+Riverside,Management: Forest Selection,Forest Harvest,2004,2004,0,Timestep and iteration,0
+Riverside,Management: Forest Selection,Forest Harvest,2005,2005,300,Timestep and iteration,150
+Riverside,Management: Forest Selection,Forest Harvest,2006,2006,700,Timestep and iteration,350
+Riverside,Management: Forest Selection,Forest Harvest,2007,2007,100,Timestep and iteration,50
+Riverside,Management: Forest Selection,Forest Harvest,2008,2008,200,Timestep and iteration,100
+Riverside,Management: Forest Selection,Forest Harvest,2009,2009,0,Timestep and iteration,0
+Riverside,Management: Forest Selection,Forest Harvest,2010,2010,0,Timestep and iteration,0
+Riverside,Management: Forest Selection,Forest Harvest,2011,2011,100,Timestep and iteration,50
+Riverside,Management: Forest Selection,Forest Harvest,2012,2012,0,Timestep and iteration,0
+Riverside,Management: Forest Selection,Forest Harvest,2013,2013,0,Timestep and iteration,0
+Riverside,Management: Forest Selection,Forest Harvest,2014,2014,0,Timestep and iteration,0
+Riverside,Management: Forest Selection,Forest Harvest,2015,2015,100,Timestep and iteration,50
+Riverside,Management: Forest Selection,Forest Harvest,2016,2016,300,Timestep and iteration,150
+Sacramento,Management: Forest Selection,Forest Harvest,1999,1999,0,Timestep and iteration,0
+Sacramento,Management: Forest Selection,Forest Harvest,2000,2000,0,Timestep and iteration,0
+Sacramento,Management: Forest Selection,Forest Harvest,2001,2001,0,Timestep and iteration,0
+Sacramento,Management: Forest Selection,Forest Harvest,2002,2002,0,Timestep and iteration,0
+Sacramento,Management: Forest Selection,Forest Harvest,2003,2003,0,Timestep and iteration,0
+Sacramento,Management: Forest Selection,Forest Harvest,2004,2004,0,Timestep and iteration,0
+Sacramento,Management: Forest Selection,Forest Harvest,2005,2005,0,Timestep and iteration,0
+Sacramento,Management: Forest Selection,Forest Harvest,2006,2006,0,Timestep and iteration,0
+Sacramento,Management: Forest Selection,Forest Harvest,2007,2007,0,Timestep and iteration,0
+Sacramento,Management: Forest Selection,Forest Harvest,2008,2008,0,Timestep and iteration,0
+Sacramento,Management: Forest Selection,Forest Harvest,2009,2009,0,Timestep and iteration,0
+Sacramento,Management: Forest Selection,Forest Harvest,2010,2010,0,Timestep and iteration,0
+Sacramento,Management: Forest Selection,Forest Harvest,2011,2011,0,Timestep and iteration,0
+Sacramento,Management: Forest Selection,Forest Harvest,2012,2012,0,Timestep and iteration,0
+Sacramento,Management: Forest Selection,Forest Harvest,2013,2013,0,Timestep and iteration,0
+Sacramento,Management: Forest Selection,Forest Harvest,2014,2014,0,Timestep and iteration,0
+Sacramento,Management: Forest Selection,Forest Harvest,2015,2015,0,Timestep and iteration,0
+Sacramento,Management: Forest Selection,Forest Harvest,2016,2016,0,Timestep and iteration,0
+San Benito,Management: Forest Selection,Forest Harvest,1999,1999,0,Timestep and iteration,0
+San Benito,Management: Forest Selection,Forest Harvest,2000,2000,0,Timestep and iteration,0
+San Benito,Management: Forest Selection,Forest Harvest,2001,2001,0,Timestep and iteration,0
+San Benito,Management: Forest Selection,Forest Harvest,2002,2002,0,Timestep and iteration,0
+San Benito,Management: Forest Selection,Forest Harvest,2003,2003,0,Timestep and iteration,0
+San Benito,Management: Forest Selection,Forest Harvest,2004,2004,0,Timestep and iteration,0
+San Benito,Management: Forest Selection,Forest Harvest,2005,2005,0,Timestep and iteration,0
+San Benito,Management: Forest Selection,Forest Harvest,2006,2006,0,Timestep and iteration,0
+San Benito,Management: Forest Selection,Forest Harvest,2007,2007,0,Timestep and iteration,0
+San Benito,Management: Forest Selection,Forest Harvest,2008,2008,0,Timestep and iteration,0
+San Benito,Management: Forest Selection,Forest Harvest,2009,2009,0,Timestep and iteration,0
+San Benito,Management: Forest Selection,Forest Harvest,2010,2010,0,Timestep and iteration,0
+San Benito,Management: Forest Selection,Forest Harvest,2011,2011,0,Timestep and iteration,0
+San Benito,Management: Forest Selection,Forest Harvest,2012,2012,0,Timestep and iteration,0
+San Benito,Management: Forest Selection,Forest Harvest,2013,2013,0,Timestep and iteration,0
+San Benito,Management: Forest Selection,Forest Harvest,2014,2014,0,Timestep and iteration,0
+San Benito,Management: Forest Selection,Forest Harvest,2015,2015,0,Timestep and iteration,0
+San Benito,Management: Forest Selection,Forest Harvest,2016,2016,0,Timestep and iteration,0
+San Bernardino,Management: Forest Selection,Forest Harvest,1999,1999,0,Timestep and iteration,0
+San Bernardino,Management: Forest Selection,Forest Harvest,2000,2000,0,Timestep and iteration,0
+San Bernardino,Management: Forest Selection,Forest Harvest,2001,2001,0,Timestep and iteration,0
+San Bernardino,Management: Forest Selection,Forest Harvest,2002,2002,0,Timestep and iteration,0
+San Bernardino,Management: Forest Selection,Forest Harvest,2003,2003,0,Timestep and iteration,0
+San Bernardino,Management: Forest Selection,Forest Harvest,2004,2004,100,Timestep and iteration,50
+San Bernardino,Management: Forest Selection,Forest Harvest,2005,2005,500,Timestep and iteration,250
+San Bernardino,Management: Forest Selection,Forest Harvest,2006,2006,100,Timestep and iteration,50
+San Bernardino,Management: Forest Selection,Forest Harvest,2007,2007,300,Timestep and iteration,150
+San Bernardino,Management: Forest Selection,Forest Harvest,2008,2008,200,Timestep and iteration,100
+San Bernardino,Management: Forest Selection,Forest Harvest,2009,2009,100,Timestep and iteration,50
+San Bernardino,Management: Forest Selection,Forest Harvest,2010,2010,900,Timestep and iteration,450
+San Bernardino,Management: Forest Selection,Forest Harvest,2011,2011,300,Timestep and iteration,150
+San Bernardino,Management: Forest Selection,Forest Harvest,2012,2012,200,Timestep and iteration,100
+San Bernardino,Management: Forest Selection,Forest Harvest,2013,2013,0,Timestep and iteration,0
+San Bernardino,Management: Forest Selection,Forest Harvest,2014,2014,0,Timestep and iteration,0
+San Bernardino,Management: Forest Selection,Forest Harvest,2015,2015,0,Timestep and iteration,0
+San Bernardino,Management: Forest Selection,Forest Harvest,2016,2016,0,Timestep and iteration,0
+San Diego,Management: Forest Selection,Forest Harvest,1999,1999,0,Timestep and iteration,0
+San Diego,Management: Forest Selection,Forest Harvest,2000,2000,0,Timestep and iteration,0
+San Diego,Management: Forest Selection,Forest Harvest,2001,2001,0,Timestep and iteration,0
+San Diego,Management: Forest Selection,Forest Harvest,2002,2002,0,Timestep and iteration,0
+San Diego,Management: Forest Selection,Forest Harvest,2003,2003,0,Timestep and iteration,0
+San Diego,Management: Forest Selection,Forest Harvest,2004,2004,0,Timestep and iteration,0
+San Diego,Management: Forest Selection,Forest Harvest,2005,2005,0,Timestep and iteration,0
+San Diego,Management: Forest Selection,Forest Harvest,2006,2006,100,Timestep and iteration,50
+San Diego,Management: Forest Selection,Forest Harvest,2007,2007,100,Timestep and iteration,50
+San Diego,Management: Forest Selection,Forest Harvest,2008,2008,0,Timestep and iteration,0
+San Diego,Management: Forest Selection,Forest Harvest,2009,2009,0,Timestep and iteration,0
+San Diego,Management: Forest Selection,Forest Harvest,2010,2010,100,Timestep and iteration,50
+San Diego,Management: Forest Selection,Forest Harvest,2011,2011,0,Timestep and iteration,0
+San Diego,Management: Forest Selection,Forest Harvest,2012,2012,0,Timestep and iteration,0
+San Diego,Management: Forest Selection,Forest Harvest,2013,2013,0,Timestep and iteration,0
+San Diego,Management: Forest Selection,Forest Harvest,2014,2014,0,Timestep and iteration,0
+San Diego,Management: Forest Selection,Forest Harvest,2015,2015,0,Timestep and iteration,0
+San Diego,Management: Forest Selection,Forest Harvest,2016,2016,0,Timestep and iteration,0
+San Francisco,Management: Forest Selection,Forest Harvest,1999,1999,0,Timestep and iteration,0
+San Francisco,Management: Forest Selection,Forest Harvest,2000,2000,0,Timestep and iteration,0
+San Francisco,Management: Forest Selection,Forest Harvest,2001,2001,0,Timestep and iteration,0
+San Francisco,Management: Forest Selection,Forest Harvest,2002,2002,0,Timestep and iteration,0
+San Francisco,Management: Forest Selection,Forest Harvest,2003,2003,0,Timestep and iteration,0
+San Francisco,Management: Forest Selection,Forest Harvest,2004,2004,0,Timestep and iteration,0
+San Francisco,Management: Forest Selection,Forest Harvest,2005,2005,0,Timestep and iteration,0
+San Francisco,Management: Forest Selection,Forest Harvest,2006,2006,0,Timestep and iteration,0
+San Francisco,Management: Forest Selection,Forest Harvest,2007,2007,0,Timestep and iteration,0
+San Francisco,Management: Forest Selection,Forest Harvest,2008,2008,0,Timestep and iteration,0
+San Francisco,Management: Forest Selection,Forest Harvest,2009,2009,0,Timestep and iteration,0
+San Francisco,Management: Forest Selection,Forest Harvest,2010,2010,0,Timestep and iteration,0
+San Francisco,Management: Forest Selection,Forest Harvest,2011,2011,0,Timestep and iteration,0
+San Francisco,Management: Forest Selection,Forest Harvest,2012,2012,0,Timestep and iteration,0
+San Francisco,Management: Forest Selection,Forest Harvest,2013,2013,0,Timestep and iteration,0
+San Francisco,Management: Forest Selection,Forest Harvest,2014,2014,0,Timestep and iteration,0
+San Francisco,Management: Forest Selection,Forest Harvest,2015,2015,0,Timestep and iteration,0
+San Francisco,Management: Forest Selection,Forest Harvest,2016,2016,0,Timestep and iteration,0
+San Joaquin,Management: Forest Selection,Forest Harvest,1999,1999,0,Timestep and iteration,0
+San Joaquin,Management: Forest Selection,Forest Harvest,2000,2000,0,Timestep and iteration,0
+San Joaquin,Management: Forest Selection,Forest Harvest,2001,2001,0,Timestep and iteration,0
+San Joaquin,Management: Forest Selection,Forest Harvest,2002,2002,0,Timestep and iteration,0
+San Joaquin,Management: Forest Selection,Forest Harvest,2003,2003,0,Timestep and iteration,0
+San Joaquin,Management: Forest Selection,Forest Harvest,2004,2004,0,Timestep and iteration,0
+San Joaquin,Management: Forest Selection,Forest Harvest,2005,2005,0,Timestep and iteration,0
+San Joaquin,Management: Forest Selection,Forest Harvest,2006,2006,0,Timestep and iteration,0
+San Joaquin,Management: Forest Selection,Forest Harvest,2007,2007,0,Timestep and iteration,0
+San Joaquin,Management: Forest Selection,Forest Harvest,2008,2008,0,Timestep and iteration,0
+San Joaquin,Management: Forest Selection,Forest Harvest,2009,2009,0,Timestep and iteration,0
+San Joaquin,Management: Forest Selection,Forest Harvest,2010,2010,0,Timestep and iteration,0
+San Joaquin,Management: Forest Selection,Forest Harvest,2011,2011,0,Timestep and iteration,0
+San Joaquin,Management: Forest Selection,Forest Harvest,2012,2012,0,Timestep and iteration,0
+San Joaquin,Management: Forest Selection,Forest Harvest,2013,2013,0,Timestep and iteration,0
+San Joaquin,Management: Forest Selection,Forest Harvest,2014,2014,0,Timestep and iteration,0
+San Joaquin,Management: Forest Selection,Forest Harvest,2015,2015,0,Timestep and iteration,0
+San Joaquin,Management: Forest Selection,Forest Harvest,2016,2016,0,Timestep and iteration,0
+San Luis Obispo,Management: Forest Selection,Forest Harvest,1999,1999,0,Timestep and iteration,0
+San Luis Obispo,Management: Forest Selection,Forest Harvest,2000,2000,0,Timestep and iteration,0
+San Luis Obispo,Management: Forest Selection,Forest Harvest,2001,2001,0,Timestep and iteration,0
+San Luis Obispo,Management: Forest Selection,Forest Harvest,2002,2002,0,Timestep and iteration,0
+San Luis Obispo,Management: Forest Selection,Forest Harvest,2003,2003,0,Timestep and iteration,0
+San Luis Obispo,Management: Forest Selection,Forest Harvest,2004,2004,0,Timestep and iteration,0
+San Luis Obispo,Management: Forest Selection,Forest Harvest,2005,2005,0,Timestep and iteration,0
+San Luis Obispo,Management: Forest Selection,Forest Harvest,2006,2006,0,Timestep and iteration,0
+San Luis Obispo,Management: Forest Selection,Forest Harvest,2007,2007,0,Timestep and iteration,0
+San Luis Obispo,Management: Forest Selection,Forest Harvest,2008,2008,0,Timestep and iteration,0
+San Luis Obispo,Management: Forest Selection,Forest Harvest,2009,2009,0,Timestep and iteration,0
+San Luis Obispo,Management: Forest Selection,Forest Harvest,2010,2010,0,Timestep and iteration,0
+San Luis Obispo,Management: Forest Selection,Forest Harvest,2011,2011,0,Timestep and iteration,0
+San Luis Obispo,Management: Forest Selection,Forest Harvest,2012,2012,0,Timestep and iteration,0
+San Luis Obispo,Management: Forest Selection,Forest Harvest,2013,2013,0,Timestep and iteration,0
+San Luis Obispo,Management: Forest Selection,Forest Harvest,2014,2014,0,Timestep and iteration,0
+San Luis Obispo,Management: Forest Selection,Forest Harvest,2015,2015,0,Timestep and iteration,0
+San Luis Obispo,Management: Forest Selection,Forest Harvest,2016,2016,0,Timestep and iteration,0
+San Mateo,Management: Forest Selection,Forest Harvest,1999,1999,100,Timestep and iteration,50
+San Mateo,Management: Forest Selection,Forest Harvest,2000,2000,100,Timestep and iteration,50
+San Mateo,Management: Forest Selection,Forest Harvest,2001,2001,0,Timestep and iteration,0
+San Mateo,Management: Forest Selection,Forest Harvest,2002,2002,500,Timestep and iteration,250
+San Mateo,Management: Forest Selection,Forest Harvest,2003,2003,0,Timestep and iteration,0
+San Mateo,Management: Forest Selection,Forest Harvest,2004,2004,100,Timestep and iteration,50
+San Mateo,Management: Forest Selection,Forest Harvest,2005,2005,200,Timestep and iteration,100
+San Mateo,Management: Forest Selection,Forest Harvest,2006,2006,0,Timestep and iteration,0
+San Mateo,Management: Forest Selection,Forest Harvest,2007,2007,0,Timestep and iteration,0
+San Mateo,Management: Forest Selection,Forest Harvest,2008,2008,0,Timestep and iteration,0
+San Mateo,Management: Forest Selection,Forest Harvest,2009,2009,0,Timestep and iteration,0
+San Mateo,Management: Forest Selection,Forest Harvest,2010,2010,0,Timestep and iteration,0
+San Mateo,Management: Forest Selection,Forest Harvest,2011,2011,400,Timestep and iteration,200
+San Mateo,Management: Forest Selection,Forest Harvest,2012,2012,0,Timestep and iteration,0
+San Mateo,Management: Forest Selection,Forest Harvest,2013,2013,0,Timestep and iteration,0
+San Mateo,Management: Forest Selection,Forest Harvest,2014,2014,0,Timestep and iteration,0
+San Mateo,Management: Forest Selection,Forest Harvest,2015,2015,300,Timestep and iteration,150
+San Mateo,Management: Forest Selection,Forest Harvest,2016,2016,200,Timestep and iteration,100
+Santa Barbara,Management: Forest Selection,Forest Harvest,1999,1999,0,Timestep and iteration,0
+Santa Barbara,Management: Forest Selection,Forest Harvest,2000,2000,0,Timestep and iteration,0
+Santa Barbara,Management: Forest Selection,Forest Harvest,2001,2001,0,Timestep and iteration,0
+Santa Barbara,Management: Forest Selection,Forest Harvest,2002,2002,0,Timestep and iteration,0
+Santa Barbara,Management: Forest Selection,Forest Harvest,2003,2003,0,Timestep and iteration,0
+Santa Barbara,Management: Forest Selection,Forest Harvest,2004,2004,0,Timestep and iteration,0
+Santa Barbara,Management: Forest Selection,Forest Harvest,2005,2005,0,Timestep and iteration,0
+Santa Barbara,Management: Forest Selection,Forest Harvest,2006,2006,0,Timestep and iteration,0
+Santa Barbara,Management: Forest Selection,Forest Harvest,2007,2007,0,Timestep and iteration,0
+Santa Barbara,Management: Forest Selection,Forest Harvest,2008,2008,0,Timestep and iteration,0
+Santa Barbara,Management: Forest Selection,Forest Harvest,2009,2009,0,Timestep and iteration,0
+Santa Barbara,Management: Forest Selection,Forest Harvest,2010,2010,0,Timestep and iteration,0
+Santa Barbara,Management: Forest Selection,Forest Harvest,2011,2011,0,Timestep and iteration,0
+Santa Barbara,Management: Forest Selection,Forest Harvest,2012,2012,0,Timestep and iteration,0
+Santa Barbara,Management: Forest Selection,Forest Harvest,2013,2013,0,Timestep and iteration,0
+Santa Barbara,Management: Forest Selection,Forest Harvest,2014,2014,0,Timestep and iteration,0
+Santa Barbara,Management: Forest Selection,Forest Harvest,2015,2015,0,Timestep and iteration,0
+Santa Barbara,Management: Forest Selection,Forest Harvest,2016,2016,0,Timestep and iteration,0
+Santa Clara,Management: Forest Selection,Forest Harvest,1999,1999,0,Timestep and iteration,0
+Santa Clara,Management: Forest Selection,Forest Harvest,2000,2000,200,Timestep and iteration,100
+Santa Clara,Management: Forest Selection,Forest Harvest,2001,2001,200,Timestep and iteration,100
+Santa Clara,Management: Forest Selection,Forest Harvest,2002,2002,100,Timestep and iteration,50
+Santa Clara,Management: Forest Selection,Forest Harvest,2003,2003,0,Timestep and iteration,0
+Santa Clara,Management: Forest Selection,Forest Harvest,2004,2004,0,Timestep and iteration,0
+Santa Clara,Management: Forest Selection,Forest Harvest,2005,2005,0,Timestep and iteration,0
+Santa Clara,Management: Forest Selection,Forest Harvest,2006,2006,0,Timestep and iteration,0
+Santa Clara,Management: Forest Selection,Forest Harvest,2007,2007,500,Timestep and iteration,250
+Santa Clara,Management: Forest Selection,Forest Harvest,2008,2008,0,Timestep and iteration,0
+Santa Clara,Management: Forest Selection,Forest Harvest,2009,2009,0,Timestep and iteration,0
+Santa Clara,Management: Forest Selection,Forest Harvest,2010,2010,0,Timestep and iteration,0
+Santa Clara,Management: Forest Selection,Forest Harvest,2011,2011,0,Timestep and iteration,0
+Santa Clara,Management: Forest Selection,Forest Harvest,2012,2012,100,Timestep and iteration,50
+Santa Clara,Management: Forest Selection,Forest Harvest,2013,2013,0,Timestep and iteration,0
+Santa Clara,Management: Forest Selection,Forest Harvest,2014,2014,0,Timestep and iteration,0
+Santa Clara,Management: Forest Selection,Forest Harvest,2015,2015,0,Timestep and iteration,0
+Santa Clara,Management: Forest Selection,Forest Harvest,2016,2016,0,Timestep and iteration,0
+Santa Cruz,Management: Forest Selection,Forest Harvest,1999,1999,200,Timestep and iteration,100
+Santa Cruz,Management: Forest Selection,Forest Harvest,2000,2000,300,Timestep and iteration,150
+Santa Cruz,Management: Forest Selection,Forest Harvest,2001,2001,700,Timestep and iteration,350
+Santa Cruz,Management: Forest Selection,Forest Harvest,2002,2002,600,Timestep and iteration,300
+Santa Cruz,Management: Forest Selection,Forest Harvest,2003,2003,600,Timestep and iteration,300
+Santa Cruz,Management: Forest Selection,Forest Harvest,2004,2004,0,Timestep and iteration,0
+Santa Cruz,Management: Forest Selection,Forest Harvest,2005,2005,200,Timestep and iteration,100
+Santa Cruz,Management: Forest Selection,Forest Harvest,2006,2006,0,Timestep and iteration,0
+Santa Cruz,Management: Forest Selection,Forest Harvest,2007,2007,200,Timestep and iteration,100
+Santa Cruz,Management: Forest Selection,Forest Harvest,2008,2008,300,Timestep and iteration,150
+Santa Cruz,Management: Forest Selection,Forest Harvest,2009,2009,100,Timestep and iteration,50
+Santa Cruz,Management: Forest Selection,Forest Harvest,2010,2010,200,Timestep and iteration,100
+Santa Cruz,Management: Forest Selection,Forest Harvest,2011,2011,800,Timestep and iteration,400
+Santa Cruz,Management: Forest Selection,Forest Harvest,2012,2012,700,Timestep and iteration,350
+Santa Cruz,Management: Forest Selection,Forest Harvest,2013,2013,0,Timestep and iteration,0
+Santa Cruz,Management: Forest Selection,Forest Harvest,2014,2014,0,Timestep and iteration,0
+Santa Cruz,Management: Forest Selection,Forest Harvest,2015,2015,300,Timestep and iteration,150
+Santa Cruz,Management: Forest Selection,Forest Harvest,2016,2016,700,Timestep and iteration,350
+Shasta,Management: Forest Selection,Forest Harvest,1999,1999,200,Timestep and iteration,100
+Shasta,Management: Forest Selection,Forest Harvest,2000,2000,900,Timestep and iteration,450
+Shasta,Management: Forest Selection,Forest Harvest,2001,2001,500,Timestep and iteration,250
+Shasta,Management: Forest Selection,Forest Harvest,2002,2002,800,Timestep and iteration,400
+Shasta,Management: Forest Selection,Forest Harvest,2003,2003,2200,Timestep and iteration,1100
+Shasta,Management: Forest Selection,Forest Harvest,2004,2004,2700,Timestep and iteration,1350
+Shasta,Management: Forest Selection,Forest Harvest,2005,2005,3200,Timestep and iteration,1600
+Shasta,Management: Forest Selection,Forest Harvest,2006,2006,1900,Timestep and iteration,950
+Shasta,Management: Forest Selection,Forest Harvest,2007,2007,2000,Timestep and iteration,1000
+Shasta,Management: Forest Selection,Forest Harvest,2008,2008,7600,Timestep and iteration,3800
+Shasta,Management: Forest Selection,Forest Harvest,2009,2009,3700,Timestep and iteration,1850
+Shasta,Management: Forest Selection,Forest Harvest,2010,2010,1500,Timestep and iteration,750
+Shasta,Management: Forest Selection,Forest Harvest,2011,2011,5000,Timestep and iteration,2500
+Shasta,Management: Forest Selection,Forest Harvest,2012,2012,2000,Timestep and iteration,1000
+Shasta,Management: Forest Selection,Forest Harvest,2013,2013,1800,Timestep and iteration,900
+Shasta,Management: Forest Selection,Forest Harvest,2014,2014,1100,Timestep and iteration,550
+Shasta,Management: Forest Selection,Forest Harvest,2015,2015,1400,Timestep and iteration,700
+Shasta,Management: Forest Selection,Forest Harvest,2016,2016,2800,Timestep and iteration,1400
+Sierra Valley,Management: Forest Selection,Forest Harvest,1999,1999,900,Timestep and iteration,450
+Sierra Valley,Management: Forest Selection,Forest Harvest,2000,2000,1100,Timestep and iteration,550
+Sierra Valley,Management: Forest Selection,Forest Harvest,2001,2001,400,Timestep and iteration,200
+Sierra Valley,Management: Forest Selection,Forest Harvest,2002,2002,1000,Timestep and iteration,500
+Sierra Valley,Management: Forest Selection,Forest Harvest,2003,2003,1000,Timestep and iteration,500
+Sierra Valley,Management: Forest Selection,Forest Harvest,2004,2004,1500,Timestep and iteration,750
+Sierra Valley,Management: Forest Selection,Forest Harvest,2005,2005,1200,Timestep and iteration,600
+Sierra Valley,Management: Forest Selection,Forest Harvest,2006,2006,800,Timestep and iteration,400
+Sierra Valley,Management: Forest Selection,Forest Harvest,2007,2007,1200,Timestep and iteration,600
+Sierra Valley,Management: Forest Selection,Forest Harvest,2008,2008,1900,Timestep and iteration,950
+Sierra Valley,Management: Forest Selection,Forest Harvest,2009,2009,400,Timestep and iteration,200
+Sierra Valley,Management: Forest Selection,Forest Harvest,2010,2010,700,Timestep and iteration,350
+Sierra Valley,Management: Forest Selection,Forest Harvest,2011,2011,700,Timestep and iteration,350
+Sierra Valley,Management: Forest Selection,Forest Harvest,2012,2012,600,Timestep and iteration,300
+Sierra Valley,Management: Forest Selection,Forest Harvest,2013,2013,500,Timestep and iteration,250
+Sierra Valley,Management: Forest Selection,Forest Harvest,2014,2014,0,Timestep and iteration,0
+Sierra Valley,Management: Forest Selection,Forest Harvest,2015,2015,500,Timestep and iteration,250
+Sierra Valley,Management: Forest Selection,Forest Harvest,2016,2016,100,Timestep and iteration,50
+Siskiyou,Management: Forest Selection,Forest Harvest,1999,1999,1100,Timestep and iteration,550
+Siskiyou,Management: Forest Selection,Forest Harvest,2000,2000,3100,Timestep and iteration,1550
+Siskiyou,Management: Forest Selection,Forest Harvest,2001,2001,3500,Timestep and iteration,1750
+Siskiyou,Management: Forest Selection,Forest Harvest,2002,2002,2700,Timestep and iteration,1350
+Siskiyou,Management: Forest Selection,Forest Harvest,2003,2003,3100,Timestep and iteration,1550
+Siskiyou,Management: Forest Selection,Forest Harvest,2004,2004,4300,Timestep and iteration,2150
+Siskiyou,Management: Forest Selection,Forest Harvest,2005,2005,4000,Timestep and iteration,2000
+Siskiyou,Management: Forest Selection,Forest Harvest,2006,2006,7100,Timestep and iteration,3550
+Siskiyou,Management: Forest Selection,Forest Harvest,2007,2007,10900,Timestep and iteration,5450
+Siskiyou,Management: Forest Selection,Forest Harvest,2008,2008,9500,Timestep and iteration,4750
+Siskiyou,Management: Forest Selection,Forest Harvest,2009,2009,3400,Timestep and iteration,1700
+Siskiyou,Management: Forest Selection,Forest Harvest,2010,2010,1300,Timestep and iteration,650
+Siskiyou,Management: Forest Selection,Forest Harvest,2011,2011,7500,Timestep and iteration,3750
+Siskiyou,Management: Forest Selection,Forest Harvest,2012,2012,2300,Timestep and iteration,1150
+Siskiyou,Management: Forest Selection,Forest Harvest,2013,2013,2000,Timestep and iteration,1000
+Siskiyou,Management: Forest Selection,Forest Harvest,2014,2014,2100,Timestep and iteration,1050
+Siskiyou,Management: Forest Selection,Forest Harvest,2015,2015,6100,Timestep and iteration,3050
+Siskiyou,Management: Forest Selection,Forest Harvest,2016,2016,5200,Timestep and iteration,2600
+Solano,Management: Forest Selection,Forest Harvest,1999,1999,0,Timestep and iteration,0
+Solano,Management: Forest Selection,Forest Harvest,2000,2000,0,Timestep and iteration,0
+Solano,Management: Forest Selection,Forest Harvest,2001,2001,0,Timestep and iteration,0
+Solano,Management: Forest Selection,Forest Harvest,2002,2002,0,Timestep and iteration,0
+Solano,Management: Forest Selection,Forest Harvest,2003,2003,0,Timestep and iteration,0
+Solano,Management: Forest Selection,Forest Harvest,2004,2004,0,Timestep and iteration,0
+Solano,Management: Forest Selection,Forest Harvest,2005,2005,0,Timestep and iteration,0
+Solano,Management: Forest Selection,Forest Harvest,2006,2006,0,Timestep and iteration,0
+Solano,Management: Forest Selection,Forest Harvest,2007,2007,0,Timestep and iteration,0
+Solano,Management: Forest Selection,Forest Harvest,2008,2008,0,Timestep and iteration,0
+Solano,Management: Forest Selection,Forest Harvest,2009,2009,0,Timestep and iteration,0
+Solano,Management: Forest Selection,Forest Harvest,2010,2010,0,Timestep and iteration,0
+Solano,Management: Forest Selection,Forest Harvest,2011,2011,0,Timestep and iteration,0
+Solano,Management: Forest Selection,Forest Harvest,2012,2012,0,Timestep and iteration,0
+Solano,Management: Forest Selection,Forest Harvest,2013,2013,0,Timestep and iteration,0
+Solano,Management: Forest Selection,Forest Harvest,2014,2014,0,Timestep and iteration,0
+Solano,Management: Forest Selection,Forest Harvest,2015,2015,0,Timestep and iteration,0
+Solano,Management: Forest Selection,Forest Harvest,2016,2016,0,Timestep and iteration,0
+Sonoma,Management: Forest Selection,Forest Harvest,1999,1999,200,Timestep and iteration,100
+Sonoma,Management: Forest Selection,Forest Harvest,2000,2000,200,Timestep and iteration,100
+Sonoma,Management: Forest Selection,Forest Harvest,2001,2001,200,Timestep and iteration,100
+Sonoma,Management: Forest Selection,Forest Harvest,2002,2002,400,Timestep and iteration,200
+Sonoma,Management: Forest Selection,Forest Harvest,2003,2003,500,Timestep and iteration,250
+Sonoma,Management: Forest Selection,Forest Harvest,2004,2004,500,Timestep and iteration,250
+Sonoma,Management: Forest Selection,Forest Harvest,2005,2005,0,Timestep and iteration,0
+Sonoma,Management: Forest Selection,Forest Harvest,2006,2006,400,Timestep and iteration,200
+Sonoma,Management: Forest Selection,Forest Harvest,2007,2007,400,Timestep and iteration,200
+Sonoma,Management: Forest Selection,Forest Harvest,2008,2008,0,Timestep and iteration,0
+Sonoma,Management: Forest Selection,Forest Harvest,2009,2009,100,Timestep and iteration,50
+Sonoma,Management: Forest Selection,Forest Harvest,2010,2010,400,Timestep and iteration,200
+Sonoma,Management: Forest Selection,Forest Harvest,2011,2011,0,Timestep and iteration,0
+Sonoma,Management: Forest Selection,Forest Harvest,2012,2012,300,Timestep and iteration,150
+Sonoma,Management: Forest Selection,Forest Harvest,2013,2013,0,Timestep and iteration,0
+Sonoma,Management: Forest Selection,Forest Harvest,2014,2014,0,Timestep and iteration,0
+Sonoma,Management: Forest Selection,Forest Harvest,2015,2015,300,Timestep and iteration,150
+Sonoma,Management: Forest Selection,Forest Harvest,2016,2016,100,Timestep and iteration,50
+Stanislaus,Management: Forest Selection,Forest Harvest,1999,1999,0,Timestep and iteration,0
+Stanislaus,Management: Forest Selection,Forest Harvest,2000,2000,0,Timestep and iteration,0
+Stanislaus,Management: Forest Selection,Forest Harvest,2001,2001,0,Timestep and iteration,0
+Stanislaus,Management: Forest Selection,Forest Harvest,2002,2002,0,Timestep and iteration,0
+Stanislaus,Management: Forest Selection,Forest Harvest,2003,2003,0,Timestep and iteration,0
+Stanislaus,Management: Forest Selection,Forest Harvest,2004,2004,0,Timestep and iteration,0
+Stanislaus,Management: Forest Selection,Forest Harvest,2005,2005,0,Timestep and iteration,0
+Stanislaus,Management: Forest Selection,Forest Harvest,2006,2006,0,Timestep and iteration,0
+Stanislaus,Management: Forest Selection,Forest Harvest,2007,2007,0,Timestep and iteration,0
+Stanislaus,Management: Forest Selection,Forest Harvest,2008,2008,0,Timestep and iteration,0
+Stanislaus,Management: Forest Selection,Forest Harvest,2009,2009,0,Timestep and iteration,0
+Stanislaus,Management: Forest Selection,Forest Harvest,2010,2010,0,Timestep and iteration,0
+Stanislaus,Management: Forest Selection,Forest Harvest,2011,2011,0,Timestep and iteration,0
+Stanislaus,Management: Forest Selection,Forest Harvest,2012,2012,0,Timestep and iteration,0
+Stanislaus,Management: Forest Selection,Forest Harvest,2013,2013,0,Timestep and iteration,0
+Stanislaus,Management: Forest Selection,Forest Harvest,2014,2014,0,Timestep and iteration,0
+Stanislaus,Management: Forest Selection,Forest Harvest,2015,2015,0,Timestep and iteration,0
+Stanislaus,Management: Forest Selection,Forest Harvest,2016,2016,0,Timestep and iteration,0
+Sutter,Management: Forest Selection,Forest Harvest,1999,1999,0,Timestep and iteration,0
+Sutter,Management: Forest Selection,Forest Harvest,2000,2000,0,Timestep and iteration,0
+Sutter,Management: Forest Selection,Forest Harvest,2001,2001,0,Timestep and iteration,0
+Sutter,Management: Forest Selection,Forest Harvest,2002,2002,0,Timestep and iteration,0
+Sutter,Management: Forest Selection,Forest Harvest,2003,2003,0,Timestep and iteration,0
+Sutter,Management: Forest Selection,Forest Harvest,2004,2004,0,Timestep and iteration,0
+Sutter,Management: Forest Selection,Forest Harvest,2005,2005,0,Timestep and iteration,0
+Sutter,Management: Forest Selection,Forest Harvest,2006,2006,0,Timestep and iteration,0
+Sutter,Management: Forest Selection,Forest Harvest,2007,2007,0,Timestep and iteration,0
+Sutter,Management: Forest Selection,Forest Harvest,2008,2008,0,Timestep and iteration,0
+Sutter,Management: Forest Selection,Forest Harvest,2009,2009,0,Timestep and iteration,0
+Sutter,Management: Forest Selection,Forest Harvest,2010,2010,0,Timestep and iteration,0
+Sutter,Management: Forest Selection,Forest Harvest,2011,2011,0,Timestep and iteration,0
+Sutter,Management: Forest Selection,Forest Harvest,2012,2012,0,Timestep and iteration,0
+Sutter,Management: Forest Selection,Forest Harvest,2013,2013,0,Timestep and iteration,0
+Sutter,Management: Forest Selection,Forest Harvest,2014,2014,0,Timestep and iteration,0
+Sutter,Management: Forest Selection,Forest Harvest,2015,2015,0,Timestep and iteration,0
+Sutter,Management: Forest Selection,Forest Harvest,2016,2016,0,Timestep and iteration,0
+Tehama,Management: Forest Selection,Forest Harvest,1999,1999,0,Timestep and iteration,0
+Tehama,Management: Forest Selection,Forest Harvest,2000,2000,0,Timestep and iteration,0
+Tehama,Management: Forest Selection,Forest Harvest,2001,2001,200,Timestep and iteration,100
+Tehama,Management: Forest Selection,Forest Harvest,2002,2002,1900,Timestep and iteration,950
+Tehama,Management: Forest Selection,Forest Harvest,2003,2003,100,Timestep and iteration,50
+Tehama,Management: Forest Selection,Forest Harvest,2004,2004,500,Timestep and iteration,250
+Tehama,Management: Forest Selection,Forest Harvest,2005,2005,100,Timestep and iteration,50
+Tehama,Management: Forest Selection,Forest Harvest,2006,2006,600,Timestep and iteration,300
+Tehama,Management: Forest Selection,Forest Harvest,2007,2007,200,Timestep and iteration,100
+Tehama,Management: Forest Selection,Forest Harvest,2008,2008,900,Timestep and iteration,450
+Tehama,Management: Forest Selection,Forest Harvest,2009,2009,1100,Timestep and iteration,550
+Tehama,Management: Forest Selection,Forest Harvest,2010,2010,200,Timestep and iteration,100
+Tehama,Management: Forest Selection,Forest Harvest,2011,2011,0,Timestep and iteration,0
+Tehama,Management: Forest Selection,Forest Harvest,2012,2012,200,Timestep and iteration,100
+Tehama,Management: Forest Selection,Forest Harvest,2013,2013,0,Timestep and iteration,0
+Tehama,Management: Forest Selection,Forest Harvest,2014,2014,100,Timestep and iteration,50
+Tehama,Management: Forest Selection,Forest Harvest,2015,2015,200,Timestep and iteration,100
+Tehama,Management: Forest Selection,Forest Harvest,2016,2016,0,Timestep and iteration,0
+Trinity,Management: Forest Selection,Forest Harvest,1999,1999,400,Timestep and iteration,200
+Trinity,Management: Forest Selection,Forest Harvest,2000,2000,200,Timestep and iteration,100
+Trinity,Management: Forest Selection,Forest Harvest,2001,2001,700,Timestep and iteration,350
+Trinity,Management: Forest Selection,Forest Harvest,2002,2002,100,Timestep and iteration,50
+Trinity,Management: Forest Selection,Forest Harvest,2003,2003,200,Timestep and iteration,100
+Trinity,Management: Forest Selection,Forest Harvest,2004,2004,400,Timestep and iteration,200
+Trinity,Management: Forest Selection,Forest Harvest,2005,2005,900,Timestep and iteration,450
+Trinity,Management: Forest Selection,Forest Harvest,2006,2006,300,Timestep and iteration,150
+Trinity,Management: Forest Selection,Forest Harvest,2007,2007,800,Timestep and iteration,400
+Trinity,Management: Forest Selection,Forest Harvest,2008,2008,1500,Timestep and iteration,750
+Trinity,Management: Forest Selection,Forest Harvest,2009,2009,200,Timestep and iteration,100
+Trinity,Management: Forest Selection,Forest Harvest,2010,2010,0,Timestep and iteration,0
+Trinity,Management: Forest Selection,Forest Harvest,2011,2011,400,Timestep and iteration,200
+Trinity,Management: Forest Selection,Forest Harvest,2012,2012,800,Timestep and iteration,400
+Trinity,Management: Forest Selection,Forest Harvest,2013,2013,300,Timestep and iteration,150
+Trinity,Management: Forest Selection,Forest Harvest,2014,2014,200,Timestep and iteration,100
+Trinity,Management: Forest Selection,Forest Harvest,2015,2015,400,Timestep and iteration,200
+Trinity,Management: Forest Selection,Forest Harvest,2016,2016,400,Timestep and iteration,200
+Tulare,Management: Forest Selection,Forest Harvest,1999,1999,700,Timestep and iteration,350
+Tulare,Management: Forest Selection,Forest Harvest,2000,2000,300,Timestep and iteration,150
+Tulare,Management: Forest Selection,Forest Harvest,2001,2001,300,Timestep and iteration,150
+Tulare,Management: Forest Selection,Forest Harvest,2002,2002,600,Timestep and iteration,300
+Tulare,Management: Forest Selection,Forest Harvest,2003,2003,100,Timestep and iteration,50
+Tulare,Management: Forest Selection,Forest Harvest,2004,2004,700,Timestep and iteration,350
+Tulare,Management: Forest Selection,Forest Harvest,2005,2005,200,Timestep and iteration,100
+Tulare,Management: Forest Selection,Forest Harvest,2006,2006,600,Timestep and iteration,300
+Tulare,Management: Forest Selection,Forest Harvest,2007,2007,400,Timestep and iteration,200
+Tulare,Management: Forest Selection,Forest Harvest,2008,2008,400,Timestep and iteration,200
+Tulare,Management: Forest Selection,Forest Harvest,2009,2009,400,Timestep and iteration,200
+Tulare,Management: Forest Selection,Forest Harvest,2010,2010,300,Timestep and iteration,150
+Tulare,Management: Forest Selection,Forest Harvest,2011,2011,500,Timestep and iteration,250
+Tulare,Management: Forest Selection,Forest Harvest,2012,2012,1100,Timestep and iteration,550
+Tulare,Management: Forest Selection,Forest Harvest,2013,2013,1500,Timestep and iteration,750
+Tulare,Management: Forest Selection,Forest Harvest,2014,2014,0,Timestep and iteration,0
+Tulare,Management: Forest Selection,Forest Harvest,2015,2015,0,Timestep and iteration,0
+Tulare,Management: Forest Selection,Forest Harvest,2016,2016,2100,Timestep and iteration,1050
+Tuolumne,Management: Forest Selection,Forest Harvest,1999,1999,4200,Timestep and iteration,2100
+Tuolumne,Management: Forest Selection,Forest Harvest,2000,2000,1000,Timestep and iteration,500
+Tuolumne,Management: Forest Selection,Forest Harvest,2001,2001,900,Timestep and iteration,450
+Tuolumne,Management: Forest Selection,Forest Harvest,2002,2002,1600,Timestep and iteration,800
+Tuolumne,Management: Forest Selection,Forest Harvest,2003,2003,7500,Timestep and iteration,3750
+Tuolumne,Management: Forest Selection,Forest Harvest,2004,2004,2100,Timestep and iteration,1050
+Tuolumne,Management: Forest Selection,Forest Harvest,2005,2005,400,Timestep and iteration,200
+Tuolumne,Management: Forest Selection,Forest Harvest,2006,2006,2800,Timestep and iteration,1400
+Tuolumne,Management: Forest Selection,Forest Harvest,2007,2007,2300,Timestep and iteration,1150
+Tuolumne,Management: Forest Selection,Forest Harvest,2008,2008,2700,Timestep and iteration,1350
+Tuolumne,Management: Forest Selection,Forest Harvest,2009,2009,1900,Timestep and iteration,950
+Tuolumne,Management: Forest Selection,Forest Harvest,2010,2010,500,Timestep and iteration,250
+Tuolumne,Management: Forest Selection,Forest Harvest,2011,2011,300,Timestep and iteration,150
+Tuolumne,Management: Forest Selection,Forest Harvest,2012,2012,0,Timestep and iteration,0
+Tuolumne,Management: Forest Selection,Forest Harvest,2013,2013,0,Timestep and iteration,0
+Tuolumne,Management: Forest Selection,Forest Harvest,2014,2014,0,Timestep and iteration,0
+Tuolumne,Management: Forest Selection,Forest Harvest,2015,2015,1300,Timestep and iteration,650
+Tuolumne,Management: Forest Selection,Forest Harvest,2016,2016,500,Timestep and iteration,250
+Ventura,Management: Forest Selection,Forest Harvest,1999,1999,0,Timestep and iteration,0
+Ventura,Management: Forest Selection,Forest Harvest,2000,2000,0,Timestep and iteration,0
+Ventura,Management: Forest Selection,Forest Harvest,2001,2001,0,Timestep and iteration,0
+Ventura,Management: Forest Selection,Forest Harvest,2002,2002,0,Timestep and iteration,0
+Ventura,Management: Forest Selection,Forest Harvest,2003,2003,0,Timestep and iteration,0
+Ventura,Management: Forest Selection,Forest Harvest,2004,2004,0,Timestep and iteration,0
+Ventura,Management: Forest Selection,Forest Harvest,2005,2005,0,Timestep and iteration,0
+Ventura,Management: Forest Selection,Forest Harvest,2006,2006,0,Timestep and iteration,0
+Ventura,Management: Forest Selection,Forest Harvest,2007,2007,0,Timestep and iteration,0
+Ventura,Management: Forest Selection,Forest Harvest,2008,2008,0,Timestep and iteration,0
+Ventura,Management: Forest Selection,Forest Harvest,2009,2009,0,Timestep and iteration,0
+Ventura,Management: Forest Selection,Forest Harvest,2010,2010,0,Timestep and iteration,0
+Ventura,Management: Forest Selection,Forest Harvest,2011,2011,0,Timestep and iteration,0
+Ventura,Management: Forest Selection,Forest Harvest,2012,2012,0,Timestep and iteration,0
+Ventura,Management: Forest Selection,Forest Harvest,2013,2013,0,Timestep and iteration,0
+Ventura,Management: Forest Selection,Forest Harvest,2014,2014,0,Timestep and iteration,0
+Ventura,Management: Forest Selection,Forest Harvest,2015,2015,300,Timestep and iteration,150
+Ventura,Management: Forest Selection,Forest Harvest,2016,2016,0,Timestep and iteration,0
+Yolo,Management: Forest Selection,Forest Harvest,1999,1999,0,Timestep and iteration,0
+Yolo,Management: Forest Selection,Forest Harvest,2000,2000,0,Timestep and iteration,0
+Yolo,Management: Forest Selection,Forest Harvest,2001,2001,0,Timestep and iteration,0
+Yolo,Management: Forest Selection,Forest Harvest,2002,2002,0,Timestep and iteration,0
+Yolo,Management: Forest Selection,Forest Harvest,2003,2003,0,Timestep and iteration,0
+Yolo,Management: Forest Selection,Forest Harvest,2004,2004,0,Timestep and iteration,0
+Yolo,Management: Forest Selection,Forest Harvest,2005,2005,0,Timestep and iteration,0
+Yolo,Management: Forest Selection,Forest Harvest,2006,2006,0,Timestep and iteration,0
+Yolo,Management: Forest Selection,Forest Harvest,2007,2007,0,Timestep and iteration,0
+Yolo,Management: Forest Selection,Forest Harvest,2008,2008,0,Timestep and iteration,0
+Yolo,Management: Forest Selection,Forest Harvest,2009,2009,0,Timestep and iteration,0
+Yolo,Management: Forest Selection,Forest Harvest,2010,2010,0,Timestep and iteration,0
+Yolo,Management: Forest Selection,Forest Harvest,2011,2011,0,Timestep and iteration,0
+Yolo,Management: Forest Selection,Forest Harvest,2012,2012,0,Timestep and iteration,0
+Yolo,Management: Forest Selection,Forest Harvest,2013,2013,0,Timestep and iteration,0
+Yolo,Management: Forest Selection,Forest Harvest,2014,2014,0,Timestep and iteration,0
+Yolo,Management: Forest Selection,Forest Harvest,2015,2015,0,Timestep and iteration,0
+Yolo,Management: Forest Selection,Forest Harvest,2016,2016,0,Timestep and iteration,0
+Yuba,Management: Forest Selection,Forest Harvest,1999,1999,100,Timestep and iteration,50
+Yuba,Management: Forest Selection,Forest Harvest,2000,2000,300,Timestep and iteration,150
+Yuba,Management: Forest Selection,Forest Harvest,2001,2001,100,Timestep and iteration,50
+Yuba,Management: Forest Selection,Forest Harvest,2002,2002,200,Timestep and iteration,100
+Yuba,Management: Forest Selection,Forest Harvest,2003,2003,100,Timestep and iteration,50
+Yuba,Management: Forest Selection,Forest Harvest,2004,2004,100,Timestep and iteration,50
+Yuba,Management: Forest Selection,Forest Harvest,2005,2005,200,Timestep and iteration,100
+Yuba,Management: Forest Selection,Forest Harvest,2006,2006,0,Timestep and iteration,0
+Yuba,Management: Forest Selection,Forest Harvest,2007,2007,1100,Timestep and iteration,550
+Yuba,Management: Forest Selection,Forest Harvest,2008,2008,0,Timestep and iteration,0
+Yuba,Management: Forest Selection,Forest Harvest,2009,2009,100,Timestep and iteration,50
+Yuba,Management: Forest Selection,Forest Harvest,2010,2010,0,Timestep and iteration,0
+Yuba,Management: Forest Selection,Forest Harvest,2011,2011,700,Timestep and iteration,350
+Yuba,Management: Forest Selection,Forest Harvest,2012,2012,0,Timestep and iteration,0
+Yuba,Management: Forest Selection,Forest Harvest,2013,2013,200,Timestep and iteration,100
+Yuba,Management: Forest Selection,Forest Harvest,2014,2014,0,Timestep and iteration,0
+Yuba,Management: Forest Selection,Forest Harvest,2015,2015,100,Timestep and iteration,50
+Yuba,Management: Forest Selection,Forest Harvest,2016,2016,0,Timestep and iteration,0

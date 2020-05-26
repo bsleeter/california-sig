@@ -1,0 +1,562 @@
+SecondaryStratumID,DistributionTypeID,ExternalVariableTypeID,ExternalVariableMin,ExternalVariableMax,Value,ValueDistributionTypeID,ValueDistributionFrequency,ValueDistributionSD
+Alameda,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,21.043672,Normal,Timestep and iteration,10.521836
+Alameda,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,63.738045,Normal,Timestep and iteration,31.8690225
+Alameda,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,25.697561,Normal,Timestep and iteration,12.8487805
+Alameda,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,169.36109100000002,Normal,Timestep and iteration,84.68054550000001
+Alameda,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,158.43456899999998,Normal,Timestep and iteration,79.21728449999999
+Alameda,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,181.501671,Normal,Timestep and iteration,90.7508355
+Alameda,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,161.8744,Normal,Timestep and iteration,80.9372
+Alameda,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,214.28123699999998,Normal,Timestep and iteration,107.14061849999999
+Alameda,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,49.978721,Normal,Timestep and iteration,24.9893605
+Alameda,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,79.318456,Normal,Timestep and iteration,39.659228
+Alameda,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,127.27374699999999,Normal,Timestep and iteration,63.63687349999999
+Alameda,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,56.65604,Normal,Timestep and iteration,28.32802
+Amador,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,27.720990999999998,Normal,Timestep and iteration,13.860495499999999
+Amador,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,5.867947,Normal,Timestep and iteration,2.9339735
+Amador,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,176.847782,Normal,Timestep and iteration,88.423891
+Amador,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,55.441982,Normal,Timestep and iteration,27.720991
+Amador,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,174.419666,Normal,Timestep and iteration,87.209833
+Amador,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,214.078894,Normal,Timestep and iteration,107.039447
+Amador,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,171.586864,Normal,Timestep and iteration,85.793432
+Amador,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,36.017054,Normal,Timestep and iteration,18.008527
+Amador,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,148.317419,Normal,Timestep and iteration,74.1587095
+Amador,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,24.685845999999998,Normal,Timestep and iteration,12.342922999999999
+Amador,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,46.134204,Normal,Timestep and iteration,23.067102
+Amador,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,54.025580999999995,Normal,Timestep and iteration,27.012790499999998
+Butte,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,NA,Normal,Timestep and iteration,NA
+Butte,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,NA,Normal,Timestep and iteration,NA
+Butte,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,NA,Normal,Timestep and iteration,NA
+Butte,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,6479.02286,Normal,Timestep and iteration,3239.51143
+Butte,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,4615.848516,Normal,Timestep and iteration,2307.924258
+Butte,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,NA,Normal,Timestep and iteration,NA
+Butte,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,706.17707,Normal,Timestep and iteration,353.088535
+Butte,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,548.7542159999999,Normal,Timestep and iteration,274.37710799999996
+Butte,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,801.682966,Normal,Timestep and iteration,400.841483
+Butte,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,302.502785,Normal,Timestep and iteration,151.2513925
+Butte,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,382.225927,Normal,Timestep and iteration,191.1129635
+Butte,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,243.620972,Normal,Timestep and iteration,121.810486
+Colusa,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,NA,Normal,Timestep and iteration,NA
+Colusa,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,NA,Normal,Timestep and iteration,NA
+Colusa,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,NA,Normal,Timestep and iteration,NA
+Colusa,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,893.344345,Normal,Timestep and iteration,446.6721725
+Colusa,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,101.1715,Normal,Timestep and iteration,50.58575
+Colusa,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,595.900135,Normal,Timestep and iteration,297.9500675
+Colusa,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,557.859651,Normal,Timestep and iteration,278.9298255
+Colusa,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,596.1024779999999,Normal,Timestep and iteration,298.05123899999995
+Colusa,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,292.587978,Normal,Timestep and iteration,146.293989
+Colusa,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,25.697561,Normal,Timestep and iteration,12.8487805
+Colusa,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,2266.2416,Normal,Timestep and iteration,1133.1208
+Colusa,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,478.945881,Normal,Timestep and iteration,239.4729405
+Contra Costa,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,59.286499,Normal,Timestep and iteration,29.6432495
+Contra Costa,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,54.834953,Normal,Timestep and iteration,27.4174765
+Contra Costa,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,47.752947999999996,Normal,Timestep and iteration,23.876473999999998
+Contra Costa,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,43.706088,Normal,Timestep and iteration,21.853044
+Contra Costa,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,260.213098,Normal,Timestep and iteration,130.106549
+Contra Costa,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,394.97353599999997,Normal,Timestep and iteration,197.48676799999998
+Contra Costa,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,377.774381,Normal,Timestep and iteration,188.8871905
+Contra Costa,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,350.458076,Normal,Timestep and iteration,175.229038
+Contra Costa,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,146.901018,Normal,Timestep and iteration,73.450509
+Contra Costa,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,260.010755,Normal,Timestep and iteration,130.0053775
+Contra Costa,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,42.49203,Normal,Timestep and iteration,21.246015
+Contra Costa,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,263.248243,Normal,Timestep and iteration,131.6241215
+El Dorado,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,4.451546,Normal,Timestep and iteration,2.225773
+El Dorado,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,15.985097,Normal,Timestep and iteration,7.9925485
+El Dorado,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,17.603841000000003,Normal,Timestep and iteration,8.801920500000001
+El Dorado,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,6.474976,Normal,Timestep and iteration,3.237488
+El Dorado,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,228.040561,Normal,Timestep and iteration,114.0202805
+El Dorado,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,232.69445,Normal,Timestep and iteration,116.347225
+El Dorado,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,193.439908,Normal,Timestep and iteration,96.719954
+El Dorado,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,165.516574,Normal,Timestep and iteration,82.758287
+El Dorado,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,25.495217999999998,Normal,Timestep and iteration,12.747608999999999
+El Dorado,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,47.955291,Normal,Timestep and iteration,23.9776455
+Eldorado,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,179.478241,Normal,Timestep and iteration,89.7391205
+Eldorado,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,27.316305,Normal,Timestep and iteration,13.6581525
+Fresno,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,101.373843,Normal,Timestep and iteration,50.6869215
+Fresno,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,164.707202,Normal,Timestep and iteration,82.353601
+Fresno,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,1476.092185,Normal,Timestep and iteration,738.0460925
+Fresno,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,94.089495,Normal,Timestep and iteration,47.0447475
+Fresno,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,291.980949,Normal,Timestep and iteration,145.9904745
+Fresno,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,1038.424276,Normal,Timestep and iteration,519.212138
+Fresno,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,1007.2634539999999,Normal,Timestep and iteration,503.63172699999996
+Fresno,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,946.762897,Normal,Timestep and iteration,473.3814485
+Fresno,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,1019.404034,Normal,Timestep and iteration,509.702017
+Fresno,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,293.599693,Normal,Timestep and iteration,146.7998465
+Fresno,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,250.29829099999998,Normal,Timestep and iteration,125.14914549999999
+Fresno,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,1103.174036,Normal,Timestep and iteration,551.587018
+Glenn,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,36.219397,Normal,Timestep and iteration,18.1096985
+Glenn,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,145.079931,Normal,Timestep and iteration,72.5399655
+Glenn,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,243.216286,Normal,Timestep and iteration,121.608143
+Glenn,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,143.865873,Normal,Timestep and iteration,71.9329365
+Glenn,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,853.280431,Normal,Timestep and iteration,426.6402155
+Glenn,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,231.075706,Normal,Timestep and iteration,115.537853
+Glenn,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,335.687037,Normal,Timestep and iteration,167.8435185
+Glenn,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,203.15237199999999,Normal,Timestep and iteration,101.57618599999999
+Glenn,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,455.069407,Normal,Timestep and iteration,227.5347035
+Glenn,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,154.792395,Normal,Timestep and iteration,77.3961975
+Glenn,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,340.947955,Normal,Timestep and iteration,170.4739775
+Glenn,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,152.566622,Normal,Timestep and iteration,76.283311
+Imperial,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,74.664567,Normal,Timestep and iteration,37.3322835
+Imperial,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,70.82005,Normal,Timestep and iteration,35.410025
+Imperial,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,175.229038,Normal,Timestep and iteration,87.614519
+Imperial,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,149.126791,Normal,Timestep and iteration,74.5633955
+Imperial,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,343.578414,Normal,Timestep and iteration,171.789207
+Imperial,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,1505.836606,Normal,Timestep and iteration,752.918303
+Imperial,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,426.539044,Normal,Timestep and iteration,213.269522
+Imperial,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,415.00549299999994,Normal,Timestep and iteration,207.50274649999997
+Imperial,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,233.099136,Normal,Timestep and iteration,116.549568
+Imperial,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,191.82116399999998,Normal,Timestep and iteration,95.91058199999999
+Imperial,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,206.996889,Normal,Timestep and iteration,103.4984445
+Imperial,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,69.808335,Normal,Timestep and iteration,34.9041675
+Kern,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,2848.9894400000003,Normal,Timestep and iteration,1424.4947200000001
+Kern,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,4464.698295,Normal,Timestep and iteration,2232.3491475
+Kern,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,2212.216019,Normal,Timestep and iteration,1106.1080095
+Kern,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,3617.2858109999997,Normal,Timestep and iteration,1808.6429054999999
+Kern,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,1447.7641649999998,Normal,Timestep and iteration,723.8820824999999
+Kern,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,2276.561093,Normal,Timestep and iteration,1138.2805465
+Kern,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,1818.8612269999999,Normal,Timestep and iteration,909.4306134999999
+Kern,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,6265.9556809999995,Normal,Timestep and iteration,3132.9778404999997
+Kern,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,5474.592208,Normal,Timestep and iteration,2737.296104
+Kern,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,4140.949495,Normal,Timestep and iteration,2070.4747475
+Kern,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,4515.284044999999,Normal,Timestep and iteration,2257.6420224999997
+Kern,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,1759.979414,Normal,Timestep and iteration,879.989707
+Kern,Historical Rate: Urbanization,Historical Year: Urbanization,2017,2018,2348.999887,Normal,Timestep and iteration,1174.4999435
+Kings,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,487.848973,Normal,Timestep and iteration,243.9244865
+Kings,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,2498.733707,Normal,Timestep and iteration,1249.3668535
+Kings,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,2042.450242,Normal,Timestep and iteration,1021.225121
+Kings,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,272.353678,Normal,Timestep and iteration,136.176839
+Kings,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,261.629499,Normal,Timestep and iteration,130.8147495
+Kings,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,780.841637,Normal,Timestep and iteration,390.4208185
+Kings,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,2613.462188,Normal,Timestep and iteration,1306.731094
+Kings,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,4658.542888999999,Normal,Timestep and iteration,2329.2714444999997
+Kings,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,3893.07932,Normal,Timestep and iteration,1946.53966
+Kings,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,5429.267376,Normal,Timestep and iteration,2714.633688
+Kings,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,4304.442639,Normal,Timestep and iteration,2152.2213195
+Kings,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,6067.659541,Normal,Timestep and iteration,3033.8297705
+Lake,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,318.083196,Normal,Timestep and iteration,159.041598
+Lake,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,24.28116,Normal,Timestep and iteration,12.14058
+Lake,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,266.485731,Normal,Timestep and iteration,133.2428655
+Lake,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,29.744421,Normal,Timestep and iteration,14.8722105
+Lake,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,260.820127,Normal,Timestep and iteration,130.4100635
+Lake,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,211.853121,Normal,Timestep and iteration,105.9265605
+Lake,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,341.150298,Normal,Timestep and iteration,170.575149
+Lake,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,57.263068999999994,Normal,Timestep and iteration,28.631534499999997
+Lake,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,51.799808,Normal,Timestep and iteration,25.899904
+Lake,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,111.28864999999999,Normal,Timestep and iteration,55.644324999999995
+Los Angeles,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,115.942539,Normal,Timestep and iteration,57.9712695
+Los Angeles,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,146.69867499999998,Normal,Timestep and iteration,73.34933749999999
+Los Angeles,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,454.057692,Normal,Timestep and iteration,227.028846
+Los Angeles,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,322.13005599999997,Normal,Timestep and iteration,161.06502799999998
+Los Angeles,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,965.3784529999999,Normal,Timestep and iteration,482.68922649999996
+Los Angeles,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,297.03952400000003,Normal,Timestep and iteration,148.51976200000001
+Los Angeles,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,497.966123,Normal,Timestep and iteration,248.9830615
+Los Angeles,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,846.603112,Normal,Timestep and iteration,423.301556
+Los Angeles,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,625.644556,Normal,Timestep and iteration,312.822278
+Los Angeles,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,1011.310314,Normal,Timestep and iteration,505.655157
+Los Angeles,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,655.3889770000001,Normal,Timestep and iteration,327.69448850000003
+Los Angeles,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,738.956636,Normal,Timestep and iteration,369.478318
+Madera,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,469.43576,Normal,Timestep and iteration,234.71788
+Madera,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,378.786096,Normal,Timestep and iteration,189.393048
+Madera,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,1349.020781,Normal,Timestep and iteration,674.5103905
+Madera,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,884.6435959999999,Normal,Timestep and iteration,442.32179799999994
+Madera,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,1214.058,Normal,Timestep and iteration,607.029
+Madera,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,887.274055,Normal,Timestep and iteration,443.6370275
+Madera,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,783.269753,Normal,Timestep and iteration,391.6348765
+Madera,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,838.307049,Normal,Timestep and iteration,419.1535245
+Madera,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,998.360362,Normal,Timestep and iteration,499.180181
+Madera,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,929.361399,Normal,Timestep and iteration,464.6806995
+Madera,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,395.78290799999996,Normal,Timestep and iteration,197.89145399999998
+Madera,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,459.116267,Normal,Timestep and iteration,229.5581335
+Marin,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,4.04686,Normal,Timestep and iteration,2.02343
+Marin,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,0.809372,Normal,Timestep and iteration,0.404686
+Marin,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,159.85097,Normal,Timestep and iteration,79.925485
+Marin,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,44.313117,Normal,Timestep and iteration,22.1565585
+Marin,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,156.411139,Normal,Timestep and iteration,78.2055695
+Marin,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,126.26203199999999,Normal,Timestep and iteration,63.131015999999995
+Marin,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,60.298213999999994,Normal,Timestep and iteration,30.149106999999997
+Marin,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,93.07777999999999,Normal,Timestep and iteration,46.538889999999995
+Marin,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,541.0651819999999,Normal,Timestep and iteration,270.53259099999997
+Marin,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,18.817899,Normal,Timestep and iteration,9.4089495
+Marin,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,42.694373,Normal,Timestep and iteration,21.3471865
+Marin,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,104.206645,Normal,Timestep and iteration,52.1033225
+Mariposa,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,0,Normal,Timestep and iteration,0
+Mariposa,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,0,Normal,Timestep and iteration,0
+Mariposa,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,0,Normal,Timestep and iteration,0
+Mariposa,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,0,Normal,Timestep and iteration,0
+Mariposa,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,16.389782999999998,Normal,Timestep and iteration,8.194891499999999
+Mariposa,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,11.533551,Normal,Timestep and iteration,5.7667755
+Mariposa,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,21.043672,Normal,Timestep and iteration,10.521836
+Mariposa,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,0,Normal,Timestep and iteration,0
+Mariposa,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,1.821087,Normal,Timestep and iteration,0.9105435
+Mariposa,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,0,Normal,Timestep and iteration,0
+Mariposa,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,2.6304589999999997,Normal,Timestep and iteration,1.3152294999999998
+Mariposa,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,42.289687,Normal,Timestep and iteration,21.1448435
+Mendocino,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,0,Normal,Timestep and iteration,0
+Mendocino,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,11.533551000000001,Normal,Timestep and iteration,5.7667755000000005
+Mendocino,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,49.371691999999996,Normal,Timestep and iteration,24.685845999999998
+Mendocino,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,36.826426,Normal,Timestep and iteration,18.413213
+Mendocino,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,520.426196,Normal,Timestep and iteration,260.213098
+Mendocino,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,243.01394299999998,Normal,Timestep and iteration,121.50697149999999
+Merced,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,1123.00365,Normal,Timestep and iteration,561.501825
+Merced,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,649.318687,Normal,Timestep and iteration,324.6593435
+Merced,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,1565.527791,Normal,Timestep and iteration,782.7638955
+Merced,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,1136.358288,Normal,Timestep and iteration,568.179144
+Merced,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,1032.9610149999999,Normal,Timestep and iteration,516.4805074999999
+Merced,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,481.373997,Normal,Timestep and iteration,240.6869985
+Merced,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,538.434723,Normal,Timestep and iteration,269.2173615
+Merced,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,450.617861,Normal,Timestep and iteration,225.3089305
+Merced,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,536.815979,Normal,Timestep and iteration,268.4079895
+Merced,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,198.700826,Normal,Timestep and iteration,99.350413
+Merced,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,169.96812,Normal,Timestep and iteration,84.98406
+Merced,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,958.498791,Normal,Timestep and iteration,479.2493955
+Modoc,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,1138.786404,Normal,Timestep and iteration,569.393202
+Modoc,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,79.318456,Normal,Timestep and iteration,39.659228
+Modoc,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,1.214058,Normal,Timestep and iteration,0.607029
+Modoc,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,249.48891899999998,Normal,Timestep and iteration,124.74445949999999
+Modoc,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,378.786096,Normal,Timestep and iteration,189.393048
+Modoc,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,86.40046099999999,Normal,Timestep and iteration,43.200230499999996
+Modoc,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,1838.488498,Normal,Timestep and iteration,919.244249
+Modoc,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,216.304667,Normal,Timestep and iteration,108.1523335
+Modoc,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,304.728558,Normal,Timestep and iteration,152.364279
+Modoc,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,122.619858,Normal,Timestep and iteration,61.309929
+Modoc,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,442.119455,Normal,Timestep and iteration,221.0597275
+Modoc,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,170.979835,Normal,Timestep and iteration,85.4899175
+Monterey,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,160.862685,Normal,Timestep and iteration,80.4313425
+Monterey,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,674.611562,Normal,Timestep and iteration,337.305781
+Monterey,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,1066.34761,Normal,Timestep and iteration,533.173805
+Monterey,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,826.975841,Normal,Timestep and iteration,413.4879205
+Monterey,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,469.638103,Normal,Timestep and iteration,234.8190515
+Monterey,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,342.364356,Normal,Timestep and iteration,171.182178
+Monterey,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,1173.5894,Normal,Timestep and iteration,586.7947
+Monterey,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,427.348416,Normal,Timestep and iteration,213.674208
+Monterey,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,510.916075,Normal,Timestep and iteration,255.4580375
+Monterey,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,496.954408,Normal,Timestep and iteration,248.477204
+Monterey,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,246.85846,Normal,Timestep and iteration,123.42923
+Monterey,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,531.959747,Normal,Timestep and iteration,265.9798735
+Napa,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,49.978721,Normal,Timestep and iteration,24.9893605
+Napa,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,1.011715,Normal,Timestep and iteration,0.5058575
+Napa,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,129.297177,Normal,Timestep and iteration,64.6485885
+Napa,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,91.459036,Normal,Timestep and iteration,45.729518
+Napa,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,1131.906742,Normal,Timestep and iteration,565.953371
+Napa,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,116.144882,Normal,Timestep and iteration,58.072441
+Napa,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,531.150375,Normal,Timestep and iteration,265.5751875
+Napa,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,264.664644,Normal,Timestep and iteration,132.332322
+Napa,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,126.869061,Normal,Timestep and iteration,63.4345305
+Napa,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,68.39193399999999,Normal,Timestep and iteration,34.195966999999996
+Napa,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,291.576263,Normal,Timestep and iteration,145.7881315
+Napa,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,87.614519,Normal,Timestep and iteration,43.8072595
+Nevada,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,3.642174,Normal,Timestep and iteration,1.821087
+Nevada,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,8.09372,Normal,Timestep and iteration,4.04686
+Nevada,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,44.51546,Normal,Timestep and iteration,22.25773
+Nevada,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,65.15444600000001,Normal,Timestep and iteration,32.577223000000004
+Nevada,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,449.80848899999995,Normal,Timestep and iteration,224.90424449999998
+Nevada,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,323.951143,Normal,Timestep and iteration,161.9755715
+Nevada,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,142.44947200000001,Normal,Timestep and iteration,71.22473600000001
+Nevada,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,335.282351,Normal,Timestep and iteration,167.6411755
+Nevada,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,14.973381999999999,Normal,Timestep and iteration,7.4866909999999995
+Nevada,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,2.832802,Normal,Timestep and iteration,1.416401
+Nevada,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,281.25676999999996,Normal,Timestep and iteration,140.62838499999998
+Nevada,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,4123.9526829999995,Normal,Timestep and iteration,2061.9763414999998
+Nevada,Historical Rate: Urbanization,Historical Year: Urbanization,2017,2018,77.497369,Normal,Timestep and iteration,38.7486845
+Orange,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,17.199154999999998,Normal,Timestep and iteration,8.599577499999999
+Orange,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,6.879662,Normal,Timestep and iteration,3.439831
+Orange,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,62.523987,Normal,Timestep and iteration,31.2619935
+Orange,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,62.72633,Normal,Timestep and iteration,31.363165
+Orange,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,254.547494,Normal,Timestep and iteration,127.273747
+Orange,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,51.597465,Normal,Timestep and iteration,25.7987325
+Orange,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,255.356866,Normal,Timestep and iteration,127.678433
+Orange,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,498.573152,Normal,Timestep and iteration,249.286576
+Orange,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,210.841406,Normal,Timestep and iteration,105.420703
+Orange,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,24.078817,Normal,Timestep and iteration,12.0394085
+Orange,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,92.268408,Normal,Timestep and iteration,46.134204
+Orange,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,50.788092999999996,Normal,Timestep and iteration,25.394046499999998
+Placer,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,45.122489,Normal,Timestep and iteration,22.5612445
+Placer,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,82.151258,Normal,Timestep and iteration,41.075629
+Placer,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,204.36643,Normal,Timestep and iteration,102.183215
+Placer,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,277.41225299999996,Normal,Timestep and iteration,138.70612649999998
+Placer,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,249.286576,Normal,Timestep and iteration,124.643288
+Placer,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,152.161936,Normal,Timestep and iteration,76.080968
+Placer,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,413.386749,Normal,Timestep and iteration,206.6933745
+Placer,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,1235.1016719999998,Normal,Timestep and iteration,617.5508359999999
+Placer,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,389.510275,Normal,Timestep and iteration,194.7551375
+Placer,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,896.9865189999999,Normal,Timestep and iteration,448.49325949999997
+Placer,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,150.138506,Normal,Timestep and iteration,75.069253
+Placer,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,608.850087,Normal,Timestep and iteration,304.4250435
+Riverside,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,627.870329,Normal,Timestep and iteration,313.9351645
+Riverside,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,467.00764399999997,Normal,Timestep and iteration,233.50382199999999
+Riverside,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,814.632918,Normal,Timestep and iteration,407.316459
+Riverside,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,1648.8931069999999,Normal,Timestep and iteration,824.4465534999999
+Riverside,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,3292.7276389999997,Normal,Timestep and iteration,1646.3638194999999
+Riverside,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,1030.735242,Normal,Timestep and iteration,515.367621
+Riverside,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,2365.592013,Normal,Timestep and iteration,1182.7960065
+Riverside,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,237.348339,Normal,Timestep and iteration,118.6741695
+Riverside,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,450.617861,Normal,Timestep and iteration,225.3089305
+Riverside,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,350.862762,Normal,Timestep and iteration,175.431381
+Riverside,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,205.985174,Normal,Timestep and iteration,102.992587
+Riverside,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,294.611408,Normal,Timestep and iteration,147.305704
+Sacramento,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,11.533551,Normal,Timestep and iteration,5.7667755
+Sacramento,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,188.988362,Normal,Timestep and iteration,94.494181
+Sacramento,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,719.7340509999999,Normal,Timestep and iteration,359.86702549999995
+Sacramento,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,139.61667,Normal,Timestep and iteration,69.808335
+Sacramento,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,552.39639,Normal,Timestep and iteration,276.198195
+Sacramento,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,325.974573,Normal,Timestep and iteration,162.9872865
+Sacramento,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,821.310237,Normal,Timestep and iteration,410.6551185
+Sacramento,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,314.845708,Normal,Timestep and iteration,157.422854
+Sacramento,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,260.617784,Normal,Timestep and iteration,130.308892
+Sacramento,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,491.895833,Normal,Timestep and iteration,245.9479165
+Sacramento,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,404.686,Normal,Timestep and iteration,202.343
+Sacramento,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,315.857423,Normal,Timestep and iteration,157.9287115
+Sacramento,Historical Rate: Urbanization,Historical Year: Urbanization,2017,2018,1387.263608,Normal,Timestep and iteration,693.631804
+San Benito,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,760.80968,Normal,Timestep and iteration,380.40484
+San Benito,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,854.4944889999999,Normal,Timestep and iteration,427.24724449999997
+San Benito,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,518.807452,Normal,Timestep and iteration,259.403726
+San Benito,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,514.153563,Normal,Timestep and iteration,257.0767815
+San Benito,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,1395.762014,Normal,Timestep and iteration,697.881007
+San Benito,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,1248.8609959999999,Normal,Timestep and iteration,624.43049799999994
+San Benito,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,894.7607459999999,Normal,Timestep and iteration,447.38037299999996
+San Benito,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,1714.8569249999998,Normal,Timestep and iteration,857.4284624999999
+San Benito,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,1189.77684,Normal,Timestep and iteration,594.88842
+San Benito,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,386.677473,Normal,Timestep and iteration,193.3387365
+San Benito,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,522.2472829999999,Normal,Timestep and iteration,261.12364149999996
+San Benito,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,503.024698,Normal,Timestep and iteration,251.512349
+San Bernardino,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,562.51354,Normal,Timestep and iteration,281.25677
+San Bernardino,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,226.42181699999998,Normal,Timestep and iteration,113.21090849999999
+San Bernardino,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,315.25039400000003,Normal,Timestep and iteration,157.62519700000001
+San Bernardino,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,1098.924833,Normal,Timestep and iteration,549.4624165
+San Bernardino,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,1326.965394,Normal,Timestep and iteration,663.482697
+San Bernardino,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,450.41551799999996,Normal,Timestep and iteration,225.20775899999998
+San Bernardino,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,842.9609379999999,Normal,Timestep and iteration,421.48046899999997
+San Bernardino,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,942.7160369999999,Normal,Timestep and iteration,471.35801849999996
+San Bernardino,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,531.352718,Normal,Timestep and iteration,265.676359
+San Bernardino,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,240.181141,Normal,Timestep and iteration,120.0905705
+San Bernardino,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,298.860611,Normal,Timestep and iteration,149.4303055
+San Bernardino,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,127.880776,Normal,Timestep and iteration,63.940388
+San Diego,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,36.017053999999995,Normal,Timestep and iteration,18.008526999999997
+San Diego,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,430.585904,Normal,Timestep and iteration,215.292952
+San Diego,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,107.444133,Normal,Timestep and iteration,53.7220665
+San Diego,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,2514.314118,Normal,Timestep and iteration,1257.157059
+San Diego,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,383.237642,Normal,Timestep and iteration,191.618821
+San Diego,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,484.409142,Normal,Timestep and iteration,242.204571
+San Diego,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,392.343077,Normal,Timestep and iteration,196.1715385
+San Diego,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,664.0897259999999,Normal,Timestep and iteration,332.04486299999996
+San Diego,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,694.03649,Normal,Timestep and iteration,347.018245
+San Diego,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,749.6808149999999,Normal,Timestep and iteration,374.84040749999997
+San Diego,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,103.397273,Normal,Timestep and iteration,51.6986365
+San Diego,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,318.083196,Normal,Timestep and iteration,159.041598
+San Joaquin,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,25.090532,Normal,Timestep and iteration,12.545266
+San Joaquin,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,142.44947200000001,Normal,Timestep and iteration,71.22473600000001
+San Joaquin,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,984.803381,Normal,Timestep and iteration,492.4016905
+San Joaquin,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,288.945804,Normal,Timestep and iteration,144.472902
+San Joaquin,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,141.033071,Normal,Timestep and iteration,70.5165355
+San Joaquin,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,136.176839,Normal,Timestep and iteration,68.0884195
+San Joaquin,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,600.149338,Normal,Timestep and iteration,300.074669
+San Joaquin,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,1023.653237,Normal,Timestep and iteration,511.8266185
+San Joaquin,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,664.6967549999999,Normal,Timestep and iteration,332.34837749999997
+San Joaquin,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,1008.679855,Normal,Timestep and iteration,504.3399275
+San Joaquin,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,109.872249,Normal,Timestep and iteration,54.9361245
+San Joaquin,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,589.6275019999999,Normal,Timestep and iteration,294.81375099999997
+San Luis Obispo,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,232.492107,Normal,Timestep and iteration,116.2460535
+San Luis Obispo,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,329.616747,Normal,Timestep and iteration,164.8083735
+San Luis Obispo,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,231.27804899999998,Normal,Timestep and iteration,115.63902449999999
+San Luis Obispo,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,703.3442679999999,Normal,Timestep and iteration,351.67213399999997
+San Luis Obispo,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,1225.186865,Normal,Timestep and iteration,612.5934325
+San Luis Obispo,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,1279.212446,Normal,Timestep and iteration,639.606223
+San Luis Obispo,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,2010.8847339999998,Normal,Timestep and iteration,1005.4423669999999
+San Luis Obispo,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,484.206799,Normal,Timestep and iteration,242.1033995
+San Luis Obispo,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,1191.597927,Normal,Timestep and iteration,595.7989635
+San Luis Obispo,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,930.7778,Normal,Timestep and iteration,465.3889
+San Luis Obispo,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,1920.032727,Normal,Timestep and iteration,960.0163635
+San Luis Obispo,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,317.67851,Normal,Timestep and iteration,158.839255
+San Mateo,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,10.319493,Normal,Timestep and iteration,5.1597465
+San Mateo,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,0,Normal,Timestep and iteration,0
+San Mateo,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,24.078817,Normal,Timestep and iteration,12.0394085
+San Mateo,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,0,Normal,Timestep and iteration,0
+San Mateo,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,190.809449,Normal,Timestep and iteration,95.4047245
+San Mateo,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,25.495218,Normal,Timestep and iteration,12.747609
+San Mateo,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,156.411139,Normal,Timestep and iteration,78.2055695
+San Mateo,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,646.283542,Normal,Timestep and iteration,323.141771
+San Mateo,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,105.420703,Normal,Timestep and iteration,52.7103515
+San Mateo,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,40.873286,Normal,Timestep and iteration,20.436643
+San Mateo,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,73.652852,Normal,Timestep and iteration,36.826426
+San Mateo,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,45.324832,Normal,Timestep and iteration,22.662416
+San Mateo,Historical Rate: Urbanization,Historical Year: Urbanization,2017,2018,95.505896,Normal,Timestep and iteration,47.752948
+Santa Barbara,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,376.76266599999997,Normal,Timestep and iteration,188.38133299999998
+Santa Barbara,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,501.81064,Normal,Timestep and iteration,250.90532
+Santa Barbara,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,1220.532976,Normal,Timestep and iteration,610.266488
+Santa Barbara,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,635.964049,Normal,Timestep and iteration,317.9820245
+Santa Barbara,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,2030.512005,Normal,Timestep and iteration,1015.2560025
+Santa Barbara,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,407.114116,Normal,Timestep and iteration,203.557058
+Santa Barbara,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,714.068447,Normal,Timestep and iteration,357.0342235
+Santa Barbara,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,1928.3287899999998,Normal,Timestep and iteration,964.1643949999999
+Santa Barbara,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,660.447552,Normal,Timestep and iteration,330.223776
+Santa Barbara,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,385.86810099999997,Normal,Timestep and iteration,192.93405049999998
+Santa Barbara,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,383.844671,Normal,Timestep and iteration,191.9223355
+Santa Barbara,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,455.069407,Normal,Timestep and iteration,227.5347035
+Santa Clara,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,55.037296,Normal,Timestep and iteration,27.518648
+Santa Clara,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,13.961667,Normal,Timestep and iteration,6.9808335
+Santa Clara,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,308.370732,Normal,Timestep and iteration,154.185366
+Santa Clara,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,147.103361,Normal,Timestep and iteration,73.5516805
+Santa Clara,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,389.712618,Normal,Timestep and iteration,194.856309
+Santa Clara,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,511.320761,Normal,Timestep and iteration,255.6603805
+Santa Clara,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,1150.319955,Normal,Timestep and iteration,575.1599775
+Santa Clara,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,498.168466,Normal,Timestep and iteration,249.084233
+Santa Clara,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,766.475284,Normal,Timestep and iteration,383.237642
+Santa Clara,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,221.76792799999998,Normal,Timestep and iteration,110.88396399999999
+Santa Clara,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,173.20560799999998,Normal,Timestep and iteration,86.60280399999999
+Santa Clara,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,312.21524899999997,Normal,Timestep and iteration,156.10762449999999
+Santa Cruz,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,41.277972,Normal,Timestep and iteration,20.638986
+Santa Cruz,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,4.451546,Normal,Timestep and iteration,2.225773
+Santa Cruz,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,21.246015,Normal,Timestep and iteration,10.6230075
+Santa Cruz,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,18.413213,Normal,Timestep and iteration,9.2066065
+Santa Cruz,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,311.60822,Normal,Timestep and iteration,155.80411
+Santa Cruz,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,150.138506,Normal,Timestep and iteration,75.069253
+Santa Cruz,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,434.835107,Normal,Timestep and iteration,217.4175535
+Santa Cruz,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,211.043749,Normal,Timestep and iteration,105.5218745
+Santa Cruz,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,267.09276,Normal,Timestep and iteration,133.54638
+Santa Cruz,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,57.060725999999995,Normal,Timestep and iteration,28.530362999999998
+Santa Cruz,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,118.168312,Normal,Timestep and iteration,59.084156
+Santa Cruz,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,92.47075099999999,Normal,Timestep and iteration,46.235375499999996
+Shasta,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,150.340849,Normal,Timestep and iteration,75.1704245
+Shasta,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,79.723142,Normal,Timestep and iteration,39.861571
+Shasta,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,342.162013,Normal,Timestep and iteration,171.0810065
+Shasta,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,243.620972,Normal,Timestep and iteration,121.810486
+Shasta,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,584.568927,Normal,Timestep and iteration,292.2844635
+Shasta,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,305.133244,Normal,Timestep and iteration,152.566622
+Shasta,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,662.268639,Normal,Timestep and iteration,331.1343195
+Shasta,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,714.068447,Normal,Timestep and iteration,357.0342235
+Shasta,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,603.184483,Normal,Timestep and iteration,301.5922415
+Shasta,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,208.008604,Normal,Timestep and iteration,104.004302
+Shasta,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,56.049011,Normal,Timestep and iteration,28.0245055
+Shasta,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,210.84140599999998,Normal,Timestep and iteration,105.42070299999999
+Sierra Valley,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,0,Normal,Timestep and iteration,0
+Sierra Valley,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,0,Normal,Timestep and iteration,0
+Sierra Valley,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,69.403649,Normal,Timestep and iteration,34.7018245
+Sierra Valley,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,31.970194,Normal,Timestep and iteration,15.985097
+Sierra Valley,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,5.058574999999999,Normal,Timestep and iteration,2.5292874999999997
+Sierra Valley,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,35.005339,Normal,Timestep and iteration,17.5026695
+Sierra Valley,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,1.618744,Normal,Timestep and iteration,0.809372
+Sierra Valley,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,207.603918,Normal,Timestep and iteration,103.801959
+Sierra Valley,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,73.450509,Normal,Timestep and iteration,36.7252545
+Sierra Valley,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,58.477126999999996,Normal,Timestep and iteration,29.238563499999998
+Sierra Valley,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,14.568696,Normal,Timestep and iteration,7.284348
+Sierra Valley,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,74.259881,Normal,Timestep and iteration,37.1299405
+Siskiyou,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,349.851047,Normal,Timestep and iteration,174.9255235
+Siskiyou,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,0,Normal,Timestep and iteration,0
+Siskiyou,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,124.440945,Normal,Timestep and iteration,62.2204725
+Siskiyou,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,41.075629,Normal,Timestep and iteration,20.5378145
+Siskiyou,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,802.4923379999999,Normal,Timestep and iteration,401.24616899999995
+Siskiyou,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,4813.335284,Normal,Timestep and iteration,2406.667642
+Siskiyou,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,117.965969,Normal,Timestep and iteration,58.9829845
+Siskiyou,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,1842.940044,Normal,Timestep and iteration,921.470022
+Siskiyou,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,282.875514,Normal,Timestep and iteration,141.437757
+Siskiyou,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,596.1024779999999,Normal,Timestep and iteration,298.05123899999995
+Siskiyou,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,580.522067,Normal,Timestep and iteration,290.2610335
+Siskiyou,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,215.899981,Normal,Timestep and iteration,107.9499905
+Solano,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,229.659305,Normal,Timestep and iteration,114.8296525
+Solano,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,62.321644,Normal,Timestep and iteration,31.160822
+Solano,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,374.132207,Normal,Timestep and iteration,187.0661035
+Solano,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,584.973613,Normal,Timestep and iteration,292.4868065
+Solano,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,1408.104937,Normal,Timestep and iteration,704.0524685
+Solano,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,675.420934,Normal,Timestep and iteration,337.710467
+Solano,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,702.13021,Normal,Timestep and iteration,351.065105
+Solano,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,965.17611,Normal,Timestep and iteration,482.588055
+Solano,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,1358.530902,Normal,Timestep and iteration,679.265451
+Solano,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,505.25047099999995,Normal,Timestep and iteration,252.62523549999997
+Solano,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,143.461187,Normal,Timestep and iteration,71.7305935
+Solano,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,383.035299,Normal,Timestep and iteration,191.5176495
+Sonoma,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,28.732705999999997,Normal,Timestep and iteration,14.366352999999998
+Sonoma,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,4.04686,Normal,Timestep and iteration,2.02343
+Sonoma,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,170.575149,Normal,Timestep and iteration,85.2875745
+Sonoma,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,840.532822,Normal,Timestep and iteration,420.266411
+Sonoma,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,3361.7266019999997,Normal,Timestep and iteration,1680.8633009999999
+Sonoma,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,85.388746,Normal,Timestep and iteration,42.694373
+Sonoma,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,372.715806,Normal,Timestep and iteration,186.357903
+Sonoma,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,328.20034599999997,Normal,Timestep and iteration,164.10017299999998
+Sonoma,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,285.910659,Normal,Timestep and iteration,142.9553295
+Sonoma,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,27.720990999999998,Normal,Timestep and iteration,13.860495499999999
+Sonoma,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,29.946763999999998,Normal,Timestep and iteration,14.973381999999999
+Sonoma,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,77.69971199999999,Normal,Timestep and iteration,38.849855999999996
+Stanislaus,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,124.440945,Normal,Timestep and iteration,62.2204725
+Stanislaus,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,219.744498,Normal,Timestep and iteration,109.872249
+Stanislaus,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,1402.4393329999998,Normal,Timestep and iteration,701.2196664999999
+Stanislaus,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,372.715806,Normal,Timestep and iteration,186.357903
+Stanislaus,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,1594.665183,Normal,Timestep and iteration,797.3325915
+Stanislaus,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,886.059997,Normal,Timestep and iteration,443.0299985
+Stanislaus,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,1284.473364,Normal,Timestep and iteration,642.236682
+Stanislaus,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,917.625505,Normal,Timestep and iteration,458.8127525
+Stanislaus,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,807.753256,Normal,Timestep and iteration,403.876628
+Stanislaus,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,544.505013,Normal,Timestep and iteration,272.2525065
+Stanislaus,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,144.06821599999998,Normal,Timestep and iteration,72.03410799999999
+Stanislaus,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,906.698983,Normal,Timestep and iteration,453.3494915
+Stanislaus,Historical Rate: Urbanization,Historical Year: Urbanization,2017,2018,422.087498,Normal,Timestep and iteration,211.043749
+Sutter,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,94.696524,Normal,Timestep and iteration,47.348262
+Sutter,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,231.885078,Normal,Timestep and iteration,115.942539
+Sutter,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,272.353678,Normal,Timestep and iteration,136.176839
+Sutter,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,1338.094259,Normal,Timestep and iteration,669.0471295
+Sutter,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,1263.632035,Normal,Timestep and iteration,631.8160175
+Sutter,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,517.188708,Normal,Timestep and iteration,258.594354
+Sutter,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,321.72537,Normal,Timestep and iteration,160.862685
+Sutter,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,522.449626,Normal,Timestep and iteration,261.224813
+Sutter,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,1325.751336,Normal,Timestep and iteration,662.875668
+Sutter,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,1057.646861,Normal,Timestep and iteration,528.8234305
+Sutter,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,481.57634,Normal,Timestep and iteration,240.78817
+Sutter,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,297.84889599999997,Normal,Timestep and iteration,148.92444799999998
+Tehama,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,81.544229,Normal,Timestep and iteration,40.7721145
+Tehama,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,124.845631,Normal,Timestep and iteration,62.4228155
+Tehama,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,49.978721,Normal,Timestep and iteration,24.9893605
+Tehama,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,500.798925,Normal,Timestep and iteration,250.3994625
+Tehama,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,235.931938,Normal,Timestep and iteration,117.965969
+Tehama,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,1112.8865,Normal,Timestep and iteration,556.44325
+Tehama,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,313.226964,Normal,Timestep and iteration,156.613482
+Tehama,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,212.46015,Normal,Timestep and iteration,106.230075
+Tehama,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,253.131093,Normal,Timestep and iteration,126.5655465
+Tehama,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,70.010678,Normal,Timestep and iteration,35.005339
+Tehama,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,366.84785899999997,Normal,Timestep and iteration,183.42392949999999
+Tehama,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,291.576263,Normal,Timestep and iteration,145.7881315
+Tulare,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,17.806184000000002,Normal,Timestep and iteration,8.903092000000001
+Tulare,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,26.30459,Normal,Timestep and iteration,13.152295
+Tulare,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,384.047014,Normal,Timestep and iteration,192.023507
+Tulare,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,132.737008,Normal,Timestep and iteration,66.368504
+Tulare,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,1750.469293,Normal,Timestep and iteration,875.2346465
+Tulare,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,551.182332,Normal,Timestep and iteration,275.591166
+Tulare,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,1259.382832,Normal,Timestep and iteration,629.691416
+Tulare,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,884.441253,Normal,Timestep and iteration,442.2206265
+Tulare,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,725.3996549999999,Normal,Timestep and iteration,362.69982749999997
+Tulare,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,395.378222,Normal,Timestep and iteration,197.689111
+Tulare,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,318.892568,Normal,Timestep and iteration,159.446284
+Tulare,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,241.192856,Normal,Timestep and iteration,120.596428
+Ventura,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,60.298213999999994,Normal,Timestep and iteration,30.149106999999997
+Ventura,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,143.461187,Normal,Timestep and iteration,71.7305935
+Ventura,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,107.84881899999999,Normal,Timestep and iteration,53.924409499999996
+Ventura,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,27.113961999999997,Normal,Timestep and iteration,13.556980999999999
+Ventura,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,1270.916383,Normal,Timestep and iteration,635.4581915
+Ventura,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,284.696601,Normal,Timestep and iteration,142.3483005
+Ventura,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,533.173805,Normal,Timestep and iteration,266.5869025
+Ventura,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,485.825543,Normal,Timestep and iteration,242.9127715
+Ventura,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,702.737239,Normal,Timestep and iteration,351.3686195
+Ventura,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,253.33343599999998,Normal,Timestep and iteration,126.66671799999999
+Ventura,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,155.80411,Normal,Timestep and iteration,77.902055
+Ventura,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,128.690148,Normal,Timestep and iteration,64.345074
+Yolo,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,1110.86307,Normal,Timestep and iteration,555.431535
+Yolo,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,286.113002,Normal,Timestep and iteration,143.056501
+Yolo,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,1316.038872,Normal,Timestep and iteration,658.019436
+Yolo,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,1015.76186,Normal,Timestep and iteration,507.88093
+Yolo,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,2023.025314,Normal,Timestep and iteration,1011.512657
+Yolo,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,771.7362019999999,Normal,Timestep and iteration,385.86810099999997
+Yolo,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,1483.5788759999998,Normal,Timestep and iteration,741.7894379999999
+Yolo,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,2513.707089,Normal,Timestep and iteration,1256.8535445
+Yolo,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,1225.591551,Normal,Timestep and iteration,612.7957755
+Yolo,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,1782.6418299999998,Normal,Timestep and iteration,891.3209149999999
+Yolo,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,951.416786,Normal,Timestep and iteration,475.708393
+Yolo,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,221.565585,Normal,Timestep and iteration,110.7827925
+Yuba,Historical Rate: Urbanization,Historical Year: Urbanization,1993,1994,5.260917999999999,Normal,Timestep and iteration,2.6304589999999997
+Yuba,Historical Rate: Urbanization,Historical Year: Urbanization,1995,1996,161.46971399999998,Normal,Timestep and iteration,80.73485699999999
+Yuba,Historical Rate: Urbanization,Historical Year: Urbanization,1997,1998,474.494335,Normal,Timestep and iteration,237.2471675
+Yuba,Historical Rate: Urbanization,Historical Year: Urbanization,1999,2000,842.151566,Normal,Timestep and iteration,421.075783
+Yuba,Historical Rate: Urbanization,Historical Year: Urbanization,2001,2002,384.249357,Normal,Timestep and iteration,192.1246785
+Yuba,Historical Rate: Urbanization,Historical Year: Urbanization,2003,2004,592.4603040000001,Normal,Timestep and iteration,296.23015200000003
+Yuba,Historical Rate: Urbanization,Historical Year: Urbanization,2005,2006,336.091723,Normal,Timestep and iteration,168.0458615
+Yuba,Historical Rate: Urbanization,Historical Year: Urbanization,2007,2008,318.487882,Normal,Timestep and iteration,159.243941
+Yuba,Historical Rate: Urbanization,Historical Year: Urbanization,2009,2010,664.899098,Normal,Timestep and iteration,332.449549
+Yuba,Historical Rate: Urbanization,Historical Year: Urbanization,2011,2012,93.482466,Normal,Timestep and iteration,46.741233
+Yuba,Historical Rate: Urbanization,Historical Year: Urbanization,2013,2014,440.096025,Normal,Timestep and iteration,220.0480125
+Yuba,Historical Rate: Urbanization,Historical Year: Urbanization,2015,2016,45.324832,Normal,Timestep and iteration,22.662416
