@@ -23,8 +23,8 @@ urbanGain$ToYear = as.numeric(urbanGain$ToYear)
 
 # Create Urbanization Historical Distributions datasheet
 dist_urb_hist = tibble(SecondaryStratumID = urbanGain$County,
-                       DistributionTypeID = "Historical Rate: Urbanization",
-                       ExternalVariableTypeID = "Historical Year: Urbanization",
+                       DistributionTypeID = "Urbanization",
+                       ExternalVariableTypeID = "Urbanization",
                        ExternalVariableMin = urbanGain$ToYear-1,
                        ExternalVariableMax = urbanGain$ToYear,
                        Value = urbanGain$Hectares,
@@ -145,7 +145,7 @@ transition_urb_ssp2 = ssp_fmmp %>%
          TransitionGroupID = "Urbanization",
          Amount = MeanMult,
          DistributionType = "Normal",
-         DistributionFrequencyID = "Timestep and iteration",
+         DistributionFrequencyID = "Iteration and Timestep",
          DistributionSD = SdMult,
          DistributionMin = MinMult,
          DistributionMax = MaxMult) %>%
@@ -160,7 +160,7 @@ transition_urb_ssp5 = ssp_fmmp %>%
          TransitionGroupID = "Urbanization",
          Amount = MeanMult,
          DistributionType = "Normal",
-         DistributionFrequencyID = "Timestep and iteration",
+         DistributionFrequencyID = "Iteration and Timestep",
          DistributionSD = SdMult,
          DistributionMin = MinMult,
          DistributionMax = MaxMult) %>%

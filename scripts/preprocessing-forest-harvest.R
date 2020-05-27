@@ -34,6 +34,14 @@ rstack = stack(files)
 
 
 
+counties = "path to couties in repo"
+newRaster = "path to some raster raw data"
+
+newRaster = projectRaster(newRaster, counties, method="ngb")
+newRaster = mask(newRaster, counties)
+
+
+
 
 
 ##### Clearcut #####
