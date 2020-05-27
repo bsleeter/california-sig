@@ -1,0 +1,5 @@
+TransitionGroupID,Amount,DistributionType,DistributionFrequencyID,DistributionSD
+Urbanization: Open [Type],0.3564493758668516,Normal,Iteration and Timestep,0.04399928945825754
+Urbanization: Low [Type],0.23647711511789182,Normal,Iteration and Timestep,0.04738979794488203
+Urbanization: Medium [Type],0.3300970873786408,Normal,Iteration and Timestep,0.053717420136837606
+Urbanization: High [Type],0.0769764216366158,Normal,Iteration and Timestep,0.046008587980933206

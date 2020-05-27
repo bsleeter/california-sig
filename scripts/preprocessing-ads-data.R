@@ -73,7 +73,7 @@ ads_high_zonal = as_tibble(zonal(adsHigh, ecoregions, "sum")) %>%
          ValueDistributionFrequency = "Iteration and Timestep",
          ValueDistributionSD = Value*0.5) %>%
   dplyr::select(PrimaryStratumID=Name, DistributionTypeID, ExternalVariableTypeID, ExternalVariableMin, ExternalVariableMax, Value, DistributionTypeID, ValueDistributionFrequency, ValueDistributionSD)
-write_csv(fire_high_zonal, "data/distributions/distribution-insect-high-severity.csv")
+write_csv(ads_high_zonal, "data/distributions/distribution-insect-high-severity.csv")
 
 
 ads_medium_zonal = as_tibble(zonal(adsMed, ecoregions, "sum")) %>%
