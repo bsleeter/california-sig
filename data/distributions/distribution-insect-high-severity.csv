@@ -1,235 +1,248 @@
 PrimaryStratumID,DistributionTypeID,ExternalVariableTypeID,ExternalVariableMin,ExternalVariableMax,Value,ValueDistributionFrequency,ValueDistributionSD
-Coast Range,Fire: High Severity,Fire,1999,1999,0,Iteration and Timestep,0
-Coast Range,Fire: High Severity,Fire,2000,2000,0,Iteration and Timestep,0
-Coast Range,Fire: High Severity,Fire,2001,2001,0,Iteration and Timestep,0
-Coast Range,Fire: High Severity,Fire,2002,2002,200,Iteration and Timestep,100
-Coast Range,Fire: High Severity,Fire,2003,2003,1700,Iteration and Timestep,850
-Coast Range,Fire: High Severity,Fire,2004,2004,0,Iteration and Timestep,0
-Coast Range,Fire: High Severity,Fire,2005,2005,300,Iteration and Timestep,150
-Coast Range,Fire: High Severity,Fire,2006,2006,0,Iteration and Timestep,0
-Coast Range,Fire: High Severity,Fire,2007,2007,0,Iteration and Timestep,0
-Coast Range,Fire: High Severity,Fire,2008,2008,1000,Iteration and Timestep,500
-Coast Range,Fire: High Severity,Fire,2009,2009,300,Iteration and Timestep,150
-Coast Range,Fire: High Severity,Fire,2010,2010,0,Iteration and Timestep,0
-Coast Range,Fire: High Severity,Fire,2011,2011,0,Iteration and Timestep,0
-Coast Range,Fire: High Severity,Fire,2012,2012,0,Iteration and Timestep,0
-Coast Range,Fire: High Severity,Fire,2013,2013,0,Iteration and Timestep,0
-Coast Range,Fire: High Severity,Fire,2014,2014,400,Iteration and Timestep,200
-Coast Range,Fire: High Severity,Fire,2015,2015,100,Iteration and Timestep,50
-Coast Range,Fire: High Severity,Fire,2016,2016,200,Iteration and Timestep,100
-Cascades,Fire: High Severity,Fire,1999,1999,600,Iteration and Timestep,300
-Cascades,Fire: High Severity,Fire,2000,2000,400,Iteration and Timestep,200
-Cascades,Fire: High Severity,Fire,2001,2001,0,Iteration and Timestep,0
-Cascades,Fire: High Severity,Fire,2002,2002,200,Iteration and Timestep,100
-Cascades,Fire: High Severity,Fire,2003,2003,200,Iteration and Timestep,100
-Cascades,Fire: High Severity,Fire,2004,2004,400,Iteration and Timestep,200
-Cascades,Fire: High Severity,Fire,2005,2005,100,Iteration and Timestep,50
-Cascades,Fire: High Severity,Fire,2006,2006,300,Iteration and Timestep,150
-Cascades,Fire: High Severity,Fire,2007,2007,200,Iteration and Timestep,100
-Cascades,Fire: High Severity,Fire,2008,2008,2600,Iteration and Timestep,1300
-Cascades,Fire: High Severity,Fire,2009,2009,2400,Iteration and Timestep,1200
-Cascades,Fire: High Severity,Fire,2010,2010,0,Iteration and Timestep,0
-Cascades,Fire: High Severity,Fire,2011,2011,0,Iteration and Timestep,0
-Cascades,Fire: High Severity,Fire,2012,2012,8100,Iteration and Timestep,4050
-Cascades,Fire: High Severity,Fire,2013,2013,200,Iteration and Timestep,100
-Cascades,Fire: High Severity,Fire,2014,2014,8900,Iteration and Timestep,4450
-Cascades,Fire: High Severity,Fire,2015,2015,0,Iteration and Timestep,0
-Cascades,Fire: High Severity,Fire,2016,2016,200,Iteration and Timestep,100
-Sierra Nevada,Fire: High Severity,Fire,1999,1999,3300,Iteration and Timestep,1650
-Sierra Nevada,Fire: High Severity,Fire,2000,2000,12000,Iteration and Timestep,6000
-Sierra Nevada,Fire: High Severity,Fire,2001,2001,9500,Iteration and Timestep,4750
-Sierra Nevada,Fire: High Severity,Fire,2002,2002,18300,Iteration and Timestep,9150
-Sierra Nevada,Fire: High Severity,Fire,2003,2003,2200,Iteration and Timestep,1100
-Sierra Nevada,Fire: High Severity,Fire,2004,2004,3600,Iteration and Timestep,1800
-Sierra Nevada,Fire: High Severity,Fire,2005,2005,900,Iteration and Timestep,450
-Sierra Nevada,Fire: High Severity,Fire,2006,2006,1500,Iteration and Timestep,750
-Sierra Nevada,Fire: High Severity,Fire,2007,2007,17000,Iteration and Timestep,8500
-Sierra Nevada,Fire: High Severity,Fire,2008,2008,20000,Iteration and Timestep,10000
-Sierra Nevada,Fire: High Severity,Fire,2009,2009,3100,Iteration and Timestep,1550
-Sierra Nevada,Fire: High Severity,Fire,2010,2010,2000,Iteration and Timestep,1000
-Sierra Nevada,Fire: High Severity,Fire,2011,2011,2500,Iteration and Timestep,1250
-Sierra Nevada,Fire: High Severity,Fire,2012,2012,8600,Iteration and Timestep,4300
-Sierra Nevada,Fire: High Severity,Fire,2013,2013,25700,Iteration and Timestep,12850
-Sierra Nevada,Fire: High Severity,Fire,2014,2014,20000,Iteration and Timestep,10000
-Sierra Nevada,Fire: High Severity,Fire,2015,2015,18300,Iteration and Timestep,9150
-Sierra Nevada,Fire: High Severity,Fire,2016,2016,14800,Iteration and Timestep,7400
-Central California Foothills and Coastal Mountains,Fire: High Severity,Fire,1999,1999,9700,Iteration and Timestep,4850
-Central California Foothills and Coastal Mountains,Fire: High Severity,Fire,2000,2000,5200,Iteration and Timestep,2600
-Central California Foothills and Coastal Mountains,Fire: High Severity,Fire,2001,2001,5200,Iteration and Timestep,2600
-Central California Foothills and Coastal Mountains,Fire: High Severity,Fire,2002,2002,2900,Iteration and Timestep,1450
-Central California Foothills and Coastal Mountains,Fire: High Severity,Fire,2003,2003,2900,Iteration and Timestep,1450
-Central California Foothills and Coastal Mountains,Fire: High Severity,Fire,2004,2004,2700,Iteration and Timestep,1350
-Central California Foothills and Coastal Mountains,Fire: High Severity,Fire,2005,2005,2900,Iteration and Timestep,1450
-Central California Foothills and Coastal Mountains,Fire: High Severity,Fire,2006,2006,4300,Iteration and Timestep,2150
-Central California Foothills and Coastal Mountains,Fire: High Severity,Fire,2007,2007,5400,Iteration and Timestep,2700
-Central California Foothills and Coastal Mountains,Fire: High Severity,Fire,2008,2008,24000,Iteration and Timestep,12000
-Central California Foothills and Coastal Mountains,Fire: High Severity,Fire,2009,2009,3100,Iteration and Timestep,1550
-Central California Foothills and Coastal Mountains,Fire: High Severity,Fire,2010,2010,1500,Iteration and Timestep,750
-Central California Foothills and Coastal Mountains,Fire: High Severity,Fire,2011,2011,1800,Iteration and Timestep,900
-Central California Foothills and Coastal Mountains,Fire: High Severity,Fire,2012,2012,3100,Iteration and Timestep,1550
-Central California Foothills and Coastal Mountains,Fire: High Severity,Fire,2013,2013,1400,Iteration and Timestep,700
-Central California Foothills and Coastal Mountains,Fire: High Severity,Fire,2014,2014,2900,Iteration and Timestep,1450
-Central California Foothills and Coastal Mountains,Fire: High Severity,Fire,2015,2015,24200,Iteration and Timestep,12100
-Central California Foothills and Coastal Mountains,Fire: High Severity,Fire,2016,2016,7100,Iteration and Timestep,3550
-Central California Valley,Fire: High Severity,Fire,1999,1999,0,Iteration and Timestep,0
-Central California Valley,Fire: High Severity,Fire,2000,2000,100,Iteration and Timestep,50
-Central California Valley,Fire: High Severity,Fire,2001,2001,1300,Iteration and Timestep,650
-Central California Valley,Fire: High Severity,Fire,2002,2002,100,Iteration and Timestep,50
-Central California Valley,Fire: High Severity,Fire,2003,2003,500,Iteration and Timestep,250
-Central California Valley,Fire: High Severity,Fire,2004,2004,0,Iteration and Timestep,0
-Central California Valley,Fire: High Severity,Fire,2005,2005,100,Iteration and Timestep,50
-Central California Valley,Fire: High Severity,Fire,2006,2006,400,Iteration and Timestep,200
-Central California Valley,Fire: High Severity,Fire,2007,2007,200,Iteration and Timestep,100
-Central California Valley,Fire: High Severity,Fire,2008,2008,400,Iteration and Timestep,200
-Central California Valley,Fire: High Severity,Fire,2009,2009,100,Iteration and Timestep,50
-Central California Valley,Fire: High Severity,Fire,2010,2010,200,Iteration and Timestep,100
-Central California Valley,Fire: High Severity,Fire,2011,2011,700,Iteration and Timestep,350
-Central California Valley,Fire: High Severity,Fire,2012,2012,0,Iteration and Timestep,0
-Central California Valley,Fire: High Severity,Fire,2013,2013,100,Iteration and Timestep,50
-Central California Valley,Fire: High Severity,Fire,2014,2014,0,Iteration and Timestep,0
-Central California Valley,Fire: High Severity,Fire,2015,2015,100,Iteration and Timestep,50
-Central California Valley,Fire: High Severity,Fire,2016,2016,100,Iteration and Timestep,50
-Southern California Mountains,Fire: High Severity,Fire,1999,1999,12000,Iteration and Timestep,6000
-Southern California Mountains,Fire: High Severity,Fire,2000,2000,1700,Iteration and Timestep,850
-Southern California Mountains,Fire: High Severity,Fire,2001,2001,700,Iteration and Timestep,350
-Southern California Mountains,Fire: High Severity,Fire,2002,2002,17400,Iteration and Timestep,8700
-Southern California Mountains,Fire: High Severity,Fire,2003,2003,51900,Iteration and Timestep,25950
-Southern California Mountains,Fire: High Severity,Fire,2004,2004,2900,Iteration and Timestep,1450
-Southern California Mountains,Fire: High Severity,Fire,2005,2005,500,Iteration and Timestep,250
-Southern California Mountains,Fire: High Severity,Fire,2006,2006,18000,Iteration and Timestep,9000
-Southern California Mountains,Fire: High Severity,Fire,2007,2007,79900,Iteration and Timestep,39950
-Southern California Mountains,Fire: High Severity,Fire,2008,2008,1800,Iteration and Timestep,900
-Southern California Mountains,Fire: High Severity,Fire,2009,2009,25000,Iteration and Timestep,12500
-Southern California Mountains,Fire: High Severity,Fire,2010,2010,600,Iteration and Timestep,300
-Southern California Mountains,Fire: High Severity,Fire,2011,2011,300,Iteration and Timestep,150
-Southern California Mountains,Fire: High Severity,Fire,2012,2012,1200,Iteration and Timestep,600
-Southern California Mountains,Fire: High Severity,Fire,2013,2013,11500,Iteration and Timestep,5750
-Southern California Mountains,Fire: High Severity,Fire,2014,2014,100,Iteration and Timestep,50
-Southern California Mountains,Fire: High Severity,Fire,2015,2015,800,Iteration and Timestep,400
-Southern California Mountains,Fire: High Severity,Fire,2016,2016,2000,Iteration and Timestep,1000
-Eastern Cascades Slopes and Foothills,Fire: High Severity,Fire,1999,1999,100,Iteration and Timestep,50
-Eastern Cascades Slopes and Foothills,Fire: High Severity,Fire,2000,2000,0,Iteration and Timestep,0
-Eastern Cascades Slopes and Foothills,Fire: High Severity,Fire,2001,2001,2700,Iteration and Timestep,1350
-Eastern Cascades Slopes and Foothills,Fire: High Severity,Fire,2002,2002,0,Iteration and Timestep,0
-Eastern Cascades Slopes and Foothills,Fire: High Severity,Fire,2003,2003,0,Iteration and Timestep,0
-Eastern Cascades Slopes and Foothills,Fire: High Severity,Fire,2004,2004,300,Iteration and Timestep,150
-Eastern Cascades Slopes and Foothills,Fire: High Severity,Fire,2005,2005,0,Iteration and Timestep,0
-Eastern Cascades Slopes and Foothills,Fire: High Severity,Fire,2006,2006,500,Iteration and Timestep,250
-Eastern Cascades Slopes and Foothills,Fire: High Severity,Fire,2007,2007,800,Iteration and Timestep,400
-Eastern Cascades Slopes and Foothills,Fire: High Severity,Fire,2008,2008,800,Iteration and Timestep,400
-Eastern Cascades Slopes and Foothills,Fire: High Severity,Fire,2009,2009,200,Iteration and Timestep,100
-Eastern Cascades Slopes and Foothills,Fire: High Severity,Fire,2010,2010,0,Iteration and Timestep,0
-Eastern Cascades Slopes and Foothills,Fire: High Severity,Fire,2011,2011,300,Iteration and Timestep,150
-Eastern Cascades Slopes and Foothills,Fire: High Severity,Fire,2012,2012,4700,Iteration and Timestep,2350
-Eastern Cascades Slopes and Foothills,Fire: High Severity,Fire,2013,2013,0,Iteration and Timestep,0
-Eastern Cascades Slopes and Foothills,Fire: High Severity,Fire,2014,2014,6200,Iteration and Timestep,3100
-Eastern Cascades Slopes and Foothills,Fire: High Severity,Fire,2015,2015,800,Iteration and Timestep,400
-Eastern Cascades Slopes and Foothills,Fire: High Severity,Fire,2016,2016,900,Iteration and Timestep,450
-Central Basin and Range,Fire: High Severity,Fire,1999,1999,100,Iteration and Timestep,50
-Central Basin and Range,Fire: High Severity,Fire,2000,2000,300,Iteration and Timestep,150
-Central Basin and Range,Fire: High Severity,Fire,2001,2001,400,Iteration and Timestep,200
-Central Basin and Range,Fire: High Severity,Fire,2002,2002,3600,Iteration and Timestep,1800
-Central Basin and Range,Fire: High Severity,Fire,2003,2003,0,Iteration and Timestep,0
-Central Basin and Range,Fire: High Severity,Fire,2004,2004,200,Iteration and Timestep,100
-Central Basin and Range,Fire: High Severity,Fire,2005,2005,0,Iteration and Timestep,0
-Central Basin and Range,Fire: High Severity,Fire,2006,2006,700,Iteration and Timestep,350
-Central Basin and Range,Fire: High Severity,Fire,2007,2007,300,Iteration and Timestep,150
-Central Basin and Range,Fire: High Severity,Fire,2008,2008,100,Iteration and Timestep,50
-Central Basin and Range,Fire: High Severity,Fire,2009,2009,0,Iteration and Timestep,0
-Central Basin and Range,Fire: High Severity,Fire,2010,2010,200,Iteration and Timestep,100
-Central Basin and Range,Fire: High Severity,Fire,2011,2011,300,Iteration and Timestep,150
-Central Basin and Range,Fire: High Severity,Fire,2012,2012,0,Iteration and Timestep,0
-Central Basin and Range,Fire: High Severity,Fire,2013,2013,100,Iteration and Timestep,50
-Central Basin and Range,Fire: High Severity,Fire,2014,2014,0,Iteration and Timestep,0
-Central Basin and Range,Fire: High Severity,Fire,2015,2015,0,Iteration and Timestep,0
-Central Basin and Range,Fire: High Severity,Fire,2016,2016,0,Iteration and Timestep,0
-Mojave Basin and Range,Fire: High Severity,Fire,1999,1999,500,Iteration and Timestep,250
-Mojave Basin and Range,Fire: High Severity,Fire,2000,2000,400,Iteration and Timestep,200
-Mojave Basin and Range,Fire: High Severity,Fire,2001,2001,0,Iteration and Timestep,0
-Mojave Basin and Range,Fire: High Severity,Fire,2002,2002,0,Iteration and Timestep,0
-Mojave Basin and Range,Fire: High Severity,Fire,2003,2003,0,Iteration and Timestep,0
-Mojave Basin and Range,Fire: High Severity,Fire,2004,2004,0,Iteration and Timestep,0
-Mojave Basin and Range,Fire: High Severity,Fire,2005,2005,100,Iteration and Timestep,50
-Mojave Basin and Range,Fire: High Severity,Fire,2006,2006,300,Iteration and Timestep,150
-Mojave Basin and Range,Fire: High Severity,Fire,2007,2007,0,Iteration and Timestep,0
-Mojave Basin and Range,Fire: High Severity,Fire,2008,2008,100,Iteration and Timestep,50
-Mojave Basin and Range,Fire: High Severity,Fire,2009,2009,100,Iteration and Timestep,50
-Mojave Basin and Range,Fire: High Severity,Fire,2010,2010,200,Iteration and Timestep,100
-Mojave Basin and Range,Fire: High Severity,Fire,2011,2011,300,Iteration and Timestep,150
-Mojave Basin and Range,Fire: High Severity,Fire,2012,2012,400,Iteration and Timestep,200
-Mojave Basin and Range,Fire: High Severity,Fire,2013,2013,0,Iteration and Timestep,0
-Mojave Basin and Range,Fire: High Severity,Fire,2014,2014,0,Iteration and Timestep,0
-Mojave Basin and Range,Fire: High Severity,Fire,2015,2015,100,Iteration and Timestep,50
-Mojave Basin and Range,Fire: High Severity,Fire,2016,2016,0,Iteration and Timestep,0
-Klamath Mountains/California High North Coast Range,Fire: High Severity,Fire,1999,1999,9800,Iteration and Timestep,4900
-Klamath Mountains/California High North Coast Range,Fire: High Severity,Fire,2000,2000,400,Iteration and Timestep,200
-Klamath Mountains/California High North Coast Range,Fire: High Severity,Fire,2001,2001,2400,Iteration and Timestep,1200
-Klamath Mountains/California High North Coast Range,Fire: High Severity,Fire,2002,2002,2800,Iteration and Timestep,1400
-Klamath Mountains/California High North Coast Range,Fire: High Severity,Fire,2003,2003,1500,Iteration and Timestep,750
-Klamath Mountains/California High North Coast Range,Fire: High Severity,Fire,2004,2004,2500,Iteration and Timestep,1250
-Klamath Mountains/California High North Coast Range,Fire: High Severity,Fire,2005,2005,500,Iteration and Timestep,250
-Klamath Mountains/California High North Coast Range,Fire: High Severity,Fire,2006,2006,9700,Iteration and Timestep,4850
-Klamath Mountains/California High North Coast Range,Fire: High Severity,Fire,2007,2007,1900,Iteration and Timestep,950
-Klamath Mountains/California High North Coast Range,Fire: High Severity,Fire,2008,2008,40900,Iteration and Timestep,20450
-Klamath Mountains/California High North Coast Range,Fire: High Severity,Fire,2009,2009,8100,Iteration and Timestep,4050
-Klamath Mountains/California High North Coast Range,Fire: High Severity,Fire,2010,2010,0,Iteration and Timestep,0
-Klamath Mountains/California High North Coast Range,Fire: High Severity,Fire,2011,2011,600,Iteration and Timestep,300
-Klamath Mountains/California High North Coast Range,Fire: High Severity,Fire,2012,2012,12800,Iteration and Timestep,6400
-Klamath Mountains/California High North Coast Range,Fire: High Severity,Fire,2013,2013,4700,Iteration and Timestep,2350
-Klamath Mountains/California High North Coast Range,Fire: High Severity,Fire,2014,2014,28100,Iteration and Timestep,14050
-Klamath Mountains/California High North Coast Range,Fire: High Severity,Fire,2015,2015,21200,Iteration and Timestep,10600
-Klamath Mountains/California High North Coast Range,Fire: High Severity,Fire,2016,2016,3200,Iteration and Timestep,1600
-Northern Basin and Range,Fire: High Severity,Fire,1999,1999,200,Iteration and Timestep,100
-Northern Basin and Range,Fire: High Severity,Fire,2000,2000,0,Iteration and Timestep,0
-Northern Basin and Range,Fire: High Severity,Fire,2001,2001,0,Iteration and Timestep,0
-Northern Basin and Range,Fire: High Severity,Fire,2002,2002,0,Iteration and Timestep,0
-Northern Basin and Range,Fire: High Severity,Fire,2003,2003,0,Iteration and Timestep,0
-Northern Basin and Range,Fire: High Severity,Fire,2004,2004,0,Iteration and Timestep,0
-Northern Basin and Range,Fire: High Severity,Fire,2005,2005,0,Iteration and Timestep,0
-Northern Basin and Range,Fire: High Severity,Fire,2006,2006,100,Iteration and Timestep,50
-Northern Basin and Range,Fire: High Severity,Fire,2007,2007,0,Iteration and Timestep,0
-Northern Basin and Range,Fire: High Severity,Fire,2008,2008,0,Iteration and Timestep,0
-Northern Basin and Range,Fire: High Severity,Fire,2009,2009,0,Iteration and Timestep,0
-Northern Basin and Range,Fire: High Severity,Fire,2010,2010,0,Iteration and Timestep,0
-Northern Basin and Range,Fire: High Severity,Fire,2011,2011,100,Iteration and Timestep,50
-Northern Basin and Range,Fire: High Severity,Fire,2012,2012,400,Iteration and Timestep,200
-Northern Basin and Range,Fire: High Severity,Fire,2013,2013,0,Iteration and Timestep,0
-Northern Basin and Range,Fire: High Severity,Fire,2014,2014,0,Iteration and Timestep,0
-Northern Basin and Range,Fire: High Severity,Fire,2015,2015,600,Iteration and Timestep,300
-Northern Basin and Range,Fire: High Severity,Fire,2016,2016,0,Iteration and Timestep,0
-Sonoran Basin and Range,Fire: High Severity,Fire,1999,1999,100,Iteration and Timestep,50
-Sonoran Basin and Range,Fire: High Severity,Fire,2000,2000,0,Iteration and Timestep,0
-Sonoran Basin and Range,Fire: High Severity,Fire,2001,2001,0,Iteration and Timestep,0
-Sonoran Basin and Range,Fire: High Severity,Fire,2002,2002,500,Iteration and Timestep,250
-Sonoran Basin and Range,Fire: High Severity,Fire,2003,2003,100,Iteration and Timestep,50
-Sonoran Basin and Range,Fire: High Severity,Fire,2004,2004,0,Iteration and Timestep,0
-Sonoran Basin and Range,Fire: High Severity,Fire,2005,2005,0,Iteration and Timestep,0
-Sonoran Basin and Range,Fire: High Severity,Fire,2006,2006,0,Iteration and Timestep,0
-Sonoran Basin and Range,Fire: High Severity,Fire,2007,2007,0,Iteration and Timestep,0
-Sonoran Basin and Range,Fire: High Severity,Fire,2008,2008,0,Iteration and Timestep,0
-Sonoran Basin and Range,Fire: High Severity,Fire,2009,2009,100,Iteration and Timestep,50
-Sonoran Basin and Range,Fire: High Severity,Fire,2010,2010,100,Iteration and Timestep,50
-Sonoran Basin and Range,Fire: High Severity,Fire,2011,2011,600,Iteration and Timestep,300
-Sonoran Basin and Range,Fire: High Severity,Fire,2012,2012,0,Iteration and Timestep,0
-Sonoran Basin and Range,Fire: High Severity,Fire,2013,2013,200,Iteration and Timestep,100
-Sonoran Basin and Range,Fire: High Severity,Fire,2014,2014,0,Iteration and Timestep,0
-Sonoran Basin and Range,Fire: High Severity,Fire,2015,2015,0,Iteration and Timestep,0
-Sonoran Basin and Range,Fire: High Severity,Fire,2016,2016,0,Iteration and Timestep,0
-Southern California/Northern Baja Coast,Fire: High Severity,Fire,1999,1999,1100,Iteration and Timestep,550
-Southern California/Northern Baja Coast,Fire: High Severity,Fire,2000,2000,900,Iteration and Timestep,450
-Southern California/Northern Baja Coast,Fire: High Severity,Fire,2001,2001,500,Iteration and Timestep,250
-Southern California/Northern Baja Coast,Fire: High Severity,Fire,2002,2002,700,Iteration and Timestep,350
-Southern California/Northern Baja Coast,Fire: High Severity,Fire,2003,2003,52700,Iteration and Timestep,26350
-Southern California/Northern Baja Coast,Fire: High Severity,Fire,2004,2004,1500,Iteration and Timestep,750
-Southern California/Northern Baja Coast,Fire: High Severity,Fire,2005,2005,2300,Iteration and Timestep,1150
-Southern California/Northern Baja Coast,Fire: High Severity,Fire,2006,2006,1000,Iteration and Timestep,500
-Southern California/Northern Baja Coast,Fire: High Severity,Fire,2007,2007,15500,Iteration and Timestep,7750
-Southern California/Northern Baja Coast,Fire: High Severity,Fire,2008,2008,600,Iteration and Timestep,300
-Southern California/Northern Baja Coast,Fire: High Severity,Fire,2009,2009,500,Iteration and Timestep,250
-Southern California/Northern Baja Coast,Fire: High Severity,Fire,2010,2010,1800,Iteration and Timestep,900
-Southern California/Northern Baja Coast,Fire: High Severity,Fire,2011,2011,400,Iteration and Timestep,200
-Southern California/Northern Baja Coast,Fire: High Severity,Fire,2012,2012,200,Iteration and Timestep,100
-Southern California/Northern Baja Coast,Fire: High Severity,Fire,2013,2013,1900,Iteration and Timestep,950
-Southern California/Northern Baja Coast,Fire: High Severity,Fire,2014,2014,1100,Iteration and Timestep,550
-Southern California/Northern Baja Coast,Fire: High Severity,Fire,2015,2015,500,Iteration and Timestep,250
-Southern California/Northern Baja Coast,Fire: High Severity,Fire,2016,2016,400,Iteration and Timestep,200
+Coast Range,Insect: High Severity,Insect,1998,1998,0,Iteration and Timestep,0
+Coast Range,Insect: High Severity,Insect,1999,1999,0,Iteration and Timestep,0
+Coast Range,Insect: High Severity,Insect,2000,2000,0,Iteration and Timestep,0
+Coast Range,Insect: High Severity,Insect,2001,2001,0,Iteration and Timestep,0
+Coast Range,Insect: High Severity,Insect,2002,2002,0,Iteration and Timestep,0
+Coast Range,Insect: High Severity,Insect,2003,2003,100,Iteration and Timestep,50
+Coast Range,Insect: High Severity,Insect,2004,2004,0,Iteration and Timestep,0
+Coast Range,Insect: High Severity,Insect,2005,2005,0,Iteration and Timestep,0
+Coast Range,Insect: High Severity,Insect,2006,2006,1900,Iteration and Timestep,950
+Coast Range,Insect: High Severity,Insect,2007,2007,6400,Iteration and Timestep,3200
+Coast Range,Insect: High Severity,Insect,2008,2008,0,Iteration and Timestep,0
+Coast Range,Insect: High Severity,Insect,2009,2009,0,Iteration and Timestep,0
+Coast Range,Insect: High Severity,Insect,2010,2010,0,Iteration and Timestep,0
+Coast Range,Insect: High Severity,Insect,2011,2011,200,Iteration and Timestep,100
+Coast Range,Insect: High Severity,Insect,2012,2012,2100,Iteration and Timestep,1050
+Coast Range,Insect: High Severity,Insect,2013,2013,1100,Iteration and Timestep,550
+Coast Range,Insect: High Severity,Insect,2014,2014,0,Iteration and Timestep,0
+Coast Range,Insect: High Severity,Insect,2015,2015,2200,Iteration and Timestep,1100
+Coast Range,Insect: High Severity,Insect,2016,2016,200,Iteration and Timestep,100
+Cascades,Insect: High Severity,Insect,1998,1998,0,Iteration and Timestep,0
+Cascades,Insect: High Severity,Insect,1999,1999,4200,Iteration and Timestep,2100
+Cascades,Insect: High Severity,Insect,2000,2000,1600,Iteration and Timestep,800
+Cascades,Insect: High Severity,Insect,2001,2001,3700,Iteration and Timestep,1850
+Cascades,Insect: High Severity,Insect,2002,2002,1800,Iteration and Timestep,900
+Cascades,Insect: High Severity,Insect,2003,2003,9200,Iteration and Timestep,4600
+Cascades,Insect: High Severity,Insect,2004,2004,6800,Iteration and Timestep,3400
+Cascades,Insect: High Severity,Insect,2005,2005,6800,Iteration and Timestep,3400
+Cascades,Insect: High Severity,Insect,2006,2006,1500,Iteration and Timestep,750
+Cascades,Insect: High Severity,Insect,2007,2007,1100,Iteration and Timestep,550
+Cascades,Insect: High Severity,Insect,2008,2008,1100,Iteration and Timestep,550
+Cascades,Insect: High Severity,Insect,2009,2009,1600,Iteration and Timestep,800
+Cascades,Insect: High Severity,Insect,2010,2010,7400,Iteration and Timestep,3700
+Cascades,Insect: High Severity,Insect,2011,2011,4700,Iteration and Timestep,2350
+Cascades,Insect: High Severity,Insect,2012,2012,1000,Iteration and Timestep,500
+Cascades,Insect: High Severity,Insect,2013,2013,200,Iteration and Timestep,100
+Cascades,Insect: High Severity,Insect,2014,2014,500,Iteration and Timestep,250
+Cascades,Insect: High Severity,Insect,2015,2015,11400,Iteration and Timestep,5700
+Cascades,Insect: High Severity,Insect,2016,2016,12700,Iteration and Timestep,6350
+Sierra Nevada,Insect: High Severity,Insect,1998,1998,0,Iteration and Timestep,0
+Sierra Nevada,Insect: High Severity,Insect,1999,1999,2100,Iteration and Timestep,1050
+Sierra Nevada,Insect: High Severity,Insect,2000,2000,500,Iteration and Timestep,250
+Sierra Nevada,Insect: High Severity,Insect,2001,2001,25300,Iteration and Timestep,12650
+Sierra Nevada,Insect: High Severity,Insect,2002,2002,8000,Iteration and Timestep,4000
+Sierra Nevada,Insect: High Severity,Insect,2003,2003,65100,Iteration and Timestep,32550
+Sierra Nevada,Insect: High Severity,Insect,2004,2004,46100,Iteration and Timestep,23050
+Sierra Nevada,Insect: High Severity,Insect,2005,2005,21100,Iteration and Timestep,10550
+Sierra Nevada,Insect: High Severity,Insect,2006,2006,6900,Iteration and Timestep,3450
+Sierra Nevada,Insect: High Severity,Insect,2007,2007,16500,Iteration and Timestep,8250
+Sierra Nevada,Insect: High Severity,Insect,2008,2008,1700,Iteration and Timestep,850
+Sierra Nevada,Insect: High Severity,Insect,2009,2009,4400,Iteration and Timestep,2200
+Sierra Nevada,Insect: High Severity,Insect,2010,2010,5400,Iteration and Timestep,2700
+Sierra Nevada,Insect: High Severity,Insect,2011,2011,1600,Iteration and Timestep,800
+Sierra Nevada,Insect: High Severity,Insect,2012,2012,5000,Iteration and Timestep,2500
+Sierra Nevada,Insect: High Severity,Insect,2013,2013,2400,Iteration and Timestep,1200
+Sierra Nevada,Insect: High Severity,Insect,2014,2014,9500,Iteration and Timestep,4750
+Sierra Nevada,Insect: High Severity,Insect,2015,2015,237900,Iteration and Timestep,118950
+Sierra Nevada,Insect: High Severity,Insect,2016,2016,493900,Iteration and Timestep,246950
+Central California Foothills and Coastal Mountains,Insect: High Severity,Insect,1998,1998,0,Iteration and Timestep,0
+Central California Foothills and Coastal Mountains,Insect: High Severity,Insect,1999,1999,0,Iteration and Timestep,0
+Central California Foothills and Coastal Mountains,Insect: High Severity,Insect,2000,2000,0,Iteration and Timestep,0
+Central California Foothills and Coastal Mountains,Insect: High Severity,Insect,2001,2001,200,Iteration and Timestep,100
+Central California Foothills and Coastal Mountains,Insect: High Severity,Insect,2002,2002,100,Iteration and Timestep,50
+Central California Foothills and Coastal Mountains,Insect: High Severity,Insect,2003,2003,300,Iteration and Timestep,150
+Central California Foothills and Coastal Mountains,Insect: High Severity,Insect,2004,2004,1600,Iteration and Timestep,800
+Central California Foothills and Coastal Mountains,Insect: High Severity,Insect,2005,2005,600,Iteration and Timestep,300
+Central California Foothills and Coastal Mountains,Insect: High Severity,Insect,2006,2006,900,Iteration and Timestep,450
+Central California Foothills and Coastal Mountains,Insect: High Severity,Insect,2007,2007,3400,Iteration and Timestep,1700
+Central California Foothills and Coastal Mountains,Insect: High Severity,Insect,2008,2008,1200,Iteration and Timestep,600
+Central California Foothills and Coastal Mountains,Insect: High Severity,Insect,2009,2009,200,Iteration and Timestep,100
+Central California Foothills and Coastal Mountains,Insect: High Severity,Insect,2010,2010,0,Iteration and Timestep,0
+Central California Foothills and Coastal Mountains,Insect: High Severity,Insect,2011,2011,0,Iteration and Timestep,0
+Central California Foothills and Coastal Mountains,Insect: High Severity,Insect,2012,2012,1900,Iteration and Timestep,950
+Central California Foothills and Coastal Mountains,Insect: High Severity,Insect,2013,2013,1600,Iteration and Timestep,800
+Central California Foothills and Coastal Mountains,Insect: High Severity,Insect,2014,2014,4300,Iteration and Timestep,2150
+Central California Foothills and Coastal Mountains,Insect: High Severity,Insect,2015,2015,18800,Iteration and Timestep,9400
+Central California Foothills and Coastal Mountains,Insect: High Severity,Insect,2016,2016,33200,Iteration and Timestep,16600
+Central California Valley,Insect: High Severity,Insect,1998,1998,0,Iteration and Timestep,0
+Central California Valley,Insect: High Severity,Insect,1999,1999,0,Iteration and Timestep,0
+Central California Valley,Insect: High Severity,Insect,2000,2000,0,Iteration and Timestep,0
+Central California Valley,Insect: High Severity,Insect,2001,2001,0,Iteration and Timestep,0
+Central California Valley,Insect: High Severity,Insect,2002,2002,0,Iteration and Timestep,0
+Central California Valley,Insect: High Severity,Insect,2003,2003,0,Iteration and Timestep,0
+Central California Valley,Insect: High Severity,Insect,2004,2004,0,Iteration and Timestep,0
+Central California Valley,Insect: High Severity,Insect,2005,2005,0,Iteration and Timestep,0
+Central California Valley,Insect: High Severity,Insect,2006,2006,0,Iteration and Timestep,0
+Central California Valley,Insect: High Severity,Insect,2007,2007,0,Iteration and Timestep,0
+Central California Valley,Insect: High Severity,Insect,2008,2008,0,Iteration and Timestep,0
+Central California Valley,Insect: High Severity,Insect,2009,2009,0,Iteration and Timestep,0
+Central California Valley,Insect: High Severity,Insect,2010,2010,0,Iteration and Timestep,0
+Central California Valley,Insect: High Severity,Insect,2011,2011,0,Iteration and Timestep,0
+Central California Valley,Insect: High Severity,Insect,2012,2012,0,Iteration and Timestep,0
+Central California Valley,Insect: High Severity,Insect,2013,2013,0,Iteration and Timestep,0
+Central California Valley,Insect: High Severity,Insect,2014,2014,0,Iteration and Timestep,0
+Central California Valley,Insect: High Severity,Insect,2015,2015,0,Iteration and Timestep,0
+Central California Valley,Insect: High Severity,Insect,2016,2016,100,Iteration and Timestep,50
+Southern California Mountains,Insect: High Severity,Insect,1998,1998,0,Iteration and Timestep,0
+Southern California Mountains,Insect: High Severity,Insect,1999,1999,0,Iteration and Timestep,0
+Southern California Mountains,Insect: High Severity,Insect,2000,2000,100,Iteration and Timestep,50
+Southern California Mountains,Insect: High Severity,Insect,2001,2001,0,Iteration and Timestep,0
+Southern California Mountains,Insect: High Severity,Insect,2002,2002,200,Iteration and Timestep,100
+Southern California Mountains,Insect: High Severity,Insect,2003,2003,22200,Iteration and Timestep,11100
+Southern California Mountains,Insect: High Severity,Insect,2004,2004,28200,Iteration and Timestep,14100
+Southern California Mountains,Insect: High Severity,Insect,2005,2005,700,Iteration and Timestep,350
+Southern California Mountains,Insect: High Severity,Insect,2006,2006,17100,Iteration and Timestep,8550
+Southern California Mountains,Insect: High Severity,Insect,2007,2007,400,Iteration and Timestep,200
+Southern California Mountains,Insect: High Severity,Insect,2008,2008,100,Iteration and Timestep,50
+Southern California Mountains,Insect: High Severity,Insect,2009,2009,0,Iteration and Timestep,0
+Southern California Mountains,Insect: High Severity,Insect,2010,2010,600,Iteration and Timestep,300
+Southern California Mountains,Insect: High Severity,Insect,2011,2011,200,Iteration and Timestep,100
+Southern California Mountains,Insect: High Severity,Insect,2012,2012,0,Iteration and Timestep,0
+Southern California Mountains,Insect: High Severity,Insect,2013,2013,0,Iteration and Timestep,0
+Southern California Mountains,Insect: High Severity,Insect,2014,2014,2100,Iteration and Timestep,1050
+Southern California Mountains,Insect: High Severity,Insect,2015,2015,12200,Iteration and Timestep,6100
+Southern California Mountains,Insect: High Severity,Insect,2016,2016,3100,Iteration and Timestep,1550
+Eastern Cascades Slopes and Foothills,Insect: High Severity,Insect,1998,1998,0,Iteration and Timestep,0
+Eastern Cascades Slopes and Foothills,Insect: High Severity,Insect,1999,1999,0,Iteration and Timestep,0
+Eastern Cascades Slopes and Foothills,Insect: High Severity,Insect,2000,2000,400,Iteration and Timestep,200
+Eastern Cascades Slopes and Foothills,Insect: High Severity,Insect,2001,2001,14000,Iteration and Timestep,7000
+Eastern Cascades Slopes and Foothills,Insect: High Severity,Insect,2002,2002,400,Iteration and Timestep,200
+Eastern Cascades Slopes and Foothills,Insect: High Severity,Insect,2003,2003,400,Iteration and Timestep,200
+Eastern Cascades Slopes and Foothills,Insect: High Severity,Insect,2004,2004,1900,Iteration and Timestep,950
+Eastern Cascades Slopes and Foothills,Insect: High Severity,Insect,2005,2005,0,Iteration and Timestep,0
+Eastern Cascades Slopes and Foothills,Insect: High Severity,Insect,2006,2006,600,Iteration and Timestep,300
+Eastern Cascades Slopes and Foothills,Insect: High Severity,Insect,2007,2007,3500,Iteration and Timestep,1750
+Eastern Cascades Slopes and Foothills,Insect: High Severity,Insect,2008,2008,1700,Iteration and Timestep,850
+Eastern Cascades Slopes and Foothills,Insect: High Severity,Insect,2009,2009,1200,Iteration and Timestep,600
+Eastern Cascades Slopes and Foothills,Insect: High Severity,Insect,2010,2010,4400,Iteration and Timestep,2200
+Eastern Cascades Slopes and Foothills,Insect: High Severity,Insect,2011,2011,1700,Iteration and Timestep,850
+Eastern Cascades Slopes and Foothills,Insect: High Severity,Insect,2012,2012,1600,Iteration and Timestep,800
+Eastern Cascades Slopes and Foothills,Insect: High Severity,Insect,2013,2013,1000,Iteration and Timestep,500
+Eastern Cascades Slopes and Foothills,Insect: High Severity,Insect,2014,2014,1700,Iteration and Timestep,850
+Eastern Cascades Slopes and Foothills,Insect: High Severity,Insect,2015,2015,11600,Iteration and Timestep,5800
+Eastern Cascades Slopes and Foothills,Insect: High Severity,Insect,2016,2016,22600,Iteration and Timestep,11300
+Central Basin and Range,Insect: High Severity,Insect,1998,1998,0,Iteration and Timestep,0
+Central Basin and Range,Insect: High Severity,Insect,1999,1999,0,Iteration and Timestep,0
+Central Basin and Range,Insect: High Severity,Insect,2000,2000,0,Iteration and Timestep,0
+Central Basin and Range,Insect: High Severity,Insect,2001,2001,0,Iteration and Timestep,0
+Central Basin and Range,Insect: High Severity,Insect,2002,2002,0,Iteration and Timestep,0
+Central Basin and Range,Insect: High Severity,Insect,2003,2003,8000,Iteration and Timestep,4000
+Central Basin and Range,Insect: High Severity,Insect,2004,2004,1200,Iteration and Timestep,600
+Central Basin and Range,Insect: High Severity,Insect,2005,2005,0,Iteration and Timestep,0
+Central Basin and Range,Insect: High Severity,Insect,2006,2006,0,Iteration and Timestep,0
+Central Basin and Range,Insect: High Severity,Insect,2007,2007,100,Iteration and Timestep,50
+Central Basin and Range,Insect: High Severity,Insect,2008,2008,0,Iteration and Timestep,0
+Central Basin and Range,Insect: High Severity,Insect,2009,2009,200,Iteration and Timestep,100
+Central Basin and Range,Insect: High Severity,Insect,2010,2010,0,Iteration and Timestep,0
+Central Basin and Range,Insect: High Severity,Insect,2011,2011,0,Iteration and Timestep,0
+Central Basin and Range,Insect: High Severity,Insect,2012,2012,0,Iteration and Timestep,0
+Central Basin and Range,Insect: High Severity,Insect,2013,2013,0,Iteration and Timestep,0
+Central Basin and Range,Insect: High Severity,Insect,2014,2014,100,Iteration and Timestep,50
+Central Basin and Range,Insect: High Severity,Insect,2015,2015,0,Iteration and Timestep,0
+Central Basin and Range,Insect: High Severity,Insect,2016,2016,1400,Iteration and Timestep,700
+Mojave Basin and Range,Insect: High Severity,Insect,1998,1998,0,Iteration and Timestep,0
+Mojave Basin and Range,Insect: High Severity,Insect,1999,1999,0,Iteration and Timestep,0
+Mojave Basin and Range,Insect: High Severity,Insect,2000,2000,0,Iteration and Timestep,0
+Mojave Basin and Range,Insect: High Severity,Insect,2001,2001,0,Iteration and Timestep,0
+Mojave Basin and Range,Insect: High Severity,Insect,2002,2002,0,Iteration and Timestep,0
+Mojave Basin and Range,Insect: High Severity,Insect,2003,2003,3100,Iteration and Timestep,1550
+Mojave Basin and Range,Insect: High Severity,Insect,2004,2004,0,Iteration and Timestep,0
+Mojave Basin and Range,Insect: High Severity,Insect,2005,2005,100,Iteration and Timestep,50
+Mojave Basin and Range,Insect: High Severity,Insect,2006,2006,0,Iteration and Timestep,0
+Mojave Basin and Range,Insect: High Severity,Insect,2007,2007,0,Iteration and Timestep,0
+Mojave Basin and Range,Insect: High Severity,Insect,2008,2008,0,Iteration and Timestep,0
+Mojave Basin and Range,Insect: High Severity,Insect,2009,2009,0,Iteration and Timestep,0
+Mojave Basin and Range,Insect: High Severity,Insect,2010,2010,0,Iteration and Timestep,0
+Mojave Basin and Range,Insect: High Severity,Insect,2011,2011,0,Iteration and Timestep,0
+Mojave Basin and Range,Insect: High Severity,Insect,2012,2012,0,Iteration and Timestep,0
+Mojave Basin and Range,Insect: High Severity,Insect,2013,2013,0,Iteration and Timestep,0
+Mojave Basin and Range,Insect: High Severity,Insect,2014,2014,0,Iteration and Timestep,0
+Mojave Basin and Range,Insect: High Severity,Insect,2015,2015,100,Iteration and Timestep,50
+Mojave Basin and Range,Insect: High Severity,Insect,2016,2016,0,Iteration and Timestep,0
+Klamath Mountains/California High North Coast Range,Insect: High Severity,Insect,1998,1998,2700,Iteration and Timestep,1350
+Klamath Mountains/California High North Coast Range,Insect: High Severity,Insect,1999,1999,200,Iteration and Timestep,100
+Klamath Mountains/California High North Coast Range,Insect: High Severity,Insect,2000,2000,1000,Iteration and Timestep,500
+Klamath Mountains/California High North Coast Range,Insect: High Severity,Insect,2001,2001,4600,Iteration and Timestep,2300
+Klamath Mountains/California High North Coast Range,Insect: High Severity,Insect,2002,2002,7200,Iteration and Timestep,3600
+Klamath Mountains/California High North Coast Range,Insect: High Severity,Insect,2003,2003,31400,Iteration and Timestep,15700
+Klamath Mountains/California High North Coast Range,Insect: High Severity,Insect,2004,2004,5100,Iteration and Timestep,2550
+Klamath Mountains/California High North Coast Range,Insect: High Severity,Insect,2005,2005,1200,Iteration and Timestep,600
+Klamath Mountains/California High North Coast Range,Insect: High Severity,Insect,2006,2006,19000,Iteration and Timestep,9500
+Klamath Mountains/California High North Coast Range,Insect: High Severity,Insect,2007,2007,53000,Iteration and Timestep,26500
+Klamath Mountains/California High North Coast Range,Insect: High Severity,Insect,2008,2008,1100,Iteration and Timestep,550
+Klamath Mountains/California High North Coast Range,Insect: High Severity,Insect,2009,2009,1000,Iteration and Timestep,500
+Klamath Mountains/California High North Coast Range,Insect: High Severity,Insect,2010,2010,6400,Iteration and Timestep,3200
+Klamath Mountains/California High North Coast Range,Insect: High Severity,Insect,2011,2011,600,Iteration and Timestep,300
+Klamath Mountains/California High North Coast Range,Insect: High Severity,Insect,2012,2012,900,Iteration and Timestep,450
+Klamath Mountains/California High North Coast Range,Insect: High Severity,Insect,2013,2013,300,Iteration and Timestep,150
+Klamath Mountains/California High North Coast Range,Insect: High Severity,Insect,2014,2014,800,Iteration and Timestep,400
+Klamath Mountains/California High North Coast Range,Insect: High Severity,Insect,2015,2015,4700,Iteration and Timestep,2350
+Klamath Mountains/California High North Coast Range,Insect: High Severity,Insect,2016,2016,600,Iteration and Timestep,300
+Northern Basin and Range,Insect: High Severity,Insect,1998,1998,0,Iteration and Timestep,0
+Northern Basin and Range,Insect: High Severity,Insect,1999,1999,0,Iteration and Timestep,0
+Northern Basin and Range,Insect: High Severity,Insect,2000,2000,0,Iteration and Timestep,0
+Northern Basin and Range,Insect: High Severity,Insect,2001,2001,0,Iteration and Timestep,0
+Northern Basin and Range,Insect: High Severity,Insect,2002,2002,0,Iteration and Timestep,0
+Northern Basin and Range,Insect: High Severity,Insect,2003,2003,0,Iteration and Timestep,0
+Northern Basin and Range,Insect: High Severity,Insect,2004,2004,0,Iteration and Timestep,0
+Northern Basin and Range,Insect: High Severity,Insect,2005,2005,0,Iteration and Timestep,0
+Northern Basin and Range,Insect: High Severity,Insect,2006,2006,0,Iteration and Timestep,0
+Northern Basin and Range,Insect: High Severity,Insect,2007,2007,0,Iteration and Timestep,0
+Northern Basin and Range,Insect: High Severity,Insect,2008,2008,0,Iteration and Timestep,0
+Northern Basin and Range,Insect: High Severity,Insect,2009,2009,0,Iteration and Timestep,0
+Northern Basin and Range,Insect: High Severity,Insect,2010,2010,0,Iteration and Timestep,0
+Northern Basin and Range,Insect: High Severity,Insect,2011,2011,0,Iteration and Timestep,0
+Northern Basin and Range,Insect: High Severity,Insect,2012,2012,0,Iteration and Timestep,0
+Northern Basin and Range,Insect: High Severity,Insect,2013,2013,0,Iteration and Timestep,0
+Northern Basin and Range,Insect: High Severity,Insect,2014,2014,0,Iteration and Timestep,0
+Northern Basin and Range,Insect: High Severity,Insect,2015,2015,0,Iteration and Timestep,0
+Northern Basin and Range,Insect: High Severity,Insect,2016,2016,0,Iteration and Timestep,0
+Sonoran Basin and Range,Insect: High Severity,Insect,1998,1998,0,Iteration and Timestep,0
+Sonoran Basin and Range,Insect: High Severity,Insect,1999,1999,0,Iteration and Timestep,0
+Sonoran Basin and Range,Insect: High Severity,Insect,2000,2000,0,Iteration and Timestep,0
+Sonoran Basin and Range,Insect: High Severity,Insect,2001,2001,0,Iteration and Timestep,0
+Sonoran Basin and Range,Insect: High Severity,Insect,2002,2002,0,Iteration and Timestep,0
+Sonoran Basin and Range,Insect: High Severity,Insect,2003,2003,100,Iteration and Timestep,50
+Sonoran Basin and Range,Insect: High Severity,Insect,2004,2004,0,Iteration and Timestep,0
+Sonoran Basin and Range,Insect: High Severity,Insect,2005,2005,0,Iteration and Timestep,0
+Sonoran Basin and Range,Insect: High Severity,Insect,2006,2006,0,Iteration and Timestep,0
+Sonoran Basin and Range,Insect: High Severity,Insect,2007,2007,0,Iteration and Timestep,0
+Sonoran Basin and Range,Insect: High Severity,Insect,2008,2008,0,Iteration and Timestep,0
+Sonoran Basin and Range,Insect: High Severity,Insect,2009,2009,0,Iteration and Timestep,0
+Sonoran Basin and Range,Insect: High Severity,Insect,2010,2010,0,Iteration and Timestep,0
+Sonoran Basin and Range,Insect: High Severity,Insect,2011,2011,0,Iteration and Timestep,0
+Sonoran Basin and Range,Insect: High Severity,Insect,2012,2012,0,Iteration and Timestep,0
+Sonoran Basin and Range,Insect: High Severity,Insect,2013,2013,0,Iteration and Timestep,0
+Sonoran Basin and Range,Insect: High Severity,Insect,2014,2014,0,Iteration and Timestep,0
+Sonoran Basin and Range,Insect: High Severity,Insect,2015,2015,0,Iteration and Timestep,0
+Sonoran Basin and Range,Insect: High Severity,Insect,2016,2016,0,Iteration and Timestep,0
+Southern California/Northern Baja Coast,Insect: High Severity,Insect,1998,1998,0,Iteration and Timestep,0
+Southern California/Northern Baja Coast,Insect: High Severity,Insect,1999,1999,0,Iteration and Timestep,0
+Southern California/Northern Baja Coast,Insect: High Severity,Insect,2000,2000,0,Iteration and Timestep,0
+Southern California/Northern Baja Coast,Insect: High Severity,Insect,2001,2001,0,Iteration and Timestep,0
+Southern California/Northern Baja Coast,Insect: High Severity,Insect,2002,2002,0,Iteration and Timestep,0
+Southern California/Northern Baja Coast,Insect: High Severity,Insect,2003,2003,0,Iteration and Timestep,0
+Southern California/Northern Baja Coast,Insect: High Severity,Insect,2004,2004,0,Iteration and Timestep,0
+Southern California/Northern Baja Coast,Insect: High Severity,Insect,2005,2005,0,Iteration and Timestep,0
+Southern California/Northern Baja Coast,Insect: High Severity,Insect,2006,2006,0,Iteration and Timestep,0
+Southern California/Northern Baja Coast,Insect: High Severity,Insect,2007,2007,0,Iteration and Timestep,0
+Southern California/Northern Baja Coast,Insect: High Severity,Insect,2008,2008,0,Iteration and Timestep,0
+Southern California/Northern Baja Coast,Insect: High Severity,Insect,2009,2009,0,Iteration and Timestep,0
+Southern California/Northern Baja Coast,Insect: High Severity,Insect,2010,2010,0,Iteration and Timestep,0
+Southern California/Northern Baja Coast,Insect: High Severity,Insect,2011,2011,0,Iteration and Timestep,0
+Southern California/Northern Baja Coast,Insect: High Severity,Insect,2012,2012,0,Iteration and Timestep,0
+Southern California/Northern Baja Coast,Insect: High Severity,Insect,2013,2013,0,Iteration and Timestep,0
+Southern California/Northern Baja Coast,Insect: High Severity,Insect,2014,2014,100,Iteration and Timestep,50
+Southern California/Northern Baja Coast,Insect: High Severity,Insect,2015,2015,500,Iteration and Timestep,250
+Southern California/Northern Baja Coast,Insect: High Severity,Insect,2016,2016,0,Iteration and Timestep,0

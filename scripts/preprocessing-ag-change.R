@@ -41,8 +41,8 @@ ggplot(agChange, aes(x=ToYear, y=Hectares, color=Transition)) +
 
 # Create Ag Expansion Historical Distributions datasheet
 dist_agexp_hist = tibble(SecondaryStratumID = agExpansion$County,
-                       DistributionTypeID = "Historical Rate: Urbanization",
-                       ExternalVariableTypeID = "Historical Year: Urbanization",
+                       DistributionTypeID = "Ag Expansion: Cropland",
+                       ExternalVariableTypeID = "Ag Change",
                        ExternalVariableMin = agExpansion$ToYear-1,
                        ExternalVariableMax = agExpansion$ToYear,
                        Value = agExpansion$Hectares,
@@ -54,8 +54,8 @@ write_csv(dist_agexp_hist, "data/distributions/distribution-ag-expansion.csv")
 
 # Create Ag Contraction Historical Distributions datasheet
 dist_agcon_hist = tibble(SecondaryStratumID = agContraction$County,
-                         DistributionTypeID = "Historical Rate: Urbanization",
-                         ExternalVariableTypeID = "Historical Year: Urbanization",
+                         DistributionTypeID = "Ag Contraction: Cropland",
+                         ExternalVariableTypeID = "Ag Change",
                          ExternalVariableMin = agContraction$ToYear-1,
                          ExternalVariableMax = agContraction$ToYear,
                          Value = agContraction$Hectares,
