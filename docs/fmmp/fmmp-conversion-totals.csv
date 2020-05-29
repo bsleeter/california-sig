@@ -7864,248 +7864,248 @@ FromYear,ToYear,County,From_Class,To_Class,Acres,Hectares
 2006,2008,El Dorado,Total,Other,1523,308.168389
 2006,2008,El Dorado,Total,Water,0,0
 2006,2008,El Dorado,Total,Total,3652,738.956636
-2008,2010,Eldorado,P_Farmland,P_Farmland,NA,NA
-2008,2010,Eldorado,P_Farmland,SI_Farmland,0,0
-2008,2010,Eldorado,P_Farmland,U_Farmland,1,0.202343
-2008,2010,Eldorado,P_Farmland,LI_Farmland,111,22.460072999999998
-2008,2010,Eldorado,P_Farmland,Total_Farmland,112,22.662416
-2008,2010,Eldorado,P_Farmland,Grazing,1,0.202343
-2008,2010,Eldorado,P_Farmland,Total_Agriculture,113,22.864759
-2008,2010,Eldorado,P_Farmland,Urban,1,0.202343
-2008,2010,Eldorado,P_Farmland,Other,0,0
-2008,2010,Eldorado,P_Farmland,Water,0,0
-2008,2010,Eldorado,P_Farmland,Total,114,23.067102
-2008,2010,Eldorado,SI_Farmland,P_Farmland,0,0
-2008,2010,Eldorado,SI_Farmland,SI_Farmland,NA,NA
-2008,2010,Eldorado,SI_Farmland,U_Farmland,1,0.202343
-2008,2010,Eldorado,SI_Farmland,LI_Farmland,113,22.864759
-2008,2010,Eldorado,SI_Farmland,Total_Farmland,114,23.067102
-2008,2010,Eldorado,SI_Farmland,Grazing,1,0.202343
-2008,2010,Eldorado,SI_Farmland,Total_Agriculture,115,23.269445
-2008,2010,Eldorado,SI_Farmland,Urban,0,0
-2008,2010,Eldorado,SI_Farmland,Other,0,0
-2008,2010,Eldorado,SI_Farmland,Water,0,0
-2008,2010,Eldorado,SI_Farmland,Total,115,23.269445
-2008,2010,Eldorado,U_Farmland,P_Farmland,1,0.202343
-2008,2010,Eldorado,U_Farmland,SI_Farmland,0,0
-2008,2010,Eldorado,U_Farmland,U_Farmland,NA,NA
-2008,2010,Eldorado,U_Farmland,LI_Farmland,381,77.092683
-2008,2010,Eldorado,U_Farmland,Total_Farmland,382,77.295025999999993
-2008,2010,Eldorado,U_Farmland,Grazing,163,32.981909
-2008,2010,Eldorado,U_Farmland,Total_Agriculture,545,110.276935
-2008,2010,Eldorado,U_Farmland,Urban,5,1.011715
-2008,2010,Eldorado,U_Farmland,Other,70,14.16401
-2008,2010,Eldorado,U_Farmland,Water,0,0
-2008,2010,Eldorado,U_Farmland,Total,620,125.45266
-2008,2010,Eldorado,LI_Farmland,P_Farmland,3,0.607029
-2008,2010,Eldorado,LI_Farmland,SI_Farmland,21,4.249203
-2008,2010,Eldorado,LI_Farmland,U_Farmland,19,3.8445169999999997
-2008,2010,Eldorado,LI_Farmland,LI_Farmland,NA,NA
-2008,2010,Eldorado,LI_Farmland,Total_Farmland,43,8.700749
-2008,2010,Eldorado,LI_Farmland,Grazing,14,2.832802
-2008,2010,Eldorado,LI_Farmland,Total_Agriculture,57,11.533551
-2008,2010,Eldorado,LI_Farmland,Urban,38,7.6890339999999995
-2008,2010,Eldorado,LI_Farmland,Other,638,129.094834
-2008,2010,Eldorado,LI_Farmland,Water,0,0
-2008,2010,Eldorado,LI_Farmland,Total,733,148.317419
-2008,2010,Eldorado,Total_Farmland,P_Farmland,4,0.809372
-2008,2010,Eldorado,Total_Farmland,SI_Farmland,21,4.249203
-2008,2010,Eldorado,Total_Farmland,U_Farmland,21,4.249203
-2008,2010,Eldorado,Total_Farmland,LI_Farmland,605,122.417515
-2008,2010,Eldorado,Total_Farmland,Total_Farmland,651,131.725293
-2008,2010,Eldorado,Total_Farmland,Grazing,179,36.219397
-2008,2010,Eldorado,Total_Farmland,Total_Agriculture,830,167.94469
-2008,2010,Eldorado,Total_Farmland,Urban,44,8.903092
-2008,2010,Eldorado,Total_Farmland,Other,708,143.258844
-2008,2010,Eldorado,Total_Farmland,Water,0,0
-2008,2010,Eldorado,Total_Farmland,Total,1582,320.106626
-2008,2010,Eldorado,Grazing,P_Farmland,0,0
-2008,2010,Eldorado,Grazing,SI_Farmland,0,0
-2008,2010,Eldorado,Grazing,U_Farmland,34,6.879662
-2008,2010,Eldorado,Grazing,LI_Farmland,5,1.011715
-2008,2010,Eldorado,Grazing,Total_Farmland,39,7.891376999999999
-2008,2010,Eldorado,Grazing,Grazing,NA,NA
-2008,2010,Eldorado,Grazing,Total_Agriculture,39,7.891376999999999
-2008,2010,Eldorado,Grazing,Urban,72,14.568696
-2008,2010,Eldorado,Grazing,Other,1100,222.5773
-2008,2010,Eldorado,Grazing,Water,0,0
-2008,2010,Eldorado,Grazing,Total,1211,245.037373
-2008,2010,Eldorado,Total_Agriculture,P_Farmland,4,0.809372
-2008,2010,Eldorado,Total_Agriculture,SI_Farmland,21,4.249203
-2008,2010,Eldorado,Total_Agriculture,U_Farmland,55,11.128865
-2008,2010,Eldorado,Total_Agriculture,LI_Farmland,610,123.42923
-2008,2010,Eldorado,Total_Agriculture,Total_Farmland,690,139.61667
-2008,2010,Eldorado,Total_Agriculture,Grazing,179,36.219397
-2008,2010,Eldorado,Total_Agriculture,Total_Agriculture,869,175.83606699999999
-2008,2010,Eldorado,Total_Agriculture,Urban,116,23.471788
-2008,2010,Eldorado,Total_Agriculture,Other,1808,365.836144
-2008,2010,Eldorado,Total_Agriculture,Water,0,0
-2008,2010,Eldorado,Total_Agriculture,Total,2793,565.143999
-2008,2010,Eldorado,Urban,P_Farmland,0,0
-2008,2010,Eldorado,Urban,SI_Farmland,0,0
-2008,2010,Eldorado,Urban,U_Farmland,1,0.202343
-2008,2010,Eldorado,Urban,LI_Farmland,26,5.260918
-2008,2010,Eldorado,Urban,Total_Farmland,27,5.463261
-2008,2010,Eldorado,Urban,Grazing,51,10.319493
-2008,2010,Eldorado,Urban,Total_Agriculture,78,15.782753999999999
-2008,2010,Eldorado,Urban,Urban,NA,NA
-2008,2010,Eldorado,Urban,Other,256,51.799808
-2008,2010,Eldorado,Urban,Water,0,0
-2008,2010,Eldorado,Urban,Total,334,67.582562
-2008,2010,Eldorado,Other,P_Farmland,0,0
-2008,2010,Eldorado,Other,SI_Farmland,0,0
-2008,2010,Eldorado,Other,U_Farmland,4,0.809372
-2008,2010,Eldorado,Other,LI_Farmland,14,2.832802
-2008,2010,Eldorado,Other,Total_Farmland,18,3.642174
-2008,2010,Eldorado,Other,Grazing,86,17.401498
-2008,2010,Eldorado,Other,Total_Agriculture,104,21.043672
-2008,2010,Eldorado,Other,Urban,293,59.286499
-2008,2010,Eldorado,Other,Other,NA,NA
-2008,2010,Eldorado,Other,Water,154,31.160822
-2008,2010,Eldorado,Other,Total,551,111.490993
-2008,2010,Eldorado,Water,P_Farmland,0,0
-2008,2010,Eldorado,Water,SI_Farmland,0,0
-2008,2010,Eldorado,Water,U_Farmland,0,0
-2008,2010,Eldorado,Water,LI_Farmland,0,0
-2008,2010,Eldorado,Water,Total_Farmland,0,0
-2008,2010,Eldorado,Water,Grazing,0,0
-2008,2010,Eldorado,Water,Total_Agriculture,0,0
-2008,2010,Eldorado,Water,Urban,0,0
-2008,2010,Eldorado,Water,Other,0,0
-2008,2010,Eldorado,Water,Water,NA,NA
-2008,2010,Eldorado,Water,Total,0,0
-2008,2010,Eldorado,Total,P_Farmland,4,0.809372
-2008,2010,Eldorado,Total,SI_Farmland,21,4.249203
-2008,2010,Eldorado,Total,U_Farmland,60,12.14058
-2008,2010,Eldorado,Total,LI_Farmland,650,131.52295
-2008,2010,Eldorado,Total,Total_Farmland,735,148.722105
-2008,2010,Eldorado,Total,Grazing,316,63.940388
-2008,2010,Eldorado,Total,Total_Agriculture,1051,212.66249299999998
-2008,2010,Eldorado,Total,Urban,409,82.758287
-2008,2010,Eldorado,Total,Other,2064,417.635952
-2008,2010,Eldorado,Total,Water,154,31.160822
-2008,2010,Eldorado,Total,Total,3678,744.217554
-2010,2012,Eldorado,P_Farmland,P_Farmland,NA,NA
-2010,2012,Eldorado,P_Farmland,SI_Farmland,0,0
-2010,2012,Eldorado,P_Farmland,U_Farmland,0,0
-2010,2012,Eldorado,P_Farmland,LI_Farmland,18,3.642174
-2010,2012,Eldorado,P_Farmland,Total_Farmland,18,3.642174
-2010,2012,Eldorado,P_Farmland,Grazing,0,0
-2010,2012,Eldorado,P_Farmland,Total_Agriculture,18,3.642174
-2010,2012,Eldorado,P_Farmland,Urban,4,0.809372
-2010,2012,Eldorado,P_Farmland,Other,4,0.809372
-2010,2012,Eldorado,P_Farmland,Water,0,0
-2010,2012,Eldorado,P_Farmland,Total,26,5.260918
-2010,2012,Eldorado,SI_Farmland,P_Farmland,0,0
-2010,2012,Eldorado,SI_Farmland,SI_Farmland,NA,NA
-2010,2012,Eldorado,SI_Farmland,U_Farmland,1,0.202343
-2010,2012,Eldorado,SI_Farmland,LI_Farmland,6,1.214058
-2010,2012,Eldorado,SI_Farmland,Total_Farmland,7,1.416401
-2010,2012,Eldorado,SI_Farmland,Grazing,0,0
-2010,2012,Eldorado,SI_Farmland,Total_Agriculture,7,1.416401
-2010,2012,Eldorado,SI_Farmland,Urban,0,0
-2010,2012,Eldorado,SI_Farmland,Other,2,0.404686
-2010,2012,Eldorado,SI_Farmland,Water,0,0
-2010,2012,Eldorado,SI_Farmland,Total,9,1.821087
-2010,2012,Eldorado,U_Farmland,P_Farmland,0,0
-2010,2012,Eldorado,U_Farmland,SI_Farmland,1,0.202343
-2010,2012,Eldorado,U_Farmland,U_Farmland,NA,NA
-2010,2012,Eldorado,U_Farmland,LI_Farmland,29,5.867947
-2010,2012,Eldorado,U_Farmland,Total_Farmland,30,6.07029
-2010,2012,Eldorado,U_Farmland,Grazing,25,5.058575
-2010,2012,Eldorado,U_Farmland,Total_Agriculture,55,11.128865
-2010,2012,Eldorado,U_Farmland,Urban,2,0.404686
-2010,2012,Eldorado,U_Farmland,Other,20,4.04686
-2010,2012,Eldorado,U_Farmland,Water,0,0
-2010,2012,Eldorado,U_Farmland,Total,77,15.580411
-2010,2012,Eldorado,LI_Farmland,P_Farmland,10,2.02343
-2010,2012,Eldorado,LI_Farmland,SI_Farmland,16,3.237488
-2010,2012,Eldorado,LI_Farmland,U_Farmland,90,18.21087
-2010,2012,Eldorado,LI_Farmland,LI_Farmland,NA,NA
-2010,2012,Eldorado,LI_Farmland,Total_Farmland,116,23.471788
-2010,2012,Eldorado,LI_Farmland,Grazing,1,0.202343
-2010,2012,Eldorado,LI_Farmland,Total_Agriculture,117,23.674131
-2010,2012,Eldorado,LI_Farmland,Urban,7,1.416401
-2010,2012,Eldorado,LI_Farmland,Other,83,16.794469
-2010,2012,Eldorado,LI_Farmland,Water,0,0
-2010,2012,Eldorado,LI_Farmland,Total,207,41.885000999999995
-2010,2012,Eldorado,Total_Farmland,P_Farmland,10,2.02343
-2010,2012,Eldorado,Total_Farmland,SI_Farmland,17,3.439831
-2010,2012,Eldorado,Total_Farmland,U_Farmland,91,18.413213
-2010,2012,Eldorado,Total_Farmland,LI_Farmland,53,10.724179
-2010,2012,Eldorado,Total_Farmland,Total_Farmland,171,34.600653
-2010,2012,Eldorado,Total_Farmland,Grazing,26,5.260918
-2010,2012,Eldorado,Total_Farmland,Total_Agriculture,197,39.861571
-2010,2012,Eldorado,Total_Farmland,Urban,13,2.630459
-2010,2012,Eldorado,Total_Farmland,Other,109,22.055387
-2010,2012,Eldorado,Total_Farmland,Water,0,0
-2010,2012,Eldorado,Total_Farmland,Total,319,64.547417
-2010,2012,Eldorado,Grazing,P_Farmland,0,0
-2010,2012,Eldorado,Grazing,SI_Farmland,0,0
-2010,2012,Eldorado,Grazing,U_Farmland,7,1.416401
-2010,2012,Eldorado,Grazing,LI_Farmland,0,0
-2010,2012,Eldorado,Grazing,Total_Farmland,7,1.416401
-2010,2012,Eldorado,Grazing,Grazing,NA,NA
-2010,2012,Eldorado,Grazing,Total_Agriculture,7,1.416401
-2010,2012,Eldorado,Grazing,Urban,36,7.284348
-2010,2012,Eldorado,Grazing,Other,132,26.709276
-2010,2012,Eldorado,Grazing,Water,0,0
-2010,2012,Eldorado,Grazing,Total,175,35.410025
-2010,2012,Eldorado,Total_Agriculture,P_Farmland,10,2.02343
-2010,2012,Eldorado,Total_Agriculture,SI_Farmland,17,3.439831
-2010,2012,Eldorado,Total_Agriculture,U_Farmland,98,19.829614
-2010,2012,Eldorado,Total_Agriculture,LI_Farmland,53,10.724179
-2010,2012,Eldorado,Total_Agriculture,Total_Farmland,178,36.017054
-2010,2012,Eldorado,Total_Agriculture,Grazing,26,5.260918
-2010,2012,Eldorado,Total_Agriculture,Total_Agriculture,204,41.277972
-2010,2012,Eldorado,Total_Agriculture,Urban,49,9.914807
-2010,2012,Eldorado,Total_Agriculture,Other,241,48.764663
-2010,2012,Eldorado,Total_Agriculture,Water,0,0
-2010,2012,Eldorado,Total_Agriculture,Total,494,99.957442
-2010,2012,Eldorado,Urban,P_Farmland,0,0
-2010,2012,Eldorado,Urban,SI_Farmland,0,0
-2010,2012,Eldorado,Urban,U_Farmland,0,0
-2010,2012,Eldorado,Urban,LI_Farmland,0,0
-2010,2012,Eldorado,Urban,Total_Farmland,0,0
-2010,2012,Eldorado,Urban,Grazing,60,12.14058
-2010,2012,Eldorado,Urban,Total_Agriculture,60,12.14058
-2010,2012,Eldorado,Urban,Urban,NA,NA
-2010,2012,Eldorado,Urban,Other,28,5.665604
-2010,2012,Eldorado,Urban,Water,0,0
-2010,2012,Eldorado,Urban,Total,88,17.806184
-2010,2012,Eldorado,Other,P_Farmland,0,0
-2010,2012,Eldorado,Other,SI_Farmland,0,0
-2010,2012,Eldorado,Other,U_Farmland,1,0.202343
-2010,2012,Eldorado,Other,LI_Farmland,0,0
-2010,2012,Eldorado,Other,Total_Farmland,1,0.202343
-2010,2012,Eldorado,Other,Grazing,0,0
-2010,2012,Eldorado,Other,Total_Agriculture,1,0.202343
-2010,2012,Eldorado,Other,Urban,91,18.413213
-2010,2012,Eldorado,Other,Other,NA,NA
-2010,2012,Eldorado,Other,Water,0,0
-2010,2012,Eldorado,Other,Total,92,18.615555999999998
-2010,2012,Eldorado,Water,P_Farmland,0,0
-2010,2012,Eldorado,Water,SI_Farmland,0,0
-2010,2012,Eldorado,Water,U_Farmland,0,0
-2010,2012,Eldorado,Water,LI_Farmland,0,0
-2010,2012,Eldorado,Water,Total_Farmland,0,0
-2010,2012,Eldorado,Water,Grazing,0,0
-2010,2012,Eldorado,Water,Total_Agriculture,0,0
-2010,2012,Eldorado,Water,Urban,0,0
-2010,2012,Eldorado,Water,Other,0,0
-2010,2012,Eldorado,Water,Water,NA,NA
-2010,2012,Eldorado,Water,Total,0,0
-2010,2012,Eldorado,Total,P_Farmland,10,2.02343
-2010,2012,Eldorado,Total,SI_Farmland,17,3.439831
-2010,2012,Eldorado,Total,U_Farmland,99,20.031957
-2010,2012,Eldorado,Total,LI_Farmland,53,10.724179
-2010,2012,Eldorado,Total,Total_Farmland,179,36.219397
-2010,2012,Eldorado,Total,Grazing,86,17.401498
-2010,2012,Eldorado,Total,Total_Agriculture,265,53.620895
-2010,2012,Eldorado,Total,Urban,140,28.32802
-2010,2012,Eldorado,Total,Other,269,54.430267
-2010,2012,Eldorado,Total,Water,0,0
-2010,2012,Eldorado,Total,Total,674,136.379182
+2008,2010,El Dorado,P_Farmland,P_Farmland,NA,NA
+2008,2010,El Dorado,P_Farmland,SI_Farmland,0,0
+2008,2010,El Dorado,P_Farmland,U_Farmland,1,0.202343
+2008,2010,El Dorado,P_Farmland,LI_Farmland,111,22.460072999999998
+2008,2010,El Dorado,P_Farmland,Total_Farmland,112,22.662416
+2008,2010,El Dorado,P_Farmland,Grazing,1,0.202343
+2008,2010,El Dorado,P_Farmland,Total_Agriculture,113,22.864759
+2008,2010,El Dorado,P_Farmland,Urban,1,0.202343
+2008,2010,El Dorado,P_Farmland,Other,0,0
+2008,2010,El Dorado,P_Farmland,Water,0,0
+2008,2010,El Dorado,P_Farmland,Total,114,23.067102
+2008,2010,El Dorado,SI_Farmland,P_Farmland,0,0
+2008,2010,El Dorado,SI_Farmland,SI_Farmland,NA,NA
+2008,2010,El Dorado,SI_Farmland,U_Farmland,1,0.202343
+2008,2010,El Dorado,SI_Farmland,LI_Farmland,113,22.864759
+2008,2010,El Dorado,SI_Farmland,Total_Farmland,114,23.067102
+2008,2010,El Dorado,SI_Farmland,Grazing,1,0.202343
+2008,2010,El Dorado,SI_Farmland,Total_Agriculture,115,23.269445
+2008,2010,El Dorado,SI_Farmland,Urban,0,0
+2008,2010,El Dorado,SI_Farmland,Other,0,0
+2008,2010,El Dorado,SI_Farmland,Water,0,0
+2008,2010,El Dorado,SI_Farmland,Total,115,23.269445
+2008,2010,El Dorado,U_Farmland,P_Farmland,1,0.202343
+2008,2010,El Dorado,U_Farmland,SI_Farmland,0,0
+2008,2010,El Dorado,U_Farmland,U_Farmland,NA,NA
+2008,2010,El Dorado,U_Farmland,LI_Farmland,381,77.092683
+2008,2010,El Dorado,U_Farmland,Total_Farmland,382,77.295025999999993
+2008,2010,El Dorado,U_Farmland,Grazing,163,32.981909
+2008,2010,El Dorado,U_Farmland,Total_Agriculture,545,110.276935
+2008,2010,El Dorado,U_Farmland,Urban,5,1.011715
+2008,2010,El Dorado,U_Farmland,Other,70,14.16401
+2008,2010,El Dorado,U_Farmland,Water,0,0
+2008,2010,El Dorado,U_Farmland,Total,620,125.45266
+2008,2010,El Dorado,LI_Farmland,P_Farmland,3,0.607029
+2008,2010,El Dorado,LI_Farmland,SI_Farmland,21,4.249203
+2008,2010,El Dorado,LI_Farmland,U_Farmland,19,3.8445169999999997
+2008,2010,El Dorado,LI_Farmland,LI_Farmland,NA,NA
+2008,2010,El Dorado,LI_Farmland,Total_Farmland,43,8.700749
+2008,2010,El Dorado,LI_Farmland,Grazing,14,2.832802
+2008,2010,El Dorado,LI_Farmland,Total_Agriculture,57,11.533551
+2008,2010,El Dorado,LI_Farmland,Urban,38,7.6890339999999995
+2008,2010,El Dorado,LI_Farmland,Other,638,129.094834
+2008,2010,El Dorado,LI_Farmland,Water,0,0
+2008,2010,El Dorado,LI_Farmland,Total,733,148.317419
+2008,2010,El Dorado,Total_Farmland,P_Farmland,4,0.809372
+2008,2010,El Dorado,Total_Farmland,SI_Farmland,21,4.249203
+2008,2010,El Dorado,Total_Farmland,U_Farmland,21,4.249203
+2008,2010,El Dorado,Total_Farmland,LI_Farmland,605,122.417515
+2008,2010,El Dorado,Total_Farmland,Total_Farmland,651,131.725293
+2008,2010,El Dorado,Total_Farmland,Grazing,179,36.219397
+2008,2010,El Dorado,Total_Farmland,Total_Agriculture,830,167.94469
+2008,2010,El Dorado,Total_Farmland,Urban,44,8.903092
+2008,2010,El Dorado,Total_Farmland,Other,708,143.258844
+2008,2010,El Dorado,Total_Farmland,Water,0,0
+2008,2010,El Dorado,Total_Farmland,Total,1582,320.106626
+2008,2010,El Dorado,Grazing,P_Farmland,0,0
+2008,2010,El Dorado,Grazing,SI_Farmland,0,0
+2008,2010,El Dorado,Grazing,U_Farmland,34,6.879662
+2008,2010,El Dorado,Grazing,LI_Farmland,5,1.011715
+2008,2010,El Dorado,Grazing,Total_Farmland,39,7.891376999999999
+2008,2010,El Dorado,Grazing,Grazing,NA,NA
+2008,2010,El Dorado,Grazing,Total_Agriculture,39,7.891376999999999
+2008,2010,El Dorado,Grazing,Urban,72,14.568696
+2008,2010,El Dorado,Grazing,Other,1100,222.5773
+2008,2010,El Dorado,Grazing,Water,0,0
+2008,2010,El Dorado,Grazing,Total,1211,245.037373
+2008,2010,El Dorado,Total_Agriculture,P_Farmland,4,0.809372
+2008,2010,El Dorado,Total_Agriculture,SI_Farmland,21,4.249203
+2008,2010,El Dorado,Total_Agriculture,U_Farmland,55,11.128865
+2008,2010,El Dorado,Total_Agriculture,LI_Farmland,610,123.42923
+2008,2010,El Dorado,Total_Agriculture,Total_Farmland,690,139.61667
+2008,2010,El Dorado,Total_Agriculture,Grazing,179,36.219397
+2008,2010,El Dorado,Total_Agriculture,Total_Agriculture,869,175.83606699999999
+2008,2010,El Dorado,Total_Agriculture,Urban,116,23.471788
+2008,2010,El Dorado,Total_Agriculture,Other,1808,365.836144
+2008,2010,El Dorado,Total_Agriculture,Water,0,0
+2008,2010,El Dorado,Total_Agriculture,Total,2793,565.143999
+2008,2010,El Dorado,Urban,P_Farmland,0,0
+2008,2010,El Dorado,Urban,SI_Farmland,0,0
+2008,2010,El Dorado,Urban,U_Farmland,1,0.202343
+2008,2010,El Dorado,Urban,LI_Farmland,26,5.260918
+2008,2010,El Dorado,Urban,Total_Farmland,27,5.463261
+2008,2010,El Dorado,Urban,Grazing,51,10.319493
+2008,2010,El Dorado,Urban,Total_Agriculture,78,15.782753999999999
+2008,2010,El Dorado,Urban,Urban,NA,NA
+2008,2010,El Dorado,Urban,Other,256,51.799808
+2008,2010,El Dorado,Urban,Water,0,0
+2008,2010,El Dorado,Urban,Total,334,67.582562
+2008,2010,El Dorado,Other,P_Farmland,0,0
+2008,2010,El Dorado,Other,SI_Farmland,0,0
+2008,2010,El Dorado,Other,U_Farmland,4,0.809372
+2008,2010,El Dorado,Other,LI_Farmland,14,2.832802
+2008,2010,El Dorado,Other,Total_Farmland,18,3.642174
+2008,2010,El Dorado,Other,Grazing,86,17.401498
+2008,2010,El Dorado,Other,Total_Agriculture,104,21.043672
+2008,2010,El Dorado,Other,Urban,293,59.286499
+2008,2010,El Dorado,Other,Other,NA,NA
+2008,2010,El Dorado,Other,Water,154,31.160822
+2008,2010,El Dorado,Other,Total,551,111.490993
+2008,2010,El Dorado,Water,P_Farmland,0,0
+2008,2010,El Dorado,Water,SI_Farmland,0,0
+2008,2010,El Dorado,Water,U_Farmland,0,0
+2008,2010,El Dorado,Water,LI_Farmland,0,0
+2008,2010,El Dorado,Water,Total_Farmland,0,0
+2008,2010,El Dorado,Water,Grazing,0,0
+2008,2010,El Dorado,Water,Total_Agriculture,0,0
+2008,2010,El Dorado,Water,Urban,0,0
+2008,2010,El Dorado,Water,Other,0,0
+2008,2010,El Dorado,Water,Water,NA,NA
+2008,2010,El Dorado,Water,Total,0,0
+2008,2010,El Dorado,Total,P_Farmland,4,0.809372
+2008,2010,El Dorado,Total,SI_Farmland,21,4.249203
+2008,2010,El Dorado,Total,U_Farmland,60,12.14058
+2008,2010,El Dorado,Total,LI_Farmland,650,131.52295
+2008,2010,El Dorado,Total,Total_Farmland,735,148.722105
+2008,2010,El Dorado,Total,Grazing,316,63.940388
+2008,2010,El Dorado,Total,Total_Agriculture,1051,212.66249299999998
+2008,2010,El Dorado,Total,Urban,409,82.758287
+2008,2010,El Dorado,Total,Other,2064,417.635952
+2008,2010,El Dorado,Total,Water,154,31.160822
+2008,2010,El Dorado,Total,Total,3678,744.217554
+2010,2012,El Dorado,P_Farmland,P_Farmland,NA,NA
+2010,2012,El Dorado,P_Farmland,SI_Farmland,0,0
+2010,2012,El Dorado,P_Farmland,U_Farmland,0,0
+2010,2012,El Dorado,P_Farmland,LI_Farmland,18,3.642174
+2010,2012,El Dorado,P_Farmland,Total_Farmland,18,3.642174
+2010,2012,El Dorado,P_Farmland,Grazing,0,0
+2010,2012,El Dorado,P_Farmland,Total_Agriculture,18,3.642174
+2010,2012,El Dorado,P_Farmland,Urban,4,0.809372
+2010,2012,El Dorado,P_Farmland,Other,4,0.809372
+2010,2012,El Dorado,P_Farmland,Water,0,0
+2010,2012,El Dorado,P_Farmland,Total,26,5.260918
+2010,2012,El Dorado,SI_Farmland,P_Farmland,0,0
+2010,2012,El Dorado,SI_Farmland,SI_Farmland,NA,NA
+2010,2012,El Dorado,SI_Farmland,U_Farmland,1,0.202343
+2010,2012,El Dorado,SI_Farmland,LI_Farmland,6,1.214058
+2010,2012,El Dorado,SI_Farmland,Total_Farmland,7,1.416401
+2010,2012,El Dorado,SI_Farmland,Grazing,0,0
+2010,2012,El Dorado,SI_Farmland,Total_Agriculture,7,1.416401
+2010,2012,El Dorado,SI_Farmland,Urban,0,0
+2010,2012,El Dorado,SI_Farmland,Other,2,0.404686
+2010,2012,El Dorado,SI_Farmland,Water,0,0
+2010,2012,El Dorado,SI_Farmland,Total,9,1.821087
+2010,2012,El Dorado,U_Farmland,P_Farmland,0,0
+2010,2012,El Dorado,U_Farmland,SI_Farmland,1,0.202343
+2010,2012,El Dorado,U_Farmland,U_Farmland,NA,NA
+2010,2012,El Dorado,U_Farmland,LI_Farmland,29,5.867947
+2010,2012,El Dorado,U_Farmland,Total_Farmland,30,6.07029
+2010,2012,El Dorado,U_Farmland,Grazing,25,5.058575
+2010,2012,El Dorado,U_Farmland,Total_Agriculture,55,11.128865
+2010,2012,El Dorado,U_Farmland,Urban,2,0.404686
+2010,2012,El Dorado,U_Farmland,Other,20,4.04686
+2010,2012,El Dorado,U_Farmland,Water,0,0
+2010,2012,El Dorado,U_Farmland,Total,77,15.580411
+2010,2012,El Dorado,LI_Farmland,P_Farmland,10,2.02343
+2010,2012,El Dorado,LI_Farmland,SI_Farmland,16,3.237488
+2010,2012,El Dorado,LI_Farmland,U_Farmland,90,18.21087
+2010,2012,El Dorado,LI_Farmland,LI_Farmland,NA,NA
+2010,2012,El Dorado,LI_Farmland,Total_Farmland,116,23.471788
+2010,2012,El Dorado,LI_Farmland,Grazing,1,0.202343
+2010,2012,El Dorado,LI_Farmland,Total_Agriculture,117,23.674131
+2010,2012,El Dorado,LI_Farmland,Urban,7,1.416401
+2010,2012,El Dorado,LI_Farmland,Other,83,16.794469
+2010,2012,El Dorado,LI_Farmland,Water,0,0
+2010,2012,El Dorado,LI_Farmland,Total,207,41.885000999999995
+2010,2012,El Dorado,Total_Farmland,P_Farmland,10,2.02343
+2010,2012,El Dorado,Total_Farmland,SI_Farmland,17,3.439831
+2010,2012,El Dorado,Total_Farmland,U_Farmland,91,18.413213
+2010,2012,El Dorado,Total_Farmland,LI_Farmland,53,10.724179
+2010,2012,El Dorado,Total_Farmland,Total_Farmland,171,34.600653
+2010,2012,El Dorado,Total_Farmland,Grazing,26,5.260918
+2010,2012,El Dorado,Total_Farmland,Total_Agriculture,197,39.861571
+2010,2012,El Dorado,Total_Farmland,Urban,13,2.630459
+2010,2012,El Dorado,Total_Farmland,Other,109,22.055387
+2010,2012,El Dorado,Total_Farmland,Water,0,0
+2010,2012,El Dorado,Total_Farmland,Total,319,64.547417
+2010,2012,El Dorado,Grazing,P_Farmland,0,0
+2010,2012,El Dorado,Grazing,SI_Farmland,0,0
+2010,2012,El Dorado,Grazing,U_Farmland,7,1.416401
+2010,2012,El Dorado,Grazing,LI_Farmland,0,0
+2010,2012,El Dorado,Grazing,Total_Farmland,7,1.416401
+2010,2012,El Dorado,Grazing,Grazing,NA,NA
+2010,2012,El Dorado,Grazing,Total_Agriculture,7,1.416401
+2010,2012,El Dorado,Grazing,Urban,36,7.284348
+2010,2012,El Dorado,Grazing,Other,132,26.709276
+2010,2012,El Dorado,Grazing,Water,0,0
+2010,2012,El Dorado,Grazing,Total,175,35.410025
+2010,2012,El Dorado,Total_Agriculture,P_Farmland,10,2.02343
+2010,2012,El Dorado,Total_Agriculture,SI_Farmland,17,3.439831
+2010,2012,El Dorado,Total_Agriculture,U_Farmland,98,19.829614
+2010,2012,El Dorado,Total_Agriculture,LI_Farmland,53,10.724179
+2010,2012,El Dorado,Total_Agriculture,Total_Farmland,178,36.017054
+2010,2012,El Dorado,Total_Agriculture,Grazing,26,5.260918
+2010,2012,El Dorado,Total_Agriculture,Total_Agriculture,204,41.277972
+2010,2012,El Dorado,Total_Agriculture,Urban,49,9.914807
+2010,2012,El Dorado,Total_Agriculture,Other,241,48.764663
+2010,2012,El Dorado,Total_Agriculture,Water,0,0
+2010,2012,El Dorado,Total_Agriculture,Total,494,99.957442
+2010,2012,El Dorado,Urban,P_Farmland,0,0
+2010,2012,El Dorado,Urban,SI_Farmland,0,0
+2010,2012,El Dorado,Urban,U_Farmland,0,0
+2010,2012,El Dorado,Urban,LI_Farmland,0,0
+2010,2012,El Dorado,Urban,Total_Farmland,0,0
+2010,2012,El Dorado,Urban,Grazing,60,12.14058
+2010,2012,El Dorado,Urban,Total_Agriculture,60,12.14058
+2010,2012,El Dorado,Urban,Urban,NA,NA
+2010,2012,El Dorado,Urban,Other,28,5.665604
+2010,2012,El Dorado,Urban,Water,0,0
+2010,2012,El Dorado,Urban,Total,88,17.806184
+2010,2012,El Dorado,Other,P_Farmland,0,0
+2010,2012,El Dorado,Other,SI_Farmland,0,0
+2010,2012,El Dorado,Other,U_Farmland,1,0.202343
+2010,2012,El Dorado,Other,LI_Farmland,0,0
+2010,2012,El Dorado,Other,Total_Farmland,1,0.202343
+2010,2012,El Dorado,Other,Grazing,0,0
+2010,2012,El Dorado,Other,Total_Agriculture,1,0.202343
+2010,2012,El Dorado,Other,Urban,91,18.413213
+2010,2012,El Dorado,Other,Other,NA,NA
+2010,2012,El Dorado,Other,Water,0,0
+2010,2012,El Dorado,Other,Total,92,18.615555999999998
+2010,2012,El Dorado,Water,P_Farmland,0,0
+2010,2012,El Dorado,Water,SI_Farmland,0,0
+2010,2012,El Dorado,Water,U_Farmland,0,0
+2010,2012,El Dorado,Water,LI_Farmland,0,0
+2010,2012,El Dorado,Water,Total_Farmland,0,0
+2010,2012,El Dorado,Water,Grazing,0,0
+2010,2012,El Dorado,Water,Total_Agriculture,0,0
+2010,2012,El Dorado,Water,Urban,0,0
+2010,2012,El Dorado,Water,Other,0,0
+2010,2012,El Dorado,Water,Water,NA,NA
+2010,2012,El Dorado,Water,Total,0,0
+2010,2012,El Dorado,Total,P_Farmland,10,2.02343
+2010,2012,El Dorado,Total,SI_Farmland,17,3.439831
+2010,2012,El Dorado,Total,U_Farmland,99,20.031957
+2010,2012,El Dorado,Total,LI_Farmland,53,10.724179
+2010,2012,El Dorado,Total,Total_Farmland,179,36.219397
+2010,2012,El Dorado,Total,Grazing,86,17.401498
+2010,2012,El Dorado,Total,Total_Agriculture,265,53.620895
+2010,2012,El Dorado,Total,Urban,140,28.32802
+2010,2012,El Dorado,Total,Other,269,54.430267
+2010,2012,El Dorado,Total,Water,0,0
+2010,2012,El Dorado,Total,Total,674,136.379182
 2012,2014,El Dorado,P_Farmland,P_Farmland,NA,NA
 2012,2014,El Dorado,P_Farmland,SI_Farmland,0,0
 2012,2014,El Dorado,P_Farmland,U_Farmland,1,0.202343

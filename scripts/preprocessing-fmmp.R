@@ -66,13 +66,14 @@ mergedData_Long = mergedData %>%
   dplyr::select(Year, County, From_Class, To_Class, Acres) %>%
   mutate(County = str_remove(County, " - Important Farmland Area")) %>%
   separate(Year, into = c("FromYear", "ToYear"), sep = "-") %>%
-  mutate(Hectares = (Acres*0.404686)/2)
+  mutate(Hectares = (Acres*0.404686)/2) %>%
+  mutate(County = if_else(County=="Eldorado", "El Dorado", County))
 write_csv(mergedData_Long, "docs/fmmp/fmmp-conversion-totals.csv")
 
 
 
 
-
+unique(mergedData_Long$County)
 
 
 

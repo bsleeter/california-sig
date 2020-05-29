@@ -71,15 +71,15 @@ Timestep,SecondaryStratumID,TransitionGroupID,Amount,DistributionFrequencyID,Dis
 2071,Del Norte,Ag Contraction: Cropland,0,Iteration and Timestep,0,0,0
 2081,Del Norte,Ag Contraction: Cropland,0,Iteration and Timestep,0,0,0
 2091,Del Norte,Ag Contraction: Cropland,0,Iteration and Timestep,0,0,0
-2017,El Dorado,Ag Contraction: Cropland,93.7657462,Iteration and Timestep,98.10462860816881,4.451546,232.69445
-2021,El Dorado,Ag Contraction: Cropland,93.7657462,Iteration and Timestep,98.10462860816881,4.451546,232.69445
-2031,El Dorado,Ag Contraction: Cropland,93.7657462,Iteration and Timestep,98.10462860816881,4.451546,232.69445
-2041,El Dorado,Ag Contraction: Cropland,93.7657462,Iteration and Timestep,98.10462860816881,4.451546,232.69445
-2051,El Dorado,Ag Contraction: Cropland,93.7657462,Iteration and Timestep,98.10462860816881,4.451546,232.69445
-2061,El Dorado,Ag Contraction: Cropland,93.7657462,Iteration and Timestep,98.10462860816881,4.451546,232.69445
-2071,El Dorado,Ag Contraction: Cropland,93.7657462,Iteration and Timestep,98.10462860816881,4.451546,232.69445
-2081,El Dorado,Ag Contraction: Cropland,93.7657462,Iteration and Timestep,98.10462860816881,4.451546,232.69445
-2091,El Dorado,Ag Contraction: Cropland,93.7657462,Iteration and Timestep,98.10462860816881,4.451546,232.69445
+2017,El Dorado,Ag Contraction: Cropland,95.37100066666666,Iteration and Timestep,94.55729445777587,4.451546,232.69445
+2021,El Dorado,Ag Contraction: Cropland,95.37100066666666,Iteration and Timestep,94.55729445777587,4.451546,232.69445
+2031,El Dorado,Ag Contraction: Cropland,95.37100066666666,Iteration and Timestep,94.55729445777587,4.451546,232.69445
+2041,El Dorado,Ag Contraction: Cropland,95.37100066666666,Iteration and Timestep,94.55729445777587,4.451546,232.69445
+2051,El Dorado,Ag Contraction: Cropland,95.37100066666666,Iteration and Timestep,94.55729445777587,4.451546,232.69445
+2061,El Dorado,Ag Contraction: Cropland,95.37100066666666,Iteration and Timestep,94.55729445777587,4.451546,232.69445
+2071,El Dorado,Ag Contraction: Cropland,95.37100066666666,Iteration and Timestep,94.55729445777587,4.451546,232.69445
+2081,El Dorado,Ag Contraction: Cropland,95.37100066666666,Iteration and Timestep,94.55729445777587,4.451546,232.69445
+2091,El Dorado,Ag Contraction: Cropland,95.37100066666666,Iteration and Timestep,94.55729445777587,4.451546,232.69445
 2017,Fresno,Ag Contraction: Cropland,648.9308629166667,Iteration and Timestep,490.94676297996597,94.089495,1476.092185
 2021,Fresno,Ag Contraction: Cropland,648.9308629166667,Iteration and Timestep,490.94676297996597,94.089495,1476.092185
 2031,Fresno,Ag Contraction: Cropland,648.9308629166667,Iteration and Timestep,490.94676297996597,94.089495,1476.092185
@@ -593,15 +593,15 @@ Timestep,SecondaryStratumID,TransitionGroupID,Amount,DistributionFrequencyID,Dis
 2071,Del Norte,Ag Contraction: Cropland,0,Iteration and Timestep,0,0,0
 2081,Del Norte,Ag Contraction: Cropland,0,Iteration and Timestep,0,0,0
 2091,Del Norte,Ag Contraction: Cropland,0,Iteration and Timestep,0,0,0
-2017,El Dorado,Ag Contraction: Cropland,93.7657462,Iteration and Timestep,98.10462860816881,4.451546,232.69445
-2021,El Dorado,Ag Contraction: Cropland,93.7657462,Iteration and Timestep,98.10462860816881,4.451546,232.69445
-2031,El Dorado,Ag Contraction: Cropland,93.7657462,Iteration and Timestep,98.10462860816881,4.451546,232.69445
-2041,El Dorado,Ag Contraction: Cropland,93.7657462,Iteration and Timestep,98.10462860816881,4.451546,232.69445
-2051,El Dorado,Ag Contraction: Cropland,93.7657462,Iteration and Timestep,98.10462860816881,4.451546,232.69445
-2061,El Dorado,Ag Contraction: Cropland,93.7657462,Iteration and Timestep,98.10462860816881,4.451546,232.69445
-2071,El Dorado,Ag Contraction: Cropland,93.7657462,Iteration and Timestep,98.10462860816881,4.451546,232.69445
-2081,El Dorado,Ag Contraction: Cropland,93.7657462,Iteration and Timestep,98.10462860816881,4.451546,232.69445
-2091,El Dorado,Ag Contraction: Cropland,93.7657462,Iteration and Timestep,98.10462860816881,4.451546,232.69445
+2017,El Dorado,Ag Contraction: Cropland,95.37100066666666,Iteration and Timestep,94.55729445777587,4.451546,232.69445
+2021,El Dorado,Ag Contraction: Cropland,95.37100066666666,Iteration and Timestep,94.55729445777587,4.451546,232.69445
+2031,El Dorado,Ag Contraction: Cropland,95.37100066666666,Iteration and Timestep,94.55729445777587,4.451546,232.69445
+2041,El Dorado,Ag Contraction: Cropland,95.37100066666666,Iteration and Timestep,94.55729445777587,4.451546,232.69445
+2051,El Dorado,Ag Contraction: Cropland,95.37100066666666,Iteration and Timestep,94.55729445777587,4.451546,232.69445
+2061,El Dorado,Ag Contraction: Cropland,95.37100066666666,Iteration and Timestep,94.55729445777587,4.451546,232.69445
+2071,El Dorado,Ag Contraction: Cropland,95.37100066666666,Iteration and Timestep,94.55729445777587,4.451546,232.69445
+2081,El Dorado,Ag Contraction: Cropland,95.37100066666666,Iteration and Timestep,94.55729445777587,4.451546,232.69445
+2091,El Dorado,Ag Contraction: Cropland,95.37100066666666,Iteration and Timestep,94.55729445777587,4.451546,232.69445
 2017,Fresno,Ag Contraction: Cropland,648.9308629166667,Iteration and Timestep,490.94676297996597,94.089495,1476.092185
 2021,Fresno,Ag Contraction: Cropland,648.9308629166667,Iteration and Timestep,490.94676297996597,94.089495,1476.092185
 2031,Fresno,Ag Contraction: Cropland,648.9308629166667,Iteration and Timestep,490.94676297996597,94.089495,1476.092185

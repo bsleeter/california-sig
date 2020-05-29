@@ -53,7 +53,7 @@ dist_urb_hist = tibble(SecondaryStratumID = urbanGain$County,
                        ExternalVariableMax = urbanGain$ToYear,
                        Value = urbanGain$Hectares,
                        ValueDistributionTypeID = "Normal",
-                       ValueDistributionFrequency = "Timestep and iteration",
+                       ValueDistributionFrequency = "Iteration and Timestep",
                        ValueDistributionSD = urbanGain$Hectares*0.5)
 dist_urb_hist = dist_urb_hist %>% arrange(SecondaryStratumID, ExternalVariableMin)
 write_csv(dist_urb_hist, "data/distributions/distribution-urbanization.csv")

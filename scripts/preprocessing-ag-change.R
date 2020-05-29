@@ -60,7 +60,7 @@ dist_agcon_hist = tibble(SecondaryStratumID = agContraction$County,
                          ExternalVariableMax = agContraction$ToYear,
                          Value = agContraction$Hectares,
                          ValueDistributionTypeID = "Normal",
-                         ValueDistributionFrequency = "Timestep and iteration",
+                         ValueDistributionFrequency = "Iteration and Timestep",
                          ValueDistributionSD = agContraction$Hectares*0.5)
 dist_agcon_hist = dist_agcon_hist %>% arrange(SecondaryStratumID, ExternalVariableMin)
 write_csv(dist_agcon_hist, "data/distributions/distribution-ag-contraction.csv")
@@ -84,7 +84,7 @@ dist_agexp_hist = tibble(SecondaryStratumID = agExpansion$County,
                          ExternalVariableMax = agExpansion$ToYear,
                          Value = agExpansion$Hectares,
                          ValueDistributionTypeID = "Normal",
-                         ValueDistributionFrequency = "Timestep and iteration",
+                         ValueDistributionFrequency = "Iteration and Timestep",
                          ValueDistributionSD = agExpansion$Hectares*0.5)
 dist_agexp_hist = dist_agexp_hist %>% arrange(SecondaryStratumID, ExternalVariableMin)
 write_csv(dist_agexp_hist, "data/distributions/distribution-ag-expansion.csv")

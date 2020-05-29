@@ -97,7 +97,7 @@ ads_high_zonal = as_tibble(zonal(adsHigh, ecoregions, "sum")) %>%
          ValueDistributionTypeID = "Normal",
          ValueDistributionFrequency = "Iteration and Timestep",
          ValueDistributionSD = Value*0.5) %>%
-  dplyr::select(PrimaryStratumID=Name, DistributionTypeID, ExternalVariableTypeID, ExternalVariableMin, ExternalVariableMax, Value, DistributionTypeID, ValueDistributionFrequency, ValueDistributionSD)
+  dplyr::select(StratumID=Name, DistributionTypeID, ExternalVariableTypeID, ExternalVariableMin, ExternalVariableMax, Value, DistributionTypeID, ValueDistributionFrequency, ValueDistributionSD)
 write_csv(ads_high_zonal, "data/distributions/distribution-insect-high-severity.csv")
 
 
@@ -117,7 +117,7 @@ ads_medium_zonal = as_tibble(zonal(adsMed, ecoregions, "sum")) %>%
          ValueDistributionTypeID = "Normal",
          ValueDistributionFrequency = "Iteration and Timestep",
          ValueDistributionSD = Value*0.5) %>%
-  dplyr::select(PrimaryStratumID=Name, DistributionTypeID, ExternalVariableTypeID, ExternalVariableMin, ExternalVariableMax, Value, DistributionTypeID, ValueDistributionFrequency, ValueDistributionSD)
+  dplyr::select(StratumID=Name, DistributionTypeID, ExternalVariableTypeID, ExternalVariableMin, ExternalVariableMax, Value, DistributionTypeID, ValueDistributionFrequency, ValueDistributionSD)
 write_csv(ads_medium_zonal, "data/distributions/distribution-insect-medium-severity.csv")
 
 
@@ -137,7 +137,7 @@ ads_low_zonal = as_tibble(zonal(adsLow, ecoregions, "sum")) %>%
          ValueDistributionTypeID = "Normal",
          ValueDistributionFrequency = "Iteration and Timestep",
          ValueDistributionSD = Value*0.5) %>%
-  dplyr::select(PrimaryStratumID=Name, DistributionTypeID, ExternalVariableTypeID, ExternalVariableMin, ExternalVariableMax, Value, DistributionTypeID, ValueDistributionFrequency, ValueDistributionSD)
+  dplyr::select(StratumID=Name, DistributionTypeID, ExternalVariableTypeID, ExternalVariableMin, ExternalVariableMax, Value, DistributionTypeID, ValueDistributionFrequency, ValueDistributionSD)
 write_csv(ads_low_zonal, "data/distributions/distribution-insect-low-severity.csv")
 
 

@@ -1,1045 +1,1045 @@
-PrimaryStratumID,DistributionTypeID,ExternalVariableTypeID,ExternalVariableMin,ExternalVariableMax,Value,ValueDistributionFrequency,ValueDistributionSD
-Alameda,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Timestep and iteration,0
-Alameda,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Timestep and iteration,0
-Alameda,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Timestep and iteration,0
-Alameda,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Timestep and iteration,0
-Alameda,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Timestep and iteration,0
-Alameda,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Timestep and iteration,0
-Alameda,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Timestep and iteration,0
-Alameda,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Timestep and iteration,0
-Alameda,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Timestep and iteration,0
-Alameda,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Timestep and iteration,0
-Alameda,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Timestep and iteration,0
-Alameda,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Timestep and iteration,0
-Alameda,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Timestep and iteration,0
-Alameda,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Timestep and iteration,0
-Alameda,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Timestep and iteration,0
-Alameda,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Timestep and iteration,0
-Alameda,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Timestep and iteration,0
-Alameda,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Timestep and iteration,0
-Alpine,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Timestep and iteration,0
-Alpine,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Timestep and iteration,0
-Alpine,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Timestep and iteration,0
-Alpine,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Timestep and iteration,0
-Alpine,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Timestep and iteration,0
-Alpine,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Timestep and iteration,0
-Alpine,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Timestep and iteration,0
-Alpine,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Timestep and iteration,0
-Alpine,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Timestep and iteration,0
-Alpine,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Timestep and iteration,0
-Alpine,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Timestep and iteration,0
-Alpine,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Timestep and iteration,0
-Alpine,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Timestep and iteration,0
-Alpine,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Timestep and iteration,0
-Alpine,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Timestep and iteration,0
-Alpine,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Timestep and iteration,0
-Alpine,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Timestep and iteration,0
-Alpine,Management: Forest Clearcut,Forest Harvest,2016,2016,200,Timestep and iteration,100
-Amador,Management: Forest Clearcut,Forest Harvest,1999,1999,200,Timestep and iteration,100
-Amador,Management: Forest Clearcut,Forest Harvest,2000,2000,100,Timestep and iteration,50
-Amador,Management: Forest Clearcut,Forest Harvest,2001,2001,100,Timestep and iteration,50
-Amador,Management: Forest Clearcut,Forest Harvest,2002,2002,400,Timestep and iteration,200
-Amador,Management: Forest Clearcut,Forest Harvest,2003,2003,100,Timestep and iteration,50
-Amador,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Timestep and iteration,0
-Amador,Management: Forest Clearcut,Forest Harvest,2005,2005,500,Timestep and iteration,250
-Amador,Management: Forest Clearcut,Forest Harvest,2006,2006,600,Timestep and iteration,300
-Amador,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Timestep and iteration,0
-Amador,Management: Forest Clearcut,Forest Harvest,2008,2008,100,Timestep and iteration,50
-Amador,Management: Forest Clearcut,Forest Harvest,2009,2009,100,Timestep and iteration,50
-Amador,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Timestep and iteration,0
-Amador,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Timestep and iteration,0
-Amador,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Timestep and iteration,0
-Amador,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Timestep and iteration,0
-Amador,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Timestep and iteration,0
-Amador,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Timestep and iteration,0
-Amador,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Timestep and iteration,0
-Butte,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Timestep and iteration,0
-Butte,Management: Forest Clearcut,Forest Harvest,2000,2000,300,Timestep and iteration,150
-Butte,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Timestep and iteration,0
-Butte,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Timestep and iteration,0
-Butte,Management: Forest Clearcut,Forest Harvest,2003,2003,300,Timestep and iteration,150
-Butte,Management: Forest Clearcut,Forest Harvest,2004,2004,300,Timestep and iteration,150
-Butte,Management: Forest Clearcut,Forest Harvest,2005,2005,1000,Timestep and iteration,500
-Butte,Management: Forest Clearcut,Forest Harvest,2006,2006,100,Timestep and iteration,50
-Butte,Management: Forest Clearcut,Forest Harvest,2007,2007,600,Timestep and iteration,300
-Butte,Management: Forest Clearcut,Forest Harvest,2008,2008,200,Timestep and iteration,100
-Butte,Management: Forest Clearcut,Forest Harvest,2009,2009,300,Timestep and iteration,150
-Butte,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Timestep and iteration,0
-Butte,Management: Forest Clearcut,Forest Harvest,2011,2011,200,Timestep and iteration,100
-Butte,Management: Forest Clearcut,Forest Harvest,2012,2012,100,Timestep and iteration,50
-Butte,Management: Forest Clearcut,Forest Harvest,2013,2013,100,Timestep and iteration,50
-Butte,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Timestep and iteration,0
-Butte,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Timestep and iteration,0
-Butte,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Timestep and iteration,0
-Calaveras,Management: Forest Clearcut,Forest Harvest,1999,1999,600,Timestep and iteration,300
-Calaveras,Management: Forest Clearcut,Forest Harvest,2000,2000,200,Timestep and iteration,100
-Calaveras,Management: Forest Clearcut,Forest Harvest,2001,2001,700,Timestep and iteration,350
-Calaveras,Management: Forest Clearcut,Forest Harvest,2002,2002,300,Timestep and iteration,150
-Calaveras,Management: Forest Clearcut,Forest Harvest,2003,2003,500,Timestep and iteration,250
-Calaveras,Management: Forest Clearcut,Forest Harvest,2004,2004,900,Timestep and iteration,450
-Calaveras,Management: Forest Clearcut,Forest Harvest,2005,2005,100,Timestep and iteration,50
-Calaveras,Management: Forest Clearcut,Forest Harvest,2006,2006,600,Timestep and iteration,300
-Calaveras,Management: Forest Clearcut,Forest Harvest,2007,2007,200,Timestep and iteration,100
-Calaveras,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Timestep and iteration,0
-Calaveras,Management: Forest Clearcut,Forest Harvest,2009,2009,200,Timestep and iteration,100
-Calaveras,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Timestep and iteration,0
-Calaveras,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Timestep and iteration,0
-Calaveras,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Timestep and iteration,0
-Calaveras,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Timestep and iteration,0
-Calaveras,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Timestep and iteration,0
-Calaveras,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Timestep and iteration,0
-Calaveras,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Timestep and iteration,0
-Colusa,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Timestep and iteration,0
-Colusa,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Timestep and iteration,0
-Colusa,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Timestep and iteration,0
-Colusa,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Timestep and iteration,0
-Colusa,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Timestep and iteration,0
-Colusa,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Timestep and iteration,0
-Colusa,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Timestep and iteration,0
-Colusa,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Timestep and iteration,0
-Colusa,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Timestep and iteration,0
-Colusa,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Timestep and iteration,0
-Colusa,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Timestep and iteration,0
-Colusa,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Timestep and iteration,0
-Colusa,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Timestep and iteration,0
-Colusa,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Timestep and iteration,0
-Colusa,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Timestep and iteration,0
-Colusa,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Timestep and iteration,0
-Colusa,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Timestep and iteration,0
-Colusa,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Timestep and iteration,0
-Contra Costa,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Timestep and iteration,0
-Contra Costa,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Timestep and iteration,0
-Contra Costa,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Timestep and iteration,0
-Contra Costa,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Timestep and iteration,0
-Contra Costa,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Timestep and iteration,0
-Contra Costa,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Timestep and iteration,0
-Contra Costa,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Timestep and iteration,0
-Contra Costa,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Timestep and iteration,0
-Contra Costa,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Timestep and iteration,0
-Contra Costa,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Timestep and iteration,0
-Contra Costa,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Timestep and iteration,0
-Contra Costa,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Timestep and iteration,0
-Contra Costa,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Timestep and iteration,0
-Contra Costa,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Timestep and iteration,0
-Contra Costa,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Timestep and iteration,0
-Contra Costa,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Timestep and iteration,0
-Contra Costa,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Timestep and iteration,0
-Contra Costa,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Timestep and iteration,0
-Del Norte,Management: Forest Clearcut,Forest Harvest,1999,1999,200,Timestep and iteration,100
-Del Norte,Management: Forest Clearcut,Forest Harvest,2000,2000,500,Timestep and iteration,250
-Del Norte,Management: Forest Clearcut,Forest Harvest,2001,2001,200,Timestep and iteration,100
-Del Norte,Management: Forest Clearcut,Forest Harvest,2002,2002,500,Timestep and iteration,250
-Del Norte,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Timestep and iteration,0
-Del Norte,Management: Forest Clearcut,Forest Harvest,2004,2004,200,Timestep and iteration,100
-Del Norte,Management: Forest Clearcut,Forest Harvest,2005,2005,100,Timestep and iteration,50
-Del Norte,Management: Forest Clearcut,Forest Harvest,2006,2006,200,Timestep and iteration,100
-Del Norte,Management: Forest Clearcut,Forest Harvest,2007,2007,100,Timestep and iteration,50
-Del Norte,Management: Forest Clearcut,Forest Harvest,2008,2008,200,Timestep and iteration,100
-Del Norte,Management: Forest Clearcut,Forest Harvest,2009,2009,100,Timestep and iteration,50
-Del Norte,Management: Forest Clearcut,Forest Harvest,2010,2010,100,Timestep and iteration,50
-Del Norte,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Timestep and iteration,0
-Del Norte,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Timestep and iteration,0
-Del Norte,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Timestep and iteration,0
-Del Norte,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Timestep and iteration,0
-Del Norte,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Timestep and iteration,0
-Del Norte,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Timestep and iteration,0
-El Dorado,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Timestep and iteration,0
-El Dorado,Management: Forest Clearcut,Forest Harvest,2000,2000,300,Timestep and iteration,150
-El Dorado,Management: Forest Clearcut,Forest Harvest,2001,2001,100,Timestep and iteration,50
-El Dorado,Management: Forest Clearcut,Forest Harvest,2002,2002,300,Timestep and iteration,150
-El Dorado,Management: Forest Clearcut,Forest Harvest,2003,2003,700,Timestep and iteration,350
-El Dorado,Management: Forest Clearcut,Forest Harvest,2004,2004,1400,Timestep and iteration,700
-El Dorado,Management: Forest Clearcut,Forest Harvest,2005,2005,1000,Timestep and iteration,500
-El Dorado,Management: Forest Clearcut,Forest Harvest,2006,2006,1200,Timestep and iteration,600
-El Dorado,Management: Forest Clearcut,Forest Harvest,2007,2007,700,Timestep and iteration,350
-El Dorado,Management: Forest Clearcut,Forest Harvest,2008,2008,500,Timestep and iteration,250
-El Dorado,Management: Forest Clearcut,Forest Harvest,2009,2009,400,Timestep and iteration,200
-El Dorado,Management: Forest Clearcut,Forest Harvest,2010,2010,100,Timestep and iteration,50
-El Dorado,Management: Forest Clearcut,Forest Harvest,2011,2011,100,Timestep and iteration,50
-El Dorado,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Timestep and iteration,0
-El Dorado,Management: Forest Clearcut,Forest Harvest,2013,2013,200,Timestep and iteration,100
-El Dorado,Management: Forest Clearcut,Forest Harvest,2014,2014,100,Timestep and iteration,50
-El Dorado,Management: Forest Clearcut,Forest Harvest,2015,2015,400,Timestep and iteration,200
-El Dorado,Management: Forest Clearcut,Forest Harvest,2016,2016,100,Timestep and iteration,50
-Fresno,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Timestep and iteration,0
-Fresno,Management: Forest Clearcut,Forest Harvest,2000,2000,100,Timestep and iteration,50
-Fresno,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Timestep and iteration,0
-Fresno,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Timestep and iteration,0
-Fresno,Management: Forest Clearcut,Forest Harvest,2003,2003,200,Timestep and iteration,100
-Fresno,Management: Forest Clearcut,Forest Harvest,2004,2004,200,Timestep and iteration,100
-Fresno,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Timestep and iteration,0
-Fresno,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Timestep and iteration,0
-Fresno,Management: Forest Clearcut,Forest Harvest,2007,2007,100,Timestep and iteration,50
-Fresno,Management: Forest Clearcut,Forest Harvest,2008,2008,100,Timestep and iteration,50
-Fresno,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Timestep and iteration,0
-Fresno,Management: Forest Clearcut,Forest Harvest,2010,2010,100,Timestep and iteration,50
-Fresno,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Timestep and iteration,0
-Fresno,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Timestep and iteration,0
-Fresno,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Timestep and iteration,0
-Fresno,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Timestep and iteration,0
-Fresno,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Timestep and iteration,0
-Fresno,Management: Forest Clearcut,Forest Harvest,2016,2016,500,Timestep and iteration,250
-Glenn,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Timestep and iteration,0
-Glenn,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Timestep and iteration,0
-Glenn,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Timestep and iteration,0
-Glenn,Management: Forest Clearcut,Forest Harvest,2002,2002,300,Timestep and iteration,150
-Glenn,Management: Forest Clearcut,Forest Harvest,2003,2003,400,Timestep and iteration,200
-Glenn,Management: Forest Clearcut,Forest Harvest,2004,2004,100,Timestep and iteration,50
-Glenn,Management: Forest Clearcut,Forest Harvest,2005,2005,300,Timestep and iteration,150
-Glenn,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Timestep and iteration,0
-Glenn,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Timestep and iteration,0
-Glenn,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Timestep and iteration,0
-Glenn,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Timestep and iteration,0
-Glenn,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Timestep and iteration,0
-Glenn,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Timestep and iteration,0
-Glenn,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Timestep and iteration,0
-Glenn,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Timestep and iteration,0
-Glenn,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Timestep and iteration,0
-Glenn,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Timestep and iteration,0
-Glenn,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Timestep and iteration,0
-Humboldt,Management: Forest Clearcut,Forest Harvest,1999,1999,1100,Timestep and iteration,550
-Humboldt,Management: Forest Clearcut,Forest Harvest,2000,2000,1100,Timestep and iteration,550
-Humboldt,Management: Forest Clearcut,Forest Harvest,2001,2001,1700,Timestep and iteration,850
-Humboldt,Management: Forest Clearcut,Forest Harvest,2002,2002,2500,Timestep and iteration,1250
-Humboldt,Management: Forest Clearcut,Forest Harvest,2003,2003,1400,Timestep and iteration,700
-Humboldt,Management: Forest Clearcut,Forest Harvest,2004,2004,1800,Timestep and iteration,900
-Humboldt,Management: Forest Clearcut,Forest Harvest,2005,2005,1600,Timestep and iteration,800
-Humboldt,Management: Forest Clearcut,Forest Harvest,2006,2006,2600,Timestep and iteration,1300
-Humboldt,Management: Forest Clearcut,Forest Harvest,2007,2007,5100,Timestep and iteration,2550
-Humboldt,Management: Forest Clearcut,Forest Harvest,2008,2008,900,Timestep and iteration,450
-Humboldt,Management: Forest Clearcut,Forest Harvest,2009,2009,600,Timestep and iteration,300
-Humboldt,Management: Forest Clearcut,Forest Harvest,2010,2010,200,Timestep and iteration,100
-Humboldt,Management: Forest Clearcut,Forest Harvest,2011,2011,1200,Timestep and iteration,600
-Humboldt,Management: Forest Clearcut,Forest Harvest,2012,2012,500,Timestep and iteration,250
-Humboldt,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Timestep and iteration,0
-Humboldt,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Timestep and iteration,0
-Humboldt,Management: Forest Clearcut,Forest Harvest,2015,2015,200,Timestep and iteration,100
-Humboldt,Management: Forest Clearcut,Forest Harvest,2016,2016,400,Timestep and iteration,200
-Imperial,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Timestep and iteration,0
-Imperial,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Timestep and iteration,0
-Imperial,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Timestep and iteration,0
-Imperial,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Timestep and iteration,0
-Imperial,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Timestep and iteration,0
-Imperial,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Timestep and iteration,0
-Imperial,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Timestep and iteration,0
-Imperial,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Timestep and iteration,0
-Imperial,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Timestep and iteration,0
-Imperial,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Timestep and iteration,0
-Imperial,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Timestep and iteration,0
-Imperial,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Timestep and iteration,0
-Imperial,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Timestep and iteration,0
-Imperial,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Timestep and iteration,0
-Imperial,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Timestep and iteration,0
-Imperial,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Timestep and iteration,0
-Imperial,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Timestep and iteration,0
-Imperial,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Timestep and iteration,0
-Inyo,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Timestep and iteration,0
-Inyo,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Timestep and iteration,0
-Inyo,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Timestep and iteration,0
-Inyo,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Timestep and iteration,0
-Inyo,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Timestep and iteration,0
-Inyo,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Timestep and iteration,0
-Inyo,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Timestep and iteration,0
-Inyo,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Timestep and iteration,0
-Inyo,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Timestep and iteration,0
-Inyo,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Timestep and iteration,0
-Inyo,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Timestep and iteration,0
-Inyo,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Timestep and iteration,0
-Inyo,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Timestep and iteration,0
-Inyo,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Timestep and iteration,0
-Inyo,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Timestep and iteration,0
-Inyo,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Timestep and iteration,0
-Inyo,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Timestep and iteration,0
-Inyo,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Timestep and iteration,0
-Kern,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Timestep and iteration,0
-Kern,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Timestep and iteration,0
-Kern,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Timestep and iteration,0
-Kern,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Timestep and iteration,0
-Kern,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Timestep and iteration,0
-Kern,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Timestep and iteration,0
-Kern,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Timestep and iteration,0
-Kern,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Timestep and iteration,0
-Kern,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Timestep and iteration,0
-Kern,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Timestep and iteration,0
-Kern,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Timestep and iteration,0
-Kern,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Timestep and iteration,0
-Kern,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Timestep and iteration,0
-Kern,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Timestep and iteration,0
-Kern,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Timestep and iteration,0
-Kern,Management: Forest Clearcut,Forest Harvest,2014,2014,300,Timestep and iteration,150
-Kern,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Timestep and iteration,0
-Kern,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Timestep and iteration,0
-Kings,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Timestep and iteration,0
-Kings,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Timestep and iteration,0
-Kings,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Timestep and iteration,0
-Kings,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Timestep and iteration,0
-Kings,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Timestep and iteration,0
-Kings,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Timestep and iteration,0
-Kings,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Timestep and iteration,0
-Kings,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Timestep and iteration,0
-Kings,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Timestep and iteration,0
-Kings,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Timestep and iteration,0
-Kings,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Timestep and iteration,0
-Kings,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Timestep and iteration,0
-Kings,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Timestep and iteration,0
-Kings,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Timestep and iteration,0
-Kings,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Timestep and iteration,0
-Kings,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Timestep and iteration,0
-Kings,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Timestep and iteration,0
-Kings,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Timestep and iteration,0
-Lake,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Timestep and iteration,0
-Lake,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Timestep and iteration,0
-Lake,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Timestep and iteration,0
-Lake,Management: Forest Clearcut,Forest Harvest,2002,2002,100,Timestep and iteration,50
-Lake,Management: Forest Clearcut,Forest Harvest,2003,2003,100,Timestep and iteration,50
-Lake,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Timestep and iteration,0
-Lake,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Timestep and iteration,0
-Lake,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Timestep and iteration,0
-Lake,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Timestep and iteration,0
-Lake,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Timestep and iteration,0
-Lake,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Timestep and iteration,0
-Lake,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Timestep and iteration,0
-Lake,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Timestep and iteration,0
-Lake,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Timestep and iteration,0
-Lake,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Timestep and iteration,0
-Lake,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Timestep and iteration,0
-Lake,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Timestep and iteration,0
-Lake,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Timestep and iteration,0
-Lassen,Management: Forest Clearcut,Forest Harvest,1999,1999,300,Timestep and iteration,150
-Lassen,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Timestep and iteration,0
-Lassen,Management: Forest Clearcut,Forest Harvest,2001,2001,200,Timestep and iteration,100
-Lassen,Management: Forest Clearcut,Forest Harvest,2002,2002,100,Timestep and iteration,50
-Lassen,Management: Forest Clearcut,Forest Harvest,2003,2003,1300,Timestep and iteration,650
-Lassen,Management: Forest Clearcut,Forest Harvest,2004,2004,2400,Timestep and iteration,1200
-Lassen,Management: Forest Clearcut,Forest Harvest,2005,2005,2400,Timestep and iteration,1200
-Lassen,Management: Forest Clearcut,Forest Harvest,2006,2006,2400,Timestep and iteration,1200
-Lassen,Management: Forest Clearcut,Forest Harvest,2007,2007,200,Timestep and iteration,100
-Lassen,Management: Forest Clearcut,Forest Harvest,2008,2008,100,Timestep and iteration,50
-Lassen,Management: Forest Clearcut,Forest Harvest,2009,2009,100,Timestep and iteration,50
-Lassen,Management: Forest Clearcut,Forest Harvest,2010,2010,100,Timestep and iteration,50
-Lassen,Management: Forest Clearcut,Forest Harvest,2011,2011,300,Timestep and iteration,150
-Lassen,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Timestep and iteration,0
-Lassen,Management: Forest Clearcut,Forest Harvest,2013,2013,300,Timestep and iteration,150
-Lassen,Management: Forest Clearcut,Forest Harvest,2014,2014,200,Timestep and iteration,100
-Lassen,Management: Forest Clearcut,Forest Harvest,2015,2015,200,Timestep and iteration,100
-Lassen,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Timestep and iteration,0
-Los Angeles,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Timestep and iteration,0
-Los Angeles,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Timestep and iteration,0
-Los Angeles,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Timestep and iteration,0
-Los Angeles,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Timestep and iteration,0
-Los Angeles,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Timestep and iteration,0
-Los Angeles,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Timestep and iteration,0
-Los Angeles,Management: Forest Clearcut,Forest Harvest,2005,2005,100,Timestep and iteration,50
-Los Angeles,Management: Forest Clearcut,Forest Harvest,2006,2006,100,Timestep and iteration,50
-Los Angeles,Management: Forest Clearcut,Forest Harvest,2007,2007,100,Timestep and iteration,50
-Los Angeles,Management: Forest Clearcut,Forest Harvest,2008,2008,400,Timestep and iteration,200
-Los Angeles,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Timestep and iteration,0
-Los Angeles,Management: Forest Clearcut,Forest Harvest,2010,2010,100,Timestep and iteration,50
-Los Angeles,Management: Forest Clearcut,Forest Harvest,2011,2011,100,Timestep and iteration,50
-Los Angeles,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Timestep and iteration,0
-Los Angeles,Management: Forest Clearcut,Forest Harvest,2013,2013,500,Timestep and iteration,250
-Los Angeles,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Timestep and iteration,0
-Los Angeles,Management: Forest Clearcut,Forest Harvest,2015,2015,100,Timestep and iteration,50
-Los Angeles,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Timestep and iteration,0
-Madera,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Timestep and iteration,0
-Madera,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Timestep and iteration,0
-Madera,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Timestep and iteration,0
-Madera,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Timestep and iteration,0
-Madera,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Timestep and iteration,0
-Madera,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Timestep and iteration,0
-Madera,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Timestep and iteration,0
-Madera,Management: Forest Clearcut,Forest Harvest,2006,2006,100,Timestep and iteration,50
-Madera,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Timestep and iteration,0
-Madera,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Timestep and iteration,0
-Madera,Management: Forest Clearcut,Forest Harvest,2009,2009,400,Timestep and iteration,200
-Madera,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Timestep and iteration,0
-Madera,Management: Forest Clearcut,Forest Harvest,2011,2011,100,Timestep and iteration,50
-Madera,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Timestep and iteration,0
-Madera,Management: Forest Clearcut,Forest Harvest,2013,2013,100,Timestep and iteration,50
-Madera,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Timestep and iteration,0
-Madera,Management: Forest Clearcut,Forest Harvest,2015,2015,100,Timestep and iteration,50
-Madera,Management: Forest Clearcut,Forest Harvest,2016,2016,300,Timestep and iteration,150
-Marin,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Timestep and iteration,0
-Marin,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Timestep and iteration,0
-Marin,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Timestep and iteration,0
-Marin,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Timestep and iteration,0
-Marin,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Timestep and iteration,0
-Marin,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Timestep and iteration,0
-Marin,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Timestep and iteration,0
-Marin,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Timestep and iteration,0
-Marin,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Timestep and iteration,0
-Marin,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Timestep and iteration,0
-Marin,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Timestep and iteration,0
-Marin,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Timestep and iteration,0
-Marin,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Timestep and iteration,0
-Marin,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Timestep and iteration,0
-Marin,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Timestep and iteration,0
-Marin,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Timestep and iteration,0
-Marin,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Timestep and iteration,0
-Marin,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Timestep and iteration,0
-Mariposa,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Timestep and iteration,0
-Mariposa,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Timestep and iteration,0
-Mariposa,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Timestep and iteration,0
-Mariposa,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Timestep and iteration,0
-Mariposa,Management: Forest Clearcut,Forest Harvest,2003,2003,200,Timestep and iteration,100
-Mariposa,Management: Forest Clearcut,Forest Harvest,2004,2004,100,Timestep and iteration,50
-Mariposa,Management: Forest Clearcut,Forest Harvest,2005,2005,100,Timestep and iteration,50
-Mariposa,Management: Forest Clearcut,Forest Harvest,2006,2006,100,Timestep and iteration,50
-Mariposa,Management: Forest Clearcut,Forest Harvest,2007,2007,100,Timestep and iteration,50
-Mariposa,Management: Forest Clearcut,Forest Harvest,2008,2008,100,Timestep and iteration,50
-Mariposa,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Timestep and iteration,0
-Mariposa,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Timestep and iteration,0
-Mariposa,Management: Forest Clearcut,Forest Harvest,2011,2011,100,Timestep and iteration,50
-Mariposa,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Timestep and iteration,0
-Mariposa,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Timestep and iteration,0
-Mariposa,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Timestep and iteration,0
-Mariposa,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Timestep and iteration,0
-Mariposa,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Timestep and iteration,0
-Mendocino,Management: Forest Clearcut,Forest Harvest,1999,1999,900,Timestep and iteration,450
-Mendocino,Management: Forest Clearcut,Forest Harvest,2000,2000,1000,Timestep and iteration,500
-Mendocino,Management: Forest Clearcut,Forest Harvest,2001,2001,700,Timestep and iteration,350
-Mendocino,Management: Forest Clearcut,Forest Harvest,2002,2002,700,Timestep and iteration,350
-Mendocino,Management: Forest Clearcut,Forest Harvest,2003,2003,800,Timestep and iteration,400
-Mendocino,Management: Forest Clearcut,Forest Harvest,2004,2004,300,Timestep and iteration,150
-Mendocino,Management: Forest Clearcut,Forest Harvest,2005,2005,800,Timestep and iteration,400
-Mendocino,Management: Forest Clearcut,Forest Harvest,2006,2006,1000,Timestep and iteration,500
-Mendocino,Management: Forest Clearcut,Forest Harvest,2007,2007,400,Timestep and iteration,200
-Mendocino,Management: Forest Clearcut,Forest Harvest,2008,2008,300,Timestep and iteration,150
-Mendocino,Management: Forest Clearcut,Forest Harvest,2009,2009,200,Timestep and iteration,100
-Mendocino,Management: Forest Clearcut,Forest Harvest,2010,2010,100,Timestep and iteration,50
-Mendocino,Management: Forest Clearcut,Forest Harvest,2011,2011,400,Timestep and iteration,200
-Mendocino,Management: Forest Clearcut,Forest Harvest,2012,2012,200,Timestep and iteration,100
-Mendocino,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Timestep and iteration,0
-Mendocino,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Timestep and iteration,0
-Mendocino,Management: Forest Clearcut,Forest Harvest,2015,2015,300,Timestep and iteration,150
-Mendocino,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Timestep and iteration,0
-Merced,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Timestep and iteration,0
-Merced,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Timestep and iteration,0
-Merced,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Timestep and iteration,0
-Merced,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Timestep and iteration,0
-Merced,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Timestep and iteration,0
-Merced,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Timestep and iteration,0
-Merced,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Timestep and iteration,0
-Merced,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Timestep and iteration,0
-Merced,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Timestep and iteration,0
-Merced,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Timestep and iteration,0
-Merced,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Timestep and iteration,0
-Merced,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Timestep and iteration,0
-Merced,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Timestep and iteration,0
-Merced,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Timestep and iteration,0
-Merced,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Timestep and iteration,0
-Merced,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Timestep and iteration,0
-Merced,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Timestep and iteration,0
-Merced,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Timestep and iteration,0
-Modoc,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Timestep and iteration,0
-Modoc,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Timestep and iteration,0
-Modoc,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Timestep and iteration,0
-Modoc,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Timestep and iteration,0
-Modoc,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Timestep and iteration,0
-Modoc,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Timestep and iteration,0
-Modoc,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Timestep and iteration,0
-Modoc,Management: Forest Clearcut,Forest Harvest,2006,2006,1200,Timestep and iteration,600
-Modoc,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Timestep and iteration,0
-Modoc,Management: Forest Clearcut,Forest Harvest,2008,2008,100,Timestep and iteration,50
-Modoc,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Timestep and iteration,0
-Modoc,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Timestep and iteration,0
-Modoc,Management: Forest Clearcut,Forest Harvest,2011,2011,100,Timestep and iteration,50
-Modoc,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Timestep and iteration,0
-Modoc,Management: Forest Clearcut,Forest Harvest,2013,2013,300,Timestep and iteration,150
-Modoc,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Timestep and iteration,0
-Modoc,Management: Forest Clearcut,Forest Harvest,2015,2015,200,Timestep and iteration,100
-Modoc,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Timestep and iteration,0
-Mono,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Timestep and iteration,0
-Mono,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Timestep and iteration,0
-Mono,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Timestep and iteration,0
-Mono,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Timestep and iteration,0
-Mono,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Timestep and iteration,0
-Mono,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Timestep and iteration,0
-Mono,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Timestep and iteration,0
-Mono,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Timestep and iteration,0
-Mono,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Timestep and iteration,0
-Mono,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Timestep and iteration,0
-Mono,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Timestep and iteration,0
-Mono,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Timestep and iteration,0
-Mono,Management: Forest Clearcut,Forest Harvest,2011,2011,100,Timestep and iteration,50
-Mono,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Timestep and iteration,0
-Mono,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Timestep and iteration,0
-Mono,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Timestep and iteration,0
-Mono,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Timestep and iteration,0
-Mono,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Timestep and iteration,0
-Monterey,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Timestep and iteration,0
-Monterey,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Timestep and iteration,0
-Monterey,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Timestep and iteration,0
-Monterey,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Timestep and iteration,0
-Monterey,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Timestep and iteration,0
-Monterey,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Timestep and iteration,0
-Monterey,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Timestep and iteration,0
-Monterey,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Timestep and iteration,0
-Monterey,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Timestep and iteration,0
-Monterey,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Timestep and iteration,0
-Monterey,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Timestep and iteration,0
-Monterey,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Timestep and iteration,0
-Monterey,Management: Forest Clearcut,Forest Harvest,2011,2011,100,Timestep and iteration,50
-Monterey,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Timestep and iteration,0
-Monterey,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Timestep and iteration,0
-Monterey,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Timestep and iteration,0
-Monterey,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Timestep and iteration,0
-Monterey,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Timestep and iteration,0
-Napa,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Timestep and iteration,0
-Napa,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Timestep and iteration,0
-Napa,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Timestep and iteration,0
-Napa,Management: Forest Clearcut,Forest Harvest,2002,2002,100,Timestep and iteration,50
-Napa,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Timestep and iteration,0
-Napa,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Timestep and iteration,0
-Napa,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Timestep and iteration,0
-Napa,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Timestep and iteration,0
-Napa,Management: Forest Clearcut,Forest Harvest,2007,2007,100,Timestep and iteration,50
-Napa,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Timestep and iteration,0
-Napa,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Timestep and iteration,0
-Napa,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Timestep and iteration,0
-Napa,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Timestep and iteration,0
-Napa,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Timestep and iteration,0
-Napa,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Timestep and iteration,0
-Napa,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Timestep and iteration,0
-Napa,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Timestep and iteration,0
-Napa,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Timestep and iteration,0
-Nevada,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Timestep and iteration,0
-Nevada,Management: Forest Clearcut,Forest Harvest,2000,2000,200,Timestep and iteration,100
-Nevada,Management: Forest Clearcut,Forest Harvest,2001,2001,100,Timestep and iteration,50
-Nevada,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Timestep and iteration,0
-Nevada,Management: Forest Clearcut,Forest Harvest,2003,2003,100,Timestep and iteration,50
-Nevada,Management: Forest Clearcut,Forest Harvest,2004,2004,400,Timestep and iteration,200
-Nevada,Management: Forest Clearcut,Forest Harvest,2005,2005,400,Timestep and iteration,200
-Nevada,Management: Forest Clearcut,Forest Harvest,2006,2006,100,Timestep and iteration,50
-Nevada,Management: Forest Clearcut,Forest Harvest,2007,2007,200,Timestep and iteration,100
-Nevada,Management: Forest Clearcut,Forest Harvest,2008,2008,100,Timestep and iteration,50
-Nevada,Management: Forest Clearcut,Forest Harvest,2009,2009,100,Timestep and iteration,50
-Nevada,Management: Forest Clearcut,Forest Harvest,2010,2010,200,Timestep and iteration,100
-Nevada,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Timestep and iteration,0
-Nevada,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Timestep and iteration,0
-Nevada,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Timestep and iteration,0
-Nevada,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Timestep and iteration,0
-Nevada,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Timestep and iteration,0
-Nevada,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Timestep and iteration,0
-Orange,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Timestep and iteration,0
-Orange,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Timestep and iteration,0
-Orange,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Timestep and iteration,0
-Orange,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Timestep and iteration,0
-Orange,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Timestep and iteration,0
-Orange,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Timestep and iteration,0
-Orange,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Timestep and iteration,0
-Orange,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Timestep and iteration,0
-Orange,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Timestep and iteration,0
-Orange,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Timestep and iteration,0
-Orange,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Timestep and iteration,0
-Orange,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Timestep and iteration,0
-Orange,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Timestep and iteration,0
-Orange,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Timestep and iteration,0
-Orange,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Timestep and iteration,0
-Orange,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Timestep and iteration,0
-Orange,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Timestep and iteration,0
-Orange,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Timestep and iteration,0
-Placer,Management: Forest Clearcut,Forest Harvest,1999,1999,300,Timestep and iteration,150
-Placer,Management: Forest Clearcut,Forest Harvest,2000,2000,200,Timestep and iteration,100
-Placer,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Timestep and iteration,0
-Placer,Management: Forest Clearcut,Forest Harvest,2002,2002,200,Timestep and iteration,100
-Placer,Management: Forest Clearcut,Forest Harvest,2003,2003,700,Timestep and iteration,350
-Placer,Management: Forest Clearcut,Forest Harvest,2004,2004,200,Timestep and iteration,100
-Placer,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Timestep and iteration,0
-Placer,Management: Forest Clearcut,Forest Harvest,2006,2006,100,Timestep and iteration,50
-Placer,Management: Forest Clearcut,Forest Harvest,2007,2007,400,Timestep and iteration,200
-Placer,Management: Forest Clearcut,Forest Harvest,2008,2008,200,Timestep and iteration,100
-Placer,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Timestep and iteration,0
-Placer,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Timestep and iteration,0
-Placer,Management: Forest Clearcut,Forest Harvest,2011,2011,100,Timestep and iteration,50
-Placer,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Timestep and iteration,0
-Placer,Management: Forest Clearcut,Forest Harvest,2013,2013,300,Timestep and iteration,150
-Placer,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Timestep and iteration,0
-Placer,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Timestep and iteration,0
-Placer,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Timestep and iteration,0
-Plumas,Management: Forest Clearcut,Forest Harvest,1999,1999,300,Timestep and iteration,150
-Plumas,Management: Forest Clearcut,Forest Harvest,2000,2000,1000,Timestep and iteration,500
-Plumas,Management: Forest Clearcut,Forest Harvest,2001,2001,100,Timestep and iteration,50
-Plumas,Management: Forest Clearcut,Forest Harvest,2002,2002,300,Timestep and iteration,150
-Plumas,Management: Forest Clearcut,Forest Harvest,2003,2003,600,Timestep and iteration,300
-Plumas,Management: Forest Clearcut,Forest Harvest,2004,2004,300,Timestep and iteration,150
-Plumas,Management: Forest Clearcut,Forest Harvest,2005,2005,2900,Timestep and iteration,1450
-Plumas,Management: Forest Clearcut,Forest Harvest,2006,2006,200,Timestep and iteration,100
-Plumas,Management: Forest Clearcut,Forest Harvest,2007,2007,1100,Timestep and iteration,550
-Plumas,Management: Forest Clearcut,Forest Harvest,2008,2008,800,Timestep and iteration,400
-Plumas,Management: Forest Clearcut,Forest Harvest,2009,2009,500,Timestep and iteration,250
-Plumas,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Timestep and iteration,0
-Plumas,Management: Forest Clearcut,Forest Harvest,2011,2011,400,Timestep and iteration,200
-Plumas,Management: Forest Clearcut,Forest Harvest,2012,2012,200,Timestep and iteration,100
-Plumas,Management: Forest Clearcut,Forest Harvest,2013,2013,200,Timestep and iteration,100
-Plumas,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Timestep and iteration,0
-Plumas,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Timestep and iteration,0
-Plumas,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Timestep and iteration,0
-Riverside,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Timestep and iteration,0
-Riverside,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Timestep and iteration,0
-Riverside,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Timestep and iteration,0
-Riverside,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Timestep and iteration,0
-Riverside,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Timestep and iteration,0
-Riverside,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Timestep and iteration,0
-Riverside,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Timestep and iteration,0
-Riverside,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Timestep and iteration,0
-Riverside,Management: Forest Clearcut,Forest Harvest,2007,2007,500,Timestep and iteration,250
-Riverside,Management: Forest Clearcut,Forest Harvest,2008,2008,500,Timestep and iteration,250
-Riverside,Management: Forest Clearcut,Forest Harvest,2009,2009,100,Timestep and iteration,50
-Riverside,Management: Forest Clearcut,Forest Harvest,2010,2010,100,Timestep and iteration,50
-Riverside,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Timestep and iteration,0
-Riverside,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Timestep and iteration,0
-Riverside,Management: Forest Clearcut,Forest Harvest,2013,2013,100,Timestep and iteration,50
-Riverside,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Timestep and iteration,0
-Riverside,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Timestep and iteration,0
-Riverside,Management: Forest Clearcut,Forest Harvest,2016,2016,200,Timestep and iteration,100
-Sacramento,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Timestep and iteration,0
-Sacramento,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Timestep and iteration,0
-Sacramento,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Timestep and iteration,0
-Sacramento,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Timestep and iteration,0
-Sacramento,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Timestep and iteration,0
-Sacramento,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Timestep and iteration,0
-Sacramento,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Timestep and iteration,0
-Sacramento,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Timestep and iteration,0
-Sacramento,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Timestep and iteration,0
-Sacramento,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Timestep and iteration,0
-Sacramento,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Timestep and iteration,0
-Sacramento,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Timestep and iteration,0
-Sacramento,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Timestep and iteration,0
-Sacramento,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Timestep and iteration,0
-Sacramento,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Timestep and iteration,0
-Sacramento,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Timestep and iteration,0
-Sacramento,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Timestep and iteration,0
-Sacramento,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Timestep and iteration,0
-San Benito,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Timestep and iteration,0
-San Benito,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Timestep and iteration,0
-San Benito,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Timestep and iteration,0
-San Benito,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Timestep and iteration,0
-San Benito,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Timestep and iteration,0
-San Benito,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Timestep and iteration,0
-San Benito,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Timestep and iteration,0
-San Benito,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Timestep and iteration,0
-San Benito,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Timestep and iteration,0
-San Benito,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Timestep and iteration,0
-San Benito,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Timestep and iteration,0
-San Benito,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Timestep and iteration,0
-San Benito,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Timestep and iteration,0
-San Benito,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Timestep and iteration,0
-San Benito,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Timestep and iteration,0
-San Benito,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Timestep and iteration,0
-San Benito,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Timestep and iteration,0
-San Benito,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Timestep and iteration,0
-San Bernardino,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Timestep and iteration,0
-San Bernardino,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Timestep and iteration,0
-San Bernardino,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Timestep and iteration,0
-San Bernardino,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Timestep and iteration,0
-San Bernardino,Management: Forest Clearcut,Forest Harvest,2003,2003,100,Timestep and iteration,50
-San Bernardino,Management: Forest Clearcut,Forest Harvest,2004,2004,200,Timestep and iteration,100
-San Bernardino,Management: Forest Clearcut,Forest Harvest,2005,2005,200,Timestep and iteration,100
-San Bernardino,Management: Forest Clearcut,Forest Harvest,2006,2006,400,Timestep and iteration,200
-San Bernardino,Management: Forest Clearcut,Forest Harvest,2007,2007,600,Timestep and iteration,300
-San Bernardino,Management: Forest Clearcut,Forest Harvest,2008,2008,300,Timestep and iteration,150
-San Bernardino,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Timestep and iteration,0
-San Bernardino,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Timestep and iteration,0
-San Bernardino,Management: Forest Clearcut,Forest Harvest,2011,2011,100,Timestep and iteration,50
-San Bernardino,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Timestep and iteration,0
-San Bernardino,Management: Forest Clearcut,Forest Harvest,2013,2013,300,Timestep and iteration,150
-San Bernardino,Management: Forest Clearcut,Forest Harvest,2014,2014,100,Timestep and iteration,50
-San Bernardino,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Timestep and iteration,0
-San Bernardino,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Timestep and iteration,0
-San Diego,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Timestep and iteration,0
-San Diego,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Timestep and iteration,0
-San Diego,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Timestep and iteration,0
-San Diego,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Timestep and iteration,0
-San Diego,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Timestep and iteration,0
-San Diego,Management: Forest Clearcut,Forest Harvest,2004,2004,500,Timestep and iteration,250
-San Diego,Management: Forest Clearcut,Forest Harvest,2005,2005,100,Timestep and iteration,50
-San Diego,Management: Forest Clearcut,Forest Harvest,2006,2006,200,Timestep and iteration,100
-San Diego,Management: Forest Clearcut,Forest Harvest,2007,2007,100,Timestep and iteration,50
-San Diego,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Timestep and iteration,0
-San Diego,Management: Forest Clearcut,Forest Harvest,2009,2009,100,Timestep and iteration,50
-San Diego,Management: Forest Clearcut,Forest Harvest,2010,2010,100,Timestep and iteration,50
-San Diego,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Timestep and iteration,0
-San Diego,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Timestep and iteration,0
-San Diego,Management: Forest Clearcut,Forest Harvest,2013,2013,200,Timestep and iteration,100
-San Diego,Management: Forest Clearcut,Forest Harvest,2014,2014,200,Timestep and iteration,100
-San Diego,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Timestep and iteration,0
-San Diego,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Timestep and iteration,0
-San Francisco,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Timestep and iteration,0
-San Francisco,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Timestep and iteration,0
-San Francisco,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Timestep and iteration,0
-San Francisco,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Timestep and iteration,0
-San Francisco,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Timestep and iteration,0
-San Francisco,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Timestep and iteration,0
-San Francisco,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Timestep and iteration,0
-San Francisco,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Timestep and iteration,0
-San Francisco,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Timestep and iteration,0
-San Francisco,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Timestep and iteration,0
-San Francisco,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Timestep and iteration,0
-San Francisco,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Timestep and iteration,0
-San Francisco,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Timestep and iteration,0
-San Francisco,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Timestep and iteration,0
-San Francisco,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Timestep and iteration,0
-San Francisco,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Timestep and iteration,0
-San Francisco,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Timestep and iteration,0
-San Francisco,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Timestep and iteration,0
-San Joaquin,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Timestep and iteration,0
-San Joaquin,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Timestep and iteration,0
-San Joaquin,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Timestep and iteration,0
-San Joaquin,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Timestep and iteration,0
-San Joaquin,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Timestep and iteration,0
-San Joaquin,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Timestep and iteration,0
-San Joaquin,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Timestep and iteration,0
-San Joaquin,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Timestep and iteration,0
-San Joaquin,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Timestep and iteration,0
-San Joaquin,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Timestep and iteration,0
-San Joaquin,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Timestep and iteration,0
-San Joaquin,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Timestep and iteration,0
-San Joaquin,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Timestep and iteration,0
-San Joaquin,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Timestep and iteration,0
-San Joaquin,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Timestep and iteration,0
-San Joaquin,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Timestep and iteration,0
-San Joaquin,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Timestep and iteration,0
-San Joaquin,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Timestep and iteration,0
-San Luis Obispo,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Timestep and iteration,0
-San Luis Obispo,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Timestep and iteration,0
-San Luis Obispo,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Timestep and iteration,0
-San Luis Obispo,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Timestep and iteration,0
-San Luis Obispo,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Timestep and iteration,0
-San Luis Obispo,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Timestep and iteration,0
-San Luis Obispo,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Timestep and iteration,0
-San Luis Obispo,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Timestep and iteration,0
-San Luis Obispo,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Timestep and iteration,0
-San Luis Obispo,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Timestep and iteration,0
-San Luis Obispo,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Timestep and iteration,0
-San Luis Obispo,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Timestep and iteration,0
-San Luis Obispo,Management: Forest Clearcut,Forest Harvest,2011,2011,1100,Timestep and iteration,550
-San Luis Obispo,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Timestep and iteration,0
-San Luis Obispo,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Timestep and iteration,0
-San Luis Obispo,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Timestep and iteration,0
-San Luis Obispo,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Timestep and iteration,0
-San Luis Obispo,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Timestep and iteration,0
-San Mateo,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Timestep and iteration,0
-San Mateo,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Timestep and iteration,0
-San Mateo,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Timestep and iteration,0
-San Mateo,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Timestep and iteration,0
-San Mateo,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Timestep and iteration,0
-San Mateo,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Timestep and iteration,0
-San Mateo,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Timestep and iteration,0
-San Mateo,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Timestep and iteration,0
-San Mateo,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Timestep and iteration,0
-San Mateo,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Timestep and iteration,0
-San Mateo,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Timestep and iteration,0
-San Mateo,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Timestep and iteration,0
-San Mateo,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Timestep and iteration,0
-San Mateo,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Timestep and iteration,0
-San Mateo,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Timestep and iteration,0
-San Mateo,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Timestep and iteration,0
-San Mateo,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Timestep and iteration,0
-San Mateo,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Timestep and iteration,0
-Santa Barbara,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Timestep and iteration,0
-Santa Barbara,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Timestep and iteration,0
-Santa Barbara,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Timestep and iteration,0
-Santa Barbara,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Timestep and iteration,0
-Santa Barbara,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Timestep and iteration,0
-Santa Barbara,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Timestep and iteration,0
-Santa Barbara,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Timestep and iteration,0
-Santa Barbara,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Timestep and iteration,0
-Santa Barbara,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Timestep and iteration,0
-Santa Barbara,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Timestep and iteration,0
-Santa Barbara,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Timestep and iteration,0
-Santa Barbara,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Timestep and iteration,0
-Santa Barbara,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Timestep and iteration,0
-Santa Barbara,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Timestep and iteration,0
-Santa Barbara,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Timestep and iteration,0
-Santa Barbara,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Timestep and iteration,0
-Santa Barbara,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Timestep and iteration,0
-Santa Barbara,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Timestep and iteration,0
-Santa Clara,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Timestep and iteration,0
-Santa Clara,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Timestep and iteration,0
-Santa Clara,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Timestep and iteration,0
-Santa Clara,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Timestep and iteration,0
-Santa Clara,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Timestep and iteration,0
-Santa Clara,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Timestep and iteration,0
-Santa Clara,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Timestep and iteration,0
-Santa Clara,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Timestep and iteration,0
-Santa Clara,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Timestep and iteration,0
-Santa Clara,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Timestep and iteration,0
-Santa Clara,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Timestep and iteration,0
-Santa Clara,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Timestep and iteration,0
-Santa Clara,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Timestep and iteration,0
-Santa Clara,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Timestep and iteration,0
-Santa Clara,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Timestep and iteration,0
-Santa Clara,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Timestep and iteration,0
-Santa Clara,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Timestep and iteration,0
-Santa Clara,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Timestep and iteration,0
-Santa Cruz,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Timestep and iteration,0
-Santa Cruz,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Timestep and iteration,0
-Santa Cruz,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Timestep and iteration,0
-Santa Cruz,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Timestep and iteration,0
-Santa Cruz,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Timestep and iteration,0
-Santa Cruz,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Timestep and iteration,0
-Santa Cruz,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Timestep and iteration,0
-Santa Cruz,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Timestep and iteration,0
-Santa Cruz,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Timestep and iteration,0
-Santa Cruz,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Timestep and iteration,0
-Santa Cruz,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Timestep and iteration,0
-Santa Cruz,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Timestep and iteration,0
-Santa Cruz,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Timestep and iteration,0
-Santa Cruz,Management: Forest Clearcut,Forest Harvest,2012,2012,100,Timestep and iteration,50
-Santa Cruz,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Timestep and iteration,0
-Santa Cruz,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Timestep and iteration,0
-Santa Cruz,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Timestep and iteration,0
-Santa Cruz,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Timestep and iteration,0
-Shasta,Management: Forest Clearcut,Forest Harvest,1999,1999,200,Timestep and iteration,100
-Shasta,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Timestep and iteration,0
-Shasta,Management: Forest Clearcut,Forest Harvest,2001,2001,100,Timestep and iteration,50
-Shasta,Management: Forest Clearcut,Forest Harvest,2002,2002,500,Timestep and iteration,250
-Shasta,Management: Forest Clearcut,Forest Harvest,2003,2003,100,Timestep and iteration,50
-Shasta,Management: Forest Clearcut,Forest Harvest,2004,2004,600,Timestep and iteration,300
-Shasta,Management: Forest Clearcut,Forest Harvest,2005,2005,2100,Timestep and iteration,1050
-Shasta,Management: Forest Clearcut,Forest Harvest,2006,2006,300,Timestep and iteration,150
-Shasta,Management: Forest Clearcut,Forest Harvest,2007,2007,700,Timestep and iteration,350
-Shasta,Management: Forest Clearcut,Forest Harvest,2008,2008,600,Timestep and iteration,300
-Shasta,Management: Forest Clearcut,Forest Harvest,2009,2009,2200,Timestep and iteration,1100
-Shasta,Management: Forest Clearcut,Forest Harvest,2010,2010,300,Timestep and iteration,150
-Shasta,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Timestep and iteration,0
-Shasta,Management: Forest Clearcut,Forest Harvest,2012,2012,700,Timestep and iteration,350
-Shasta,Management: Forest Clearcut,Forest Harvest,2013,2013,200,Timestep and iteration,100
-Shasta,Management: Forest Clearcut,Forest Harvest,2014,2014,100,Timestep and iteration,50
-Shasta,Management: Forest Clearcut,Forest Harvest,2015,2015,500,Timestep and iteration,250
-Shasta,Management: Forest Clearcut,Forest Harvest,2016,2016,200,Timestep and iteration,100
-Sierra Valley,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Timestep and iteration,0
-Sierra Valley,Management: Forest Clearcut,Forest Harvest,2000,2000,400,Timestep and iteration,200
-Sierra Valley,Management: Forest Clearcut,Forest Harvest,2001,2001,100,Timestep and iteration,50
-Sierra Valley,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Timestep and iteration,0
-Sierra Valley,Management: Forest Clearcut,Forest Harvest,2003,2003,200,Timestep and iteration,100
-Sierra Valley,Management: Forest Clearcut,Forest Harvest,2004,2004,300,Timestep and iteration,150
-Sierra Valley,Management: Forest Clearcut,Forest Harvest,2005,2005,800,Timestep and iteration,400
-Sierra Valley,Management: Forest Clearcut,Forest Harvest,2006,2006,700,Timestep and iteration,350
-Sierra Valley,Management: Forest Clearcut,Forest Harvest,2007,2007,300,Timestep and iteration,150
-Sierra Valley,Management: Forest Clearcut,Forest Harvest,2008,2008,200,Timestep and iteration,100
-Sierra Valley,Management: Forest Clearcut,Forest Harvest,2009,2009,200,Timestep and iteration,100
-Sierra Valley,Management: Forest Clearcut,Forest Harvest,2010,2010,100,Timestep and iteration,50
-Sierra Valley,Management: Forest Clearcut,Forest Harvest,2011,2011,100,Timestep and iteration,50
-Sierra Valley,Management: Forest Clearcut,Forest Harvest,2012,2012,100,Timestep and iteration,50
-Sierra Valley,Management: Forest Clearcut,Forest Harvest,2013,2013,100,Timestep and iteration,50
-Sierra Valley,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Timestep and iteration,0
-Sierra Valley,Management: Forest Clearcut,Forest Harvest,2015,2015,100,Timestep and iteration,50
-Sierra Valley,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Timestep and iteration,0
-Siskiyou,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Timestep and iteration,0
-Siskiyou,Management: Forest Clearcut,Forest Harvest,2000,2000,300,Timestep and iteration,150
-Siskiyou,Management: Forest Clearcut,Forest Harvest,2001,2001,300,Timestep and iteration,150
-Siskiyou,Management: Forest Clearcut,Forest Harvest,2002,2002,200,Timestep and iteration,100
-Siskiyou,Management: Forest Clearcut,Forest Harvest,2003,2003,300,Timestep and iteration,150
-Siskiyou,Management: Forest Clearcut,Forest Harvest,2004,2004,400,Timestep and iteration,200
-Siskiyou,Management: Forest Clearcut,Forest Harvest,2005,2005,500,Timestep and iteration,250
-Siskiyou,Management: Forest Clearcut,Forest Harvest,2006,2006,600,Timestep and iteration,300
-Siskiyou,Management: Forest Clearcut,Forest Harvest,2007,2007,700,Timestep and iteration,350
-Siskiyou,Management: Forest Clearcut,Forest Harvest,2008,2008,1200,Timestep and iteration,600
-Siskiyou,Management: Forest Clearcut,Forest Harvest,2009,2009,400,Timestep and iteration,200
-Siskiyou,Management: Forest Clearcut,Forest Harvest,2010,2010,200,Timestep and iteration,100
-Siskiyou,Management: Forest Clearcut,Forest Harvest,2011,2011,800,Timestep and iteration,400
-Siskiyou,Management: Forest Clearcut,Forest Harvest,2012,2012,900,Timestep and iteration,450
-Siskiyou,Management: Forest Clearcut,Forest Harvest,2013,2013,1100,Timestep and iteration,550
-Siskiyou,Management: Forest Clearcut,Forest Harvest,2014,2014,300,Timestep and iteration,150
-Siskiyou,Management: Forest Clearcut,Forest Harvest,2015,2015,200,Timestep and iteration,100
-Siskiyou,Management: Forest Clearcut,Forest Harvest,2016,2016,600,Timestep and iteration,300
-Solano,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Timestep and iteration,0
-Solano,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Timestep and iteration,0
-Solano,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Timestep and iteration,0
-Solano,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Timestep and iteration,0
-Solano,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Timestep and iteration,0
-Solano,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Timestep and iteration,0
-Solano,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Timestep and iteration,0
-Solano,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Timestep and iteration,0
-Solano,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Timestep and iteration,0
-Solano,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Timestep and iteration,0
-Solano,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Timestep and iteration,0
-Solano,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Timestep and iteration,0
-Solano,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Timestep and iteration,0
-Solano,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Timestep and iteration,0
-Solano,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Timestep and iteration,0
-Solano,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Timestep and iteration,0
-Solano,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Timestep and iteration,0
-Solano,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Timestep and iteration,0
-Sonoma,Management: Forest Clearcut,Forest Harvest,1999,1999,200,Timestep and iteration,100
-Sonoma,Management: Forest Clearcut,Forest Harvest,2000,2000,100,Timestep and iteration,50
-Sonoma,Management: Forest Clearcut,Forest Harvest,2001,2001,300,Timestep and iteration,150
-Sonoma,Management: Forest Clearcut,Forest Harvest,2002,2002,100,Timestep and iteration,50
-Sonoma,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Timestep and iteration,0
-Sonoma,Management: Forest Clearcut,Forest Harvest,2004,2004,300,Timestep and iteration,150
-Sonoma,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Timestep and iteration,0
-Sonoma,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Timestep and iteration,0
-Sonoma,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Timestep and iteration,0
-Sonoma,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Timestep and iteration,0
-Sonoma,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Timestep and iteration,0
-Sonoma,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Timestep and iteration,0
-Sonoma,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Timestep and iteration,0
-Sonoma,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Timestep and iteration,0
-Sonoma,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Timestep and iteration,0
-Sonoma,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Timestep and iteration,0
-Sonoma,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Timestep and iteration,0
-Sonoma,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Timestep and iteration,0
-Stanislaus,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Timestep and iteration,0
-Stanislaus,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Timestep and iteration,0
-Stanislaus,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Timestep and iteration,0
-Stanislaus,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Timestep and iteration,0
-Stanislaus,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Timestep and iteration,0
-Stanislaus,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Timestep and iteration,0
-Stanislaus,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Timestep and iteration,0
-Stanislaus,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Timestep and iteration,0
-Stanislaus,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Timestep and iteration,0
-Stanislaus,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Timestep and iteration,0
-Stanislaus,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Timestep and iteration,0
-Stanislaus,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Timestep and iteration,0
-Stanislaus,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Timestep and iteration,0
-Stanislaus,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Timestep and iteration,0
-Stanislaus,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Timestep and iteration,0
-Stanislaus,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Timestep and iteration,0
-Stanislaus,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Timestep and iteration,0
-Stanislaus,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Timestep and iteration,0
-Sutter,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Timestep and iteration,0
-Sutter,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Timestep and iteration,0
-Sutter,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Timestep and iteration,0
-Sutter,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Timestep and iteration,0
-Sutter,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Timestep and iteration,0
-Sutter,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Timestep and iteration,0
-Sutter,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Timestep and iteration,0
-Sutter,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Timestep and iteration,0
-Sutter,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Timestep and iteration,0
-Sutter,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Timestep and iteration,0
-Sutter,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Timestep and iteration,0
-Sutter,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Timestep and iteration,0
-Sutter,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Timestep and iteration,0
-Sutter,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Timestep and iteration,0
-Sutter,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Timestep and iteration,0
-Sutter,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Timestep and iteration,0
-Sutter,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Timestep and iteration,0
-Sutter,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Timestep and iteration,0
-Tehama,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Timestep and iteration,0
-Tehama,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Timestep and iteration,0
-Tehama,Management: Forest Clearcut,Forest Harvest,2001,2001,100,Timestep and iteration,50
-Tehama,Management: Forest Clearcut,Forest Harvest,2002,2002,200,Timestep and iteration,100
-Tehama,Management: Forest Clearcut,Forest Harvest,2003,2003,400,Timestep and iteration,200
-Tehama,Management: Forest Clearcut,Forest Harvest,2004,2004,200,Timestep and iteration,100
-Tehama,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Timestep and iteration,0
-Tehama,Management: Forest Clearcut,Forest Harvest,2006,2006,300,Timestep and iteration,150
-Tehama,Management: Forest Clearcut,Forest Harvest,2007,2007,100,Timestep and iteration,50
-Tehama,Management: Forest Clearcut,Forest Harvest,2008,2008,100,Timestep and iteration,50
-Tehama,Management: Forest Clearcut,Forest Harvest,2009,2009,800,Timestep and iteration,400
-Tehama,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Timestep and iteration,0
-Tehama,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Timestep and iteration,0
-Tehama,Management: Forest Clearcut,Forest Harvest,2012,2012,100,Timestep and iteration,50
-Tehama,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Timestep and iteration,0
-Tehama,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Timestep and iteration,0
-Tehama,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Timestep and iteration,0
-Tehama,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Timestep and iteration,0
-Trinity,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Timestep and iteration,0
-Trinity,Management: Forest Clearcut,Forest Harvest,2000,2000,100,Timestep and iteration,50
-Trinity,Management: Forest Clearcut,Forest Harvest,2001,2001,600,Timestep and iteration,300
-Trinity,Management: Forest Clearcut,Forest Harvest,2002,2002,100,Timestep and iteration,50
-Trinity,Management: Forest Clearcut,Forest Harvest,2003,2003,200,Timestep and iteration,100
-Trinity,Management: Forest Clearcut,Forest Harvest,2004,2004,200,Timestep and iteration,100
-Trinity,Management: Forest Clearcut,Forest Harvest,2005,2005,400,Timestep and iteration,200
-Trinity,Management: Forest Clearcut,Forest Harvest,2006,2006,400,Timestep and iteration,200
-Trinity,Management: Forest Clearcut,Forest Harvest,2007,2007,400,Timestep and iteration,200
-Trinity,Management: Forest Clearcut,Forest Harvest,2008,2008,900,Timestep and iteration,450
-Trinity,Management: Forest Clearcut,Forest Harvest,2009,2009,300,Timestep and iteration,150
-Trinity,Management: Forest Clearcut,Forest Harvest,2010,2010,2600,Timestep and iteration,1300
-Trinity,Management: Forest Clearcut,Forest Harvest,2011,2011,500,Timestep and iteration,250
-Trinity,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Timestep and iteration,0
-Trinity,Management: Forest Clearcut,Forest Harvest,2013,2013,600,Timestep and iteration,300
-Trinity,Management: Forest Clearcut,Forest Harvest,2014,2014,100,Timestep and iteration,50
-Trinity,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Timestep and iteration,0
-Trinity,Management: Forest Clearcut,Forest Harvest,2016,2016,200,Timestep and iteration,100
-Tulare,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Timestep and iteration,0
-Tulare,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Timestep and iteration,0
-Tulare,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Timestep and iteration,0
-Tulare,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Timestep and iteration,0
-Tulare,Management: Forest Clearcut,Forest Harvest,2003,2003,100,Timestep and iteration,50
-Tulare,Management: Forest Clearcut,Forest Harvest,2004,2004,300,Timestep and iteration,150
-Tulare,Management: Forest Clearcut,Forest Harvest,2005,2005,700,Timestep and iteration,350
-Tulare,Management: Forest Clearcut,Forest Harvest,2006,2006,200,Timestep and iteration,100
-Tulare,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Timestep and iteration,0
-Tulare,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Timestep and iteration,0
-Tulare,Management: Forest Clearcut,Forest Harvest,2009,2009,200,Timestep and iteration,100
-Tulare,Management: Forest Clearcut,Forest Harvest,2010,2010,200,Timestep and iteration,100
-Tulare,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Timestep and iteration,0
-Tulare,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Timestep and iteration,0
-Tulare,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Timestep and iteration,0
-Tulare,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Timestep and iteration,0
-Tulare,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Timestep and iteration,0
-Tulare,Management: Forest Clearcut,Forest Harvest,2016,2016,100,Timestep and iteration,50
-Tuolumne,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Timestep and iteration,0
-Tuolumne,Management: Forest Clearcut,Forest Harvest,2000,2000,200,Timestep and iteration,100
-Tuolumne,Management: Forest Clearcut,Forest Harvest,2001,2001,600,Timestep and iteration,300
-Tuolumne,Management: Forest Clearcut,Forest Harvest,2002,2002,100,Timestep and iteration,50
-Tuolumne,Management: Forest Clearcut,Forest Harvest,2003,2003,2300,Timestep and iteration,1150
-Tuolumne,Management: Forest Clearcut,Forest Harvest,2004,2004,700,Timestep and iteration,350
-Tuolumne,Management: Forest Clearcut,Forest Harvest,2005,2005,400,Timestep and iteration,200
-Tuolumne,Management: Forest Clearcut,Forest Harvest,2006,2006,400,Timestep and iteration,200
-Tuolumne,Management: Forest Clearcut,Forest Harvest,2007,2007,600,Timestep and iteration,300
-Tuolumne,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Timestep and iteration,0
-Tuolumne,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Timestep and iteration,0
-Tuolumne,Management: Forest Clearcut,Forest Harvest,2010,2010,100,Timestep and iteration,50
-Tuolumne,Management: Forest Clearcut,Forest Harvest,2011,2011,200,Timestep and iteration,100
-Tuolumne,Management: Forest Clearcut,Forest Harvest,2012,2012,100,Timestep and iteration,50
-Tuolumne,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Timestep and iteration,0
-Tuolumne,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Timestep and iteration,0
-Tuolumne,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Timestep and iteration,0
-Tuolumne,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Timestep and iteration,0
-Ventura,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Timestep and iteration,0
-Ventura,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Timestep and iteration,0
-Ventura,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Timestep and iteration,0
-Ventura,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Timestep and iteration,0
-Ventura,Management: Forest Clearcut,Forest Harvest,2003,2003,100,Timestep and iteration,50
-Ventura,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Timestep and iteration,0
-Ventura,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Timestep and iteration,0
-Ventura,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Timestep and iteration,0
-Ventura,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Timestep and iteration,0
-Ventura,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Timestep and iteration,0
-Ventura,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Timestep and iteration,0
-Ventura,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Timestep and iteration,0
-Ventura,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Timestep and iteration,0
-Ventura,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Timestep and iteration,0
-Ventura,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Timestep and iteration,0
-Ventura,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Timestep and iteration,0
-Ventura,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Timestep and iteration,0
-Ventura,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Timestep and iteration,0
-Yolo,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Timestep and iteration,0
-Yolo,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Timestep and iteration,0
-Yolo,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Timestep and iteration,0
-Yolo,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Timestep and iteration,0
-Yolo,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Timestep and iteration,0
-Yolo,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Timestep and iteration,0
-Yolo,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Timestep and iteration,0
-Yolo,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Timestep and iteration,0
-Yolo,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Timestep and iteration,0
-Yolo,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Timestep and iteration,0
-Yolo,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Timestep and iteration,0
-Yolo,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Timestep and iteration,0
-Yolo,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Timestep and iteration,0
-Yolo,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Timestep and iteration,0
-Yolo,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Timestep and iteration,0
-Yolo,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Timestep and iteration,0
-Yolo,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Timestep and iteration,0
-Yolo,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Timestep and iteration,0
-Yuba,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Timestep and iteration,0
-Yuba,Management: Forest Clearcut,Forest Harvest,2000,2000,300,Timestep and iteration,150
-Yuba,Management: Forest Clearcut,Forest Harvest,2001,2001,600,Timestep and iteration,300
-Yuba,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Timestep and iteration,0
-Yuba,Management: Forest Clearcut,Forest Harvest,2003,2003,100,Timestep and iteration,50
-Yuba,Management: Forest Clearcut,Forest Harvest,2004,2004,200,Timestep and iteration,100
-Yuba,Management: Forest Clearcut,Forest Harvest,2005,2005,600,Timestep and iteration,300
-Yuba,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Timestep and iteration,0
-Yuba,Management: Forest Clearcut,Forest Harvest,2007,2007,300,Timestep and iteration,150
-Yuba,Management: Forest Clearcut,Forest Harvest,2008,2008,100,Timestep and iteration,50
-Yuba,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Timestep and iteration,0
-Yuba,Management: Forest Clearcut,Forest Harvest,2010,2010,100,Timestep and iteration,50
-Yuba,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Timestep and iteration,0
-Yuba,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Timestep and iteration,0
-Yuba,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Timestep and iteration,0
-Yuba,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Timestep and iteration,0
-Yuba,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Timestep and iteration,0
-Yuba,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Timestep and iteration,0
+SecondaryStratumID,DistributionTypeID,ExternalVariableTypeID,ExternalVariableMin,ExternalVariableMax,Value,ValueDistributionFrequency,ValueDistributionSD
+Alameda,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Iteration and Timestep,0
+Alameda,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Iteration and Timestep,0
+Alameda,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Iteration and Timestep,0
+Alameda,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Iteration and Timestep,0
+Alameda,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Iteration and Timestep,0
+Alameda,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Iteration and Timestep,0
+Alameda,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Iteration and Timestep,0
+Alameda,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Iteration and Timestep,0
+Alameda,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Iteration and Timestep,0
+Alameda,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Iteration and Timestep,0
+Alameda,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Iteration and Timestep,0
+Alameda,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Iteration and Timestep,0
+Alameda,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Iteration and Timestep,0
+Alameda,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Iteration and Timestep,0
+Alameda,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Iteration and Timestep,0
+Alameda,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Iteration and Timestep,0
+Alameda,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Iteration and Timestep,0
+Alameda,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Iteration and Timestep,0
+Alpine,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Iteration and Timestep,0
+Alpine,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Iteration and Timestep,0
+Alpine,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Iteration and Timestep,0
+Alpine,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Iteration and Timestep,0
+Alpine,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Iteration and Timestep,0
+Alpine,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Iteration and Timestep,0
+Alpine,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Iteration and Timestep,0
+Alpine,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Iteration and Timestep,0
+Alpine,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Iteration and Timestep,0
+Alpine,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Iteration and Timestep,0
+Alpine,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Iteration and Timestep,0
+Alpine,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Iteration and Timestep,0
+Alpine,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Iteration and Timestep,0
+Alpine,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Iteration and Timestep,0
+Alpine,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Iteration and Timestep,0
+Alpine,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Iteration and Timestep,0
+Alpine,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Iteration and Timestep,0
+Alpine,Management: Forest Clearcut,Forest Harvest,2016,2016,200,Iteration and Timestep,100
+Amador,Management: Forest Clearcut,Forest Harvest,1999,1999,200,Iteration and Timestep,100
+Amador,Management: Forest Clearcut,Forest Harvest,2000,2000,100,Iteration and Timestep,50
+Amador,Management: Forest Clearcut,Forest Harvest,2001,2001,100,Iteration and Timestep,50
+Amador,Management: Forest Clearcut,Forest Harvest,2002,2002,400,Iteration and Timestep,200
+Amador,Management: Forest Clearcut,Forest Harvest,2003,2003,100,Iteration and Timestep,50
+Amador,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Iteration and Timestep,0
+Amador,Management: Forest Clearcut,Forest Harvest,2005,2005,500,Iteration and Timestep,250
+Amador,Management: Forest Clearcut,Forest Harvest,2006,2006,600,Iteration and Timestep,300
+Amador,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Iteration and Timestep,0
+Amador,Management: Forest Clearcut,Forest Harvest,2008,2008,100,Iteration and Timestep,50
+Amador,Management: Forest Clearcut,Forest Harvest,2009,2009,100,Iteration and Timestep,50
+Amador,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Iteration and Timestep,0
+Amador,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Iteration and Timestep,0
+Amador,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Iteration and Timestep,0
+Amador,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Iteration and Timestep,0
+Amador,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Iteration and Timestep,0
+Amador,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Iteration and Timestep,0
+Amador,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Iteration and Timestep,0
+Butte,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Iteration and Timestep,0
+Butte,Management: Forest Clearcut,Forest Harvest,2000,2000,300,Iteration and Timestep,150
+Butte,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Iteration and Timestep,0
+Butte,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Iteration and Timestep,0
+Butte,Management: Forest Clearcut,Forest Harvest,2003,2003,300,Iteration and Timestep,150
+Butte,Management: Forest Clearcut,Forest Harvest,2004,2004,300,Iteration and Timestep,150
+Butte,Management: Forest Clearcut,Forest Harvest,2005,2005,1000,Iteration and Timestep,500
+Butte,Management: Forest Clearcut,Forest Harvest,2006,2006,100,Iteration and Timestep,50
+Butte,Management: Forest Clearcut,Forest Harvest,2007,2007,600,Iteration and Timestep,300
+Butte,Management: Forest Clearcut,Forest Harvest,2008,2008,200,Iteration and Timestep,100
+Butte,Management: Forest Clearcut,Forest Harvest,2009,2009,300,Iteration and Timestep,150
+Butte,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Iteration and Timestep,0
+Butte,Management: Forest Clearcut,Forest Harvest,2011,2011,200,Iteration and Timestep,100
+Butte,Management: Forest Clearcut,Forest Harvest,2012,2012,100,Iteration and Timestep,50
+Butte,Management: Forest Clearcut,Forest Harvest,2013,2013,100,Iteration and Timestep,50
+Butte,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Iteration and Timestep,0
+Butte,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Iteration and Timestep,0
+Butte,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Iteration and Timestep,0
+Calaveras,Management: Forest Clearcut,Forest Harvest,1999,1999,600,Iteration and Timestep,300
+Calaveras,Management: Forest Clearcut,Forest Harvest,2000,2000,200,Iteration and Timestep,100
+Calaveras,Management: Forest Clearcut,Forest Harvest,2001,2001,700,Iteration and Timestep,350
+Calaveras,Management: Forest Clearcut,Forest Harvest,2002,2002,300,Iteration and Timestep,150
+Calaveras,Management: Forest Clearcut,Forest Harvest,2003,2003,500,Iteration and Timestep,250
+Calaveras,Management: Forest Clearcut,Forest Harvest,2004,2004,900,Iteration and Timestep,450
+Calaveras,Management: Forest Clearcut,Forest Harvest,2005,2005,100,Iteration and Timestep,50
+Calaveras,Management: Forest Clearcut,Forest Harvest,2006,2006,600,Iteration and Timestep,300
+Calaveras,Management: Forest Clearcut,Forest Harvest,2007,2007,200,Iteration and Timestep,100
+Calaveras,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Iteration and Timestep,0
+Calaveras,Management: Forest Clearcut,Forest Harvest,2009,2009,200,Iteration and Timestep,100
+Calaveras,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Iteration and Timestep,0
+Calaveras,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Iteration and Timestep,0
+Calaveras,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Iteration and Timestep,0
+Calaveras,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Iteration and Timestep,0
+Calaveras,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Iteration and Timestep,0
+Calaveras,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Iteration and Timestep,0
+Calaveras,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Iteration and Timestep,0
+Colusa,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Iteration and Timestep,0
+Colusa,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Iteration and Timestep,0
+Colusa,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Iteration and Timestep,0
+Colusa,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Iteration and Timestep,0
+Colusa,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Iteration and Timestep,0
+Colusa,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Iteration and Timestep,0
+Colusa,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Iteration and Timestep,0
+Colusa,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Iteration and Timestep,0
+Colusa,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Iteration and Timestep,0
+Colusa,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Iteration and Timestep,0
+Colusa,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Iteration and Timestep,0
+Colusa,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Iteration and Timestep,0
+Colusa,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Iteration and Timestep,0
+Colusa,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Iteration and Timestep,0
+Colusa,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Iteration and Timestep,0
+Colusa,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Iteration and Timestep,0
+Colusa,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Iteration and Timestep,0
+Colusa,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Iteration and Timestep,0
+Contra Costa,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Iteration and Timestep,0
+Contra Costa,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Iteration and Timestep,0
+Contra Costa,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Iteration and Timestep,0
+Contra Costa,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Iteration and Timestep,0
+Contra Costa,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Iteration and Timestep,0
+Contra Costa,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Iteration and Timestep,0
+Contra Costa,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Iteration and Timestep,0
+Contra Costa,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Iteration and Timestep,0
+Contra Costa,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Iteration and Timestep,0
+Contra Costa,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Iteration and Timestep,0
+Contra Costa,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Iteration and Timestep,0
+Contra Costa,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Iteration and Timestep,0
+Contra Costa,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Iteration and Timestep,0
+Contra Costa,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Iteration and Timestep,0
+Contra Costa,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Iteration and Timestep,0
+Contra Costa,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Iteration and Timestep,0
+Contra Costa,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Iteration and Timestep,0
+Contra Costa,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Iteration and Timestep,0
+Del Norte,Management: Forest Clearcut,Forest Harvest,1999,1999,200,Iteration and Timestep,100
+Del Norte,Management: Forest Clearcut,Forest Harvest,2000,2000,500,Iteration and Timestep,250
+Del Norte,Management: Forest Clearcut,Forest Harvest,2001,2001,200,Iteration and Timestep,100
+Del Norte,Management: Forest Clearcut,Forest Harvest,2002,2002,500,Iteration and Timestep,250
+Del Norte,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Iteration and Timestep,0
+Del Norte,Management: Forest Clearcut,Forest Harvest,2004,2004,200,Iteration and Timestep,100
+Del Norte,Management: Forest Clearcut,Forest Harvest,2005,2005,100,Iteration and Timestep,50
+Del Norte,Management: Forest Clearcut,Forest Harvest,2006,2006,200,Iteration and Timestep,100
+Del Norte,Management: Forest Clearcut,Forest Harvest,2007,2007,100,Iteration and Timestep,50
+Del Norte,Management: Forest Clearcut,Forest Harvest,2008,2008,200,Iteration and Timestep,100
+Del Norte,Management: Forest Clearcut,Forest Harvest,2009,2009,100,Iteration and Timestep,50
+Del Norte,Management: Forest Clearcut,Forest Harvest,2010,2010,100,Iteration and Timestep,50
+Del Norte,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Iteration and Timestep,0
+Del Norte,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Iteration and Timestep,0
+Del Norte,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Iteration and Timestep,0
+Del Norte,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Iteration and Timestep,0
+Del Norte,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Iteration and Timestep,0
+Del Norte,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Iteration and Timestep,0
+El Dorado,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Iteration and Timestep,0
+El Dorado,Management: Forest Clearcut,Forest Harvest,2000,2000,300,Iteration and Timestep,150
+El Dorado,Management: Forest Clearcut,Forest Harvest,2001,2001,100,Iteration and Timestep,50
+El Dorado,Management: Forest Clearcut,Forest Harvest,2002,2002,300,Iteration and Timestep,150
+El Dorado,Management: Forest Clearcut,Forest Harvest,2003,2003,700,Iteration and Timestep,350
+El Dorado,Management: Forest Clearcut,Forest Harvest,2004,2004,1400,Iteration and Timestep,700
+El Dorado,Management: Forest Clearcut,Forest Harvest,2005,2005,1000,Iteration and Timestep,500
+El Dorado,Management: Forest Clearcut,Forest Harvest,2006,2006,1200,Iteration and Timestep,600
+El Dorado,Management: Forest Clearcut,Forest Harvest,2007,2007,700,Iteration and Timestep,350
+El Dorado,Management: Forest Clearcut,Forest Harvest,2008,2008,500,Iteration and Timestep,250
+El Dorado,Management: Forest Clearcut,Forest Harvest,2009,2009,400,Iteration and Timestep,200
+El Dorado,Management: Forest Clearcut,Forest Harvest,2010,2010,100,Iteration and Timestep,50
+El Dorado,Management: Forest Clearcut,Forest Harvest,2011,2011,100,Iteration and Timestep,50
+El Dorado,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Iteration and Timestep,0
+El Dorado,Management: Forest Clearcut,Forest Harvest,2013,2013,200,Iteration and Timestep,100
+El Dorado,Management: Forest Clearcut,Forest Harvest,2014,2014,100,Iteration and Timestep,50
+El Dorado,Management: Forest Clearcut,Forest Harvest,2015,2015,400,Iteration and Timestep,200
+El Dorado,Management: Forest Clearcut,Forest Harvest,2016,2016,100,Iteration and Timestep,50
+Fresno,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Iteration and Timestep,0
+Fresno,Management: Forest Clearcut,Forest Harvest,2000,2000,100,Iteration and Timestep,50
+Fresno,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Iteration and Timestep,0
+Fresno,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Iteration and Timestep,0
+Fresno,Management: Forest Clearcut,Forest Harvest,2003,2003,200,Iteration and Timestep,100
+Fresno,Management: Forest Clearcut,Forest Harvest,2004,2004,200,Iteration and Timestep,100
+Fresno,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Iteration and Timestep,0
+Fresno,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Iteration and Timestep,0
+Fresno,Management: Forest Clearcut,Forest Harvest,2007,2007,100,Iteration and Timestep,50
+Fresno,Management: Forest Clearcut,Forest Harvest,2008,2008,100,Iteration and Timestep,50
+Fresno,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Iteration and Timestep,0
+Fresno,Management: Forest Clearcut,Forest Harvest,2010,2010,100,Iteration and Timestep,50
+Fresno,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Iteration and Timestep,0
+Fresno,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Iteration and Timestep,0
+Fresno,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Iteration and Timestep,0
+Fresno,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Iteration and Timestep,0
+Fresno,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Iteration and Timestep,0
+Fresno,Management: Forest Clearcut,Forest Harvest,2016,2016,500,Iteration and Timestep,250
+Glenn,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Iteration and Timestep,0
+Glenn,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Iteration and Timestep,0
+Glenn,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Iteration and Timestep,0
+Glenn,Management: Forest Clearcut,Forest Harvest,2002,2002,300,Iteration and Timestep,150
+Glenn,Management: Forest Clearcut,Forest Harvest,2003,2003,400,Iteration and Timestep,200
+Glenn,Management: Forest Clearcut,Forest Harvest,2004,2004,100,Iteration and Timestep,50
+Glenn,Management: Forest Clearcut,Forest Harvest,2005,2005,300,Iteration and Timestep,150
+Glenn,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Iteration and Timestep,0
+Glenn,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Iteration and Timestep,0
+Glenn,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Iteration and Timestep,0
+Glenn,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Iteration and Timestep,0
+Glenn,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Iteration and Timestep,0
+Glenn,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Iteration and Timestep,0
+Glenn,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Iteration and Timestep,0
+Glenn,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Iteration and Timestep,0
+Glenn,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Iteration and Timestep,0
+Glenn,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Iteration and Timestep,0
+Glenn,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Iteration and Timestep,0
+Humboldt,Management: Forest Clearcut,Forest Harvest,1999,1999,1100,Iteration and Timestep,550
+Humboldt,Management: Forest Clearcut,Forest Harvest,2000,2000,1100,Iteration and Timestep,550
+Humboldt,Management: Forest Clearcut,Forest Harvest,2001,2001,1700,Iteration and Timestep,850
+Humboldt,Management: Forest Clearcut,Forest Harvest,2002,2002,2500,Iteration and Timestep,1250
+Humboldt,Management: Forest Clearcut,Forest Harvest,2003,2003,1400,Iteration and Timestep,700
+Humboldt,Management: Forest Clearcut,Forest Harvest,2004,2004,1800,Iteration and Timestep,900
+Humboldt,Management: Forest Clearcut,Forest Harvest,2005,2005,1600,Iteration and Timestep,800
+Humboldt,Management: Forest Clearcut,Forest Harvest,2006,2006,2600,Iteration and Timestep,1300
+Humboldt,Management: Forest Clearcut,Forest Harvest,2007,2007,5100,Iteration and Timestep,2550
+Humboldt,Management: Forest Clearcut,Forest Harvest,2008,2008,900,Iteration and Timestep,450
+Humboldt,Management: Forest Clearcut,Forest Harvest,2009,2009,600,Iteration and Timestep,300
+Humboldt,Management: Forest Clearcut,Forest Harvest,2010,2010,200,Iteration and Timestep,100
+Humboldt,Management: Forest Clearcut,Forest Harvest,2011,2011,1200,Iteration and Timestep,600
+Humboldt,Management: Forest Clearcut,Forest Harvest,2012,2012,500,Iteration and Timestep,250
+Humboldt,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Iteration and Timestep,0
+Humboldt,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Iteration and Timestep,0
+Humboldt,Management: Forest Clearcut,Forest Harvest,2015,2015,200,Iteration and Timestep,100
+Humboldt,Management: Forest Clearcut,Forest Harvest,2016,2016,400,Iteration and Timestep,200
+Imperial,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Iteration and Timestep,0
+Imperial,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Iteration and Timestep,0
+Imperial,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Iteration and Timestep,0
+Imperial,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Iteration and Timestep,0
+Imperial,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Iteration and Timestep,0
+Imperial,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Iteration and Timestep,0
+Imperial,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Iteration and Timestep,0
+Imperial,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Iteration and Timestep,0
+Imperial,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Iteration and Timestep,0
+Imperial,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Iteration and Timestep,0
+Imperial,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Iteration and Timestep,0
+Imperial,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Iteration and Timestep,0
+Imperial,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Iteration and Timestep,0
+Imperial,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Iteration and Timestep,0
+Imperial,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Iteration and Timestep,0
+Imperial,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Iteration and Timestep,0
+Imperial,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Iteration and Timestep,0
+Imperial,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Iteration and Timestep,0
+Inyo,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Iteration and Timestep,0
+Inyo,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Iteration and Timestep,0
+Inyo,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Iteration and Timestep,0
+Inyo,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Iteration and Timestep,0
+Inyo,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Iteration and Timestep,0
+Inyo,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Iteration and Timestep,0
+Inyo,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Iteration and Timestep,0
+Inyo,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Iteration and Timestep,0
+Inyo,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Iteration and Timestep,0
+Inyo,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Iteration and Timestep,0
+Inyo,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Iteration and Timestep,0
+Inyo,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Iteration and Timestep,0
+Inyo,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Iteration and Timestep,0
+Inyo,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Iteration and Timestep,0
+Inyo,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Iteration and Timestep,0
+Inyo,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Iteration and Timestep,0
+Inyo,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Iteration and Timestep,0
+Inyo,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Iteration and Timestep,0
+Kern,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Iteration and Timestep,0
+Kern,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Iteration and Timestep,0
+Kern,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Iteration and Timestep,0
+Kern,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Iteration and Timestep,0
+Kern,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Iteration and Timestep,0
+Kern,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Iteration and Timestep,0
+Kern,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Iteration and Timestep,0
+Kern,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Iteration and Timestep,0
+Kern,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Iteration and Timestep,0
+Kern,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Iteration and Timestep,0
+Kern,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Iteration and Timestep,0
+Kern,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Iteration and Timestep,0
+Kern,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Iteration and Timestep,0
+Kern,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Iteration and Timestep,0
+Kern,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Iteration and Timestep,0
+Kern,Management: Forest Clearcut,Forest Harvest,2014,2014,300,Iteration and Timestep,150
+Kern,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Iteration and Timestep,0
+Kern,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Iteration and Timestep,0
+Kings,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Iteration and Timestep,0
+Kings,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Iteration and Timestep,0
+Kings,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Iteration and Timestep,0
+Kings,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Iteration and Timestep,0
+Kings,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Iteration and Timestep,0
+Kings,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Iteration and Timestep,0
+Kings,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Iteration and Timestep,0
+Kings,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Iteration and Timestep,0
+Kings,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Iteration and Timestep,0
+Kings,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Iteration and Timestep,0
+Kings,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Iteration and Timestep,0
+Kings,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Iteration and Timestep,0
+Kings,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Iteration and Timestep,0
+Kings,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Iteration and Timestep,0
+Kings,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Iteration and Timestep,0
+Kings,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Iteration and Timestep,0
+Kings,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Iteration and Timestep,0
+Kings,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Iteration and Timestep,0
+Lake,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Iteration and Timestep,0
+Lake,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Iteration and Timestep,0
+Lake,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Iteration and Timestep,0
+Lake,Management: Forest Clearcut,Forest Harvest,2002,2002,100,Iteration and Timestep,50
+Lake,Management: Forest Clearcut,Forest Harvest,2003,2003,100,Iteration and Timestep,50
+Lake,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Iteration and Timestep,0
+Lake,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Iteration and Timestep,0
+Lake,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Iteration and Timestep,0
+Lake,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Iteration and Timestep,0
+Lake,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Iteration and Timestep,0
+Lake,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Iteration and Timestep,0
+Lake,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Iteration and Timestep,0
+Lake,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Iteration and Timestep,0
+Lake,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Iteration and Timestep,0
+Lake,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Iteration and Timestep,0
+Lake,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Iteration and Timestep,0
+Lake,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Iteration and Timestep,0
+Lake,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Iteration and Timestep,0
+Lassen,Management: Forest Clearcut,Forest Harvest,1999,1999,300,Iteration and Timestep,150
+Lassen,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Iteration and Timestep,0
+Lassen,Management: Forest Clearcut,Forest Harvest,2001,2001,200,Iteration and Timestep,100
+Lassen,Management: Forest Clearcut,Forest Harvest,2002,2002,100,Iteration and Timestep,50
+Lassen,Management: Forest Clearcut,Forest Harvest,2003,2003,1300,Iteration and Timestep,650
+Lassen,Management: Forest Clearcut,Forest Harvest,2004,2004,2400,Iteration and Timestep,1200
+Lassen,Management: Forest Clearcut,Forest Harvest,2005,2005,2400,Iteration and Timestep,1200
+Lassen,Management: Forest Clearcut,Forest Harvest,2006,2006,2400,Iteration and Timestep,1200
+Lassen,Management: Forest Clearcut,Forest Harvest,2007,2007,200,Iteration and Timestep,100
+Lassen,Management: Forest Clearcut,Forest Harvest,2008,2008,100,Iteration and Timestep,50
+Lassen,Management: Forest Clearcut,Forest Harvest,2009,2009,100,Iteration and Timestep,50
+Lassen,Management: Forest Clearcut,Forest Harvest,2010,2010,100,Iteration and Timestep,50
+Lassen,Management: Forest Clearcut,Forest Harvest,2011,2011,300,Iteration and Timestep,150
+Lassen,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Iteration and Timestep,0
+Lassen,Management: Forest Clearcut,Forest Harvest,2013,2013,300,Iteration and Timestep,150
+Lassen,Management: Forest Clearcut,Forest Harvest,2014,2014,200,Iteration and Timestep,100
+Lassen,Management: Forest Clearcut,Forest Harvest,2015,2015,200,Iteration and Timestep,100
+Lassen,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Iteration and Timestep,0
+Los Angeles,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Iteration and Timestep,0
+Los Angeles,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Iteration and Timestep,0
+Los Angeles,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Iteration and Timestep,0
+Los Angeles,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Iteration and Timestep,0
+Los Angeles,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Iteration and Timestep,0
+Los Angeles,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Iteration and Timestep,0
+Los Angeles,Management: Forest Clearcut,Forest Harvest,2005,2005,100,Iteration and Timestep,50
+Los Angeles,Management: Forest Clearcut,Forest Harvest,2006,2006,100,Iteration and Timestep,50
+Los Angeles,Management: Forest Clearcut,Forest Harvest,2007,2007,100,Iteration and Timestep,50
+Los Angeles,Management: Forest Clearcut,Forest Harvest,2008,2008,400,Iteration and Timestep,200
+Los Angeles,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Iteration and Timestep,0
+Los Angeles,Management: Forest Clearcut,Forest Harvest,2010,2010,100,Iteration and Timestep,50
+Los Angeles,Management: Forest Clearcut,Forest Harvest,2011,2011,100,Iteration and Timestep,50
+Los Angeles,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Iteration and Timestep,0
+Los Angeles,Management: Forest Clearcut,Forest Harvest,2013,2013,500,Iteration and Timestep,250
+Los Angeles,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Iteration and Timestep,0
+Los Angeles,Management: Forest Clearcut,Forest Harvest,2015,2015,100,Iteration and Timestep,50
+Los Angeles,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Iteration and Timestep,0
+Madera,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Iteration and Timestep,0
+Madera,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Iteration and Timestep,0
+Madera,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Iteration and Timestep,0
+Madera,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Iteration and Timestep,0
+Madera,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Iteration and Timestep,0
+Madera,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Iteration and Timestep,0
+Madera,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Iteration and Timestep,0
+Madera,Management: Forest Clearcut,Forest Harvest,2006,2006,100,Iteration and Timestep,50
+Madera,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Iteration and Timestep,0
+Madera,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Iteration and Timestep,0
+Madera,Management: Forest Clearcut,Forest Harvest,2009,2009,400,Iteration and Timestep,200
+Madera,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Iteration and Timestep,0
+Madera,Management: Forest Clearcut,Forest Harvest,2011,2011,100,Iteration and Timestep,50
+Madera,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Iteration and Timestep,0
+Madera,Management: Forest Clearcut,Forest Harvest,2013,2013,100,Iteration and Timestep,50
+Madera,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Iteration and Timestep,0
+Madera,Management: Forest Clearcut,Forest Harvest,2015,2015,100,Iteration and Timestep,50
+Madera,Management: Forest Clearcut,Forest Harvest,2016,2016,300,Iteration and Timestep,150
+Marin,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Iteration and Timestep,0
+Marin,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Iteration and Timestep,0
+Marin,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Iteration and Timestep,0
+Marin,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Iteration and Timestep,0
+Marin,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Iteration and Timestep,0
+Marin,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Iteration and Timestep,0
+Marin,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Iteration and Timestep,0
+Marin,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Iteration and Timestep,0
+Marin,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Iteration and Timestep,0
+Marin,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Iteration and Timestep,0
+Marin,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Iteration and Timestep,0
+Marin,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Iteration and Timestep,0
+Marin,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Iteration and Timestep,0
+Marin,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Iteration and Timestep,0
+Marin,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Iteration and Timestep,0
+Marin,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Iteration and Timestep,0
+Marin,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Iteration and Timestep,0
+Marin,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Iteration and Timestep,0
+Mariposa,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Iteration and Timestep,0
+Mariposa,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Iteration and Timestep,0
+Mariposa,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Iteration and Timestep,0
+Mariposa,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Iteration and Timestep,0
+Mariposa,Management: Forest Clearcut,Forest Harvest,2003,2003,200,Iteration and Timestep,100
+Mariposa,Management: Forest Clearcut,Forest Harvest,2004,2004,100,Iteration and Timestep,50
+Mariposa,Management: Forest Clearcut,Forest Harvest,2005,2005,100,Iteration and Timestep,50
+Mariposa,Management: Forest Clearcut,Forest Harvest,2006,2006,100,Iteration and Timestep,50
+Mariposa,Management: Forest Clearcut,Forest Harvest,2007,2007,100,Iteration and Timestep,50
+Mariposa,Management: Forest Clearcut,Forest Harvest,2008,2008,100,Iteration and Timestep,50
+Mariposa,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Iteration and Timestep,0
+Mariposa,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Iteration and Timestep,0
+Mariposa,Management: Forest Clearcut,Forest Harvest,2011,2011,100,Iteration and Timestep,50
+Mariposa,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Iteration and Timestep,0
+Mariposa,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Iteration and Timestep,0
+Mariposa,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Iteration and Timestep,0
+Mariposa,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Iteration and Timestep,0
+Mariposa,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Iteration and Timestep,0
+Mendocino,Management: Forest Clearcut,Forest Harvest,1999,1999,900,Iteration and Timestep,450
+Mendocino,Management: Forest Clearcut,Forest Harvest,2000,2000,1000,Iteration and Timestep,500
+Mendocino,Management: Forest Clearcut,Forest Harvest,2001,2001,700,Iteration and Timestep,350
+Mendocino,Management: Forest Clearcut,Forest Harvest,2002,2002,700,Iteration and Timestep,350
+Mendocino,Management: Forest Clearcut,Forest Harvest,2003,2003,800,Iteration and Timestep,400
+Mendocino,Management: Forest Clearcut,Forest Harvest,2004,2004,300,Iteration and Timestep,150
+Mendocino,Management: Forest Clearcut,Forest Harvest,2005,2005,800,Iteration and Timestep,400
+Mendocino,Management: Forest Clearcut,Forest Harvest,2006,2006,1000,Iteration and Timestep,500
+Mendocino,Management: Forest Clearcut,Forest Harvest,2007,2007,400,Iteration and Timestep,200
+Mendocino,Management: Forest Clearcut,Forest Harvest,2008,2008,300,Iteration and Timestep,150
+Mendocino,Management: Forest Clearcut,Forest Harvest,2009,2009,200,Iteration and Timestep,100
+Mendocino,Management: Forest Clearcut,Forest Harvest,2010,2010,100,Iteration and Timestep,50
+Mendocino,Management: Forest Clearcut,Forest Harvest,2011,2011,400,Iteration and Timestep,200
+Mendocino,Management: Forest Clearcut,Forest Harvest,2012,2012,200,Iteration and Timestep,100
+Mendocino,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Iteration and Timestep,0
+Mendocino,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Iteration and Timestep,0
+Mendocino,Management: Forest Clearcut,Forest Harvest,2015,2015,300,Iteration and Timestep,150
+Mendocino,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Iteration and Timestep,0
+Merced,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Iteration and Timestep,0
+Merced,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Iteration and Timestep,0
+Merced,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Iteration and Timestep,0
+Merced,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Iteration and Timestep,0
+Merced,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Iteration and Timestep,0
+Merced,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Iteration and Timestep,0
+Merced,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Iteration and Timestep,0
+Merced,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Iteration and Timestep,0
+Merced,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Iteration and Timestep,0
+Merced,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Iteration and Timestep,0
+Merced,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Iteration and Timestep,0
+Merced,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Iteration and Timestep,0
+Merced,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Iteration and Timestep,0
+Merced,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Iteration and Timestep,0
+Merced,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Iteration and Timestep,0
+Merced,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Iteration and Timestep,0
+Merced,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Iteration and Timestep,0
+Merced,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Iteration and Timestep,0
+Modoc,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Iteration and Timestep,0
+Modoc,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Iteration and Timestep,0
+Modoc,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Iteration and Timestep,0
+Modoc,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Iteration and Timestep,0
+Modoc,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Iteration and Timestep,0
+Modoc,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Iteration and Timestep,0
+Modoc,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Iteration and Timestep,0
+Modoc,Management: Forest Clearcut,Forest Harvest,2006,2006,1200,Iteration and Timestep,600
+Modoc,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Iteration and Timestep,0
+Modoc,Management: Forest Clearcut,Forest Harvest,2008,2008,100,Iteration and Timestep,50
+Modoc,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Iteration and Timestep,0
+Modoc,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Iteration and Timestep,0
+Modoc,Management: Forest Clearcut,Forest Harvest,2011,2011,100,Iteration and Timestep,50
+Modoc,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Iteration and Timestep,0
+Modoc,Management: Forest Clearcut,Forest Harvest,2013,2013,300,Iteration and Timestep,150
+Modoc,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Iteration and Timestep,0
+Modoc,Management: Forest Clearcut,Forest Harvest,2015,2015,200,Iteration and Timestep,100
+Modoc,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Iteration and Timestep,0
+Mono,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Iteration and Timestep,0
+Mono,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Iteration and Timestep,0
+Mono,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Iteration and Timestep,0
+Mono,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Iteration and Timestep,0
+Mono,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Iteration and Timestep,0
+Mono,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Iteration and Timestep,0
+Mono,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Iteration and Timestep,0
+Mono,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Iteration and Timestep,0
+Mono,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Iteration and Timestep,0
+Mono,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Iteration and Timestep,0
+Mono,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Iteration and Timestep,0
+Mono,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Iteration and Timestep,0
+Mono,Management: Forest Clearcut,Forest Harvest,2011,2011,100,Iteration and Timestep,50
+Mono,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Iteration and Timestep,0
+Mono,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Iteration and Timestep,0
+Mono,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Iteration and Timestep,0
+Mono,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Iteration and Timestep,0
+Mono,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Iteration and Timestep,0
+Monterey,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Iteration and Timestep,0
+Monterey,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Iteration and Timestep,0
+Monterey,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Iteration and Timestep,0
+Monterey,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Iteration and Timestep,0
+Monterey,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Iteration and Timestep,0
+Monterey,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Iteration and Timestep,0
+Monterey,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Iteration and Timestep,0
+Monterey,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Iteration and Timestep,0
+Monterey,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Iteration and Timestep,0
+Monterey,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Iteration and Timestep,0
+Monterey,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Iteration and Timestep,0
+Monterey,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Iteration and Timestep,0
+Monterey,Management: Forest Clearcut,Forest Harvest,2011,2011,100,Iteration and Timestep,50
+Monterey,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Iteration and Timestep,0
+Monterey,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Iteration and Timestep,0
+Monterey,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Iteration and Timestep,0
+Monterey,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Iteration and Timestep,0
+Monterey,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Iteration and Timestep,0
+Napa,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Iteration and Timestep,0
+Napa,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Iteration and Timestep,0
+Napa,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Iteration and Timestep,0
+Napa,Management: Forest Clearcut,Forest Harvest,2002,2002,100,Iteration and Timestep,50
+Napa,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Iteration and Timestep,0
+Napa,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Iteration and Timestep,0
+Napa,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Iteration and Timestep,0
+Napa,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Iteration and Timestep,0
+Napa,Management: Forest Clearcut,Forest Harvest,2007,2007,100,Iteration and Timestep,50
+Napa,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Iteration and Timestep,0
+Napa,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Iteration and Timestep,0
+Napa,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Iteration and Timestep,0
+Napa,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Iteration and Timestep,0
+Napa,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Iteration and Timestep,0
+Napa,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Iteration and Timestep,0
+Napa,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Iteration and Timestep,0
+Napa,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Iteration and Timestep,0
+Napa,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Iteration and Timestep,0
+Nevada,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Iteration and Timestep,0
+Nevada,Management: Forest Clearcut,Forest Harvest,2000,2000,200,Iteration and Timestep,100
+Nevada,Management: Forest Clearcut,Forest Harvest,2001,2001,100,Iteration and Timestep,50
+Nevada,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Iteration and Timestep,0
+Nevada,Management: Forest Clearcut,Forest Harvest,2003,2003,100,Iteration and Timestep,50
+Nevada,Management: Forest Clearcut,Forest Harvest,2004,2004,400,Iteration and Timestep,200
+Nevada,Management: Forest Clearcut,Forest Harvest,2005,2005,400,Iteration and Timestep,200
+Nevada,Management: Forest Clearcut,Forest Harvest,2006,2006,100,Iteration and Timestep,50
+Nevada,Management: Forest Clearcut,Forest Harvest,2007,2007,200,Iteration and Timestep,100
+Nevada,Management: Forest Clearcut,Forest Harvest,2008,2008,100,Iteration and Timestep,50
+Nevada,Management: Forest Clearcut,Forest Harvest,2009,2009,100,Iteration and Timestep,50
+Nevada,Management: Forest Clearcut,Forest Harvest,2010,2010,200,Iteration and Timestep,100
+Nevada,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Iteration and Timestep,0
+Nevada,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Iteration and Timestep,0
+Nevada,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Iteration and Timestep,0
+Nevada,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Iteration and Timestep,0
+Nevada,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Iteration and Timestep,0
+Nevada,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Iteration and Timestep,0
+Orange,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Iteration and Timestep,0
+Orange,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Iteration and Timestep,0
+Orange,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Iteration and Timestep,0
+Orange,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Iteration and Timestep,0
+Orange,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Iteration and Timestep,0
+Orange,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Iteration and Timestep,0
+Orange,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Iteration and Timestep,0
+Orange,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Iteration and Timestep,0
+Orange,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Iteration and Timestep,0
+Orange,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Iteration and Timestep,0
+Orange,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Iteration and Timestep,0
+Orange,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Iteration and Timestep,0
+Orange,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Iteration and Timestep,0
+Orange,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Iteration and Timestep,0
+Orange,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Iteration and Timestep,0
+Orange,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Iteration and Timestep,0
+Orange,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Iteration and Timestep,0
+Orange,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Iteration and Timestep,0
+Placer,Management: Forest Clearcut,Forest Harvest,1999,1999,300,Iteration and Timestep,150
+Placer,Management: Forest Clearcut,Forest Harvest,2000,2000,200,Iteration and Timestep,100
+Placer,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Iteration and Timestep,0
+Placer,Management: Forest Clearcut,Forest Harvest,2002,2002,200,Iteration and Timestep,100
+Placer,Management: Forest Clearcut,Forest Harvest,2003,2003,700,Iteration and Timestep,350
+Placer,Management: Forest Clearcut,Forest Harvest,2004,2004,200,Iteration and Timestep,100
+Placer,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Iteration and Timestep,0
+Placer,Management: Forest Clearcut,Forest Harvest,2006,2006,100,Iteration and Timestep,50
+Placer,Management: Forest Clearcut,Forest Harvest,2007,2007,400,Iteration and Timestep,200
+Placer,Management: Forest Clearcut,Forest Harvest,2008,2008,200,Iteration and Timestep,100
+Placer,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Iteration and Timestep,0
+Placer,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Iteration and Timestep,0
+Placer,Management: Forest Clearcut,Forest Harvest,2011,2011,100,Iteration and Timestep,50
+Placer,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Iteration and Timestep,0
+Placer,Management: Forest Clearcut,Forest Harvest,2013,2013,300,Iteration and Timestep,150
+Placer,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Iteration and Timestep,0
+Placer,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Iteration and Timestep,0
+Placer,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Iteration and Timestep,0
+Plumas,Management: Forest Clearcut,Forest Harvest,1999,1999,300,Iteration and Timestep,150
+Plumas,Management: Forest Clearcut,Forest Harvest,2000,2000,1000,Iteration and Timestep,500
+Plumas,Management: Forest Clearcut,Forest Harvest,2001,2001,100,Iteration and Timestep,50
+Plumas,Management: Forest Clearcut,Forest Harvest,2002,2002,300,Iteration and Timestep,150
+Plumas,Management: Forest Clearcut,Forest Harvest,2003,2003,600,Iteration and Timestep,300
+Plumas,Management: Forest Clearcut,Forest Harvest,2004,2004,300,Iteration and Timestep,150
+Plumas,Management: Forest Clearcut,Forest Harvest,2005,2005,2900,Iteration and Timestep,1450
+Plumas,Management: Forest Clearcut,Forest Harvest,2006,2006,200,Iteration and Timestep,100
+Plumas,Management: Forest Clearcut,Forest Harvest,2007,2007,1100,Iteration and Timestep,550
+Plumas,Management: Forest Clearcut,Forest Harvest,2008,2008,800,Iteration and Timestep,400
+Plumas,Management: Forest Clearcut,Forest Harvest,2009,2009,500,Iteration and Timestep,250
+Plumas,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Iteration and Timestep,0
+Plumas,Management: Forest Clearcut,Forest Harvest,2011,2011,400,Iteration and Timestep,200
+Plumas,Management: Forest Clearcut,Forest Harvest,2012,2012,200,Iteration and Timestep,100
+Plumas,Management: Forest Clearcut,Forest Harvest,2013,2013,200,Iteration and Timestep,100
+Plumas,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Iteration and Timestep,0
+Plumas,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Iteration and Timestep,0
+Plumas,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Iteration and Timestep,0
+Riverside,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Iteration and Timestep,0
+Riverside,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Iteration and Timestep,0
+Riverside,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Iteration and Timestep,0
+Riverside,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Iteration and Timestep,0
+Riverside,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Iteration and Timestep,0
+Riverside,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Iteration and Timestep,0
+Riverside,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Iteration and Timestep,0
+Riverside,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Iteration and Timestep,0
+Riverside,Management: Forest Clearcut,Forest Harvest,2007,2007,500,Iteration and Timestep,250
+Riverside,Management: Forest Clearcut,Forest Harvest,2008,2008,500,Iteration and Timestep,250
+Riverside,Management: Forest Clearcut,Forest Harvest,2009,2009,100,Iteration and Timestep,50
+Riverside,Management: Forest Clearcut,Forest Harvest,2010,2010,100,Iteration and Timestep,50
+Riverside,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Iteration and Timestep,0
+Riverside,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Iteration and Timestep,0
+Riverside,Management: Forest Clearcut,Forest Harvest,2013,2013,100,Iteration and Timestep,50
+Riverside,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Iteration and Timestep,0
+Riverside,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Iteration and Timestep,0
+Riverside,Management: Forest Clearcut,Forest Harvest,2016,2016,200,Iteration and Timestep,100
+Sacramento,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Iteration and Timestep,0
+Sacramento,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Iteration and Timestep,0
+Sacramento,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Iteration and Timestep,0
+Sacramento,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Iteration and Timestep,0
+Sacramento,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Iteration and Timestep,0
+Sacramento,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Iteration and Timestep,0
+Sacramento,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Iteration and Timestep,0
+Sacramento,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Iteration and Timestep,0
+Sacramento,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Iteration and Timestep,0
+Sacramento,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Iteration and Timestep,0
+Sacramento,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Iteration and Timestep,0
+Sacramento,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Iteration and Timestep,0
+Sacramento,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Iteration and Timestep,0
+Sacramento,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Iteration and Timestep,0
+Sacramento,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Iteration and Timestep,0
+Sacramento,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Iteration and Timestep,0
+Sacramento,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Iteration and Timestep,0
+Sacramento,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Iteration and Timestep,0
+San Benito,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Iteration and Timestep,0
+San Benito,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Iteration and Timestep,0
+San Benito,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Iteration and Timestep,0
+San Benito,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Iteration and Timestep,0
+San Benito,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Iteration and Timestep,0
+San Benito,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Iteration and Timestep,0
+San Benito,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Iteration and Timestep,0
+San Benito,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Iteration and Timestep,0
+San Benito,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Iteration and Timestep,0
+San Benito,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Iteration and Timestep,0
+San Benito,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Iteration and Timestep,0
+San Benito,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Iteration and Timestep,0
+San Benito,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Iteration and Timestep,0
+San Benito,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Iteration and Timestep,0
+San Benito,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Iteration and Timestep,0
+San Benito,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Iteration and Timestep,0
+San Benito,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Iteration and Timestep,0
+San Benito,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Iteration and Timestep,0
+San Bernardino,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Iteration and Timestep,0
+San Bernardino,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Iteration and Timestep,0
+San Bernardino,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Iteration and Timestep,0
+San Bernardino,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Iteration and Timestep,0
+San Bernardino,Management: Forest Clearcut,Forest Harvest,2003,2003,100,Iteration and Timestep,50
+San Bernardino,Management: Forest Clearcut,Forest Harvest,2004,2004,200,Iteration and Timestep,100
+San Bernardino,Management: Forest Clearcut,Forest Harvest,2005,2005,200,Iteration and Timestep,100
+San Bernardino,Management: Forest Clearcut,Forest Harvest,2006,2006,400,Iteration and Timestep,200
+San Bernardino,Management: Forest Clearcut,Forest Harvest,2007,2007,600,Iteration and Timestep,300
+San Bernardino,Management: Forest Clearcut,Forest Harvest,2008,2008,300,Iteration and Timestep,150
+San Bernardino,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Iteration and Timestep,0
+San Bernardino,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Iteration and Timestep,0
+San Bernardino,Management: Forest Clearcut,Forest Harvest,2011,2011,100,Iteration and Timestep,50
+San Bernardino,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Iteration and Timestep,0
+San Bernardino,Management: Forest Clearcut,Forest Harvest,2013,2013,300,Iteration and Timestep,150
+San Bernardino,Management: Forest Clearcut,Forest Harvest,2014,2014,100,Iteration and Timestep,50
+San Bernardino,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Iteration and Timestep,0
+San Bernardino,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Iteration and Timestep,0
+San Diego,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Iteration and Timestep,0
+San Diego,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Iteration and Timestep,0
+San Diego,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Iteration and Timestep,0
+San Diego,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Iteration and Timestep,0
+San Diego,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Iteration and Timestep,0
+San Diego,Management: Forest Clearcut,Forest Harvest,2004,2004,500,Iteration and Timestep,250
+San Diego,Management: Forest Clearcut,Forest Harvest,2005,2005,100,Iteration and Timestep,50
+San Diego,Management: Forest Clearcut,Forest Harvest,2006,2006,200,Iteration and Timestep,100
+San Diego,Management: Forest Clearcut,Forest Harvest,2007,2007,100,Iteration and Timestep,50
+San Diego,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Iteration and Timestep,0
+San Diego,Management: Forest Clearcut,Forest Harvest,2009,2009,100,Iteration and Timestep,50
+San Diego,Management: Forest Clearcut,Forest Harvest,2010,2010,100,Iteration and Timestep,50
+San Diego,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Iteration and Timestep,0
+San Diego,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Iteration and Timestep,0
+San Diego,Management: Forest Clearcut,Forest Harvest,2013,2013,200,Iteration and Timestep,100
+San Diego,Management: Forest Clearcut,Forest Harvest,2014,2014,200,Iteration and Timestep,100
+San Diego,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Iteration and Timestep,0
+San Diego,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Iteration and Timestep,0
+San Francisco,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Iteration and Timestep,0
+San Francisco,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Iteration and Timestep,0
+San Francisco,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Iteration and Timestep,0
+San Francisco,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Iteration and Timestep,0
+San Francisco,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Iteration and Timestep,0
+San Francisco,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Iteration and Timestep,0
+San Francisco,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Iteration and Timestep,0
+San Francisco,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Iteration and Timestep,0
+San Francisco,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Iteration and Timestep,0
+San Francisco,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Iteration and Timestep,0
+San Francisco,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Iteration and Timestep,0
+San Francisco,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Iteration and Timestep,0
+San Francisco,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Iteration and Timestep,0
+San Francisco,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Iteration and Timestep,0
+San Francisco,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Iteration and Timestep,0
+San Francisco,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Iteration and Timestep,0
+San Francisco,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Iteration and Timestep,0
+San Francisco,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Iteration and Timestep,0
+San Joaquin,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Iteration and Timestep,0
+San Joaquin,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Iteration and Timestep,0
+San Joaquin,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Iteration and Timestep,0
+San Joaquin,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Iteration and Timestep,0
+San Joaquin,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Iteration and Timestep,0
+San Joaquin,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Iteration and Timestep,0
+San Joaquin,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Iteration and Timestep,0
+San Joaquin,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Iteration and Timestep,0
+San Joaquin,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Iteration and Timestep,0
+San Joaquin,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Iteration and Timestep,0
+San Joaquin,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Iteration and Timestep,0
+San Joaquin,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Iteration and Timestep,0
+San Joaquin,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Iteration and Timestep,0
+San Joaquin,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Iteration and Timestep,0
+San Joaquin,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Iteration and Timestep,0
+San Joaquin,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Iteration and Timestep,0
+San Joaquin,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Iteration and Timestep,0
+San Joaquin,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Iteration and Timestep,0
+San Luis Obispo,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Iteration and Timestep,0
+San Luis Obispo,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Iteration and Timestep,0
+San Luis Obispo,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Iteration and Timestep,0
+San Luis Obispo,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Iteration and Timestep,0
+San Luis Obispo,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Iteration and Timestep,0
+San Luis Obispo,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Iteration and Timestep,0
+San Luis Obispo,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Iteration and Timestep,0
+San Luis Obispo,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Iteration and Timestep,0
+San Luis Obispo,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Iteration and Timestep,0
+San Luis Obispo,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Iteration and Timestep,0
+San Luis Obispo,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Iteration and Timestep,0
+San Luis Obispo,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Iteration and Timestep,0
+San Luis Obispo,Management: Forest Clearcut,Forest Harvest,2011,2011,1100,Iteration and Timestep,550
+San Luis Obispo,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Iteration and Timestep,0
+San Luis Obispo,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Iteration and Timestep,0
+San Luis Obispo,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Iteration and Timestep,0
+San Luis Obispo,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Iteration and Timestep,0
+San Luis Obispo,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Iteration and Timestep,0
+San Mateo,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Iteration and Timestep,0
+San Mateo,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Iteration and Timestep,0
+San Mateo,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Iteration and Timestep,0
+San Mateo,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Iteration and Timestep,0
+San Mateo,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Iteration and Timestep,0
+San Mateo,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Iteration and Timestep,0
+San Mateo,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Iteration and Timestep,0
+San Mateo,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Iteration and Timestep,0
+San Mateo,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Iteration and Timestep,0
+San Mateo,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Iteration and Timestep,0
+San Mateo,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Iteration and Timestep,0
+San Mateo,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Iteration and Timestep,0
+San Mateo,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Iteration and Timestep,0
+San Mateo,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Iteration and Timestep,0
+San Mateo,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Iteration and Timestep,0
+San Mateo,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Iteration and Timestep,0
+San Mateo,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Iteration and Timestep,0
+San Mateo,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Iteration and Timestep,0
+Santa Barbara,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Iteration and Timestep,0
+Santa Barbara,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Iteration and Timestep,0
+Santa Barbara,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Iteration and Timestep,0
+Santa Barbara,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Iteration and Timestep,0
+Santa Barbara,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Iteration and Timestep,0
+Santa Barbara,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Iteration and Timestep,0
+Santa Barbara,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Iteration and Timestep,0
+Santa Barbara,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Iteration and Timestep,0
+Santa Barbara,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Iteration and Timestep,0
+Santa Barbara,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Iteration and Timestep,0
+Santa Barbara,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Iteration and Timestep,0
+Santa Barbara,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Iteration and Timestep,0
+Santa Barbara,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Iteration and Timestep,0
+Santa Barbara,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Iteration and Timestep,0
+Santa Barbara,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Iteration and Timestep,0
+Santa Barbara,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Iteration and Timestep,0
+Santa Barbara,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Iteration and Timestep,0
+Santa Barbara,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Iteration and Timestep,0
+Santa Clara,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Iteration and Timestep,0
+Santa Clara,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Iteration and Timestep,0
+Santa Clara,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Iteration and Timestep,0
+Santa Clara,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Iteration and Timestep,0
+Santa Clara,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Iteration and Timestep,0
+Santa Clara,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Iteration and Timestep,0
+Santa Clara,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Iteration and Timestep,0
+Santa Clara,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Iteration and Timestep,0
+Santa Clara,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Iteration and Timestep,0
+Santa Clara,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Iteration and Timestep,0
+Santa Clara,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Iteration and Timestep,0
+Santa Clara,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Iteration and Timestep,0
+Santa Clara,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Iteration and Timestep,0
+Santa Clara,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Iteration and Timestep,0
+Santa Clara,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Iteration and Timestep,0
+Santa Clara,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Iteration and Timestep,0
+Santa Clara,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Iteration and Timestep,0
+Santa Clara,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Iteration and Timestep,0
+Santa Cruz,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Iteration and Timestep,0
+Santa Cruz,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Iteration and Timestep,0
+Santa Cruz,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Iteration and Timestep,0
+Santa Cruz,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Iteration and Timestep,0
+Santa Cruz,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Iteration and Timestep,0
+Santa Cruz,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Iteration and Timestep,0
+Santa Cruz,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Iteration and Timestep,0
+Santa Cruz,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Iteration and Timestep,0
+Santa Cruz,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Iteration and Timestep,0
+Santa Cruz,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Iteration and Timestep,0
+Santa Cruz,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Iteration and Timestep,0
+Santa Cruz,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Iteration and Timestep,0
+Santa Cruz,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Iteration and Timestep,0
+Santa Cruz,Management: Forest Clearcut,Forest Harvest,2012,2012,100,Iteration and Timestep,50
+Santa Cruz,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Iteration and Timestep,0
+Santa Cruz,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Iteration and Timestep,0
+Santa Cruz,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Iteration and Timestep,0
+Santa Cruz,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Iteration and Timestep,0
+Shasta,Management: Forest Clearcut,Forest Harvest,1999,1999,200,Iteration and Timestep,100
+Shasta,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Iteration and Timestep,0
+Shasta,Management: Forest Clearcut,Forest Harvest,2001,2001,100,Iteration and Timestep,50
+Shasta,Management: Forest Clearcut,Forest Harvest,2002,2002,500,Iteration and Timestep,250
+Shasta,Management: Forest Clearcut,Forest Harvest,2003,2003,100,Iteration and Timestep,50
+Shasta,Management: Forest Clearcut,Forest Harvest,2004,2004,600,Iteration and Timestep,300
+Shasta,Management: Forest Clearcut,Forest Harvest,2005,2005,2100,Iteration and Timestep,1050
+Shasta,Management: Forest Clearcut,Forest Harvest,2006,2006,300,Iteration and Timestep,150
+Shasta,Management: Forest Clearcut,Forest Harvest,2007,2007,700,Iteration and Timestep,350
+Shasta,Management: Forest Clearcut,Forest Harvest,2008,2008,600,Iteration and Timestep,300
+Shasta,Management: Forest Clearcut,Forest Harvest,2009,2009,2200,Iteration and Timestep,1100
+Shasta,Management: Forest Clearcut,Forest Harvest,2010,2010,300,Iteration and Timestep,150
+Shasta,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Iteration and Timestep,0
+Shasta,Management: Forest Clearcut,Forest Harvest,2012,2012,700,Iteration and Timestep,350
+Shasta,Management: Forest Clearcut,Forest Harvest,2013,2013,200,Iteration and Timestep,100
+Shasta,Management: Forest Clearcut,Forest Harvest,2014,2014,100,Iteration and Timestep,50
+Shasta,Management: Forest Clearcut,Forest Harvest,2015,2015,500,Iteration and Timestep,250
+Shasta,Management: Forest Clearcut,Forest Harvest,2016,2016,200,Iteration and Timestep,100
+Sierra Valley,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Iteration and Timestep,0
+Sierra Valley,Management: Forest Clearcut,Forest Harvest,2000,2000,400,Iteration and Timestep,200
+Sierra Valley,Management: Forest Clearcut,Forest Harvest,2001,2001,100,Iteration and Timestep,50
+Sierra Valley,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Iteration and Timestep,0
+Sierra Valley,Management: Forest Clearcut,Forest Harvest,2003,2003,200,Iteration and Timestep,100
+Sierra Valley,Management: Forest Clearcut,Forest Harvest,2004,2004,300,Iteration and Timestep,150
+Sierra Valley,Management: Forest Clearcut,Forest Harvest,2005,2005,800,Iteration and Timestep,400
+Sierra Valley,Management: Forest Clearcut,Forest Harvest,2006,2006,700,Iteration and Timestep,350
+Sierra Valley,Management: Forest Clearcut,Forest Harvest,2007,2007,300,Iteration and Timestep,150
+Sierra Valley,Management: Forest Clearcut,Forest Harvest,2008,2008,200,Iteration and Timestep,100
+Sierra Valley,Management: Forest Clearcut,Forest Harvest,2009,2009,200,Iteration and Timestep,100
+Sierra Valley,Management: Forest Clearcut,Forest Harvest,2010,2010,100,Iteration and Timestep,50
+Sierra Valley,Management: Forest Clearcut,Forest Harvest,2011,2011,100,Iteration and Timestep,50
+Sierra Valley,Management: Forest Clearcut,Forest Harvest,2012,2012,100,Iteration and Timestep,50
+Sierra Valley,Management: Forest Clearcut,Forest Harvest,2013,2013,100,Iteration and Timestep,50
+Sierra Valley,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Iteration and Timestep,0
+Sierra Valley,Management: Forest Clearcut,Forest Harvest,2015,2015,100,Iteration and Timestep,50
+Sierra Valley,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Iteration and Timestep,0
+Siskiyou,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Iteration and Timestep,0
+Siskiyou,Management: Forest Clearcut,Forest Harvest,2000,2000,300,Iteration and Timestep,150
+Siskiyou,Management: Forest Clearcut,Forest Harvest,2001,2001,300,Iteration and Timestep,150
+Siskiyou,Management: Forest Clearcut,Forest Harvest,2002,2002,200,Iteration and Timestep,100
+Siskiyou,Management: Forest Clearcut,Forest Harvest,2003,2003,300,Iteration and Timestep,150
+Siskiyou,Management: Forest Clearcut,Forest Harvest,2004,2004,400,Iteration and Timestep,200
+Siskiyou,Management: Forest Clearcut,Forest Harvest,2005,2005,500,Iteration and Timestep,250
+Siskiyou,Management: Forest Clearcut,Forest Harvest,2006,2006,600,Iteration and Timestep,300
+Siskiyou,Management: Forest Clearcut,Forest Harvest,2007,2007,700,Iteration and Timestep,350
+Siskiyou,Management: Forest Clearcut,Forest Harvest,2008,2008,1200,Iteration and Timestep,600
+Siskiyou,Management: Forest Clearcut,Forest Harvest,2009,2009,400,Iteration and Timestep,200
+Siskiyou,Management: Forest Clearcut,Forest Harvest,2010,2010,200,Iteration and Timestep,100
+Siskiyou,Management: Forest Clearcut,Forest Harvest,2011,2011,800,Iteration and Timestep,400
+Siskiyou,Management: Forest Clearcut,Forest Harvest,2012,2012,900,Iteration and Timestep,450
+Siskiyou,Management: Forest Clearcut,Forest Harvest,2013,2013,1100,Iteration and Timestep,550
+Siskiyou,Management: Forest Clearcut,Forest Harvest,2014,2014,300,Iteration and Timestep,150
+Siskiyou,Management: Forest Clearcut,Forest Harvest,2015,2015,200,Iteration and Timestep,100
+Siskiyou,Management: Forest Clearcut,Forest Harvest,2016,2016,600,Iteration and Timestep,300
+Solano,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Iteration and Timestep,0
+Solano,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Iteration and Timestep,0
+Solano,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Iteration and Timestep,0
+Solano,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Iteration and Timestep,0
+Solano,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Iteration and Timestep,0
+Solano,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Iteration and Timestep,0
+Solano,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Iteration and Timestep,0
+Solano,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Iteration and Timestep,0
+Solano,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Iteration and Timestep,0
+Solano,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Iteration and Timestep,0
+Solano,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Iteration and Timestep,0
+Solano,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Iteration and Timestep,0
+Solano,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Iteration and Timestep,0
+Solano,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Iteration and Timestep,0
+Solano,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Iteration and Timestep,0
+Solano,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Iteration and Timestep,0
+Solano,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Iteration and Timestep,0
+Solano,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Iteration and Timestep,0
+Sonoma,Management: Forest Clearcut,Forest Harvest,1999,1999,200,Iteration and Timestep,100
+Sonoma,Management: Forest Clearcut,Forest Harvest,2000,2000,100,Iteration and Timestep,50
+Sonoma,Management: Forest Clearcut,Forest Harvest,2001,2001,300,Iteration and Timestep,150
+Sonoma,Management: Forest Clearcut,Forest Harvest,2002,2002,100,Iteration and Timestep,50
+Sonoma,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Iteration and Timestep,0
+Sonoma,Management: Forest Clearcut,Forest Harvest,2004,2004,300,Iteration and Timestep,150
+Sonoma,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Iteration and Timestep,0
+Sonoma,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Iteration and Timestep,0
+Sonoma,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Iteration and Timestep,0
+Sonoma,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Iteration and Timestep,0
+Sonoma,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Iteration and Timestep,0
+Sonoma,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Iteration and Timestep,0
+Sonoma,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Iteration and Timestep,0
+Sonoma,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Iteration and Timestep,0
+Sonoma,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Iteration and Timestep,0
+Sonoma,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Iteration and Timestep,0
+Sonoma,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Iteration and Timestep,0
+Sonoma,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Iteration and Timestep,0
+Stanislaus,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Iteration and Timestep,0
+Stanislaus,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Iteration and Timestep,0
+Stanislaus,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Iteration and Timestep,0
+Stanislaus,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Iteration and Timestep,0
+Stanislaus,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Iteration and Timestep,0
+Stanislaus,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Iteration and Timestep,0
+Stanislaus,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Iteration and Timestep,0
+Stanislaus,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Iteration and Timestep,0
+Stanislaus,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Iteration and Timestep,0
+Stanislaus,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Iteration and Timestep,0
+Stanislaus,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Iteration and Timestep,0
+Stanislaus,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Iteration and Timestep,0
+Stanislaus,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Iteration and Timestep,0
+Stanislaus,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Iteration and Timestep,0
+Stanislaus,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Iteration and Timestep,0
+Stanislaus,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Iteration and Timestep,0
+Stanislaus,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Iteration and Timestep,0
+Stanislaus,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Iteration and Timestep,0
+Sutter,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Iteration and Timestep,0
+Sutter,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Iteration and Timestep,0
+Sutter,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Iteration and Timestep,0
+Sutter,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Iteration and Timestep,0
+Sutter,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Iteration and Timestep,0
+Sutter,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Iteration and Timestep,0
+Sutter,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Iteration and Timestep,0
+Sutter,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Iteration and Timestep,0
+Sutter,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Iteration and Timestep,0
+Sutter,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Iteration and Timestep,0
+Sutter,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Iteration and Timestep,0
+Sutter,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Iteration and Timestep,0
+Sutter,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Iteration and Timestep,0
+Sutter,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Iteration and Timestep,0
+Sutter,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Iteration and Timestep,0
+Sutter,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Iteration and Timestep,0
+Sutter,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Iteration and Timestep,0
+Sutter,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Iteration and Timestep,0
+Tehama,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Iteration and Timestep,0
+Tehama,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Iteration and Timestep,0
+Tehama,Management: Forest Clearcut,Forest Harvest,2001,2001,100,Iteration and Timestep,50
+Tehama,Management: Forest Clearcut,Forest Harvest,2002,2002,200,Iteration and Timestep,100
+Tehama,Management: Forest Clearcut,Forest Harvest,2003,2003,400,Iteration and Timestep,200
+Tehama,Management: Forest Clearcut,Forest Harvest,2004,2004,200,Iteration and Timestep,100
+Tehama,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Iteration and Timestep,0
+Tehama,Management: Forest Clearcut,Forest Harvest,2006,2006,300,Iteration and Timestep,150
+Tehama,Management: Forest Clearcut,Forest Harvest,2007,2007,100,Iteration and Timestep,50
+Tehama,Management: Forest Clearcut,Forest Harvest,2008,2008,100,Iteration and Timestep,50
+Tehama,Management: Forest Clearcut,Forest Harvest,2009,2009,800,Iteration and Timestep,400
+Tehama,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Iteration and Timestep,0
+Tehama,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Iteration and Timestep,0
+Tehama,Management: Forest Clearcut,Forest Harvest,2012,2012,100,Iteration and Timestep,50
+Tehama,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Iteration and Timestep,0
+Tehama,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Iteration and Timestep,0
+Tehama,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Iteration and Timestep,0
+Tehama,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Iteration and Timestep,0
+Trinity,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Iteration and Timestep,0
+Trinity,Management: Forest Clearcut,Forest Harvest,2000,2000,100,Iteration and Timestep,50
+Trinity,Management: Forest Clearcut,Forest Harvest,2001,2001,600,Iteration and Timestep,300
+Trinity,Management: Forest Clearcut,Forest Harvest,2002,2002,100,Iteration and Timestep,50
+Trinity,Management: Forest Clearcut,Forest Harvest,2003,2003,200,Iteration and Timestep,100
+Trinity,Management: Forest Clearcut,Forest Harvest,2004,2004,200,Iteration and Timestep,100
+Trinity,Management: Forest Clearcut,Forest Harvest,2005,2005,400,Iteration and Timestep,200
+Trinity,Management: Forest Clearcut,Forest Harvest,2006,2006,400,Iteration and Timestep,200
+Trinity,Management: Forest Clearcut,Forest Harvest,2007,2007,400,Iteration and Timestep,200
+Trinity,Management: Forest Clearcut,Forest Harvest,2008,2008,900,Iteration and Timestep,450
+Trinity,Management: Forest Clearcut,Forest Harvest,2009,2009,300,Iteration and Timestep,150
+Trinity,Management: Forest Clearcut,Forest Harvest,2010,2010,2600,Iteration and Timestep,1300
+Trinity,Management: Forest Clearcut,Forest Harvest,2011,2011,500,Iteration and Timestep,250
+Trinity,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Iteration and Timestep,0
+Trinity,Management: Forest Clearcut,Forest Harvest,2013,2013,600,Iteration and Timestep,300
+Trinity,Management: Forest Clearcut,Forest Harvest,2014,2014,100,Iteration and Timestep,50
+Trinity,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Iteration and Timestep,0
+Trinity,Management: Forest Clearcut,Forest Harvest,2016,2016,200,Iteration and Timestep,100
+Tulare,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Iteration and Timestep,0
+Tulare,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Iteration and Timestep,0
+Tulare,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Iteration and Timestep,0
+Tulare,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Iteration and Timestep,0
+Tulare,Management: Forest Clearcut,Forest Harvest,2003,2003,100,Iteration and Timestep,50
+Tulare,Management: Forest Clearcut,Forest Harvest,2004,2004,300,Iteration and Timestep,150
+Tulare,Management: Forest Clearcut,Forest Harvest,2005,2005,700,Iteration and Timestep,350
+Tulare,Management: Forest Clearcut,Forest Harvest,2006,2006,200,Iteration and Timestep,100
+Tulare,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Iteration and Timestep,0
+Tulare,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Iteration and Timestep,0
+Tulare,Management: Forest Clearcut,Forest Harvest,2009,2009,200,Iteration and Timestep,100
+Tulare,Management: Forest Clearcut,Forest Harvest,2010,2010,200,Iteration and Timestep,100
+Tulare,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Iteration and Timestep,0
+Tulare,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Iteration and Timestep,0
+Tulare,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Iteration and Timestep,0
+Tulare,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Iteration and Timestep,0
+Tulare,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Iteration and Timestep,0
+Tulare,Management: Forest Clearcut,Forest Harvest,2016,2016,100,Iteration and Timestep,50
+Tuolumne,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Iteration and Timestep,0
+Tuolumne,Management: Forest Clearcut,Forest Harvest,2000,2000,200,Iteration and Timestep,100
+Tuolumne,Management: Forest Clearcut,Forest Harvest,2001,2001,600,Iteration and Timestep,300
+Tuolumne,Management: Forest Clearcut,Forest Harvest,2002,2002,100,Iteration and Timestep,50
+Tuolumne,Management: Forest Clearcut,Forest Harvest,2003,2003,2300,Iteration and Timestep,1150
+Tuolumne,Management: Forest Clearcut,Forest Harvest,2004,2004,700,Iteration and Timestep,350
+Tuolumne,Management: Forest Clearcut,Forest Harvest,2005,2005,400,Iteration and Timestep,200
+Tuolumne,Management: Forest Clearcut,Forest Harvest,2006,2006,400,Iteration and Timestep,200
+Tuolumne,Management: Forest Clearcut,Forest Harvest,2007,2007,600,Iteration and Timestep,300
+Tuolumne,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Iteration and Timestep,0
+Tuolumne,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Iteration and Timestep,0
+Tuolumne,Management: Forest Clearcut,Forest Harvest,2010,2010,100,Iteration and Timestep,50
+Tuolumne,Management: Forest Clearcut,Forest Harvest,2011,2011,200,Iteration and Timestep,100
+Tuolumne,Management: Forest Clearcut,Forest Harvest,2012,2012,100,Iteration and Timestep,50
+Tuolumne,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Iteration and Timestep,0
+Tuolumne,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Iteration and Timestep,0
+Tuolumne,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Iteration and Timestep,0
+Tuolumne,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Iteration and Timestep,0
+Ventura,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Iteration and Timestep,0
+Ventura,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Iteration and Timestep,0
+Ventura,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Iteration and Timestep,0
+Ventura,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Iteration and Timestep,0
+Ventura,Management: Forest Clearcut,Forest Harvest,2003,2003,100,Iteration and Timestep,50
+Ventura,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Iteration and Timestep,0
+Ventura,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Iteration and Timestep,0
+Ventura,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Iteration and Timestep,0
+Ventura,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Iteration and Timestep,0
+Ventura,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Iteration and Timestep,0
+Ventura,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Iteration and Timestep,0
+Ventura,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Iteration and Timestep,0
+Ventura,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Iteration and Timestep,0
+Ventura,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Iteration and Timestep,0
+Ventura,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Iteration and Timestep,0
+Ventura,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Iteration and Timestep,0
+Ventura,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Iteration and Timestep,0
+Ventura,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Iteration and Timestep,0
+Yolo,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Iteration and Timestep,0
+Yolo,Management: Forest Clearcut,Forest Harvest,2000,2000,0,Iteration and Timestep,0
+Yolo,Management: Forest Clearcut,Forest Harvest,2001,2001,0,Iteration and Timestep,0
+Yolo,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Iteration and Timestep,0
+Yolo,Management: Forest Clearcut,Forest Harvest,2003,2003,0,Iteration and Timestep,0
+Yolo,Management: Forest Clearcut,Forest Harvest,2004,2004,0,Iteration and Timestep,0
+Yolo,Management: Forest Clearcut,Forest Harvest,2005,2005,0,Iteration and Timestep,0
+Yolo,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Iteration and Timestep,0
+Yolo,Management: Forest Clearcut,Forest Harvest,2007,2007,0,Iteration and Timestep,0
+Yolo,Management: Forest Clearcut,Forest Harvest,2008,2008,0,Iteration and Timestep,0
+Yolo,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Iteration and Timestep,0
+Yolo,Management: Forest Clearcut,Forest Harvest,2010,2010,0,Iteration and Timestep,0
+Yolo,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Iteration and Timestep,0
+Yolo,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Iteration and Timestep,0
+Yolo,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Iteration and Timestep,0
+Yolo,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Iteration and Timestep,0
+Yolo,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Iteration and Timestep,0
+Yolo,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Iteration and Timestep,0
+Yuba,Management: Forest Clearcut,Forest Harvest,1999,1999,0,Iteration and Timestep,0
+Yuba,Management: Forest Clearcut,Forest Harvest,2000,2000,300,Iteration and Timestep,150
+Yuba,Management: Forest Clearcut,Forest Harvest,2001,2001,600,Iteration and Timestep,300
+Yuba,Management: Forest Clearcut,Forest Harvest,2002,2002,0,Iteration and Timestep,0
+Yuba,Management: Forest Clearcut,Forest Harvest,2003,2003,100,Iteration and Timestep,50
+Yuba,Management: Forest Clearcut,Forest Harvest,2004,2004,200,Iteration and Timestep,100
+Yuba,Management: Forest Clearcut,Forest Harvest,2005,2005,600,Iteration and Timestep,300
+Yuba,Management: Forest Clearcut,Forest Harvest,2006,2006,0,Iteration and Timestep,0
+Yuba,Management: Forest Clearcut,Forest Harvest,2007,2007,300,Iteration and Timestep,150
+Yuba,Management: Forest Clearcut,Forest Harvest,2008,2008,100,Iteration and Timestep,50
+Yuba,Management: Forest Clearcut,Forest Harvest,2009,2009,0,Iteration and Timestep,0
+Yuba,Management: Forest Clearcut,Forest Harvest,2010,2010,100,Iteration and Timestep,50
+Yuba,Management: Forest Clearcut,Forest Harvest,2011,2011,0,Iteration and Timestep,0
+Yuba,Management: Forest Clearcut,Forest Harvest,2012,2012,0,Iteration and Timestep,0
+Yuba,Management: Forest Clearcut,Forest Harvest,2013,2013,0,Iteration and Timestep,0
+Yuba,Management: Forest Clearcut,Forest Harvest,2014,2014,0,Iteration and Timestep,0
+Yuba,Management: Forest Clearcut,Forest Harvest,2015,2015,0,Iteration and Timestep,0
+Yuba,Management: Forest Clearcut,Forest Harvest,2016,2016,0,Iteration and Timestep,0

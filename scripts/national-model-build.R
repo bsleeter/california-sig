@@ -9,20 +9,19 @@ library(rsyncrosim)
 
 
 # ssimDir = "F:/national-assessment/data/ssim-libs/"
-ssimDir = "F:/national-assessment/models/"
+ssimDir = "models/"
 SyncroSimDir <- "C:/Program Files/SyncroSim/"
 mySession <- session(SyncroSimDir)
 
 # myLibrary = ssimLibrary(name = paste0(ssimDir,"Initial Stocks Model Conus.ssim"), session = mySession)
 # myLibrary = ssimLibrary(name = paste0(ssimDir,"Initial Stocks Model.ssim"), session = mySession)
-myLibrary = ssimLibrary(name = paste0(ssimDir,"National Assessment Model.ssim"), session = mySession)
-myProject = project(myLibrary, project="LUCAS-National")
+myLibrary = ssimLibrary(name = paste0(ssimDir,"California-sig.ssim"), session = mySession, addon = "stsimsf")
+myProject = project(myLibrary, project="California-sig")
+dataDir = "data/"
 
 
+# Definitions -------------------------------------------------------------
 
-########################
-# Definitions (ST-Sim) #
-########################
 
 ##### ST-Sim Terminology #####
 sheetName <- "stsim_Terminology"
@@ -40,62 +39,62 @@ saveDatasheet(myProject, mySheet, sheetName)
 ##### ST-Sim Primary Strata #####
 sheetName <- "stsim_Stratum"
 mySheet <- datasheet(myProject, name=sheetName, optional=T)
-mySheet = read.csv("F:/national-assessment/data/definitions/ecoregions.csv")
+mySheet = read.csv(paste0(dataDir,"definitions/ecoregions.csv")) %>% filter(ID %in% c(1,4,5,6,7,8,9,13,14,78,80,81,85))
 saveDatasheet(myProject, mySheet, name=sheetName)
 
 ##### ST-Sim Secondary Strata ##### 
 sheetName <- "stsim_SecondaryStratum"
 mySheet <- datasheet(myProject, name=sheetName, optional=T)
-mySheet = read.csv("F:/national-assessment/data/definitions/states.csv")
+mySheet = read.csv(paste0(dataDir,"definitions/counties.csv"))
 saveDatasheet(myProject, mySheet, name=sheetName)
 
 ##### ST-Sim Tertiary Strata ##### 
 sheetName <- "stsim_TertiaryStratum"
 mySheet <- datasheet(myProject, name=sheetName, optional=T)
-mySheet = read.csv("F:/national-assessment/data/definitions/land-managers-strata.csv")
+mySheet = read.csv(paste0(dataDir, "definitions/land-managers-strata.csv"))
 saveDatasheet(myProject, mySheet, name=sheetName)
 
 ##### ST-Sim State Label x #####
 sheetName <- "stsim_StateLabelX"
 mySheet <- datasheet(myProject, name=sheetName, optional=T)
-mySheet = read.csv("F:/national-assessment/data/definitions/state-label-xid.csv")
+mySheet = read.csv(paste0(dataDir, "definitions/state-label-xid.csv"))
 saveDatasheet(myProject, mySheet, name=sheetName)
 
 ##### ST-Sim State Label y #####
 sheetName <- "stsim_StateLabelY"
 mySheet <- datasheet(myProject, name=sheetName, optional=T)
-mySheet = read.csv("F:/national-assessment/data/definitions/state-label-yid.csv")
+mySheet = read.csv(paste0(dataDir, "definitions/state-label-yid.csv"))
 saveDatasheet(myProject, mySheet, name=sheetName)
 
 ##### ST-Sim State Class #####
 sheetName <- "stsim_StateClass"
 mySheet <- datasheet(myProject, name=sheetName, optional=T)
-mySheet = read.csv("F:/national-assessment/data/definitions/state-class-types.csv")
+mySheet = read.csv(paste0(dataDir, "definitions/state-class-types.csv"))
 saveDatasheet(myProject, mySheet, name=sheetName)
 
 ##### ST-Sim Transition Types #####
 sheetName <- "stsim_TransitionType"
 mySheet <- datasheet(myProject, name=sheetName, optional=T)
-mySheet = read.csv("F:/national-assessment/data/definitions/transition-type.csv")
+mySheet = read.csv(paste0(dataDir, "definitions/transition-type.csv"))
 saveDatasheet(myProject, mySheet, name=sheetName)
 
 ##### ST-Sim Transition Groups #####
 sheetName <- "stsim_TransitionGroup"
 mySheet <- datasheet(myProject, name=sheetName, optional=T)
-mySheet = read.csv("F:/national-assessment/data/definitions/transition-group.csv")
+mySheet = read.csv(paste0(dataDir, "definitions/transition-group.csv"))
 saveDatasheet(myProject, mySheet, name=sheetName, append=T)
 
 ##### ST-Sim Transition Types by Group #####
 sheetName <- "stsim_TransitionTypeGroup"
 mySheet <- datasheet(myProject, name=sheetName, optional=T)
-mySheet = read.csv("F:/national-assessment/data/definitions/transition-types-by-group.csv")
+mySheet = read.csv(paste0(dataDir, "definitions/transition-types-by-group.csv"))
 saveDatasheet(myProject, mySheet, name=sheetName, append=T)
 
 ##### ST-Sim Transition Simulation Groups #####
 # Only used for projection models
 sheetName <- "stsim_TransitionSimulationGroup"
 mySheet <- datasheet(myProject, name=sheetName, optional=T)
-mySheet = read.csv("F:/national-assessment/data/definitions/transition-simulation-groups.csv")
+mySheet = read.csv(paste0(dataDir, "definitions/transition-simulation-groups.csv"))
 saveDatasheet(myProject, mySheet, name=sheetName, append=T)
 
 ##### ST-Sim Age Type #####
@@ -115,25 +114,25 @@ saveDatasheet(myProject, mySheet, name=sheetName)
 ##### ST-Sim Attribute Groups #####
 sheetName <- "stsim_AttributeGroup"
 mySheet <- datasheet(myProject, name=sheetName, optional=T)
-mySheet = read.csv("F:/national-assessment/data/definitions/state-attribute-group.csv")
+mySheet = read.csv(paste0(dataDir, "definitions/state-attribute-group.csv"))
 saveDatasheet(myProject, mySheet, name=sheetName)
 
 ##### ST-Sim State Attribute Types #####
 sheetName <- "stsim_StateAttributeType"
 mySheet <- datasheet(myProject, name=sheetName, optional=T)
-mySheet = read.csv("F:/national-assessment/data/definitions/state-attribute-type.csv")
+mySheet = read.csv(paste0(dataDir, "definitions/state-attribute-type.csv"))
 saveDatasheet(myProject, mySheet, name=sheetName)
 
 ##### ST-Sim Distributions #####
 sheetName <- "corestime_DistributionType"
 mySheet <- datasheet(myProject, name=sheetName, optional=T)
-mySheet = read.csv("F:/national-assessment/data/definitions/distributions.csv")
+mySheet = read.csv(paste0(dataDir, "definitions/distributions.csv"))
 saveDatasheet(myProject, mySheet, name=sheetName, append=T)
 
 ##### ST-Sim External Variables #####
 sheetName <- "corestime_ExternalVariableType"
 mySheet <- datasheet(myProject, name=sheetName, optional=T)
-mySheet = read.csv("F:/national-assessment/data/definitions/external-variables.csv")
+mySheet = read.csv(paste0(dataDir, "definitions/external-variables.csv"))
 saveDatasheet(myProject, mySheet, name=sheetName)
 
 
@@ -141,25 +140,25 @@ saveDatasheet(myProject, mySheet, name=sheetName)
 ##### SF Stock Types #####
 sheetName <- "stsimsf_StockType"
 mySheet <- datasheet(myProject, name=sheetName, optional=T)
-mySheet = read.csv("F:/national-assessment/data/definitions/stock-type.csv")
+mySheet = read.csv(paste0(dataDir, "definitions/stock-type.csv"))
 saveDatasheet(myProject, mySheet, name=sheetName)
 
 ##### SF Stock Groups #####
 sheetName <- "stsimsf_StockGroup"
 mySheet <- datasheet(myProject, name=sheetName, optional=T)
-mySheet = read.csv("F:/national-assessment/data/definitions/stock-group.csv")
+mySheet = read.csv(paste0(dataDir, "definitions/stock-group.csv"))
 saveDatasheet(myProject, mySheet, name=sheetName, append=T)
 
 ##### SF Flow Types #####
 sheetName <- "stsimsf_FlowType"
 mySheet <- datasheet(myProject, name=sheetName, optional=T)
-mySheet = read.csv("F:/national-assessment/data/definitions/flow-type.csv")
+mySheet = read.csv(paste0(dataDir, "definitions/flow-type.csv"))
 saveDatasheet(myProject, mySheet, name=sheetName)
 
 ##### SF Flow Groups #####
 sheetName <- "stsimsf_FlowGroup"
 mySheet <- datasheet(myProject, name=sheetName, optional=T)
-mySheet = read.csv("F:/national-assessment/data/definitions/flow-group.csv")
+mySheet = read.csv(paste0(dataDir, "definitions/flow-group.csv"))
 saveDatasheet(myProject, mySheet, name=sheetName, append=T)
 
 
@@ -184,11 +183,11 @@ saveDatasheet(myProject, mySheet, name=sheetName, append=T)
 ####################################
 
 ##### ST-Sim Run Control #####
-maxTimestep <- 2014
+maxTimestep <- 2016
 maxIteration <- 1
 minTimestep <- 2001
 minIteration <- 1
-myScenario <- scenario(myProject, scenario <- paste0("Run Control [Spatial; 2001-2014; 1 MC]"))
+myScenario <- scenario(myProject, scenario <- paste0("Run Control Reference [Spatial; 2001-2016; 1 MC]"))
 sheetName <- "stsim_RunControl"
 mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
 mySheet[1,"MinimumIteration"] <- minIteration
@@ -204,88 +203,88 @@ saveDatasheet(myScenario, mySheet, sheetName)
 myScenario <- scenario(myProject, scenario <- "Pathway Diagram [Urbanization]")
 mergeDependencies(myScenario) = TRUE
 sheetName <- "stsim_DeterministicTransition"
-mySheet = read.csv("F:/national-assessment/data/definitions/pathway-diagram-deterministic.csv")
+mySheet = read.csv(paste0(dataDir, "definitions/pathway-diagram-deterministic.csv"))
 saveDatasheet(myScenario, mySheet, sheetName)
 sheetName <- "stsim_Transition"
 mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
-mySheet = read.csv("F:/national-assessment/data/definitions/pathway-diagram-probabilistic-urbanization.csv")
+mySheet = read.csv(paste0(dataDir, "definitions/pathway-diagram-probabilistic-urbanization.csv"))
 saveDatasheet(myScenario, mySheet, sheetName)
 
 # Ag Change
 myScenario <- scenario(myProject, scenario <- "Pathway Diagram [Ag Change]")
 mergeDependencies(myScenario) = TRUE
 sheetName <- "stsim_DeterministicTransition"
-mySheet = read.csv("F:/national-assessment/data/definitions/pathway-diagram-deterministic.csv")
+mySheet = read.csv(paste0(dataDir, "definitions/pathway-diagram-deterministic.csv"))
 saveDatasheet(myScenario, mySheet, sheetName)
 sheetName <- "stsim_Transition"
 mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
-mySheet = read.csv("F:/national-assessment/data/definitions/pathway-diagram-probabilistic-agchange.csv")
+mySheet = read.csv(paste0(dataDir, "definitions/pathway-diagram-probabilistic-agchange.csv"))
 saveDatasheet(myScenario, mySheet, sheetName)
 
 # Ag Expansion
 myScenario <- scenario(myProject, scenario <- "Pathway Diagram [Ag Expansion]")
 mergeDependencies(myScenario) = TRUE
 sheetName <- "stsim_DeterministicTransition"
-mySheet = read.csv("F:/national-assessment/data/definitions/pathway-diagram-deterministic.csv")
+mySheet = read.csv(paste0(dataDir, "definitions/pathway-diagram-deterministic.csv"))
 saveDatasheet(myScenario, mySheet, sheetName)
 sheetName <- "stsim_Transition"
 mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
-mySheet = read.csv("F:/national-assessment/data/definitions/pathway-diagram-probabilistic-agexpansion.csv")
+mySheet = read.csv(paste0(dataDir, "definitions/pathway-diagram-probabilistic-agexpansion.csv"))
 saveDatasheet(myScenario, mySheet, sheetName)
 
 # Ag Contraction
 myScenario <- scenario(myProject, scenario <- "Pathway Diagram [Ag Contraction]")
 mergeDependencies(myScenario) = TRUE
 sheetName <- "stsim_DeterministicTransition"
-mySheet = read.csv("F:/national-assessment/data/definitions/pathway-diagram-deterministic.csv")
+mySheet = read.csv(paste0(dataDir, "definitions/pathway-diagram-deterministic.csv"))
 saveDatasheet(myScenario, mySheet, sheetName)
 sheetName <- "stsim_Transition"
 mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
-mySheet = read.csv("F:/national-assessment/data/definitions/pathway-diagram-probabilistic-agcontraction.csv")
+mySheet = read.csv(paste0(dataDir, "definitions/pathway-diagram-probabilistic-agcontraction.csv"))
 saveDatasheet(myScenario, mySheet, sheetName)
 
 # Urban Intensification
 myScenario <- scenario(myProject, scenario <- "Pathway Diagram [Intensification]")
 mergeDependencies(myScenario) = TRUE
 sheetName <- "stsim_DeterministicTransition"
-mySheet = read.csv("F:/national-assessment/data/definitions/pathway-diagram-deterministic.csv")
+mySheet = read.csv(paste0(dataDir, "definitions/pathway-diagram-deterministic.csv"))
 saveDatasheet(myScenario, mySheet, sheetName)
 sheetName <- "stsim_Transition"
 mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
-mySheet = read.csv("F:/national-assessment/data/definitions/pathway-diagram-probabilistic-intensification.csv")
+mySheet = read.csv(paste0(dataDir, "definitions/pathway-diagram-probabilistic-intensification.csv"))
 saveDatasheet(myScenario, mySheet, sheetName)
 
 # Fire
 myScenario <- scenario(myProject, scenario <- "Pathway Diagram [Fire]")
 mergeDependencies(myScenario) = TRUE
 sheetName <- "stsim_DeterministicTransition"
-mySheet = read.csv("F:/national-assessment/data/definitions/pathway-diagram-deterministic.csv")
+mySheet = read.csv(paste0(dataDir, "definitions/pathway-diagram-deterministic.csv"))
 saveDatasheet(myScenario, mySheet, sheetName)
 sheetName <- "stsim_Transition"
 mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
-mySheet = read.csv("F:/national-assessment/data/definitions/pathway-diagram-probabilistic-fire.csv")
+mySheet = read.csv(paste0(dataDir, "definitions/pathway-diagram-probabilistic-fire.csv"))
 saveDatasheet(myScenario, mySheet, sheetName)
 
 # Drought
 myScenario <- scenario(myProject, scenario <- "Pathway Diagram [Insect]")
 mergeDependencies(myScenario) = TRUE
 sheetName <- "stsim_DeterministicTransition"
-mySheet = read.csv("F:/national-assessment/data/definitions/pathway-diagram-deterministic.csv")
+mySheet = read.csv(paste0(dataDir, "definitions/pathway-diagram-deterministic.csv"))
 saveDatasheet(myScenario, mySheet, sheetName)
 sheetName <- "stsim_Transition"
 mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
-mySheet = read.csv("F:/national-assessment/data/definitions/pathway-diagram-probabilistic-insect.csv")
+mySheet = read.csv(paste0(dataDir, "definitions/pathway-diagram-probabilistic-insect.csv"))
 saveDatasheet(myScenario, mySheet, sheetName)
 
 # Harvest
 myScenario <- scenario(myProject, scenario <- "Pathway Diagram [Harvest]")
 mergeDependencies(myScenario) = TRUE
 sheetName <- "stsim_DeterministicTransition"
-mySheet = read.csv("F:/national-assessment/data/definitions/pathway-diagram-deterministic.csv")
+mySheet = read.csv(paste0(dataDir, "definitions/pathway-diagram-deterministic.csv"))
 saveDatasheet(myScenario, mySheet, sheetName)
 sheetName <- "stsim_Transition"
 mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
-mySheet = read.csv("F:/national-assessment/data/definitions/pathway-diagram-probabilistic-harvest.csv")
+mySheet = read.csv(paste0(dataDir, "definitions/pathway-diagram-probabilistic-harvest.csv"))
 saveDatasheet(myScenario, mySheet, sheetName)
 
 # Merge Pathway Dependencies
@@ -302,56 +301,66 @@ myScenario <- scenario(myProject, scenario = "Distirbutions [Urbanization]")
 mergeDependencies(myScenario) = T
 sheetName <- "stsim_DistributionValue"
 mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
-mySheet = read.csv("F:/national-assessment/data/distributions/distribution-urbanization.csv")  %>% rename("Value" = "Amount")
+mySheet = read.csv(paste0(dataDir, "distributions/distribution-urbanization.csv"))
 saveDatasheet(myScenario, mySheet, sheetName)
 
 myScenario <- scenario(myProject, scenario = "Distirbutions [Intensification]")
 mergeDependencies(myScenario) = T
 sheetName <- "stsim_DistributionValue"
 mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
-mySheet = read.csv("F:/national-assessment/data/distributions/distribution-intensification.csv") %>% rename("Value" = "Amount")
+mySheet = read.csv(paste0(dataDir, "distributions/distribution-intensification.csv"))
 saveDatasheet(myScenario, mySheet, sheetName)
 
 myScenario <- scenario(myProject, scenario = "Distirbutions [Ag Change]")
 mergeDependencies(myScenario) = T
 sheetName <- "stsim_DistributionValue"
 mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
-mySheet = read.csv("F:/national-assessment/data/distributions/distribution-agchange.csv") %>% rename("Value" = "Amount")
+mySheet1 = read.csv(paste0(dataDir, "distributions/distribution-ag-change-cropland-pasture.csv"))
+mySheet2 = read.csv(paste0(dataDir, "distributions/distribution-ag-change-pasture-cropland.csv"))
+mySheet = rbind(mySheet1, mySheet2)
 saveDatasheet(myScenario, mySheet, sheetName)
 
 myScenario <- scenario(myProject, scenario = "Distirbutions [Ag Expansion]")
 mergeDependencies(myScenario) = T
 sheetName <- "stsim_DistributionValue"
 mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
-mySheet = read.csv("F:/national-assessment/data/distributions/distribution-agexpansion.csv") %>% rename("Value" = "Amount")
+mySheet = read.csv(paste0(dataDir, "distributions/distribution-ag-expansion.csv"))
 saveDatasheet(myScenario, mySheet, sheetName)
 
 myScenario <- scenario(myProject, scenario = "Distirbutions [Ag Contraction]")
 mergeDependencies(myScenario) = T
 sheetName <- "stsim_DistributionValue"
 mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
-mySheet = read.csv("F:/national-assessment/data/distributions/distribution-agcontraction.csv") %>% rename("Value" = "Amount")
+mySheet = read.csv(paste0(dataDir, "distributions/distribution-ag-contraction.csv"))
 saveDatasheet(myScenario, mySheet, sheetName)
 
 myScenario <- scenario(myProject, scenario = "Distirbutions [Fire]")
 mergeDependencies(myScenario) = T
 sheetName <- "stsim_DistributionValue"
 mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
-mySheet = read.csv("F:/national-assessment/data/distributions/distribution-fire.csv") %>% rename("Value" = "Amount")
+mySheet1 = read.csv(paste0(dataDir, "distributions/distribution-fire-high-severity.csv"))
+mySheet2 = read.csv(paste0(dataDir, "distributions/distribution-fire-medium-severity.csv"))
+mySheet3 = read.csv(paste0(dataDir, "distributions/distribution-fire-low-severity.csv"))
+mySheet = rbind(mySheet1, mySheet2, mySheet3)
 saveDatasheet(myScenario, mySheet, sheetName)
 
 myScenario <- scenario(myProject, scenario = "Distirbutions [Insect]")
 mergeDependencies(myScenario) = T
 sheetName <- "stsim_DistributionValue"
 mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
-mySheet = read.csv("F:/national-assessment/data/distributions/distribution-insect.csv") %>% rename("Value" = "Amount")
+mySheet1 = read.csv(paste0(dataDir, "distributions/distribution-insect-high-severity.csv"))
+mySheet2 = read.csv(paste0(dataDir, "distributions/distribution-insect-medium-severity.csv"))
+mySheet3 = read.csv(paste0(dataDir, "distributions/distribution-insect-low-severity.csv"))
+mySheet = rbind(mySheet1, mySheet2, mySheet3)
 saveDatasheet(myScenario, mySheet, sheetName)
 
 myScenario <- scenario(myProject, scenario = "Distirbutions [Harvest]")
 mergeDependencies(myScenario) = T
 sheetName <- "stsim_DistributionValue"
 mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
-mySheet = read.csv("F:/national-assessment/data/distributions/distribution-harvest.csv") %>% rename("Value" = "Amount")
+mySheet1 = read.csv(paste0(dataDir, "distributions/distribution-clearcut.csv"))
+mySheet2 = read.csv(paste0(dataDir, "distributions/distribution-selection.csv"))
+mySheet = rbind(mySheet1, mySheet2)
 saveDatasheet(myScenario, mySheet, sheetName)
 
 

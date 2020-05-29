@@ -1,4 +1,4 @@
-PrimaryStratumID,DistributionTypeID,ExternalVariableTypeID,ExternalVariableMin,ExternalVariableMax,Value,ValueDistributionFrequency,ValueDistributionSD
+StratumID,DistributionTypeID,ExternalVariableTypeID,ExternalVariableMin,ExternalVariableMax,Value,ValueDistributionFrequency,ValueDistributionSD
 Coast Range,Fire: Low Severity,Fire,1999,1999,0,Iteration and Timestep,0
 Coast Range,Fire: Low Severity,Fire,2000,2000,0,Iteration and Timestep,0
 Coast Range,Fire: Low Severity,Fire,2001,2001,500,Iteration and Timestep,250

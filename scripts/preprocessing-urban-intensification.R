@@ -30,7 +30,7 @@ stateclass_df = read_csv("data/definitions/state-class-types.csv")
 
 
 # Read and project/mask NLCD data
-source("preprocessing-nlcd.R")
+#source("preprocessing-nlcd.R")
 
 # Read in SSP projections
 zonal_ssp = read_csv("docs/ssp/iclus-ssp-zonal-county-summary.csv")
@@ -45,9 +45,9 @@ countyIDList = unique(counties$ic.counties)
 # Create a transition type lookup table
 transtypes = tibble(FromStateClassID = c("Developed: Open Space", "Developed: Open Space", "Developed: Open Space", "Developed: Low Intensity", "Developed: Low Intensity" ,"Developed: Medium Intensity"),
                     ToStateClassID = c("Developed: Low Intensity", "Developed: Medium Intensity", "Developed: High Intensity", "Developed: Medium Intensity", "Developed: High Intensity", "Developed: High Intensity"),
-                    TransitionGroupID = c("Intensification: Open to Low [Type]", "Intensification: Open to Medium [Type]", "Intensification: Open to High [Type]", 
-                                          "Intensification: Low to Medium [Type]","Intensification: Low to High [Type]",
-                                          "Intensification: Medium to High [Type]"))
+                    TransitionGroupID = c("Intensification: Open to Low", "Intensification: Open to Medium", "Intensification: Open to High", 
+                                          "Intensification: Low to Medium","Intensification: Low to High",
+                                          "Intensification: Medium to High"))
 
 dist_empty = tibble(Name = sort(rep(counties_df$Name,6)),
                     TransitionGroupID = rep(transtypes$TransitionGroupID,58),

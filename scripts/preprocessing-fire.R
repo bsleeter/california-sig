@@ -92,7 +92,7 @@ fire_high_zonal = as_tibble(zonal(fire_high, ecoregions, "sum")) %>%
          ValueDistributionTypeID = "Normal",
          ValueDistributionFrequency = "Iteration and Timestep",
          ValueDistributionSD = Value*0.5) %>%
-  dplyr::select(PrimaryStratumID=Name, DistributionTypeID, ExternalVariableTypeID, ExternalVariableMin, ExternalVariableMax, Value, DistributionTypeID, ValueDistributionFrequency, ValueDistributionSD)
+  dplyr::select(StratumID=Name, DistributionTypeID, ExternalVariableTypeID, ExternalVariableMin, ExternalVariableMax, Value, DistributionTypeID, ValueDistributionFrequency, ValueDistributionSD)
 write_csv(fire_high_zonal, "data/distributions/distribution-fire-high-severity.csv")
 
 
@@ -128,7 +128,7 @@ fire_med_zonal = as_tibble(zonal(fire_med, ecoregions, "sum")) %>%
          ValueDistributionTypeID = "Normal",
          ValueDistributionFrequency = "Iteration and Timestep",
          ValueDistributionSD = Value*0.5) %>%
-  dplyr::select(PrimaryStratumID=Name, DistributionTypeID, ExternalVariableTypeID, ExternalVariableMin, ExternalVariableMax, Value, DistributionTypeID, ValueDistributionFrequency, ValueDistributionSD)
+  dplyr::select(StratumID=Name, DistributionTypeID, ExternalVariableTypeID, ExternalVariableMin, ExternalVariableMax, Value, DistributionTypeID, ValueDistributionFrequency, ValueDistributionSD)
 write_csv(fire_med_zonal, "data/distributions/distribution-fire-medium-severity.csv")
 
 
@@ -165,5 +165,5 @@ fire_low_zonal = as_tibble(zonal(fire_low, ecoregions, "sum")) %>%
          ValueDistributionTypeID = "Normal",
          ValueDistributionFrequency = "Iteration and Timestep",
          ValueDistributionSD = Value*0.5) %>%
-  dplyr::select(PrimaryStratumID=Name, DistributionTypeID, ExternalVariableTypeID, ExternalVariableMin, ExternalVariableMax, Value, DistributionTypeID, ValueDistributionFrequency, ValueDistributionSD)
+  dplyr::select(StratumID=Name, DistributionTypeID, ExternalVariableTypeID, ExternalVariableMin, ExternalVariableMax, Value, DistributionTypeID, ValueDistributionFrequency, ValueDistributionSD)
 write_csv(fire_low_zonal, "data/distributions/distribution-fire-low-severity.csv")
