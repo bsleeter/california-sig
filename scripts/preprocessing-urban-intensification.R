@@ -1,4 +1,21 @@
 
+
+# Header ------------------------------------------------------------------
+# Code to calculate urban intensification rates from the National Land Cover Database
+# Contact: Benjamin M. Sleeter, U.S. Geological Survey; bsleeter@usgs.gov
+
+# Script produces Historical Distributions of urban intensification and future projections based on SSP scenarios
+# NLCD data can be downloaded here: https://www.mrlc.gov/data
+# All model code can be found within GitHub Repository https://github.com/bsleeter/california-sig
+
+# Last Modified 2020-05-28
+
+
+
+# Setup -------------------------------------------------------------------
+
+
+
 library(raster)
 library(sf)
 library(tidyverse)
@@ -10,33 +27,13 @@ counties = raster("data/initial-conditions/ic-counties.tif")
 counties_df = read_csv("data/definitions/counties.csv") %>% dplyr::select(-Description)
 stateclass_df = read_csv("data/definitions/state-class-types.csv")
 
-# Read in NLCD maps
-nlcd01 = raster("I:/GIS-Raster/Land Cover/NLCD/2016/NLCD_Land_Cover_L48_2019424_full_zip/NLCD_2001_Land_Cover_L48_20190424.img")
-nlcd01 = projectRaster(nlcd01, counties, method = "ngb")
-nlcd01 = mask(nlcd01, counties)
-
-nlcd06 = raster("I:/GIS-Raster/Land Cover/NLCD/2016/NLCD_Land_Cover_L48_2019424_full_zip/NLCD_2006_Land_Cover_L48_20190424.img")
-nlcd06 = projectRaster(nlcd06, counties, method = "ngb")
-nlcd06 = mask(nlcd06, counties)
-
-nlcd11 = raster("I:/GIS-Raster/Land Cover/NLCD/2016/NLCD_Land_Cover_L48_2019424_full_zip/NLCD_2011_Land_Cover_L48_20190424.img")
-nlcd11 = projectRaster(nlcd11, counties, method = "ngb")
-nlcd11 = mask(nlcd11, counties)
-
-nlcd16 = raster("I:/GIS-Raster/Land Cover/NLCD/2016/NLCD_Land_Cover_L48_2019424_full_zip/NLCD_2016_Land_Cover_L48_20190424.img")
-nlcd16 = projectRaster(nlcd16, counties, method = "ngb")
-nlcd16 = mask(nlcd16, counties)
-
-nlcd = stack(nlcd01, nlcd06, nlcd11, nlcd16)
-
-v = tibble(
-  lc01 = values(nlcd01),
-  lc06 = values(nlcd06),
-  lc11 = values(nlcd11),
-  lc16 = values(nlcd16))
 
 
+# Read and project/mask NLCD data
+source("preprocessing-nlcd.R")
 
+# Read in SSP projections
+zonal_ssp = read_csv("docs/ssp/iclus-ssp-zonal-county-summary.csv")
 
 # Get a list of state class types for Development
 stateclass_dev = stateclass_df %>% filter(ID %in% c(21,22,23,24)) %>%
@@ -51,6 +48,12 @@ transtypes = tibble(FromStateClassID = c("Developed: Open Space", "Developed: Op
                     TransitionGroupID = c("Intensification: Open to Low [Type]", "Intensification: Open to Medium [Type]", "Intensification: Open to High [Type]", 
                                           "Intensification: Low to Medium [Type]","Intensification: Low to High [Type]",
                                           "Intensification: Medium to High [Type]"))
+
+dist_empty = tibble(Name = sort(rep(counties_df$Name,6)),
+                    TransitionGroupID = rep(transtypes$TransitionGroupID,58),
+                    Value=0)
+
+# Run parallel processing of NLCD by County -------------------------------
 
 cl = makeCluster(30)
 registerDoParallel(cl)
@@ -124,11 +127,46 @@ ggplot(df, aes(x=Name, y=mean, fill=interaction(FromStateClassID, ToStateClassID
   geom_bar(stat="identity") +
   coord_flip()
 
-# Make a copy of merged output
-intensification_hist_mean = df
 
-# Read in SSP projections
-zonal_ssp = read_csv("docs/ssp/iclus-ssp-zonal-county-summary.csv")
+
+
+# Create Historical Distributions -----------------------------------------
+
+# Make a copy of merged output
+intensification_hist_mean = df 
+
+# Create a dataframe which merges the processed output with the empty data so that each county and transition have a record
+intensification_hist_mean_all = intensification_hist_mean %>%
+  right_join(dist_empty, by=c("Name", "TransitionGroupID")) %>%
+  dplyr::select(-FromID, -ToID, -FromStateClassID, -ToStateClassID, -ID) %>%
+  mutate(Mean = if_else(is.na(mean), Value, mean),
+         Sd = if_else(is.na(sd), Value, sd),
+         Min = if_else(is.na(mean), Value, min),
+         Max = if_else(is.na(mean), Value, max))
+
+
+# Create Pasture to Cropland Historical Distributions datasheet
+dist_intensification_hist = tibble(SecondaryStratumID = intensification_hist_mean_all$Name,
+                            DistributionTypeID = intensification_hist_mean_all$TransitionGroupID,
+                            ExternalVariableTypeID = "Intensification",
+                            ExternalVariableMin = 2001,
+                            ExternalVariableMax = 2016,
+                            Value = intensification_hist_mean_all$Mean,
+                            ValueDistributionTypeID = "Normal",
+                            ValueDistributionFrequency = "Iteration and Timestep",
+                            ValueDistributionSD = intensification_hist_mean_all$Sd,
+                            ValueDistributionMin = intensification_hist_mean_all$Min,
+                            ValueDistributionMax = intensification_hist_mean_all$Max)
+dist_intensification_hist = dist_intensification_hist %>% arrange(SecondaryStratumID, ExternalVariableMin)
+write_csv(dist_intensification_hist, "data/distributions/distribution-intensification.csv")
+
+
+
+
+
+
+# Create SSP Projections --------------------------------------------------
+
 
 # Combine SSP projections with historical summaries
 # SSP2
@@ -141,6 +179,19 @@ intensification_ssp2 = zonal_ssp %>%
          MinMult = min*change_mult,
          MaxMult = max*change_mult)
 
+# Create Urbanization Historical Distributions datasheet
+intensification_targets_ssp2 = tibble(SecondaryStratumID = intensification_ssp2$County,
+                                      Timestep = if_else(intensification_ssp2$year==2020, 2017, intensification_ssp2$year-9),
+                                      TransitionGroupID = intensification_ssp2$TransitionGroupID,
+                                      Amount = intensification_ssp2$MeanMult, 
+                                      DistributionType = "Normal",
+                                      DistributionFrequencyID = "Iteration and Timestep",
+                                      DistributionSD = intensification_ssp2$SdMult,
+                                      DistributionMin = intensification_ssp2$MinMult,
+                                      DistributionMax = intensification_ssp2$MaxMult)
+write_csv(intensification_targets_ssp2, "data/transition-targets/transition-targets-intensification-ssp2.csv")
+
+
 # SSP5
 intensification_ssp5 = zonal_ssp %>%
   filter(scenario=="ssp5", year>=2020) %>%
@@ -150,22 +201,6 @@ intensification_ssp5 = zonal_ssp %>%
          SdMult = sd*change_mult,
          MinMult = min*change_mult,
          MaxMult = max*change_mult)
-
-
-
-
-# Create Urbanization Historical Distributions datasheet
-intensification_targets_ssp2 = tibble(SecondaryStratumID = intensification_ssp2$County,
-                                 Timestep = if_else(intensification_ssp2$year==2020, 2017, intensification_ssp2$year-9),
-                                 TransitionGroupID = intensification_ssp2$TransitionGroupID,
-                                 Amount = intensification_ssp2$MeanMult, 
-                                 DistributionType = "Normal",
-                                 DistributionFrequencyID = "Iteration and Timestep",
-                                 DistributionSD = intensification_ssp2$SdMult,
-                                 DistributionMin = intensification_ssp2$MinMult,
-                                 DistributionMax = intensification_ssp2$MaxMult)
-write_csv(intensification_targets_ssp2, "data/transition-targets/transition-targets-intensification-ssp2.csv")
-
 
 # Create Urbanization Historical Distributions datasheet
 intensification_targets_ssp5 = tibble(SecondaryStratumID = intensification_ssp5$County,
@@ -199,22 +234,3 @@ write_csv(intensification_targets_ssp5, "data/transition-targets/transition-targ
 
 
 
-lut="I:/GIS-Raster/Land Cover/NLCD/2016/NLCD_Land_Cover_L48_2019424_full_zip/lut_csv.csv"
-lut = read_csv(lut) %>% 
-  filter(Count>0) %>%
-  dplyr::select(Value, Class=NLCD_Land, Red, Green, Blue)
-
-
-nlcd01@legend@colortable = nlcd01@legend@colortable
-
-plot(nlcd01)
-# add legend
-add_legend = function(r, title=NULL, ref=nlcd01, lut="I:/GIS-Raster/Land Cover/NLCD/2016/NLCD_Land_Cover_L48_2019424_full_zip/lut_csv.csv"){
-  d = read_csv(lut) %>% 
-    filter(Count>0)
-  d$class = sprintf('%s - %d', d$NLCD_Land, d$Value)
-  d$colors = ref@legend@colortable[d$Value+1]
-  idx = d$Value %in% freq(r)[,'value']
-  legend(x='bottomleft', legend=d$class[idx] , fill=d$colors[idx], cex=0.7, bg='white', title=title)
-}
-add_legend(nlcd01, 'Landcover 2011')

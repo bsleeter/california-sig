@@ -1,4 +1,17 @@
 
+# Header ------------------------------------------------------------------
+# Code to calculate annual change rates between cropland and hay/pasture from National Land Cover Database
+# Contact: Benjamin M. Sleeter, U.S. Geological Survey; bsleeter@usgs.gov
+
+# Script produces Historical Distributions and Transition Targets based on SSP scenarios for use within the LUCAS model
+# All model code can be found within GitHub Repository https://github.com/bsleeter/california-sig
+# NLCD data can be downloaded here: https://www.mrlc.gov/data
+
+# Last Modified 2020-05-28
+
+
+
+# Setup -------------------------------------------------------------------
 
 library(raster)
 library(sf)
@@ -9,7 +22,24 @@ counties = raster("data/initial-conditions/ic-counties.tif")
 counties_df = read_csv("data/definitions/counties.csv") %>% dplyr::select(-Description)
 stateclass_df = read_csv("data/definitions/state-class-types.csv")
 
-# Read in NLCD maps
+# Get a list of state class types for Cropland and Pasture
+stateclass_haycrop = stateclass_df %>% filter(ID %in% c(81,82)) %>%
+  dplyr::select(Name, ID)
+
+# Create a list of County IDs
+countyIDList = unique(counties$ic.counties)
+
+# Create a transition type lookup table
+transtypes = tibble(FromStateClassID = c("Agriculture: Pasture", "Agriculture: Cropland"),
+                    ToStateClassID = c("Agriculture: Cropland", "Agriculture: Pasture"),
+                    TransitionGroupID = c("Ag Change: Pasture to Cropland [Type]", "Ag Change: Cropland to Pasture [Type]"))
+
+
+
+
+# Process NLCD Rasters ----------------------------------------------------
+
+# Read in NLCD maps, project and mask to California counties 
 nlcd01 = raster("I:/GIS-Raster/Land Cover/NLCD/2016/NLCD_Land_Cover_L48_2019424_full_zip/NLCD_2001_Land_Cover_L48_20190424.img")
 nlcd01 = projectRaster(nlcd01, counties, method = "ngb")
 nlcd01 = mask(nlcd01, counties)
@@ -26,27 +56,23 @@ nlcd16 = raster("I:/GIS-Raster/Land Cover/NLCD/2016/NLCD_Land_Cover_L48_2019424_
 nlcd16 = projectRaster(nlcd16, counties, method = "ngb")
 nlcd16 = mask(nlcd16, counties)
 
+# Create raster stack from all layers
 nlcd = stack(nlcd01, nlcd06, nlcd11, nlcd16)
 
-v = tibble(
-  lc01 = values(nlcd01),
-  lc06 = values(nlcd06),
-  lc11 = values(nlcd11),
-  lc16 = values(nlcd16))
+# Create table from each NLCD year
+v = tibble(lc01 = values(nlcd01),
+           lc06 = values(nlcd06),
+           lc11 = values(nlcd11),
+           lc16 = values(nlcd16))
 
 
-# Get a list of state class types for Cropland and Pasture
-stateclass_haycrop = stateclass_df %>% filter(ID %in% c(81,82)) %>%
-  dplyr::select(Name, ID)
 
-# Create a list of County IDs
-countyIDList = unique(counties$ic.counties)
 
-# Create a transition type lookup table
-transtypes = tibble(FromStateClassID = c("Agriculture: Pasture", "Agriculture: Cropland"),
-                    ToStateClassID = c("Agriculture: Cropland", "Agriculture: Pasture"),
-                    TransitionGroupID = c("Ag Change: Pasture to Cropland [Type]", "Ag Change: Cropland to Pasture [Type]"))
 
+
+# Summarize transitions for each county -----------------------------------
+
+# Start parallel cluster
 cl = makeCluster(30)
 registerDoParallel(cl)
 
@@ -108,18 +134,27 @@ df = foreach(i = countyIDList, .combine = "rbind", .packages = c("raster", "tidy
   
 }
 
-
+# Stop parallel cluster
 stopCluster(cl)
+
 
 # Barplot to check results
 ggplot(df, aes(x=Name, y=mean, fill=TransitionGroupID)) +
   geom_bar(stat="identity") +
   coord_flip()
 
+
+
+
+
+
+
+# Create historical distributions for Pasture to Cropland -----------------------------------------
+
 # Make a copy of merged output
 pastcrop_hist_mean = df %>% filter(FromStateClassID=="Agriculture: Pasture")
 
-# Create Urbanization Historical Distributions datasheet
+# Create Pasture to Cropland Historical Distributions datasheet
 dist_pastcrop_hist = tibble(SecondaryStratumID = pastcrop_hist_mean$Name,
                        DistributionTypeID = "Ag Change: Pasture to Cropland",
                        ExternalVariableTypeID = "Ag Change",
@@ -134,10 +169,15 @@ write_csv(dist_pastcrop_hist, "data/distributions/distribution-ag-change-pasture
 
 
 
+
+
+
+# Create historical distributions for Cropland to Pasture -----------------------------------------
+
 # Make a copy of merged output
 croppast_hist_mean = df %>% filter(FromStateClassID=="Agriculture: Cropland")
 
-# Create Urbanization Historical Distributions datasheet
+# Create Pasture to Cropland Historical Distributions datasheet
 dist_croppast_hist = tibble(SecondaryStratumID = croppast_hist_mean$Name,
                             DistributionTypeID = "Ag Change: Cropland to Pasture",
                             ExternalVariableTypeID = "Ag Change",

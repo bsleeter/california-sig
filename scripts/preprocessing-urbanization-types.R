@@ -1,4 +1,17 @@
 
+# Header ------------------------------------------------------------------
+# Code to calculate urban change rates for each type of developed class from the National Land Cover Database
+# Contact: Benjamin M. Sleeter, U.S. Geological Survey; bsleeter@usgs.gov
+
+# Script produces Historical Distributions of urban change types
+# NLCD data can be downloaded here: https://www.mrlc.gov/data
+# All model code can be found within GitHub Repository https://github.com/bsleeter/california-sig
+
+# Last Modified 2020-05-28
+
+
+
+# Setup -------------------------------------------------------------------
 
 
 library(raster)
@@ -7,8 +20,29 @@ library(tidyverse)
 
 # Read in California Counties raster
 counties = raster("data/initial-conditions/ic-counties.tif")
+
+# Read in Counties dataframe
 counties_df = read_csv("data/definitions/counties.csv") %>% dplyr::select(-Description)
+
+# Read in list of State Class Types
 stateclass_df = read_csv("data/definitions/state-class-types.csv")
+
+# Get a list of state class types for Developed
+stateclass_dev = stateclass_df %>% dplyr::select(Name, ID)
+
+# Create a list of County IDs
+countyIDList = unique(counties$ic.counties)
+
+# Create a transition type lookup table
+transtypes = tibble(ToStateClassID = c("Developed: Open Space", "Developed: Low Intensity", "Developed: Medium Intensity", "Developed: High Intensity"),
+                    TransitionGroupID = c("Urbanization: Open [Type]", "Urbanization: Low [Type]", "Urbanization: Medium [Type]", "Urbanization: High [Type]"))
+
+
+
+
+
+
+# Read in NLCD and project and mask to California -------------------------
 
 # Read in NLCD maps
 nlcd01 = raster("I:/GIS-Raster/Land Cover/NLCD/2016/NLCD_Land_Cover_L48_2019424_full_zip/NLCD_2001_Land_Cover_L48_20190424.img")
@@ -32,17 +66,12 @@ nlcd = stack(nlcd01, nlcd06, nlcd11, nlcd16)
 
 
 
-# Get a list of state class types for Cropland and Pasture
-stateclass_dev = stateclass_df %>% 
-  dplyr::select(Name, ID)
 
-# Create a list of County IDs
-countyIDList = unique(counties$ic.counties)
 
-# Create a transition type lookup table
-transtypes = tibble(ToStateClassID = c("Developed: Open Space", "Developed: Low Intensity", "Developed: Medium Intensity", "Developed: High Intensity"),
-                    TransitionGroupID = c("Urbanization: Open [Type]", "Urbanization: Low [Type]", "Urbanization: Medium [Type]", "Urbanization: High [Type]"))
 
+# Create contigency tables ------------------------------------------------
+
+# Create a table from the 4 raster layers
 v = tibble(
   lc01 = values(nlcd01),
   lc06 = values(nlcd06),
@@ -63,10 +92,17 @@ p3 = as.matrix(m3 / rowSums(m3))
 d3 = m3 %>% as_tibble() %>% dplyr::select(from=lc11, to=lc16, p3=n)
   
 # Merge into single data frame
-df = left_join(d1,d2) %>% left_join(d3)
-  
-# Final formatting of dataframe
-df1 = df %>% 
+merged_tables = left_join(d1,d2) %>% left_join(d3)
+
+
+
+
+
+
+# Create Dataframe of Developed Change Types --------------------------------------------------
+
+# Formatting of dataframe
+urban_change_type = merged_tables %>% 
   filter(!from %in% c(21,22,23,24), to %in% c(21,22,23,24)) %>% 
   pivot_longer(cols = c(-from, -to), names_to = "period", values_to = "area") %>%
   group_by(to) %>%
@@ -79,10 +115,8 @@ df1 = df %>%
   left_join(transtypes)
 
 
-
-
 # Barplot to check results
-ggplot(df1, aes(x=TransitionGroupID, y=pct)) +
+ggplot(urban_change_type, aes(x=TransitionGroupID, y=pct)) +
   geom_bar(stat="identity") +
   coord_flip()
 
