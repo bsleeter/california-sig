@@ -1,0 +1,3 @@
+# Syncrosim Generated Transition Group (Ag Contraction: Pasture to Forest: Oak/Gum/Cypress Group [Type]) Color Map (QGIS-compatible) Export File,,,,,
+INTERPOLATION:EXACT
+114,255,165,0,255,Ag Contraction: Pasture to Forest: Oak/Gum/Cypress Group

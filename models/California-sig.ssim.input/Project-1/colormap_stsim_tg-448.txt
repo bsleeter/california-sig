@@ -1,0 +1,3 @@
+# Syncrosim Generated Transition Group (Ag Contraction: Cropland to Forest: Spruce/Fir Group [Type]) Color Map (QGIS-compatible) Export File,,,,,
+INTERPOLATION:EXACT
+222,0,255,255,255,Ag Contraction: Cropland to Forest: Spruce/Fir Group

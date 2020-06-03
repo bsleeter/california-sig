@@ -1,0 +1,3 @@
+# Syncrosim Generated Transition Group (Ag Expansion: Orchard [Type]) Color Map (QGIS-compatible) Export File,,,,,
+INTERPOLATION:EXACT
+53,0,128,0,255,Ag Expansion: Orchard

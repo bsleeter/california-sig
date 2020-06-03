@@ -1,0 +1,51 @@
+# Syncrosim Generated Transition Group (Ag Contraction: Cropland) Color Map (QGIS-compatible) Export File,,,,,
+INTERPOLATION:EXACT
+201,0,128,0,255,Ag Contraction: Cropland to Forest: Alder/Maple Group
+202,128,0,128,255,Ag Contraction: Cropland to Forest: Aspen/Birch Group
+203,255,255,0,255,Ag Contraction: Cropland to Forest: California Mixed Conifer Group
+204,128,128,128,255,Ag Contraction: Cropland to Forest: Douglas-fir Group
+205,0,255,255,255,Ag Contraction: Cropland to Forest: Elm/Ash/Cottonwood Group
+206,0,0,255,255,Ag Contraction: Cropland to Forest: Exotic Hardwoods Group
+207,255,165,0,255,Ag Contraction: Cropland to Forest: Exotic Softwoods Group
+208,0,255,255,255,Ag Contraction: Cropland to Forest: Fir/Spruce/Mountain Hemlock Group
+209,255,0,0,255,Ag Contraction: Cropland to Forest: Hemlock/Sitka Spruce Group
+210,165,42,42,255,Ag Contraction: Cropland to Forest: Loblolly/Shortleaf Pine Group
+211,0,128,128,255,Ag Contraction: Cropland to Forest: Lodgepole Pine Group
+212,0,0,255,255,Ag Contraction: Cropland to Forest: Longleaf/Slash Pine Group
+213,128,128,128,255,Ag Contraction: Cropland to Forest: Maple/Beech/Birch Group
+214,255,255,0,255,Ag Contraction: Cropland to Forest: Oak/Gum/Cypress Group
+215,0,128,0,255,Ag Contraction: Cropland to Forest: Oak/Hickory Group
+216,128,0,128,255,Ag Contraction: Cropland to Forest: Oak/Pine Group
+217,0,128,0,255,Ag Contraction: Cropland to Forest: Other Western Hardwoods Group
+218,255,165,0,255,Ag Contraction: Cropland to Forest: Other Western Softwood Group
+219,255,0,0,255,Ag Contraction: Cropland to Forest: Pinyon/Juniper Group
+220,165,42,42,255,Ag Contraction: Cropland to Forest: Ponderosa Pine Group
+221,128,0,128,255,Ag Contraction: Cropland to Forest: Redwood Group
+222,0,255,255,255,Ag Contraction: Cropland to Forest: Spruce/Fir Group
+223,255,255,0,255,Ag Contraction: Cropland to Forest: Tanoak/Laurel Group
+224,128,128,128,255,Ag Contraction: Cropland to Forest: Tropical Hardwoods Group
+225,0,128,128,255,Ag Contraction: Cropland to Forest: Western Larch Group
+226,0,0,255,255,Ag Contraction: Cropland to Forest: Western Oak Group
+227,0,128,0,255,Ag Contraction: Cropland to Forest: Western White Pine Group
+228,0,128,128,255,Ag Contraction: Cropland to Forest: White/Red/Jack Pine Group
+229,255,255,0,255,Ag Contraction: Cropland to Grassland: All
+230,255,165,0,255,Ag Contraction: Cropland to Grassland: Post Fire Grass
+231,0,0,255,255,Ag Contraction: Cropland to Shrubland: Big Sagebrush
+232,165,42,42,255,Ag Contraction: Cropland to Shrubland: Blackbrush
+233,0,255,255,255,Ag Contraction: Cropland to Shrubland: Chaparral
+234,255,0,0,255,Ag Contraction: Cropland to Shrubland: Creosotebush
+235,128,0,128,255,Ag Contraction: Cropland to Shrubland: Deciduous Shrub
+236,128,128,128,255,Ag Contraction: Cropland to Shrubland: Desert Scrub
+237,0,255,255,255,Ag Contraction: Cropland to Shrubland: Grassland and Steppe
+238,128,128,128,255,Ag Contraction: Cropland to Shrubland: Greasewood
+239,0,128,128,255,Ag Contraction: Cropland to Shrubland: Low Sagebrush
+240,128,0,128,255,Ag Contraction: Cropland to Shrubland: Mesquite
+241,0,0,255,255,Ag Contraction: Cropland to Shrubland: Pacific Coastal Shrub
+242,165,42,42,255,Ag Contraction: Cropland to Shrubland: Pinyon Juniper Shrubland
+243,255,0,0,255,Ag Contraction: Cropland to Shrubland: Pocosin
+244,0,128,0,255,Ag Contraction: Cropland to Shrubland: Post Fire Shrub
+245,255,255,0,255,Ag Contraction: Cropland to Shrubland: Salt Desert Scrub
+246,255,165,0,255,Ag Contraction: Cropland to Shrubland: Sand Shrubland
+247,0,128,0,255,Ag Contraction: Cropland to Shrubland: Succulent
+248,255,255,0,255,Ag Contraction: Cropland to Wetland: Herbaceous
+249,0,128,128,255,Ag Contraction: Cropland to Wetland: Woody

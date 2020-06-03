@@ -157,7 +157,11 @@ dist_intensification_hist = tibble(SecondaryStratumID = intensification_hist_mea
                             ValueDistributionSD = intensification_hist_mean_all$Sd,
                             ValueDistributionMin = intensification_hist_mean_all$Min,
                             ValueDistributionMax = intensification_hist_mean_all$Max)
-dist_intensification_hist = dist_intensification_hist %>% arrange(SecondaryStratumID, ExternalVariableMin)
+dist_intensification_hist = dist_intensification_hist %>% arrange(SecondaryStratumID, ExternalVariableMin) %>%
+  mutate(Value = if_else(is.na(Value), 0, Value)) %>%
+  mutate(ValueDistributionTypeID = ifelse(Value==0, NA, "Normal")) %>%
+  mutate(ValueDistributionSD = ifelse(Value==0, NA, ValueDistributionSD)) %>%
+  mutate(ValueDistributionSD = ifelse(ValueDistributionSD==0, 1, ValueDistributionSD))
 write_csv(dist_intensification_hist, "data/distributions/distribution-intensification.csv")
 
 
@@ -182,7 +186,7 @@ intensification_ssp2 = zonal_ssp %>%
 # Create Urbanization Historical Distributions datasheet
 intensification_targets_ssp2 = tibble(SecondaryStratumID = intensification_ssp2$County,
                                       Timestep = if_else(intensification_ssp2$year==2020, 2017, intensification_ssp2$year-9),
-                                      TransitionGroupID = intensification_ssp2$TransitionGroupID,
+                                      TransitionGroupID = paste0(intensification_ssp2$TransitionGroupID, " [Type]"),
                                       Amount = intensification_ssp2$MeanMult, 
                                       DistributionType = "Normal",
                                       DistributionFrequencyID = "Iteration and Timestep",
@@ -205,7 +209,7 @@ intensification_ssp5 = zonal_ssp %>%
 # Create Urbanization Historical Distributions datasheet
 intensification_targets_ssp5 = tibble(SecondaryStratumID = intensification_ssp5$County,
                                  Timestep = if_else(intensification_ssp5$year==2020, 2017, intensification_ssp5$year-9),
-                                 TransitionGroupID = intensification_ssp5$TransitionGroupID,
+                                 TransitionGroupID = paste0(intensification_ssp5$TransitionGroupID, " [Type]"),
                                  Amount = intensification_ssp5$MeanMult, 
                                  DistributionType = "Normal",
                                  DistributionFrequencyID = "Iteration and Timestep",

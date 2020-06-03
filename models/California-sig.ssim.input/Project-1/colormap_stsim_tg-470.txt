@@ -1,0 +1,3 @@
+# Syncrosim Generated Transition Group (Ag Contraction: Cropland to Shrubland: Post Fire Shrub [Type]) Color Map (QGIS-compatible) Export File,,,,,
+INTERPOLATION:EXACT
+244,0,128,0,255,Ag Contraction: Cropland to Shrubland: Post Fire Shrub

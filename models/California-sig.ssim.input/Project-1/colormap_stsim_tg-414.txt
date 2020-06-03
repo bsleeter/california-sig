@@ -1,0 +1,3 @@
+# Syncrosim Generated Transition Group (Ag Contraction: Pasture to Shrubland: Grassland and Steppe [Type]) Color Map (QGIS-compatible) Export File,,,,,
+INTERPOLATION:EXACT
+137,0,128,0,255,Ag Contraction: Pasture to Shrubland: Grassland and Steppe

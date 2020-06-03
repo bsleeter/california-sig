@@ -1,562 +1,573 @@
 SecondaryStratumID,DistributionTypeID,ExternalVariableTypeID,ExternalVariableMin,ExternalVariableMax,Value,ValueDistributionTypeID,ValueDistributionFrequency,ValueDistributionSD
-Alameda,Ag Contraction: Cropland,Ag Change,1993,1994,21.043672,Normal,Iteration and Timestep,10.521836
-Alameda,Ag Contraction: Cropland,Ag Change,1995,1996,63.738045,Normal,Iteration and Timestep,31.8690225
-Alameda,Ag Contraction: Cropland,Ag Change,1997,1998,25.697561,Normal,Iteration and Timestep,12.8487805
-Alameda,Ag Contraction: Cropland,Ag Change,1999,2000,169.36109100000002,Normal,Iteration and Timestep,84.68054550000001
-Alameda,Ag Contraction: Cropland,Ag Change,2001,2002,158.43456899999998,Normal,Iteration and Timestep,79.21728449999999
-Alameda,Ag Contraction: Cropland,Ag Change,2003,2004,181.501671,Normal,Iteration and Timestep,90.7508355
-Alameda,Ag Contraction: Cropland,Ag Change,2005,2006,161.8744,Normal,Iteration and Timestep,80.9372
-Alameda,Ag Contraction: Cropland,Ag Change,2007,2008,214.28123699999998,Normal,Iteration and Timestep,107.14061849999999
-Alameda,Ag Contraction: Cropland,Ag Change,2009,2010,49.978721,Normal,Iteration and Timestep,24.9893605
-Alameda,Ag Contraction: Cropland,Ag Change,2011,2012,79.318456,Normal,Iteration and Timestep,39.659228
-Alameda,Ag Contraction: Cropland,Ag Change,2013,2014,127.27374699999999,Normal,Iteration and Timestep,63.63687349999999
-Alameda,Ag Contraction: Cropland,Ag Change,2015,2016,56.65604,Normal,Iteration and Timestep,28.32802
-Amador,Ag Contraction: Cropland,Ag Change,1993,1994,27.720990999999998,Normal,Iteration and Timestep,13.860495499999999
-Amador,Ag Contraction: Cropland,Ag Change,1995,1996,5.867947,Normal,Iteration and Timestep,2.9339735
-Amador,Ag Contraction: Cropland,Ag Change,1997,1998,176.847782,Normal,Iteration and Timestep,88.423891
-Amador,Ag Contraction: Cropland,Ag Change,1999,2000,55.441982,Normal,Iteration and Timestep,27.720991
-Amador,Ag Contraction: Cropland,Ag Change,2001,2002,174.419666,Normal,Iteration and Timestep,87.209833
-Amador,Ag Contraction: Cropland,Ag Change,2003,2004,214.078894,Normal,Iteration and Timestep,107.039447
-Amador,Ag Contraction: Cropland,Ag Change,2005,2006,171.586864,Normal,Iteration and Timestep,85.793432
-Amador,Ag Contraction: Cropland,Ag Change,2007,2008,36.017054,Normal,Iteration and Timestep,18.008527
-Amador,Ag Contraction: Cropland,Ag Change,2009,2010,148.317419,Normal,Iteration and Timestep,74.1587095
-Amador,Ag Contraction: Cropland,Ag Change,2011,2012,24.685845999999998,Normal,Iteration and Timestep,12.342922999999999
-Amador,Ag Contraction: Cropland,Ag Change,2013,2014,46.134204,Normal,Iteration and Timestep,23.067102
-Amador,Ag Contraction: Cropland,Ag Change,2015,2016,54.025580999999995,Normal,Iteration and Timestep,27.012790499999998
-Butte,Ag Contraction: Cropland,Ag Change,1993,1994,NA,Normal,Iteration and Timestep,NA
-Butte,Ag Contraction: Cropland,Ag Change,1995,1996,NA,Normal,Iteration and Timestep,NA
-Butte,Ag Contraction: Cropland,Ag Change,1997,1998,NA,Normal,Iteration and Timestep,NA
-Butte,Ag Contraction: Cropland,Ag Change,1999,2000,6479.02286,Normal,Iteration and Timestep,3239.51143
-Butte,Ag Contraction: Cropland,Ag Change,2001,2002,4615.848516,Normal,Iteration and Timestep,2307.924258
-Butte,Ag Contraction: Cropland,Ag Change,2003,2004,NA,Normal,Iteration and Timestep,NA
-Butte,Ag Contraction: Cropland,Ag Change,2005,2006,706.17707,Normal,Iteration and Timestep,353.088535
-Butte,Ag Contraction: Cropland,Ag Change,2007,2008,548.7542159999999,Normal,Iteration and Timestep,274.37710799999996
-Butte,Ag Contraction: Cropland,Ag Change,2009,2010,801.682966,Normal,Iteration and Timestep,400.841483
-Butte,Ag Contraction: Cropland,Ag Change,2011,2012,302.502785,Normal,Iteration and Timestep,151.2513925
-Butte,Ag Contraction: Cropland,Ag Change,2013,2014,382.225927,Normal,Iteration and Timestep,191.1129635
-Butte,Ag Contraction: Cropland,Ag Change,2015,2016,243.620972,Normal,Iteration and Timestep,121.810486
-Colusa,Ag Contraction: Cropland,Ag Change,1993,1994,NA,Normal,Iteration and Timestep,NA
-Colusa,Ag Contraction: Cropland,Ag Change,1995,1996,NA,Normal,Iteration and Timestep,NA
-Colusa,Ag Contraction: Cropland,Ag Change,1997,1998,NA,Normal,Iteration and Timestep,NA
-Colusa,Ag Contraction: Cropland,Ag Change,1999,2000,893.344345,Normal,Iteration and Timestep,446.6721725
-Colusa,Ag Contraction: Cropland,Ag Change,2001,2002,101.1715,Normal,Iteration and Timestep,50.58575
-Colusa,Ag Contraction: Cropland,Ag Change,2003,2004,595.900135,Normal,Iteration and Timestep,297.9500675
-Colusa,Ag Contraction: Cropland,Ag Change,2005,2006,557.859651,Normal,Iteration and Timestep,278.9298255
-Colusa,Ag Contraction: Cropland,Ag Change,2007,2008,596.1024779999999,Normal,Iteration and Timestep,298.05123899999995
-Colusa,Ag Contraction: Cropland,Ag Change,2009,2010,292.587978,Normal,Iteration and Timestep,146.293989
-Colusa,Ag Contraction: Cropland,Ag Change,2011,2012,25.697561,Normal,Iteration and Timestep,12.8487805
-Colusa,Ag Contraction: Cropland,Ag Change,2013,2014,2266.2416,Normal,Iteration and Timestep,1133.1208
-Colusa,Ag Contraction: Cropland,Ag Change,2015,2016,478.945881,Normal,Iteration and Timestep,239.4729405
-Contra Costa,Ag Contraction: Cropland,Ag Change,1993,1994,59.286499,Normal,Iteration and Timestep,29.6432495
-Contra Costa,Ag Contraction: Cropland,Ag Change,1995,1996,54.834953,Normal,Iteration and Timestep,27.4174765
-Contra Costa,Ag Contraction: Cropland,Ag Change,1997,1998,47.752947999999996,Normal,Iteration and Timestep,23.876473999999998
-Contra Costa,Ag Contraction: Cropland,Ag Change,1999,2000,43.706088,Normal,Iteration and Timestep,21.853044
-Contra Costa,Ag Contraction: Cropland,Ag Change,2001,2002,260.213098,Normal,Iteration and Timestep,130.106549
-Contra Costa,Ag Contraction: Cropland,Ag Change,2003,2004,394.97353599999997,Normal,Iteration and Timestep,197.48676799999998
-Contra Costa,Ag Contraction: Cropland,Ag Change,2005,2006,377.774381,Normal,Iteration and Timestep,188.8871905
-Contra Costa,Ag Contraction: Cropland,Ag Change,2007,2008,350.458076,Normal,Iteration and Timestep,175.229038
-Contra Costa,Ag Contraction: Cropland,Ag Change,2009,2010,146.901018,Normal,Iteration and Timestep,73.450509
-Contra Costa,Ag Contraction: Cropland,Ag Change,2011,2012,260.010755,Normal,Iteration and Timestep,130.0053775
-Contra Costa,Ag Contraction: Cropland,Ag Change,2013,2014,42.49203,Normal,Iteration and Timestep,21.246015
-Contra Costa,Ag Contraction: Cropland,Ag Change,2015,2016,263.248243,Normal,Iteration and Timestep,131.6241215
-El Dorado,Ag Contraction: Cropland,Ag Change,1993,1994,4.451546,Normal,Iteration and Timestep,2.225773
-El Dorado,Ag Contraction: Cropland,Ag Change,1995,1996,15.985097,Normal,Iteration and Timestep,7.9925485
-El Dorado,Ag Contraction: Cropland,Ag Change,1997,1998,17.603841000000003,Normal,Iteration and Timestep,8.801920500000001
-El Dorado,Ag Contraction: Cropland,Ag Change,1999,2000,6.474976,Normal,Iteration and Timestep,3.237488
-El Dorado,Ag Contraction: Cropland,Ag Change,2001,2002,228.040561,Normal,Iteration and Timestep,114.0202805
-El Dorado,Ag Contraction: Cropland,Ag Change,2003,2004,232.69445,Normal,Iteration and Timestep,116.347225
-El Dorado,Ag Contraction: Cropland,Ag Change,2005,2006,193.439908,Normal,Iteration and Timestep,96.719954
-El Dorado,Ag Contraction: Cropland,Ag Change,2007,2008,165.516574,Normal,Iteration and Timestep,82.758287
-El Dorado,Ag Contraction: Cropland,Ag Change,2009,2010,179.478241,Normal,Iteration and Timestep,89.7391205
-El Dorado,Ag Contraction: Cropland,Ag Change,2011,2012,27.316305,Normal,Iteration and Timestep,13.6581525
-El Dorado,Ag Contraction: Cropland,Ag Change,2013,2014,25.495217999999998,Normal,Iteration and Timestep,12.747608999999999
-El Dorado,Ag Contraction: Cropland,Ag Change,2015,2016,47.955291,Normal,Iteration and Timestep,23.9776455
-Fresno,Ag Contraction: Cropland,Ag Change,1993,1994,101.373843,Normal,Iteration and Timestep,50.6869215
-Fresno,Ag Contraction: Cropland,Ag Change,1995,1996,164.707202,Normal,Iteration and Timestep,82.353601
-Fresno,Ag Contraction: Cropland,Ag Change,1997,1998,1476.092185,Normal,Iteration and Timestep,738.0460925
-Fresno,Ag Contraction: Cropland,Ag Change,1999,2000,94.089495,Normal,Iteration and Timestep,47.0447475
-Fresno,Ag Contraction: Cropland,Ag Change,2001,2002,291.980949,Normal,Iteration and Timestep,145.9904745
-Fresno,Ag Contraction: Cropland,Ag Change,2003,2004,1038.424276,Normal,Iteration and Timestep,519.212138
-Fresno,Ag Contraction: Cropland,Ag Change,2005,2006,1007.2634539999999,Normal,Iteration and Timestep,503.63172699999996
-Fresno,Ag Contraction: Cropland,Ag Change,2007,2008,946.762897,Normal,Iteration and Timestep,473.3814485
-Fresno,Ag Contraction: Cropland,Ag Change,2009,2010,1019.404034,Normal,Iteration and Timestep,509.702017
-Fresno,Ag Contraction: Cropland,Ag Change,2011,2012,293.599693,Normal,Iteration and Timestep,146.7998465
-Fresno,Ag Contraction: Cropland,Ag Change,2013,2014,250.29829099999998,Normal,Iteration and Timestep,125.14914549999999
-Fresno,Ag Contraction: Cropland,Ag Change,2015,2016,1103.174036,Normal,Iteration and Timestep,551.587018
-Glenn,Ag Contraction: Cropland,Ag Change,1993,1994,36.219397,Normal,Iteration and Timestep,18.1096985
-Glenn,Ag Contraction: Cropland,Ag Change,1995,1996,145.079931,Normal,Iteration and Timestep,72.5399655
-Glenn,Ag Contraction: Cropland,Ag Change,1997,1998,243.216286,Normal,Iteration and Timestep,121.608143
-Glenn,Ag Contraction: Cropland,Ag Change,1999,2000,143.865873,Normal,Iteration and Timestep,71.9329365
-Glenn,Ag Contraction: Cropland,Ag Change,2001,2002,853.280431,Normal,Iteration and Timestep,426.6402155
-Glenn,Ag Contraction: Cropland,Ag Change,2003,2004,231.075706,Normal,Iteration and Timestep,115.537853
-Glenn,Ag Contraction: Cropland,Ag Change,2005,2006,335.687037,Normal,Iteration and Timestep,167.8435185
-Glenn,Ag Contraction: Cropland,Ag Change,2007,2008,203.15237199999999,Normal,Iteration and Timestep,101.57618599999999
-Glenn,Ag Contraction: Cropland,Ag Change,2009,2010,455.069407,Normal,Iteration and Timestep,227.5347035
-Glenn,Ag Contraction: Cropland,Ag Change,2011,2012,154.792395,Normal,Iteration and Timestep,77.3961975
-Glenn,Ag Contraction: Cropland,Ag Change,2013,2014,340.947955,Normal,Iteration and Timestep,170.4739775
-Glenn,Ag Contraction: Cropland,Ag Change,2015,2016,152.566622,Normal,Iteration and Timestep,76.283311
-Imperial,Ag Contraction: Cropland,Ag Change,1993,1994,74.664567,Normal,Iteration and Timestep,37.3322835
-Imperial,Ag Contraction: Cropland,Ag Change,1995,1996,70.82005,Normal,Iteration and Timestep,35.410025
-Imperial,Ag Contraction: Cropland,Ag Change,1997,1998,175.229038,Normal,Iteration and Timestep,87.614519
-Imperial,Ag Contraction: Cropland,Ag Change,1999,2000,149.126791,Normal,Iteration and Timestep,74.5633955
-Imperial,Ag Contraction: Cropland,Ag Change,2001,2002,343.578414,Normal,Iteration and Timestep,171.789207
-Imperial,Ag Contraction: Cropland,Ag Change,2003,2004,1505.836606,Normal,Iteration and Timestep,752.918303
-Imperial,Ag Contraction: Cropland,Ag Change,2005,2006,426.539044,Normal,Iteration and Timestep,213.269522
-Imperial,Ag Contraction: Cropland,Ag Change,2007,2008,415.00549299999994,Normal,Iteration and Timestep,207.50274649999997
-Imperial,Ag Contraction: Cropland,Ag Change,2009,2010,233.099136,Normal,Iteration and Timestep,116.549568
-Imperial,Ag Contraction: Cropland,Ag Change,2011,2012,191.82116399999998,Normal,Iteration and Timestep,95.91058199999999
-Imperial,Ag Contraction: Cropland,Ag Change,2013,2014,206.996889,Normal,Iteration and Timestep,103.4984445
-Imperial,Ag Contraction: Cropland,Ag Change,2015,2016,69.808335,Normal,Iteration and Timestep,34.9041675
-Kern,Ag Contraction: Cropland,Ag Change,1993,1994,2848.9894400000003,Normal,Iteration and Timestep,1424.4947200000001
-Kern,Ag Contraction: Cropland,Ag Change,1995,1996,4464.698295,Normal,Iteration and Timestep,2232.3491475
-Kern,Ag Contraction: Cropland,Ag Change,1997,1998,2212.216019,Normal,Iteration and Timestep,1106.1080095
-Kern,Ag Contraction: Cropland,Ag Change,1999,2000,3617.2858109999997,Normal,Iteration and Timestep,1808.6429054999999
-Kern,Ag Contraction: Cropland,Ag Change,2001,2002,1447.7641649999998,Normal,Iteration and Timestep,723.8820824999999
-Kern,Ag Contraction: Cropland,Ag Change,2003,2004,2276.561093,Normal,Iteration and Timestep,1138.2805465
-Kern,Ag Contraction: Cropland,Ag Change,2005,2006,1818.8612269999999,Normal,Iteration and Timestep,909.4306134999999
-Kern,Ag Contraction: Cropland,Ag Change,2007,2008,6265.9556809999995,Normal,Iteration and Timestep,3132.9778404999997
-Kern,Ag Contraction: Cropland,Ag Change,2009,2010,5474.592208,Normal,Iteration and Timestep,2737.296104
-Kern,Ag Contraction: Cropland,Ag Change,2011,2012,4140.949495,Normal,Iteration and Timestep,2070.4747475
-Kern,Ag Contraction: Cropland,Ag Change,2013,2014,4515.284044999999,Normal,Iteration and Timestep,2257.6420224999997
-Kern,Ag Contraction: Cropland,Ag Change,2015,2016,1759.979414,Normal,Iteration and Timestep,879.989707
-Kern,Ag Contraction: Cropland,Ag Change,2017,2018,2348.999887,Normal,Iteration and Timestep,1174.4999435
-Kings,Ag Contraction: Cropland,Ag Change,1993,1994,487.848973,Normal,Iteration and Timestep,243.9244865
-Kings,Ag Contraction: Cropland,Ag Change,1995,1996,2498.733707,Normal,Iteration and Timestep,1249.3668535
-Kings,Ag Contraction: Cropland,Ag Change,1997,1998,2042.450242,Normal,Iteration and Timestep,1021.225121
-Kings,Ag Contraction: Cropland,Ag Change,1999,2000,272.353678,Normal,Iteration and Timestep,136.176839
-Kings,Ag Contraction: Cropland,Ag Change,2001,2002,261.629499,Normal,Iteration and Timestep,130.8147495
-Kings,Ag Contraction: Cropland,Ag Change,2003,2004,780.841637,Normal,Iteration and Timestep,390.4208185
-Kings,Ag Contraction: Cropland,Ag Change,2005,2006,2613.462188,Normal,Iteration and Timestep,1306.731094
-Kings,Ag Contraction: Cropland,Ag Change,2007,2008,4658.542888999999,Normal,Iteration and Timestep,2329.2714444999997
-Kings,Ag Contraction: Cropland,Ag Change,2009,2010,3893.07932,Normal,Iteration and Timestep,1946.53966
-Kings,Ag Contraction: Cropland,Ag Change,2011,2012,5429.267376,Normal,Iteration and Timestep,2714.633688
-Kings,Ag Contraction: Cropland,Ag Change,2013,2014,4304.442639,Normal,Iteration and Timestep,2152.2213195
-Kings,Ag Contraction: Cropland,Ag Change,2015,2016,6067.659541,Normal,Iteration and Timestep,3033.8297705
-Lake,Ag Contraction: Cropland,Ag Change,1997,1998,318.083196,Normal,Iteration and Timestep,159.041598
-Lake,Ag Contraction: Cropland,Ag Change,1999,2000,24.28116,Normal,Iteration and Timestep,12.14058
-Lake,Ag Contraction: Cropland,Ag Change,2001,2002,266.485731,Normal,Iteration and Timestep,133.2428655
-Lake,Ag Contraction: Cropland,Ag Change,2003,2004,29.744421,Normal,Iteration and Timestep,14.8722105
-Lake,Ag Contraction: Cropland,Ag Change,2005,2006,260.820127,Normal,Iteration and Timestep,130.4100635
-Lake,Ag Contraction: Cropland,Ag Change,2007,2008,211.853121,Normal,Iteration and Timestep,105.9265605
-Lake,Ag Contraction: Cropland,Ag Change,2009,2010,341.150298,Normal,Iteration and Timestep,170.575149
-Lake,Ag Contraction: Cropland,Ag Change,2011,2012,57.263068999999994,Normal,Iteration and Timestep,28.631534499999997
-Lake,Ag Contraction: Cropland,Ag Change,2013,2014,51.799808,Normal,Iteration and Timestep,25.899904
-Lake,Ag Contraction: Cropland,Ag Change,2015,2016,111.28864999999999,Normal,Iteration and Timestep,55.644324999999995
-Los Angeles,Ag Contraction: Cropland,Ag Change,1993,1994,115.942539,Normal,Iteration and Timestep,57.9712695
-Los Angeles,Ag Contraction: Cropland,Ag Change,1995,1996,146.69867499999998,Normal,Iteration and Timestep,73.34933749999999
-Los Angeles,Ag Contraction: Cropland,Ag Change,1997,1998,454.057692,Normal,Iteration and Timestep,227.028846
-Los Angeles,Ag Contraction: Cropland,Ag Change,1999,2000,322.13005599999997,Normal,Iteration and Timestep,161.06502799999998
-Los Angeles,Ag Contraction: Cropland,Ag Change,2001,2002,965.3784529999999,Normal,Iteration and Timestep,482.68922649999996
-Los Angeles,Ag Contraction: Cropland,Ag Change,2003,2004,297.03952400000003,Normal,Iteration and Timestep,148.51976200000001
-Los Angeles,Ag Contraction: Cropland,Ag Change,2005,2006,497.966123,Normal,Iteration and Timestep,248.9830615
-Los Angeles,Ag Contraction: Cropland,Ag Change,2007,2008,846.603112,Normal,Iteration and Timestep,423.301556
-Los Angeles,Ag Contraction: Cropland,Ag Change,2009,2010,625.644556,Normal,Iteration and Timestep,312.822278
-Los Angeles,Ag Contraction: Cropland,Ag Change,2011,2012,1011.310314,Normal,Iteration and Timestep,505.655157
-Los Angeles,Ag Contraction: Cropland,Ag Change,2013,2014,655.3889770000001,Normal,Iteration and Timestep,327.69448850000003
-Los Angeles,Ag Contraction: Cropland,Ag Change,2015,2016,738.956636,Normal,Iteration and Timestep,369.478318
-Madera,Ag Contraction: Cropland,Ag Change,1993,1994,469.43576,Normal,Iteration and Timestep,234.71788
-Madera,Ag Contraction: Cropland,Ag Change,1995,1996,378.786096,Normal,Iteration and Timestep,189.393048
-Madera,Ag Contraction: Cropland,Ag Change,1997,1998,1349.020781,Normal,Iteration and Timestep,674.5103905
-Madera,Ag Contraction: Cropland,Ag Change,1999,2000,884.6435959999999,Normal,Iteration and Timestep,442.32179799999994
-Madera,Ag Contraction: Cropland,Ag Change,2001,2002,1214.058,Normal,Iteration and Timestep,607.029
-Madera,Ag Contraction: Cropland,Ag Change,2003,2004,887.274055,Normal,Iteration and Timestep,443.6370275
-Madera,Ag Contraction: Cropland,Ag Change,2005,2006,783.269753,Normal,Iteration and Timestep,391.6348765
-Madera,Ag Contraction: Cropland,Ag Change,2007,2008,838.307049,Normal,Iteration and Timestep,419.1535245
-Madera,Ag Contraction: Cropland,Ag Change,2009,2010,998.360362,Normal,Iteration and Timestep,499.180181
-Madera,Ag Contraction: Cropland,Ag Change,2011,2012,929.361399,Normal,Iteration and Timestep,464.6806995
-Madera,Ag Contraction: Cropland,Ag Change,2013,2014,395.78290799999996,Normal,Iteration and Timestep,197.89145399999998
-Madera,Ag Contraction: Cropland,Ag Change,2015,2016,459.116267,Normal,Iteration and Timestep,229.5581335
-Marin,Ag Contraction: Cropland,Ag Change,1993,1994,4.04686,Normal,Iteration and Timestep,2.02343
-Marin,Ag Contraction: Cropland,Ag Change,1995,1996,0.809372,Normal,Iteration and Timestep,0.404686
-Marin,Ag Contraction: Cropland,Ag Change,1997,1998,159.85097,Normal,Iteration and Timestep,79.925485
-Marin,Ag Contraction: Cropland,Ag Change,1999,2000,44.313117,Normal,Iteration and Timestep,22.1565585
-Marin,Ag Contraction: Cropland,Ag Change,2001,2002,156.411139,Normal,Iteration and Timestep,78.2055695
-Marin,Ag Contraction: Cropland,Ag Change,2003,2004,126.26203199999999,Normal,Iteration and Timestep,63.131015999999995
-Marin,Ag Contraction: Cropland,Ag Change,2005,2006,60.298213999999994,Normal,Iteration and Timestep,30.149106999999997
-Marin,Ag Contraction: Cropland,Ag Change,2007,2008,93.07777999999999,Normal,Iteration and Timestep,46.538889999999995
-Marin,Ag Contraction: Cropland,Ag Change,2009,2010,541.0651819999999,Normal,Iteration and Timestep,270.53259099999997
-Marin,Ag Contraction: Cropland,Ag Change,2011,2012,18.817899,Normal,Iteration and Timestep,9.4089495
-Marin,Ag Contraction: Cropland,Ag Change,2013,2014,42.694373,Normal,Iteration and Timestep,21.3471865
-Marin,Ag Contraction: Cropland,Ag Change,2015,2016,104.206645,Normal,Iteration and Timestep,52.1033225
-Mariposa,Ag Contraction: Cropland,Ag Change,1993,1994,0,Normal,Iteration and Timestep,0
-Mariposa,Ag Contraction: Cropland,Ag Change,1995,1996,0,Normal,Iteration and Timestep,0
-Mariposa,Ag Contraction: Cropland,Ag Change,1997,1998,0,Normal,Iteration and Timestep,0
-Mariposa,Ag Contraction: Cropland,Ag Change,1999,2000,0,Normal,Iteration and Timestep,0
-Mariposa,Ag Contraction: Cropland,Ag Change,2001,2002,16.389782999999998,Normal,Iteration and Timestep,8.194891499999999
-Mariposa,Ag Contraction: Cropland,Ag Change,2003,2004,11.533551,Normal,Iteration and Timestep,5.7667755
-Mariposa,Ag Contraction: Cropland,Ag Change,2005,2006,21.043672,Normal,Iteration and Timestep,10.521836
-Mariposa,Ag Contraction: Cropland,Ag Change,2007,2008,0,Normal,Iteration and Timestep,0
-Mariposa,Ag Contraction: Cropland,Ag Change,2009,2010,1.821087,Normal,Iteration and Timestep,0.9105435
-Mariposa,Ag Contraction: Cropland,Ag Change,2011,2012,0,Normal,Iteration and Timestep,0
-Mariposa,Ag Contraction: Cropland,Ag Change,2013,2014,2.6304589999999997,Normal,Iteration and Timestep,1.3152294999999998
-Mariposa,Ag Contraction: Cropland,Ag Change,2015,2016,42.289687,Normal,Iteration and Timestep,21.1448435
-Mendocino,Ag Contraction: Cropland,Ag Change,2005,2006,0,Normal,Iteration and Timestep,0
-Mendocino,Ag Contraction: Cropland,Ag Change,2007,2008,11.533551000000001,Normal,Iteration and Timestep,5.7667755000000005
-Mendocino,Ag Contraction: Cropland,Ag Change,2009,2010,49.371691999999996,Normal,Iteration and Timestep,24.685845999999998
-Mendocino,Ag Contraction: Cropland,Ag Change,2011,2012,36.826426,Normal,Iteration and Timestep,18.413213
-Mendocino,Ag Contraction: Cropland,Ag Change,2013,2014,520.426196,Normal,Iteration and Timestep,260.213098
-Mendocino,Ag Contraction: Cropland,Ag Change,2015,2016,243.01394299999998,Normal,Iteration and Timestep,121.50697149999999
-Merced,Ag Contraction: Cropland,Ag Change,1993,1994,1123.00365,Normal,Iteration and Timestep,561.501825
-Merced,Ag Contraction: Cropland,Ag Change,1995,1996,649.318687,Normal,Iteration and Timestep,324.6593435
-Merced,Ag Contraction: Cropland,Ag Change,1997,1998,1565.527791,Normal,Iteration and Timestep,782.7638955
-Merced,Ag Contraction: Cropland,Ag Change,1999,2000,1136.358288,Normal,Iteration and Timestep,568.179144
-Merced,Ag Contraction: Cropland,Ag Change,2001,2002,1032.9610149999999,Normal,Iteration and Timestep,516.4805074999999
-Merced,Ag Contraction: Cropland,Ag Change,2003,2004,481.373997,Normal,Iteration and Timestep,240.6869985
-Merced,Ag Contraction: Cropland,Ag Change,2005,2006,538.434723,Normal,Iteration and Timestep,269.2173615
-Merced,Ag Contraction: Cropland,Ag Change,2007,2008,450.617861,Normal,Iteration and Timestep,225.3089305
-Merced,Ag Contraction: Cropland,Ag Change,2009,2010,536.815979,Normal,Iteration and Timestep,268.4079895
-Merced,Ag Contraction: Cropland,Ag Change,2011,2012,198.700826,Normal,Iteration and Timestep,99.350413
-Merced,Ag Contraction: Cropland,Ag Change,2013,2014,169.96812,Normal,Iteration and Timestep,84.98406
-Merced,Ag Contraction: Cropland,Ag Change,2015,2016,958.498791,Normal,Iteration and Timestep,479.2493955
-Modoc,Ag Contraction: Cropland,Ag Change,1993,1994,1138.786404,Normal,Iteration and Timestep,569.393202
-Modoc,Ag Contraction: Cropland,Ag Change,1995,1996,79.318456,Normal,Iteration and Timestep,39.659228
-Modoc,Ag Contraction: Cropland,Ag Change,1997,1998,1.214058,Normal,Iteration and Timestep,0.607029
-Modoc,Ag Contraction: Cropland,Ag Change,1999,2000,249.48891899999998,Normal,Iteration and Timestep,124.74445949999999
-Modoc,Ag Contraction: Cropland,Ag Change,2001,2002,378.786096,Normal,Iteration and Timestep,189.393048
-Modoc,Ag Contraction: Cropland,Ag Change,2003,2004,86.40046099999999,Normal,Iteration and Timestep,43.200230499999996
-Modoc,Ag Contraction: Cropland,Ag Change,2005,2006,1838.488498,Normal,Iteration and Timestep,919.244249
-Modoc,Ag Contraction: Cropland,Ag Change,2007,2008,216.304667,Normal,Iteration and Timestep,108.1523335
-Modoc,Ag Contraction: Cropland,Ag Change,2009,2010,304.728558,Normal,Iteration and Timestep,152.364279
-Modoc,Ag Contraction: Cropland,Ag Change,2011,2012,122.619858,Normal,Iteration and Timestep,61.309929
-Modoc,Ag Contraction: Cropland,Ag Change,2013,2014,442.119455,Normal,Iteration and Timestep,221.0597275
-Modoc,Ag Contraction: Cropland,Ag Change,2015,2016,170.979835,Normal,Iteration and Timestep,85.4899175
-Monterey,Ag Contraction: Cropland,Ag Change,1993,1994,160.862685,Normal,Iteration and Timestep,80.4313425
-Monterey,Ag Contraction: Cropland,Ag Change,1995,1996,674.611562,Normal,Iteration and Timestep,337.305781
-Monterey,Ag Contraction: Cropland,Ag Change,1997,1998,1066.34761,Normal,Iteration and Timestep,533.173805
-Monterey,Ag Contraction: Cropland,Ag Change,1999,2000,826.975841,Normal,Iteration and Timestep,413.4879205
-Monterey,Ag Contraction: Cropland,Ag Change,2001,2002,469.638103,Normal,Iteration and Timestep,234.8190515
-Monterey,Ag Contraction: Cropland,Ag Change,2003,2004,342.364356,Normal,Iteration and Timestep,171.182178
-Monterey,Ag Contraction: Cropland,Ag Change,2005,2006,1173.5894,Normal,Iteration and Timestep,586.7947
-Monterey,Ag Contraction: Cropland,Ag Change,2007,2008,427.348416,Normal,Iteration and Timestep,213.674208
-Monterey,Ag Contraction: Cropland,Ag Change,2009,2010,510.916075,Normal,Iteration and Timestep,255.4580375
-Monterey,Ag Contraction: Cropland,Ag Change,2011,2012,496.954408,Normal,Iteration and Timestep,248.477204
-Monterey,Ag Contraction: Cropland,Ag Change,2013,2014,246.85846,Normal,Iteration and Timestep,123.42923
-Monterey,Ag Contraction: Cropland,Ag Change,2015,2016,531.959747,Normal,Iteration and Timestep,265.9798735
-Napa,Ag Contraction: Cropland,Ag Change,1993,1994,49.978721,Normal,Iteration and Timestep,24.9893605
-Napa,Ag Contraction: Cropland,Ag Change,1995,1996,1.011715,Normal,Iteration and Timestep,0.5058575
-Napa,Ag Contraction: Cropland,Ag Change,1997,1998,129.297177,Normal,Iteration and Timestep,64.6485885
-Napa,Ag Contraction: Cropland,Ag Change,1999,2000,91.459036,Normal,Iteration and Timestep,45.729518
-Napa,Ag Contraction: Cropland,Ag Change,2001,2002,1131.906742,Normal,Iteration and Timestep,565.953371
-Napa,Ag Contraction: Cropland,Ag Change,2003,2004,116.144882,Normal,Iteration and Timestep,58.072441
-Napa,Ag Contraction: Cropland,Ag Change,2005,2006,531.150375,Normal,Iteration and Timestep,265.5751875
-Napa,Ag Contraction: Cropland,Ag Change,2007,2008,264.664644,Normal,Iteration and Timestep,132.332322
-Napa,Ag Contraction: Cropland,Ag Change,2009,2010,126.869061,Normal,Iteration and Timestep,63.4345305
-Napa,Ag Contraction: Cropland,Ag Change,2011,2012,68.39193399999999,Normal,Iteration and Timestep,34.195966999999996
-Napa,Ag Contraction: Cropland,Ag Change,2013,2014,291.576263,Normal,Iteration and Timestep,145.7881315
-Napa,Ag Contraction: Cropland,Ag Change,2015,2016,87.614519,Normal,Iteration and Timestep,43.8072595
-Nevada,Ag Contraction: Cropland,Ag Change,1993,1994,3.642174,Normal,Iteration and Timestep,1.821087
-Nevada,Ag Contraction: Cropland,Ag Change,1995,1996,8.09372,Normal,Iteration and Timestep,4.04686
-Nevada,Ag Contraction: Cropland,Ag Change,1997,1998,44.51546,Normal,Iteration and Timestep,22.25773
-Nevada,Ag Contraction: Cropland,Ag Change,1999,2000,65.15444600000001,Normal,Iteration and Timestep,32.577223000000004
-Nevada,Ag Contraction: Cropland,Ag Change,2001,2002,449.80848899999995,Normal,Iteration and Timestep,224.90424449999998
-Nevada,Ag Contraction: Cropland,Ag Change,2003,2004,323.951143,Normal,Iteration and Timestep,161.9755715
-Nevada,Ag Contraction: Cropland,Ag Change,2005,2006,142.44947200000001,Normal,Iteration and Timestep,71.22473600000001
-Nevada,Ag Contraction: Cropland,Ag Change,2007,2008,335.282351,Normal,Iteration and Timestep,167.6411755
-Nevada,Ag Contraction: Cropland,Ag Change,2009,2010,14.973381999999999,Normal,Iteration and Timestep,7.4866909999999995
-Nevada,Ag Contraction: Cropland,Ag Change,2011,2012,2.832802,Normal,Iteration and Timestep,1.416401
-Nevada,Ag Contraction: Cropland,Ag Change,2013,2014,281.25676999999996,Normal,Iteration and Timestep,140.62838499999998
-Nevada,Ag Contraction: Cropland,Ag Change,2015,2016,4123.9526829999995,Normal,Iteration and Timestep,2061.9763414999998
-Nevada,Ag Contraction: Cropland,Ag Change,2017,2018,77.497369,Normal,Iteration and Timestep,38.7486845
-Orange,Ag Contraction: Cropland,Ag Change,1993,1994,17.199154999999998,Normal,Iteration and Timestep,8.599577499999999
-Orange,Ag Contraction: Cropland,Ag Change,1995,1996,6.879662,Normal,Iteration and Timestep,3.439831
-Orange,Ag Contraction: Cropland,Ag Change,1997,1998,62.523987,Normal,Iteration and Timestep,31.2619935
-Orange,Ag Contraction: Cropland,Ag Change,1999,2000,62.72633,Normal,Iteration and Timestep,31.363165
-Orange,Ag Contraction: Cropland,Ag Change,2001,2002,254.547494,Normal,Iteration and Timestep,127.273747
-Orange,Ag Contraction: Cropland,Ag Change,2003,2004,51.597465,Normal,Iteration and Timestep,25.7987325
-Orange,Ag Contraction: Cropland,Ag Change,2005,2006,255.356866,Normal,Iteration and Timestep,127.678433
-Orange,Ag Contraction: Cropland,Ag Change,2007,2008,498.573152,Normal,Iteration and Timestep,249.286576
-Orange,Ag Contraction: Cropland,Ag Change,2009,2010,210.841406,Normal,Iteration and Timestep,105.420703
-Orange,Ag Contraction: Cropland,Ag Change,2011,2012,24.078817,Normal,Iteration and Timestep,12.0394085
-Orange,Ag Contraction: Cropland,Ag Change,2013,2014,92.268408,Normal,Iteration and Timestep,46.134204
-Orange,Ag Contraction: Cropland,Ag Change,2015,2016,50.788092999999996,Normal,Iteration and Timestep,25.394046499999998
-Placer,Ag Contraction: Cropland,Ag Change,1993,1994,45.122489,Normal,Iteration and Timestep,22.5612445
-Placer,Ag Contraction: Cropland,Ag Change,1995,1996,82.151258,Normal,Iteration and Timestep,41.075629
-Placer,Ag Contraction: Cropland,Ag Change,1997,1998,204.36643,Normal,Iteration and Timestep,102.183215
-Placer,Ag Contraction: Cropland,Ag Change,1999,2000,277.41225299999996,Normal,Iteration and Timestep,138.70612649999998
-Placer,Ag Contraction: Cropland,Ag Change,2001,2002,249.286576,Normal,Iteration and Timestep,124.643288
-Placer,Ag Contraction: Cropland,Ag Change,2003,2004,152.161936,Normal,Iteration and Timestep,76.080968
-Placer,Ag Contraction: Cropland,Ag Change,2005,2006,413.386749,Normal,Iteration and Timestep,206.6933745
-Placer,Ag Contraction: Cropland,Ag Change,2007,2008,1235.1016719999998,Normal,Iteration and Timestep,617.5508359999999
-Placer,Ag Contraction: Cropland,Ag Change,2009,2010,389.510275,Normal,Iteration and Timestep,194.7551375
-Placer,Ag Contraction: Cropland,Ag Change,2011,2012,896.9865189999999,Normal,Iteration and Timestep,448.49325949999997
-Placer,Ag Contraction: Cropland,Ag Change,2013,2014,150.138506,Normal,Iteration and Timestep,75.069253
-Placer,Ag Contraction: Cropland,Ag Change,2015,2016,608.850087,Normal,Iteration and Timestep,304.4250435
-Riverside,Ag Contraction: Cropland,Ag Change,1993,1994,627.870329,Normal,Iteration and Timestep,313.9351645
-Riverside,Ag Contraction: Cropland,Ag Change,1995,1996,467.00764399999997,Normal,Iteration and Timestep,233.50382199999999
-Riverside,Ag Contraction: Cropland,Ag Change,1997,1998,814.632918,Normal,Iteration and Timestep,407.316459
-Riverside,Ag Contraction: Cropland,Ag Change,1999,2000,1648.8931069999999,Normal,Iteration and Timestep,824.4465534999999
-Riverside,Ag Contraction: Cropland,Ag Change,2001,2002,3292.7276389999997,Normal,Iteration and Timestep,1646.3638194999999
-Riverside,Ag Contraction: Cropland,Ag Change,2003,2004,1030.735242,Normal,Iteration and Timestep,515.367621
-Riverside,Ag Contraction: Cropland,Ag Change,2005,2006,2365.592013,Normal,Iteration and Timestep,1182.7960065
-Riverside,Ag Contraction: Cropland,Ag Change,2007,2008,237.348339,Normal,Iteration and Timestep,118.6741695
-Riverside,Ag Contraction: Cropland,Ag Change,2009,2010,450.617861,Normal,Iteration and Timestep,225.3089305
-Riverside,Ag Contraction: Cropland,Ag Change,2011,2012,350.862762,Normal,Iteration and Timestep,175.431381
-Riverside,Ag Contraction: Cropland,Ag Change,2013,2014,205.985174,Normal,Iteration and Timestep,102.992587
-Riverside,Ag Contraction: Cropland,Ag Change,2015,2016,294.611408,Normal,Iteration and Timestep,147.305704
-Sacramento,Ag Contraction: Cropland,Ag Change,1993,1994,11.533551,Normal,Iteration and Timestep,5.7667755
-Sacramento,Ag Contraction: Cropland,Ag Change,1995,1996,188.988362,Normal,Iteration and Timestep,94.494181
-Sacramento,Ag Contraction: Cropland,Ag Change,1997,1998,719.7340509999999,Normal,Iteration and Timestep,359.86702549999995
-Sacramento,Ag Contraction: Cropland,Ag Change,1999,2000,139.61667,Normal,Iteration and Timestep,69.808335
-Sacramento,Ag Contraction: Cropland,Ag Change,2001,2002,552.39639,Normal,Iteration and Timestep,276.198195
-Sacramento,Ag Contraction: Cropland,Ag Change,2003,2004,325.974573,Normal,Iteration and Timestep,162.9872865
-Sacramento,Ag Contraction: Cropland,Ag Change,2005,2006,821.310237,Normal,Iteration and Timestep,410.6551185
-Sacramento,Ag Contraction: Cropland,Ag Change,2007,2008,314.845708,Normal,Iteration and Timestep,157.422854
-Sacramento,Ag Contraction: Cropland,Ag Change,2009,2010,260.617784,Normal,Iteration and Timestep,130.308892
-Sacramento,Ag Contraction: Cropland,Ag Change,2011,2012,491.895833,Normal,Iteration and Timestep,245.9479165
-Sacramento,Ag Contraction: Cropland,Ag Change,2013,2014,404.686,Normal,Iteration and Timestep,202.343
-Sacramento,Ag Contraction: Cropland,Ag Change,2015,2016,315.857423,Normal,Iteration and Timestep,157.9287115
-Sacramento,Ag Contraction: Cropland,Ag Change,2017,2018,1387.263608,Normal,Iteration and Timestep,693.631804
-San Benito,Ag Contraction: Cropland,Ag Change,1993,1994,760.80968,Normal,Iteration and Timestep,380.40484
-San Benito,Ag Contraction: Cropland,Ag Change,1995,1996,854.4944889999999,Normal,Iteration and Timestep,427.24724449999997
-San Benito,Ag Contraction: Cropland,Ag Change,1997,1998,518.807452,Normal,Iteration and Timestep,259.403726
-San Benito,Ag Contraction: Cropland,Ag Change,1999,2000,514.153563,Normal,Iteration and Timestep,257.0767815
-San Benito,Ag Contraction: Cropland,Ag Change,2001,2002,1395.762014,Normal,Iteration and Timestep,697.881007
-San Benito,Ag Contraction: Cropland,Ag Change,2003,2004,1248.8609959999999,Normal,Iteration and Timestep,624.43049799999994
-San Benito,Ag Contraction: Cropland,Ag Change,2005,2006,894.7607459999999,Normal,Iteration and Timestep,447.38037299999996
-San Benito,Ag Contraction: Cropland,Ag Change,2007,2008,1714.8569249999998,Normal,Iteration and Timestep,857.4284624999999
-San Benito,Ag Contraction: Cropland,Ag Change,2009,2010,1189.77684,Normal,Iteration and Timestep,594.88842
-San Benito,Ag Contraction: Cropland,Ag Change,2011,2012,386.677473,Normal,Iteration and Timestep,193.3387365
-San Benito,Ag Contraction: Cropland,Ag Change,2013,2014,522.2472829999999,Normal,Iteration and Timestep,261.12364149999996
-San Benito,Ag Contraction: Cropland,Ag Change,2015,2016,503.024698,Normal,Iteration and Timestep,251.512349
-San Bernardino,Ag Contraction: Cropland,Ag Change,1993,1994,562.51354,Normal,Iteration and Timestep,281.25677
-San Bernardino,Ag Contraction: Cropland,Ag Change,1995,1996,226.42181699999998,Normal,Iteration and Timestep,113.21090849999999
-San Bernardino,Ag Contraction: Cropland,Ag Change,1997,1998,315.25039400000003,Normal,Iteration and Timestep,157.62519700000001
-San Bernardino,Ag Contraction: Cropland,Ag Change,1999,2000,1098.924833,Normal,Iteration and Timestep,549.4624165
-San Bernardino,Ag Contraction: Cropland,Ag Change,2001,2002,1326.965394,Normal,Iteration and Timestep,663.482697
-San Bernardino,Ag Contraction: Cropland,Ag Change,2003,2004,450.41551799999996,Normal,Iteration and Timestep,225.20775899999998
-San Bernardino,Ag Contraction: Cropland,Ag Change,2005,2006,842.9609379999999,Normal,Iteration and Timestep,421.48046899999997
-San Bernardino,Ag Contraction: Cropland,Ag Change,2007,2008,942.7160369999999,Normal,Iteration and Timestep,471.35801849999996
-San Bernardino,Ag Contraction: Cropland,Ag Change,2009,2010,531.352718,Normal,Iteration and Timestep,265.676359
-San Bernardino,Ag Contraction: Cropland,Ag Change,2011,2012,240.181141,Normal,Iteration and Timestep,120.0905705
-San Bernardino,Ag Contraction: Cropland,Ag Change,2013,2014,298.860611,Normal,Iteration and Timestep,149.4303055
-San Bernardino,Ag Contraction: Cropland,Ag Change,2015,2016,127.880776,Normal,Iteration and Timestep,63.940388
-San Diego,Ag Contraction: Cropland,Ag Change,1993,1994,36.017053999999995,Normal,Iteration and Timestep,18.008526999999997
-San Diego,Ag Contraction: Cropland,Ag Change,1995,1996,430.585904,Normal,Iteration and Timestep,215.292952
-San Diego,Ag Contraction: Cropland,Ag Change,1997,1998,107.444133,Normal,Iteration and Timestep,53.7220665
-San Diego,Ag Contraction: Cropland,Ag Change,1999,2000,2514.314118,Normal,Iteration and Timestep,1257.157059
-San Diego,Ag Contraction: Cropland,Ag Change,2001,2002,383.237642,Normal,Iteration and Timestep,191.618821
-San Diego,Ag Contraction: Cropland,Ag Change,2003,2004,484.409142,Normal,Iteration and Timestep,242.204571
-San Diego,Ag Contraction: Cropland,Ag Change,2005,2006,392.343077,Normal,Iteration and Timestep,196.1715385
-San Diego,Ag Contraction: Cropland,Ag Change,2007,2008,664.0897259999999,Normal,Iteration and Timestep,332.04486299999996
-San Diego,Ag Contraction: Cropland,Ag Change,2009,2010,694.03649,Normal,Iteration and Timestep,347.018245
-San Diego,Ag Contraction: Cropland,Ag Change,2011,2012,749.6808149999999,Normal,Iteration and Timestep,374.84040749999997
-San Diego,Ag Contraction: Cropland,Ag Change,2013,2014,103.397273,Normal,Iteration and Timestep,51.6986365
-San Diego,Ag Contraction: Cropland,Ag Change,2015,2016,318.083196,Normal,Iteration and Timestep,159.041598
-San Joaquin,Ag Contraction: Cropland,Ag Change,1993,1994,25.090532,Normal,Iteration and Timestep,12.545266
-San Joaquin,Ag Contraction: Cropland,Ag Change,1995,1996,142.44947200000001,Normal,Iteration and Timestep,71.22473600000001
-San Joaquin,Ag Contraction: Cropland,Ag Change,1997,1998,984.803381,Normal,Iteration and Timestep,492.4016905
-San Joaquin,Ag Contraction: Cropland,Ag Change,1999,2000,288.945804,Normal,Iteration and Timestep,144.472902
-San Joaquin,Ag Contraction: Cropland,Ag Change,2001,2002,141.033071,Normal,Iteration and Timestep,70.5165355
-San Joaquin,Ag Contraction: Cropland,Ag Change,2003,2004,136.176839,Normal,Iteration and Timestep,68.0884195
-San Joaquin,Ag Contraction: Cropland,Ag Change,2005,2006,600.149338,Normal,Iteration and Timestep,300.074669
-San Joaquin,Ag Contraction: Cropland,Ag Change,2007,2008,1023.653237,Normal,Iteration and Timestep,511.8266185
-San Joaquin,Ag Contraction: Cropland,Ag Change,2009,2010,664.6967549999999,Normal,Iteration and Timestep,332.34837749999997
-San Joaquin,Ag Contraction: Cropland,Ag Change,2011,2012,1008.679855,Normal,Iteration and Timestep,504.3399275
-San Joaquin,Ag Contraction: Cropland,Ag Change,2013,2014,109.872249,Normal,Iteration and Timestep,54.9361245
-San Joaquin,Ag Contraction: Cropland,Ag Change,2015,2016,589.6275019999999,Normal,Iteration and Timestep,294.81375099999997
-San Luis Obispo,Ag Contraction: Cropland,Ag Change,1993,1994,232.492107,Normal,Iteration and Timestep,116.2460535
-San Luis Obispo,Ag Contraction: Cropland,Ag Change,1995,1996,329.616747,Normal,Iteration and Timestep,164.8083735
-San Luis Obispo,Ag Contraction: Cropland,Ag Change,1997,1998,231.27804899999998,Normal,Iteration and Timestep,115.63902449999999
-San Luis Obispo,Ag Contraction: Cropland,Ag Change,1999,2000,703.3442679999999,Normal,Iteration and Timestep,351.67213399999997
-San Luis Obispo,Ag Contraction: Cropland,Ag Change,2001,2002,1225.186865,Normal,Iteration and Timestep,612.5934325
-San Luis Obispo,Ag Contraction: Cropland,Ag Change,2003,2004,1279.212446,Normal,Iteration and Timestep,639.606223
-San Luis Obispo,Ag Contraction: Cropland,Ag Change,2005,2006,2010.8847339999998,Normal,Iteration and Timestep,1005.4423669999999
-San Luis Obispo,Ag Contraction: Cropland,Ag Change,2007,2008,484.206799,Normal,Iteration and Timestep,242.1033995
-San Luis Obispo,Ag Contraction: Cropland,Ag Change,2009,2010,1191.597927,Normal,Iteration and Timestep,595.7989635
-San Luis Obispo,Ag Contraction: Cropland,Ag Change,2011,2012,930.7778,Normal,Iteration and Timestep,465.3889
-San Luis Obispo,Ag Contraction: Cropland,Ag Change,2013,2014,1920.032727,Normal,Iteration and Timestep,960.0163635
-San Luis Obispo,Ag Contraction: Cropland,Ag Change,2015,2016,317.67851,Normal,Iteration and Timestep,158.839255
-San Mateo,Ag Contraction: Cropland,Ag Change,1993,1994,10.319493,Normal,Iteration and Timestep,5.1597465
-San Mateo,Ag Contraction: Cropland,Ag Change,1995,1996,0,Normal,Iteration and Timestep,0
-San Mateo,Ag Contraction: Cropland,Ag Change,1997,1998,24.078817,Normal,Iteration and Timestep,12.0394085
-San Mateo,Ag Contraction: Cropland,Ag Change,1999,2000,0,Normal,Iteration and Timestep,0
-San Mateo,Ag Contraction: Cropland,Ag Change,2001,2002,190.809449,Normal,Iteration and Timestep,95.4047245
-San Mateo,Ag Contraction: Cropland,Ag Change,2003,2004,25.495218,Normal,Iteration and Timestep,12.747609
-San Mateo,Ag Contraction: Cropland,Ag Change,2005,2006,156.411139,Normal,Iteration and Timestep,78.2055695
-San Mateo,Ag Contraction: Cropland,Ag Change,2007,2008,646.283542,Normal,Iteration and Timestep,323.141771
-San Mateo,Ag Contraction: Cropland,Ag Change,2009,2010,105.420703,Normal,Iteration and Timestep,52.7103515
-San Mateo,Ag Contraction: Cropland,Ag Change,2011,2012,40.873286,Normal,Iteration and Timestep,20.436643
-San Mateo,Ag Contraction: Cropland,Ag Change,2013,2014,73.652852,Normal,Iteration and Timestep,36.826426
-San Mateo,Ag Contraction: Cropland,Ag Change,2015,2016,45.324832,Normal,Iteration and Timestep,22.662416
-San Mateo,Ag Contraction: Cropland,Ag Change,2017,2018,95.505896,Normal,Iteration and Timestep,47.752948
-Santa Barbara,Ag Contraction: Cropland,Ag Change,1993,1994,376.76266599999997,Normal,Iteration and Timestep,188.38133299999998
-Santa Barbara,Ag Contraction: Cropland,Ag Change,1995,1996,501.81064,Normal,Iteration and Timestep,250.90532
-Santa Barbara,Ag Contraction: Cropland,Ag Change,1997,1998,1220.532976,Normal,Iteration and Timestep,610.266488
-Santa Barbara,Ag Contraction: Cropland,Ag Change,1999,2000,635.964049,Normal,Iteration and Timestep,317.9820245
-Santa Barbara,Ag Contraction: Cropland,Ag Change,2001,2002,2030.512005,Normal,Iteration and Timestep,1015.2560025
-Santa Barbara,Ag Contraction: Cropland,Ag Change,2003,2004,407.114116,Normal,Iteration and Timestep,203.557058
-Santa Barbara,Ag Contraction: Cropland,Ag Change,2005,2006,714.068447,Normal,Iteration and Timestep,357.0342235
-Santa Barbara,Ag Contraction: Cropland,Ag Change,2007,2008,1928.3287899999998,Normal,Iteration and Timestep,964.1643949999999
-Santa Barbara,Ag Contraction: Cropland,Ag Change,2009,2010,660.447552,Normal,Iteration and Timestep,330.223776
-Santa Barbara,Ag Contraction: Cropland,Ag Change,2011,2012,385.86810099999997,Normal,Iteration and Timestep,192.93405049999998
-Santa Barbara,Ag Contraction: Cropland,Ag Change,2013,2014,383.844671,Normal,Iteration and Timestep,191.9223355
-Santa Barbara,Ag Contraction: Cropland,Ag Change,2015,2016,455.069407,Normal,Iteration and Timestep,227.5347035
-Santa Clara,Ag Contraction: Cropland,Ag Change,1993,1994,55.037296,Normal,Iteration and Timestep,27.518648
-Santa Clara,Ag Contraction: Cropland,Ag Change,1995,1996,13.961667,Normal,Iteration and Timestep,6.9808335
-Santa Clara,Ag Contraction: Cropland,Ag Change,1997,1998,308.370732,Normal,Iteration and Timestep,154.185366
-Santa Clara,Ag Contraction: Cropland,Ag Change,1999,2000,147.103361,Normal,Iteration and Timestep,73.5516805
-Santa Clara,Ag Contraction: Cropland,Ag Change,2001,2002,389.712618,Normal,Iteration and Timestep,194.856309
-Santa Clara,Ag Contraction: Cropland,Ag Change,2003,2004,511.320761,Normal,Iteration and Timestep,255.6603805
-Santa Clara,Ag Contraction: Cropland,Ag Change,2005,2006,1150.319955,Normal,Iteration and Timestep,575.1599775
-Santa Clara,Ag Contraction: Cropland,Ag Change,2007,2008,498.168466,Normal,Iteration and Timestep,249.084233
-Santa Clara,Ag Contraction: Cropland,Ag Change,2009,2010,766.475284,Normal,Iteration and Timestep,383.237642
-Santa Clara,Ag Contraction: Cropland,Ag Change,2011,2012,221.76792799999998,Normal,Iteration and Timestep,110.88396399999999
-Santa Clara,Ag Contraction: Cropland,Ag Change,2013,2014,173.20560799999998,Normal,Iteration and Timestep,86.60280399999999
-Santa Clara,Ag Contraction: Cropland,Ag Change,2015,2016,312.21524899999997,Normal,Iteration and Timestep,156.10762449999999
-Santa Cruz,Ag Contraction: Cropland,Ag Change,1993,1994,41.277972,Normal,Iteration and Timestep,20.638986
-Santa Cruz,Ag Contraction: Cropland,Ag Change,1995,1996,4.451546,Normal,Iteration and Timestep,2.225773
-Santa Cruz,Ag Contraction: Cropland,Ag Change,1997,1998,21.246015,Normal,Iteration and Timestep,10.6230075
-Santa Cruz,Ag Contraction: Cropland,Ag Change,1999,2000,18.413213,Normal,Iteration and Timestep,9.2066065
-Santa Cruz,Ag Contraction: Cropland,Ag Change,2001,2002,311.60822,Normal,Iteration and Timestep,155.80411
-Santa Cruz,Ag Contraction: Cropland,Ag Change,2003,2004,150.138506,Normal,Iteration and Timestep,75.069253
-Santa Cruz,Ag Contraction: Cropland,Ag Change,2005,2006,434.835107,Normal,Iteration and Timestep,217.4175535
-Santa Cruz,Ag Contraction: Cropland,Ag Change,2007,2008,211.043749,Normal,Iteration and Timestep,105.5218745
-Santa Cruz,Ag Contraction: Cropland,Ag Change,2009,2010,267.09276,Normal,Iteration and Timestep,133.54638
-Santa Cruz,Ag Contraction: Cropland,Ag Change,2011,2012,57.060725999999995,Normal,Iteration and Timestep,28.530362999999998
-Santa Cruz,Ag Contraction: Cropland,Ag Change,2013,2014,118.168312,Normal,Iteration and Timestep,59.084156
-Santa Cruz,Ag Contraction: Cropland,Ag Change,2015,2016,92.47075099999999,Normal,Iteration and Timestep,46.235375499999996
-Shasta,Ag Contraction: Cropland,Ag Change,1993,1994,150.340849,Normal,Iteration and Timestep,75.1704245
-Shasta,Ag Contraction: Cropland,Ag Change,1995,1996,79.723142,Normal,Iteration and Timestep,39.861571
-Shasta,Ag Contraction: Cropland,Ag Change,1997,1998,342.162013,Normal,Iteration and Timestep,171.0810065
-Shasta,Ag Contraction: Cropland,Ag Change,1999,2000,243.620972,Normal,Iteration and Timestep,121.810486
-Shasta,Ag Contraction: Cropland,Ag Change,2001,2002,584.568927,Normal,Iteration and Timestep,292.2844635
-Shasta,Ag Contraction: Cropland,Ag Change,2003,2004,305.133244,Normal,Iteration and Timestep,152.566622
-Shasta,Ag Contraction: Cropland,Ag Change,2005,2006,662.268639,Normal,Iteration and Timestep,331.1343195
-Shasta,Ag Contraction: Cropland,Ag Change,2007,2008,714.068447,Normal,Iteration and Timestep,357.0342235
-Shasta,Ag Contraction: Cropland,Ag Change,2009,2010,603.184483,Normal,Iteration and Timestep,301.5922415
-Shasta,Ag Contraction: Cropland,Ag Change,2011,2012,208.008604,Normal,Iteration and Timestep,104.004302
-Shasta,Ag Contraction: Cropland,Ag Change,2013,2014,56.049011,Normal,Iteration and Timestep,28.0245055
-Shasta,Ag Contraction: Cropland,Ag Change,2015,2016,210.84140599999998,Normal,Iteration and Timestep,105.42070299999999
-Sierra Valley,Ag Contraction: Cropland,Ag Change,1993,1994,0,Normal,Iteration and Timestep,0
-Sierra Valley,Ag Contraction: Cropland,Ag Change,1995,1996,0,Normal,Iteration and Timestep,0
-Sierra Valley,Ag Contraction: Cropland,Ag Change,1997,1998,69.403649,Normal,Iteration and Timestep,34.7018245
-Sierra Valley,Ag Contraction: Cropland,Ag Change,1999,2000,31.970194,Normal,Iteration and Timestep,15.985097
-Sierra Valley,Ag Contraction: Cropland,Ag Change,2001,2002,5.058574999999999,Normal,Iteration and Timestep,2.5292874999999997
-Sierra Valley,Ag Contraction: Cropland,Ag Change,2003,2004,35.005339,Normal,Iteration and Timestep,17.5026695
-Sierra Valley,Ag Contraction: Cropland,Ag Change,2005,2006,1.618744,Normal,Iteration and Timestep,0.809372
-Sierra Valley,Ag Contraction: Cropland,Ag Change,2007,2008,207.603918,Normal,Iteration and Timestep,103.801959
-Sierra Valley,Ag Contraction: Cropland,Ag Change,2009,2010,73.450509,Normal,Iteration and Timestep,36.7252545
-Sierra Valley,Ag Contraction: Cropland,Ag Change,2011,2012,58.477126999999996,Normal,Iteration and Timestep,29.238563499999998
-Sierra Valley,Ag Contraction: Cropland,Ag Change,2013,2014,14.568696,Normal,Iteration and Timestep,7.284348
-Sierra Valley,Ag Contraction: Cropland,Ag Change,2015,2016,74.259881,Normal,Iteration and Timestep,37.1299405
-Siskiyou,Ag Contraction: Cropland,Ag Change,1993,1994,349.851047,Normal,Iteration and Timestep,174.9255235
-Siskiyou,Ag Contraction: Cropland,Ag Change,1995,1996,0,Normal,Iteration and Timestep,0
-Siskiyou,Ag Contraction: Cropland,Ag Change,1997,1998,124.440945,Normal,Iteration and Timestep,62.2204725
-Siskiyou,Ag Contraction: Cropland,Ag Change,1999,2000,41.075629,Normal,Iteration and Timestep,20.5378145
-Siskiyou,Ag Contraction: Cropland,Ag Change,2001,2002,802.4923379999999,Normal,Iteration and Timestep,401.24616899999995
-Siskiyou,Ag Contraction: Cropland,Ag Change,2003,2004,4813.335284,Normal,Iteration and Timestep,2406.667642
-Siskiyou,Ag Contraction: Cropland,Ag Change,2005,2006,117.965969,Normal,Iteration and Timestep,58.9829845
-Siskiyou,Ag Contraction: Cropland,Ag Change,2007,2008,1842.940044,Normal,Iteration and Timestep,921.470022
-Siskiyou,Ag Contraction: Cropland,Ag Change,2009,2010,282.875514,Normal,Iteration and Timestep,141.437757
-Siskiyou,Ag Contraction: Cropland,Ag Change,2011,2012,596.1024779999999,Normal,Iteration and Timestep,298.05123899999995
-Siskiyou,Ag Contraction: Cropland,Ag Change,2013,2014,580.522067,Normal,Iteration and Timestep,290.2610335
-Siskiyou,Ag Contraction: Cropland,Ag Change,2015,2016,215.899981,Normal,Iteration and Timestep,107.9499905
-Solano,Ag Contraction: Cropland,Ag Change,1993,1994,229.659305,Normal,Iteration and Timestep,114.8296525
-Solano,Ag Contraction: Cropland,Ag Change,1995,1996,62.321644,Normal,Iteration and Timestep,31.160822
-Solano,Ag Contraction: Cropland,Ag Change,1997,1998,374.132207,Normal,Iteration and Timestep,187.0661035
-Solano,Ag Contraction: Cropland,Ag Change,1999,2000,584.973613,Normal,Iteration and Timestep,292.4868065
-Solano,Ag Contraction: Cropland,Ag Change,2001,2002,1408.104937,Normal,Iteration and Timestep,704.0524685
-Solano,Ag Contraction: Cropland,Ag Change,2003,2004,675.420934,Normal,Iteration and Timestep,337.710467
-Solano,Ag Contraction: Cropland,Ag Change,2005,2006,702.13021,Normal,Iteration and Timestep,351.065105
-Solano,Ag Contraction: Cropland,Ag Change,2007,2008,965.17611,Normal,Iteration and Timestep,482.588055
-Solano,Ag Contraction: Cropland,Ag Change,2009,2010,1358.530902,Normal,Iteration and Timestep,679.265451
-Solano,Ag Contraction: Cropland,Ag Change,2011,2012,505.25047099999995,Normal,Iteration and Timestep,252.62523549999997
-Solano,Ag Contraction: Cropland,Ag Change,2013,2014,143.461187,Normal,Iteration and Timestep,71.7305935
-Solano,Ag Contraction: Cropland,Ag Change,2015,2016,383.035299,Normal,Iteration and Timestep,191.5176495
-Sonoma,Ag Contraction: Cropland,Ag Change,1993,1994,28.732705999999997,Normal,Iteration and Timestep,14.366352999999998
-Sonoma,Ag Contraction: Cropland,Ag Change,1995,1996,4.04686,Normal,Iteration and Timestep,2.02343
-Sonoma,Ag Contraction: Cropland,Ag Change,1997,1998,170.575149,Normal,Iteration and Timestep,85.2875745
-Sonoma,Ag Contraction: Cropland,Ag Change,1999,2000,840.532822,Normal,Iteration and Timestep,420.266411
-Sonoma,Ag Contraction: Cropland,Ag Change,2001,2002,3361.7266019999997,Normal,Iteration and Timestep,1680.8633009999999
-Sonoma,Ag Contraction: Cropland,Ag Change,2003,2004,85.388746,Normal,Iteration and Timestep,42.694373
-Sonoma,Ag Contraction: Cropland,Ag Change,2005,2006,372.715806,Normal,Iteration and Timestep,186.357903
-Sonoma,Ag Contraction: Cropland,Ag Change,2007,2008,328.20034599999997,Normal,Iteration and Timestep,164.10017299999998
-Sonoma,Ag Contraction: Cropland,Ag Change,2009,2010,285.910659,Normal,Iteration and Timestep,142.9553295
-Sonoma,Ag Contraction: Cropland,Ag Change,2011,2012,27.720990999999998,Normal,Iteration and Timestep,13.860495499999999
-Sonoma,Ag Contraction: Cropland,Ag Change,2013,2014,29.946763999999998,Normal,Iteration and Timestep,14.973381999999999
-Sonoma,Ag Contraction: Cropland,Ag Change,2015,2016,77.69971199999999,Normal,Iteration and Timestep,38.849855999999996
-Stanislaus,Ag Contraction: Cropland,Ag Change,1993,1994,124.440945,Normal,Iteration and Timestep,62.2204725
-Stanislaus,Ag Contraction: Cropland,Ag Change,1995,1996,219.744498,Normal,Iteration and Timestep,109.872249
-Stanislaus,Ag Contraction: Cropland,Ag Change,1997,1998,1402.4393329999998,Normal,Iteration and Timestep,701.2196664999999
-Stanislaus,Ag Contraction: Cropland,Ag Change,1999,2000,372.715806,Normal,Iteration and Timestep,186.357903
-Stanislaus,Ag Contraction: Cropland,Ag Change,2001,2002,1594.665183,Normal,Iteration and Timestep,797.3325915
-Stanislaus,Ag Contraction: Cropland,Ag Change,2003,2004,886.059997,Normal,Iteration and Timestep,443.0299985
-Stanislaus,Ag Contraction: Cropland,Ag Change,2005,2006,1284.473364,Normal,Iteration and Timestep,642.236682
-Stanislaus,Ag Contraction: Cropland,Ag Change,2007,2008,917.625505,Normal,Iteration and Timestep,458.8127525
-Stanislaus,Ag Contraction: Cropland,Ag Change,2009,2010,807.753256,Normal,Iteration and Timestep,403.876628
-Stanislaus,Ag Contraction: Cropland,Ag Change,2011,2012,544.505013,Normal,Iteration and Timestep,272.2525065
-Stanislaus,Ag Contraction: Cropland,Ag Change,2013,2014,144.06821599999998,Normal,Iteration and Timestep,72.03410799999999
-Stanislaus,Ag Contraction: Cropland,Ag Change,2015,2016,906.698983,Normal,Iteration and Timestep,453.3494915
-Stanislaus,Ag Contraction: Cropland,Ag Change,2017,2018,422.087498,Normal,Iteration and Timestep,211.043749
-Sutter,Ag Contraction: Cropland,Ag Change,1993,1994,94.696524,Normal,Iteration and Timestep,47.348262
-Sutter,Ag Contraction: Cropland,Ag Change,1995,1996,231.885078,Normal,Iteration and Timestep,115.942539
-Sutter,Ag Contraction: Cropland,Ag Change,1997,1998,272.353678,Normal,Iteration and Timestep,136.176839
-Sutter,Ag Contraction: Cropland,Ag Change,1999,2000,1338.094259,Normal,Iteration and Timestep,669.0471295
-Sutter,Ag Contraction: Cropland,Ag Change,2001,2002,1263.632035,Normal,Iteration and Timestep,631.8160175
-Sutter,Ag Contraction: Cropland,Ag Change,2003,2004,517.188708,Normal,Iteration and Timestep,258.594354
-Sutter,Ag Contraction: Cropland,Ag Change,2005,2006,321.72537,Normal,Iteration and Timestep,160.862685
-Sutter,Ag Contraction: Cropland,Ag Change,2007,2008,522.449626,Normal,Iteration and Timestep,261.224813
-Sutter,Ag Contraction: Cropland,Ag Change,2009,2010,1325.751336,Normal,Iteration and Timestep,662.875668
-Sutter,Ag Contraction: Cropland,Ag Change,2011,2012,1057.646861,Normal,Iteration and Timestep,528.8234305
-Sutter,Ag Contraction: Cropland,Ag Change,2013,2014,481.57634,Normal,Iteration and Timestep,240.78817
-Sutter,Ag Contraction: Cropland,Ag Change,2015,2016,297.84889599999997,Normal,Iteration and Timestep,148.92444799999998
-Tehama,Ag Contraction: Cropland,Ag Change,1993,1994,81.544229,Normal,Iteration and Timestep,40.7721145
-Tehama,Ag Contraction: Cropland,Ag Change,1995,1996,124.845631,Normal,Iteration and Timestep,62.4228155
-Tehama,Ag Contraction: Cropland,Ag Change,1997,1998,49.978721,Normal,Iteration and Timestep,24.9893605
-Tehama,Ag Contraction: Cropland,Ag Change,1999,2000,500.798925,Normal,Iteration and Timestep,250.3994625
-Tehama,Ag Contraction: Cropland,Ag Change,2001,2002,235.931938,Normal,Iteration and Timestep,117.965969
-Tehama,Ag Contraction: Cropland,Ag Change,2003,2004,1112.8865,Normal,Iteration and Timestep,556.44325
-Tehama,Ag Contraction: Cropland,Ag Change,2005,2006,313.226964,Normal,Iteration and Timestep,156.613482
-Tehama,Ag Contraction: Cropland,Ag Change,2007,2008,212.46015,Normal,Iteration and Timestep,106.230075
-Tehama,Ag Contraction: Cropland,Ag Change,2009,2010,253.131093,Normal,Iteration and Timestep,126.5655465
-Tehama,Ag Contraction: Cropland,Ag Change,2011,2012,70.010678,Normal,Iteration and Timestep,35.005339
-Tehama,Ag Contraction: Cropland,Ag Change,2013,2014,366.84785899999997,Normal,Iteration and Timestep,183.42392949999999
-Tehama,Ag Contraction: Cropland,Ag Change,2015,2016,291.576263,Normal,Iteration and Timestep,145.7881315
-Tulare,Ag Contraction: Cropland,Ag Change,1993,1994,17.806184000000002,Normal,Iteration and Timestep,8.903092000000001
-Tulare,Ag Contraction: Cropland,Ag Change,1995,1996,26.30459,Normal,Iteration and Timestep,13.152295
-Tulare,Ag Contraction: Cropland,Ag Change,1997,1998,384.047014,Normal,Iteration and Timestep,192.023507
-Tulare,Ag Contraction: Cropland,Ag Change,1999,2000,132.737008,Normal,Iteration and Timestep,66.368504
-Tulare,Ag Contraction: Cropland,Ag Change,2001,2002,1750.469293,Normal,Iteration and Timestep,875.2346465
-Tulare,Ag Contraction: Cropland,Ag Change,2003,2004,551.182332,Normal,Iteration and Timestep,275.591166
-Tulare,Ag Contraction: Cropland,Ag Change,2005,2006,1259.382832,Normal,Iteration and Timestep,629.691416
-Tulare,Ag Contraction: Cropland,Ag Change,2007,2008,884.441253,Normal,Iteration and Timestep,442.2206265
-Tulare,Ag Contraction: Cropland,Ag Change,2009,2010,725.3996549999999,Normal,Iteration and Timestep,362.69982749999997
-Tulare,Ag Contraction: Cropland,Ag Change,2011,2012,395.378222,Normal,Iteration and Timestep,197.689111
-Tulare,Ag Contraction: Cropland,Ag Change,2013,2014,318.892568,Normal,Iteration and Timestep,159.446284
-Tulare,Ag Contraction: Cropland,Ag Change,2015,2016,241.192856,Normal,Iteration and Timestep,120.596428
-Ventura,Ag Contraction: Cropland,Ag Change,1993,1994,60.298213999999994,Normal,Iteration and Timestep,30.149106999999997
-Ventura,Ag Contraction: Cropland,Ag Change,1995,1996,143.461187,Normal,Iteration and Timestep,71.7305935
-Ventura,Ag Contraction: Cropland,Ag Change,1997,1998,107.84881899999999,Normal,Iteration and Timestep,53.924409499999996
-Ventura,Ag Contraction: Cropland,Ag Change,1999,2000,27.113961999999997,Normal,Iteration and Timestep,13.556980999999999
-Ventura,Ag Contraction: Cropland,Ag Change,2001,2002,1270.916383,Normal,Iteration and Timestep,635.4581915
-Ventura,Ag Contraction: Cropland,Ag Change,2003,2004,284.696601,Normal,Iteration and Timestep,142.3483005
-Ventura,Ag Contraction: Cropland,Ag Change,2005,2006,533.173805,Normal,Iteration and Timestep,266.5869025
-Ventura,Ag Contraction: Cropland,Ag Change,2007,2008,485.825543,Normal,Iteration and Timestep,242.9127715
-Ventura,Ag Contraction: Cropland,Ag Change,2009,2010,702.737239,Normal,Iteration and Timestep,351.3686195
-Ventura,Ag Contraction: Cropland,Ag Change,2011,2012,253.33343599999998,Normal,Iteration and Timestep,126.66671799999999
-Ventura,Ag Contraction: Cropland,Ag Change,2013,2014,155.80411,Normal,Iteration and Timestep,77.902055
-Ventura,Ag Contraction: Cropland,Ag Change,2015,2016,128.690148,Normal,Iteration and Timestep,64.345074
-Yolo,Ag Contraction: Cropland,Ag Change,1993,1994,1110.86307,Normal,Iteration and Timestep,555.431535
-Yolo,Ag Contraction: Cropland,Ag Change,1995,1996,286.113002,Normal,Iteration and Timestep,143.056501
-Yolo,Ag Contraction: Cropland,Ag Change,1997,1998,1316.038872,Normal,Iteration and Timestep,658.019436
-Yolo,Ag Contraction: Cropland,Ag Change,1999,2000,1015.76186,Normal,Iteration and Timestep,507.88093
-Yolo,Ag Contraction: Cropland,Ag Change,2001,2002,2023.025314,Normal,Iteration and Timestep,1011.512657
-Yolo,Ag Contraction: Cropland,Ag Change,2003,2004,771.7362019999999,Normal,Iteration and Timestep,385.86810099999997
-Yolo,Ag Contraction: Cropland,Ag Change,2005,2006,1483.5788759999998,Normal,Iteration and Timestep,741.7894379999999
-Yolo,Ag Contraction: Cropland,Ag Change,2007,2008,2513.707089,Normal,Iteration and Timestep,1256.8535445
-Yolo,Ag Contraction: Cropland,Ag Change,2009,2010,1225.591551,Normal,Iteration and Timestep,612.7957755
-Yolo,Ag Contraction: Cropland,Ag Change,2011,2012,1782.6418299999998,Normal,Iteration and Timestep,891.3209149999999
-Yolo,Ag Contraction: Cropland,Ag Change,2013,2014,951.416786,Normal,Iteration and Timestep,475.708393
-Yolo,Ag Contraction: Cropland,Ag Change,2015,2016,221.565585,Normal,Iteration and Timestep,110.7827925
-Yuba,Ag Contraction: Cropland,Ag Change,1993,1994,5.260917999999999,Normal,Iteration and Timestep,2.6304589999999997
-Yuba,Ag Contraction: Cropland,Ag Change,1995,1996,161.46971399999998,Normal,Iteration and Timestep,80.73485699999999
-Yuba,Ag Contraction: Cropland,Ag Change,1997,1998,474.494335,Normal,Iteration and Timestep,237.2471675
-Yuba,Ag Contraction: Cropland,Ag Change,1999,2000,842.151566,Normal,Iteration and Timestep,421.075783
-Yuba,Ag Contraction: Cropland,Ag Change,2001,2002,384.249357,Normal,Iteration and Timestep,192.1246785
-Yuba,Ag Contraction: Cropland,Ag Change,2003,2004,592.4603040000001,Normal,Iteration and Timestep,296.23015200000003
-Yuba,Ag Contraction: Cropland,Ag Change,2005,2006,336.091723,Normal,Iteration and Timestep,168.0458615
-Yuba,Ag Contraction: Cropland,Ag Change,2007,2008,318.487882,Normal,Iteration and Timestep,159.243941
-Yuba,Ag Contraction: Cropland,Ag Change,2009,2010,664.899098,Normal,Iteration and Timestep,332.449549
-Yuba,Ag Contraction: Cropland,Ag Change,2011,2012,93.482466,Normal,Iteration and Timestep,46.741233
-Yuba,Ag Contraction: Cropland,Ag Change,2013,2014,440.096025,Normal,Iteration and Timestep,220.0480125
-Yuba,Ag Contraction: Cropland,Ag Change,2015,2016,45.324832,Normal,Iteration and Timestep,22.662416
+Alameda,Ag Contraction,Ag Change,1993,1994,21.043672,Normal,Iteration and Timestep,10.521836
+Amador,Ag Contraction,Ag Change,1993,1994,27.720990999999998,Normal,Iteration and Timestep,13.860495499999999
+Butte,Ag Contraction,Ag Change,1993,1994,0,NA,Iteration and Timestep,NA
+Colusa,Ag Contraction,Ag Change,1993,1994,0,NA,Iteration and Timestep,NA
+Contra Costa,Ag Contraction,Ag Change,1993,1994,59.286499,Normal,Iteration and Timestep,29.6432495
+El Dorado,Ag Contraction,Ag Change,1993,1994,4.451546,Normal,Iteration and Timestep,2.225773
+Fresno,Ag Contraction,Ag Change,1993,1994,101.373843,Normal,Iteration and Timestep,50.6869215
+Glenn,Ag Contraction,Ag Change,1993,1994,36.219397,Normal,Iteration and Timestep,18.1096985
+Imperial,Ag Contraction,Ag Change,1993,1994,74.664567,Normal,Iteration and Timestep,37.3322835
+Kern,Ag Contraction,Ag Change,1993,1994,2848.9894400000003,Normal,Iteration and Timestep,1424.4947200000001
+Kings,Ag Contraction,Ag Change,1993,1994,487.848973,Normal,Iteration and Timestep,243.9244865
+Los Angeles,Ag Contraction,Ag Change,1993,1994,115.942539,Normal,Iteration and Timestep,57.9712695
+Madera,Ag Contraction,Ag Change,1993,1994,469.43576,Normal,Iteration and Timestep,234.71788
+Marin,Ag Contraction,Ag Change,1993,1994,4.04686,Normal,Iteration and Timestep,2.02343
+Mariposa,Ag Contraction,Ag Change,1993,1994,0,NA,Iteration and Timestep,NA
+Merced,Ag Contraction,Ag Change,1993,1994,1123.00365,Normal,Iteration and Timestep,561.501825
+Modoc,Ag Contraction,Ag Change,1993,1994,1138.786404,Normal,Iteration and Timestep,569.393202
+Monterey,Ag Contraction,Ag Change,1993,1994,160.862685,Normal,Iteration and Timestep,80.4313425
+Napa,Ag Contraction,Ag Change,1993,1994,49.978721,Normal,Iteration and Timestep,24.9893605
+Nevada,Ag Contraction,Ag Change,1993,1994,3.642174,Normal,Iteration and Timestep,1.821087
+Orange,Ag Contraction,Ag Change,1993,1994,17.199154999999998,Normal,Iteration and Timestep,8.599577499999999
+Placer,Ag Contraction,Ag Change,1993,1994,45.122489,Normal,Iteration and Timestep,22.5612445
+Riverside,Ag Contraction,Ag Change,1993,1994,627.870329,Normal,Iteration and Timestep,313.9351645
+Sacramento,Ag Contraction,Ag Change,1993,1994,11.533551,Normal,Iteration and Timestep,5.7667755
+San Benito,Ag Contraction,Ag Change,1993,1994,760.80968,Normal,Iteration and Timestep,380.40484
+San Bernardino,Ag Contraction,Ag Change,1993,1994,562.51354,Normal,Iteration and Timestep,281.25677
+San Diego,Ag Contraction,Ag Change,1993,1994,36.017053999999995,Normal,Iteration and Timestep,18.008526999999997
+San Joaquin,Ag Contraction,Ag Change,1993,1994,25.090532,Normal,Iteration and Timestep,12.545266
+San Luis Obispo,Ag Contraction,Ag Change,1993,1994,232.492107,Normal,Iteration and Timestep,116.2460535
+San Mateo,Ag Contraction,Ag Change,1993,1994,10.319493,Normal,Iteration and Timestep,5.1597465
+Santa Barbara,Ag Contraction,Ag Change,1993,1994,376.76266599999997,Normal,Iteration and Timestep,188.38133299999998
+Santa Clara,Ag Contraction,Ag Change,1993,1994,55.037296,Normal,Iteration and Timestep,27.518648
+Santa Cruz,Ag Contraction,Ag Change,1993,1994,41.277972,Normal,Iteration and Timestep,20.638986
+Shasta,Ag Contraction,Ag Change,1993,1994,150.340849,Normal,Iteration and Timestep,75.1704245
+Sierra Valley,Ag Contraction,Ag Change,1993,1994,0,NA,Iteration and Timestep,NA
+Siskiyou,Ag Contraction,Ag Change,1993,1994,349.851047,Normal,Iteration and Timestep,174.9255235
+Solano,Ag Contraction,Ag Change,1993,1994,229.659305,Normal,Iteration and Timestep,114.8296525
+Sonoma,Ag Contraction,Ag Change,1993,1994,28.732705999999997,Normal,Iteration and Timestep,14.366352999999998
+Stanislaus,Ag Contraction,Ag Change,1993,1994,124.440945,Normal,Iteration and Timestep,62.2204725
+Sutter,Ag Contraction,Ag Change,1993,1994,94.696524,Normal,Iteration and Timestep,47.348262
+Tehama,Ag Contraction,Ag Change,1993,1994,81.544229,Normal,Iteration and Timestep,40.7721145
+Tulare,Ag Contraction,Ag Change,1993,1994,17.806184000000002,Normal,Iteration and Timestep,8.903092000000001
+Ventura,Ag Contraction,Ag Change,1993,1994,60.298213999999994,Normal,Iteration and Timestep,30.149106999999997
+Yolo,Ag Contraction,Ag Change,1993,1994,1110.86307,Normal,Iteration and Timestep,555.431535
+Yuba,Ag Contraction,Ag Change,1993,1994,5.260917999999999,Normal,Iteration and Timestep,2.6304589999999997
+Alameda,Ag Contraction,Ag Change,1995,1996,63.738045,Normal,Iteration and Timestep,31.8690225
+Amador,Ag Contraction,Ag Change,1995,1996,5.867947,Normal,Iteration and Timestep,2.9339735
+Butte,Ag Contraction,Ag Change,1995,1996,0,NA,Iteration and Timestep,NA
+Colusa,Ag Contraction,Ag Change,1995,1996,0,NA,Iteration and Timestep,NA
+Contra Costa,Ag Contraction,Ag Change,1995,1996,54.834953,Normal,Iteration and Timestep,27.4174765
+El Dorado,Ag Contraction,Ag Change,1995,1996,15.985097,Normal,Iteration and Timestep,7.9925485
+Fresno,Ag Contraction,Ag Change,1995,1996,164.707202,Normal,Iteration and Timestep,82.353601
+Glenn,Ag Contraction,Ag Change,1995,1996,145.079931,Normal,Iteration and Timestep,72.5399655
+Imperial,Ag Contraction,Ag Change,1995,1996,70.82005,Normal,Iteration and Timestep,35.410025
+Kern,Ag Contraction,Ag Change,1995,1996,4464.698295,Normal,Iteration and Timestep,2232.3491475
+Kings,Ag Contraction,Ag Change,1995,1996,2498.733707,Normal,Iteration and Timestep,1249.3668535
+Los Angeles,Ag Contraction,Ag Change,1995,1996,146.69867499999998,Normal,Iteration and Timestep,73.34933749999999
+Madera,Ag Contraction,Ag Change,1995,1996,378.786096,Normal,Iteration and Timestep,189.393048
+Marin,Ag Contraction,Ag Change,1995,1996,0.809372,Normal,Iteration and Timestep,0.404686
+Mariposa,Ag Contraction,Ag Change,1995,1996,0,NA,Iteration and Timestep,NA
+Merced,Ag Contraction,Ag Change,1995,1996,649.318687,Normal,Iteration and Timestep,324.6593435
+Modoc,Ag Contraction,Ag Change,1995,1996,79.318456,Normal,Iteration and Timestep,39.659228
+Monterey,Ag Contraction,Ag Change,1995,1996,674.611562,Normal,Iteration and Timestep,337.305781
+Napa,Ag Contraction,Ag Change,1995,1996,1.011715,Normal,Iteration and Timestep,0.5058575
+Nevada,Ag Contraction,Ag Change,1995,1996,8.09372,Normal,Iteration and Timestep,4.04686
+Orange,Ag Contraction,Ag Change,1995,1996,6.879662,Normal,Iteration and Timestep,3.439831
+Placer,Ag Contraction,Ag Change,1995,1996,82.151258,Normal,Iteration and Timestep,41.075629
+Riverside,Ag Contraction,Ag Change,1995,1996,467.00764399999997,Normal,Iteration and Timestep,233.50382199999999
+Sacramento,Ag Contraction,Ag Change,1995,1996,188.988362,Normal,Iteration and Timestep,94.494181
+San Benito,Ag Contraction,Ag Change,1995,1996,854.4944889999999,Normal,Iteration and Timestep,427.24724449999997
+San Bernardino,Ag Contraction,Ag Change,1995,1996,226.42181699999998,Normal,Iteration and Timestep,113.21090849999999
+San Diego,Ag Contraction,Ag Change,1995,1996,430.585904,Normal,Iteration and Timestep,215.292952
+San Joaquin,Ag Contraction,Ag Change,1995,1996,142.44947200000001,Normal,Iteration and Timestep,71.22473600000001
+San Luis Obispo,Ag Contraction,Ag Change,1995,1996,329.616747,Normal,Iteration and Timestep,164.8083735
+San Mateo,Ag Contraction,Ag Change,1995,1996,0,NA,Iteration and Timestep,NA
+Santa Barbara,Ag Contraction,Ag Change,1995,1996,501.81064,Normal,Iteration and Timestep,250.90532
+Santa Clara,Ag Contraction,Ag Change,1995,1996,13.961667,Normal,Iteration and Timestep,6.9808335
+Santa Cruz,Ag Contraction,Ag Change,1995,1996,4.451546,Normal,Iteration and Timestep,2.225773
+Shasta,Ag Contraction,Ag Change,1995,1996,79.723142,Normal,Iteration and Timestep,39.861571
+Sierra Valley,Ag Contraction,Ag Change,1995,1996,0,NA,Iteration and Timestep,NA
+Siskiyou,Ag Contraction,Ag Change,1995,1996,0,NA,Iteration and Timestep,NA
+Solano,Ag Contraction,Ag Change,1995,1996,62.321644,Normal,Iteration and Timestep,31.160822
+Sonoma,Ag Contraction,Ag Change,1995,1996,4.04686,Normal,Iteration and Timestep,2.02343
+Stanislaus,Ag Contraction,Ag Change,1995,1996,219.744498,Normal,Iteration and Timestep,109.872249
+Sutter,Ag Contraction,Ag Change,1995,1996,231.885078,Normal,Iteration and Timestep,115.942539
+Tehama,Ag Contraction,Ag Change,1995,1996,124.845631,Normal,Iteration and Timestep,62.4228155
+Tulare,Ag Contraction,Ag Change,1995,1996,26.30459,Normal,Iteration and Timestep,13.152295
+Ventura,Ag Contraction,Ag Change,1995,1996,143.461187,Normal,Iteration and Timestep,71.7305935
+Yolo,Ag Contraction,Ag Change,1995,1996,286.113002,Normal,Iteration and Timestep,143.056501
+Yuba,Ag Contraction,Ag Change,1995,1996,161.46971399999998,Normal,Iteration and Timestep,80.73485699999999
+Alameda,Ag Contraction,Ag Change,1997,1998,25.697561,Normal,Iteration and Timestep,12.8487805
+Amador,Ag Contraction,Ag Change,1997,1998,176.847782,Normal,Iteration and Timestep,88.423891
+Butte,Ag Contraction,Ag Change,1997,1998,0,NA,Iteration and Timestep,NA
+Colusa,Ag Contraction,Ag Change,1997,1998,0,NA,Iteration and Timestep,NA
+Contra Costa,Ag Contraction,Ag Change,1997,1998,47.752947999999996,Normal,Iteration and Timestep,23.876473999999998
+El Dorado,Ag Contraction,Ag Change,1997,1998,17.603841000000003,Normal,Iteration and Timestep,8.801920500000001
+Fresno,Ag Contraction,Ag Change,1997,1998,1476.092185,Normal,Iteration and Timestep,738.0460925
+Glenn,Ag Contraction,Ag Change,1997,1998,243.216286,Normal,Iteration and Timestep,121.608143
+Imperial,Ag Contraction,Ag Change,1997,1998,175.229038,Normal,Iteration and Timestep,87.614519
+Kern,Ag Contraction,Ag Change,1997,1998,2212.216019,Normal,Iteration and Timestep,1106.1080095
+Kings,Ag Contraction,Ag Change,1997,1998,2042.450242,Normal,Iteration and Timestep,1021.225121
+Lake,Ag Contraction,Ag Change,1997,1998,318.083196,Normal,Iteration and Timestep,159.041598
+Los Angeles,Ag Contraction,Ag Change,1997,1998,454.057692,Normal,Iteration and Timestep,227.028846
+Madera,Ag Contraction,Ag Change,1997,1998,1349.020781,Normal,Iteration and Timestep,674.5103905
+Marin,Ag Contraction,Ag Change,1997,1998,159.85097,Normal,Iteration and Timestep,79.925485
+Mariposa,Ag Contraction,Ag Change,1997,1998,0,NA,Iteration and Timestep,NA
+Merced,Ag Contraction,Ag Change,1997,1998,1565.527791,Normal,Iteration and Timestep,782.7638955
+Modoc,Ag Contraction,Ag Change,1997,1998,1.214058,Normal,Iteration and Timestep,0.607029
+Monterey,Ag Contraction,Ag Change,1997,1998,1066.34761,Normal,Iteration and Timestep,533.173805
+Napa,Ag Contraction,Ag Change,1997,1998,129.297177,Normal,Iteration and Timestep,64.6485885
+Nevada,Ag Contraction,Ag Change,1997,1998,44.51546,Normal,Iteration and Timestep,22.25773
+Orange,Ag Contraction,Ag Change,1997,1998,62.523987,Normal,Iteration and Timestep,31.2619935
+Placer,Ag Contraction,Ag Change,1997,1998,204.36643,Normal,Iteration and Timestep,102.183215
+Riverside,Ag Contraction,Ag Change,1997,1998,814.632918,Normal,Iteration and Timestep,407.316459
+Sacramento,Ag Contraction,Ag Change,1997,1998,719.7340509999999,Normal,Iteration and Timestep,359.86702549999995
+San Benito,Ag Contraction,Ag Change,1997,1998,518.807452,Normal,Iteration and Timestep,259.403726
+San Bernardino,Ag Contraction,Ag Change,1997,1998,315.25039400000003,Normal,Iteration and Timestep,157.62519700000001
+San Diego,Ag Contraction,Ag Change,1997,1998,107.444133,Normal,Iteration and Timestep,53.7220665
+San Joaquin,Ag Contraction,Ag Change,1997,1998,984.803381,Normal,Iteration and Timestep,492.4016905
+San Luis Obispo,Ag Contraction,Ag Change,1997,1998,231.27804899999998,Normal,Iteration and Timestep,115.63902449999999
+San Mateo,Ag Contraction,Ag Change,1997,1998,24.078817,Normal,Iteration and Timestep,12.0394085
+Santa Barbara,Ag Contraction,Ag Change,1997,1998,1220.532976,Normal,Iteration and Timestep,610.266488
+Santa Clara,Ag Contraction,Ag Change,1997,1998,308.370732,Normal,Iteration and Timestep,154.185366
+Santa Cruz,Ag Contraction,Ag Change,1997,1998,21.246015,Normal,Iteration and Timestep,10.6230075
+Shasta,Ag Contraction,Ag Change,1997,1998,342.162013,Normal,Iteration and Timestep,171.0810065
+Sierra Valley,Ag Contraction,Ag Change,1997,1998,69.403649,Normal,Iteration and Timestep,34.7018245
+Siskiyou,Ag Contraction,Ag Change,1997,1998,124.440945,Normal,Iteration and Timestep,62.2204725
+Solano,Ag Contraction,Ag Change,1997,1998,374.132207,Normal,Iteration and Timestep,187.0661035
+Sonoma,Ag Contraction,Ag Change,1997,1998,170.575149,Normal,Iteration and Timestep,85.2875745
+Stanislaus,Ag Contraction,Ag Change,1997,1998,1402.4393329999998,Normal,Iteration and Timestep,701.2196664999999
+Sutter,Ag Contraction,Ag Change,1997,1998,272.353678,Normal,Iteration and Timestep,136.176839
+Tehama,Ag Contraction,Ag Change,1997,1998,49.978721,Normal,Iteration and Timestep,24.9893605
+Tulare,Ag Contraction,Ag Change,1997,1998,384.047014,Normal,Iteration and Timestep,192.023507
+Ventura,Ag Contraction,Ag Change,1997,1998,107.84881899999999,Normal,Iteration and Timestep,53.924409499999996
+Yolo,Ag Contraction,Ag Change,1997,1998,1316.038872,Normal,Iteration and Timestep,658.019436
+Yuba,Ag Contraction,Ag Change,1997,1998,474.494335,Normal,Iteration and Timestep,237.2471675
+Alameda,Ag Contraction,Ag Change,1999,2000,169.36109100000002,Normal,Iteration and Timestep,84.68054550000001
+Amador,Ag Contraction,Ag Change,1999,2000,55.441982,Normal,Iteration and Timestep,27.720991
+Butte,Ag Contraction,Ag Change,1999,2000,6479.02286,Normal,Iteration and Timestep,3239.51143
+Colusa,Ag Contraction,Ag Change,1999,2000,893.344345,Normal,Iteration and Timestep,446.6721725
+Contra Costa,Ag Contraction,Ag Change,1999,2000,43.706088,Normal,Iteration and Timestep,21.853044
+El Dorado,Ag Contraction,Ag Change,1999,2000,6.474976,Normal,Iteration and Timestep,3.237488
+Fresno,Ag Contraction,Ag Change,1999,2000,94.089495,Normal,Iteration and Timestep,47.0447475
+Glenn,Ag Contraction,Ag Change,1999,2000,143.865873,Normal,Iteration and Timestep,71.9329365
+Imperial,Ag Contraction,Ag Change,1999,2000,149.126791,Normal,Iteration and Timestep,74.5633955
+Kern,Ag Contraction,Ag Change,1999,2000,3617.2858109999997,Normal,Iteration and Timestep,1808.6429054999999
+Kings,Ag Contraction,Ag Change,1999,2000,272.353678,Normal,Iteration and Timestep,136.176839
+Lake,Ag Contraction,Ag Change,1999,2000,24.28116,Normal,Iteration and Timestep,12.14058
+Los Angeles,Ag Contraction,Ag Change,1999,2000,322.13005599999997,Normal,Iteration and Timestep,161.06502799999998
+Madera,Ag Contraction,Ag Change,1999,2000,884.6435959999999,Normal,Iteration and Timestep,442.32179799999994
+Marin,Ag Contraction,Ag Change,1999,2000,44.313117,Normal,Iteration and Timestep,22.1565585
+Mariposa,Ag Contraction,Ag Change,1999,2000,0,NA,Iteration and Timestep,NA
+Merced,Ag Contraction,Ag Change,1999,2000,1136.358288,Normal,Iteration and Timestep,568.179144
+Modoc,Ag Contraction,Ag Change,1999,2000,249.48891899999998,Normal,Iteration and Timestep,124.74445949999999
+Monterey,Ag Contraction,Ag Change,1999,2000,826.975841,Normal,Iteration and Timestep,413.4879205
+Napa,Ag Contraction,Ag Change,1999,2000,91.459036,Normal,Iteration and Timestep,45.729518
+Nevada,Ag Contraction,Ag Change,1999,2000,65.15444600000001,Normal,Iteration and Timestep,32.577223000000004
+Orange,Ag Contraction,Ag Change,1999,2000,62.72633,Normal,Iteration and Timestep,31.363165
+Placer,Ag Contraction,Ag Change,1999,2000,277.41225299999996,Normal,Iteration and Timestep,138.70612649999998
+Riverside,Ag Contraction,Ag Change,1999,2000,1648.8931069999999,Normal,Iteration and Timestep,824.4465534999999
+Sacramento,Ag Contraction,Ag Change,1999,2000,139.61667,Normal,Iteration and Timestep,69.808335
+San Benito,Ag Contraction,Ag Change,1999,2000,514.153563,Normal,Iteration and Timestep,257.0767815
+San Bernardino,Ag Contraction,Ag Change,1999,2000,1098.924833,Normal,Iteration and Timestep,549.4624165
+San Diego,Ag Contraction,Ag Change,1999,2000,2514.314118,Normal,Iteration and Timestep,1257.157059
+San Joaquin,Ag Contraction,Ag Change,1999,2000,288.945804,Normal,Iteration and Timestep,144.472902
+San Luis Obispo,Ag Contraction,Ag Change,1999,2000,703.3442679999999,Normal,Iteration and Timestep,351.67213399999997
+San Mateo,Ag Contraction,Ag Change,1999,2000,0,NA,Iteration and Timestep,NA
+Santa Barbara,Ag Contraction,Ag Change,1999,2000,635.964049,Normal,Iteration and Timestep,317.9820245
+Santa Clara,Ag Contraction,Ag Change,1999,2000,147.103361,Normal,Iteration and Timestep,73.5516805
+Santa Cruz,Ag Contraction,Ag Change,1999,2000,18.413213,Normal,Iteration and Timestep,9.2066065
+Shasta,Ag Contraction,Ag Change,1999,2000,243.620972,Normal,Iteration and Timestep,121.810486
+Sierra Valley,Ag Contraction,Ag Change,1999,2000,31.970194,Normal,Iteration and Timestep,15.985097
+Siskiyou,Ag Contraction,Ag Change,1999,2000,41.075629,Normal,Iteration and Timestep,20.5378145
+Solano,Ag Contraction,Ag Change,1999,2000,584.973613,Normal,Iteration and Timestep,292.4868065
+Sonoma,Ag Contraction,Ag Change,1999,2000,840.532822,Normal,Iteration and Timestep,420.266411
+Stanislaus,Ag Contraction,Ag Change,1999,2000,372.715806,Normal,Iteration and Timestep,186.357903
+Sutter,Ag Contraction,Ag Change,1999,2000,1338.094259,Normal,Iteration and Timestep,669.0471295
+Tehama,Ag Contraction,Ag Change,1999,2000,500.798925,Normal,Iteration and Timestep,250.3994625
+Tulare,Ag Contraction,Ag Change,1999,2000,132.737008,Normal,Iteration and Timestep,66.368504
+Ventura,Ag Contraction,Ag Change,1999,2000,27.113961999999997,Normal,Iteration and Timestep,13.556980999999999
+Yolo,Ag Contraction,Ag Change,1999,2000,1015.76186,Normal,Iteration and Timestep,507.88093
+Yuba,Ag Contraction,Ag Change,1999,2000,842.151566,Normal,Iteration and Timestep,421.075783
+Alameda,Ag Contraction,Ag Change,2001,2002,158.43456899999998,Normal,Iteration and Timestep,79.21728449999999
+Amador,Ag Contraction,Ag Change,2001,2002,174.419666,Normal,Iteration and Timestep,87.209833
+Butte,Ag Contraction,Ag Change,2001,2002,4615.848516,Normal,Iteration and Timestep,2307.924258
+Colusa,Ag Contraction,Ag Change,2001,2002,101.1715,Normal,Iteration and Timestep,50.58575
+Contra Costa,Ag Contraction,Ag Change,2001,2002,260.213098,Normal,Iteration and Timestep,130.106549
+El Dorado,Ag Contraction,Ag Change,2001,2002,228.040561,Normal,Iteration and Timestep,114.0202805
+Fresno,Ag Contraction,Ag Change,2001,2002,291.980949,Normal,Iteration and Timestep,145.9904745
+Glenn,Ag Contraction,Ag Change,2001,2002,853.280431,Normal,Iteration and Timestep,426.6402155
+Imperial,Ag Contraction,Ag Change,2001,2002,343.578414,Normal,Iteration and Timestep,171.789207
+Kern,Ag Contraction,Ag Change,2001,2002,1447.7641649999998,Normal,Iteration and Timestep,723.8820824999999
+Kings,Ag Contraction,Ag Change,2001,2002,261.629499,Normal,Iteration and Timestep,130.8147495
+Lake,Ag Contraction,Ag Change,2001,2002,266.485731,Normal,Iteration and Timestep,133.2428655
+Los Angeles,Ag Contraction,Ag Change,2001,2002,965.3784529999999,Normal,Iteration and Timestep,482.68922649999996
+Madera,Ag Contraction,Ag Change,2001,2002,1214.058,Normal,Iteration and Timestep,607.029
+Marin,Ag Contraction,Ag Change,2001,2002,156.411139,Normal,Iteration and Timestep,78.2055695
+Mariposa,Ag Contraction,Ag Change,2001,2002,16.389782999999998,Normal,Iteration and Timestep,8.194891499999999
+Merced,Ag Contraction,Ag Change,2001,2002,1032.9610149999999,Normal,Iteration and Timestep,516.4805074999999
+Modoc,Ag Contraction,Ag Change,2001,2002,378.786096,Normal,Iteration and Timestep,189.393048
+Monterey,Ag Contraction,Ag Change,2001,2002,469.638103,Normal,Iteration and Timestep,234.8190515
+Napa,Ag Contraction,Ag Change,2001,2002,1131.906742,Normal,Iteration and Timestep,565.953371
+Nevada,Ag Contraction,Ag Change,2001,2002,449.80848899999995,Normal,Iteration and Timestep,224.90424449999998
+Orange,Ag Contraction,Ag Change,2001,2002,254.547494,Normal,Iteration and Timestep,127.273747
+Placer,Ag Contraction,Ag Change,2001,2002,249.286576,Normal,Iteration and Timestep,124.643288
+Riverside,Ag Contraction,Ag Change,2001,2002,3292.7276389999997,Normal,Iteration and Timestep,1646.3638194999999
+Sacramento,Ag Contraction,Ag Change,2001,2002,552.39639,Normal,Iteration and Timestep,276.198195
+San Benito,Ag Contraction,Ag Change,2001,2002,1395.762014,Normal,Iteration and Timestep,697.881007
+San Bernardino,Ag Contraction,Ag Change,2001,2002,1326.965394,Normal,Iteration and Timestep,663.482697
+San Diego,Ag Contraction,Ag Change,2001,2002,383.237642,Normal,Iteration and Timestep,191.618821
+San Joaquin,Ag Contraction,Ag Change,2001,2002,141.033071,Normal,Iteration and Timestep,70.5165355
+San Luis Obispo,Ag Contraction,Ag Change,2001,2002,1225.186865,Normal,Iteration and Timestep,612.5934325
+San Mateo,Ag Contraction,Ag Change,2001,2002,190.809449,Normal,Iteration and Timestep,95.4047245
+Santa Barbara,Ag Contraction,Ag Change,2001,2002,2030.512005,Normal,Iteration and Timestep,1015.2560025
+Santa Clara,Ag Contraction,Ag Change,2001,2002,389.712618,Normal,Iteration and Timestep,194.856309
+Santa Cruz,Ag Contraction,Ag Change,2001,2002,311.60822,Normal,Iteration and Timestep,155.80411
+Shasta,Ag Contraction,Ag Change,2001,2002,584.568927,Normal,Iteration and Timestep,292.2844635
+Sierra Valley,Ag Contraction,Ag Change,2001,2002,5.058574999999999,Normal,Iteration and Timestep,2.5292874999999997
+Siskiyou,Ag Contraction,Ag Change,2001,2002,802.4923379999999,Normal,Iteration and Timestep,401.24616899999995
+Solano,Ag Contraction,Ag Change,2001,2002,1408.104937,Normal,Iteration and Timestep,704.0524685
+Sonoma,Ag Contraction,Ag Change,2001,2002,3361.7266019999997,Normal,Iteration and Timestep,1680.8633009999999
+Stanislaus,Ag Contraction,Ag Change,2001,2002,1594.665183,Normal,Iteration and Timestep,797.3325915
+Sutter,Ag Contraction,Ag Change,2001,2002,1263.632035,Normal,Iteration and Timestep,631.8160175
+Tehama,Ag Contraction,Ag Change,2001,2002,235.931938,Normal,Iteration and Timestep,117.965969
+Tulare,Ag Contraction,Ag Change,2001,2002,1750.469293,Normal,Iteration and Timestep,875.2346465
+Ventura,Ag Contraction,Ag Change,2001,2002,1270.916383,Normal,Iteration and Timestep,635.4581915
+Yolo,Ag Contraction,Ag Change,2001,2002,2023.025314,Normal,Iteration and Timestep,1011.512657
+Yuba,Ag Contraction,Ag Change,2001,2002,384.249357,Normal,Iteration and Timestep,192.1246785
+Alameda,Ag Contraction,Ag Change,2003,2004,181.501671,Normal,Iteration and Timestep,90.7508355
+Amador,Ag Contraction,Ag Change,2003,2004,214.078894,Normal,Iteration and Timestep,107.039447
+Butte,Ag Contraction,Ag Change,2003,2004,0,NA,Iteration and Timestep,NA
+Colusa,Ag Contraction,Ag Change,2003,2004,595.900135,Normal,Iteration and Timestep,297.9500675
+Contra Costa,Ag Contraction,Ag Change,2003,2004,394.97353599999997,Normal,Iteration and Timestep,197.48676799999998
+El Dorado,Ag Contraction,Ag Change,2003,2004,232.69445,Normal,Iteration and Timestep,116.347225
+Fresno,Ag Contraction,Ag Change,2003,2004,1038.424276,Normal,Iteration and Timestep,519.212138
+Glenn,Ag Contraction,Ag Change,2003,2004,231.075706,Normal,Iteration and Timestep,115.537853
+Imperial,Ag Contraction,Ag Change,2003,2004,1505.836606,Normal,Iteration and Timestep,752.918303
+Kern,Ag Contraction,Ag Change,2003,2004,2276.561093,Normal,Iteration and Timestep,1138.2805465
+Kings,Ag Contraction,Ag Change,2003,2004,780.841637,Normal,Iteration and Timestep,390.4208185
+Lake,Ag Contraction,Ag Change,2003,2004,29.744421,Normal,Iteration and Timestep,14.8722105
+Los Angeles,Ag Contraction,Ag Change,2003,2004,297.03952400000003,Normal,Iteration and Timestep,148.51976200000001
+Madera,Ag Contraction,Ag Change,2003,2004,887.274055,Normal,Iteration and Timestep,443.6370275
+Marin,Ag Contraction,Ag Change,2003,2004,126.26203199999999,Normal,Iteration and Timestep,63.131015999999995
+Mariposa,Ag Contraction,Ag Change,2003,2004,11.533551,Normal,Iteration and Timestep,5.7667755
+Merced,Ag Contraction,Ag Change,2003,2004,481.373997,Normal,Iteration and Timestep,240.6869985
+Modoc,Ag Contraction,Ag Change,2003,2004,86.40046099999999,Normal,Iteration and Timestep,43.200230499999996
+Monterey,Ag Contraction,Ag Change,2003,2004,342.364356,Normal,Iteration and Timestep,171.182178
+Napa,Ag Contraction,Ag Change,2003,2004,116.144882,Normal,Iteration and Timestep,58.072441
+Nevada,Ag Contraction,Ag Change,2003,2004,323.951143,Normal,Iteration and Timestep,161.9755715
+Orange,Ag Contraction,Ag Change,2003,2004,51.597465,Normal,Iteration and Timestep,25.7987325
+Placer,Ag Contraction,Ag Change,2003,2004,152.161936,Normal,Iteration and Timestep,76.080968
+Riverside,Ag Contraction,Ag Change,2003,2004,1030.735242,Normal,Iteration and Timestep,515.367621
+Sacramento,Ag Contraction,Ag Change,2003,2004,325.974573,Normal,Iteration and Timestep,162.9872865
+San Benito,Ag Contraction,Ag Change,2003,2004,1248.8609959999999,Normal,Iteration and Timestep,624.43049799999994
+San Bernardino,Ag Contraction,Ag Change,2003,2004,450.41551799999996,Normal,Iteration and Timestep,225.20775899999998
+San Diego,Ag Contraction,Ag Change,2003,2004,484.409142,Normal,Iteration and Timestep,242.204571
+San Joaquin,Ag Contraction,Ag Change,2003,2004,136.176839,Normal,Iteration and Timestep,68.0884195
+San Luis Obispo,Ag Contraction,Ag Change,2003,2004,1279.212446,Normal,Iteration and Timestep,639.606223
+San Mateo,Ag Contraction,Ag Change,2003,2004,25.495218,Normal,Iteration and Timestep,12.747609
+Santa Barbara,Ag Contraction,Ag Change,2003,2004,407.114116,Normal,Iteration and Timestep,203.557058
+Santa Clara,Ag Contraction,Ag Change,2003,2004,511.320761,Normal,Iteration and Timestep,255.6603805
+Santa Cruz,Ag Contraction,Ag Change,2003,2004,150.138506,Normal,Iteration and Timestep,75.069253
+Shasta,Ag Contraction,Ag Change,2003,2004,305.133244,Normal,Iteration and Timestep,152.566622
+Sierra Valley,Ag Contraction,Ag Change,2003,2004,35.005339,Normal,Iteration and Timestep,17.5026695
+Siskiyou,Ag Contraction,Ag Change,2003,2004,4813.335284,Normal,Iteration and Timestep,2406.667642
+Solano,Ag Contraction,Ag Change,2003,2004,675.420934,Normal,Iteration and Timestep,337.710467
+Sonoma,Ag Contraction,Ag Change,2003,2004,85.388746,Normal,Iteration and Timestep,42.694373
+Stanislaus,Ag Contraction,Ag Change,2003,2004,886.059997,Normal,Iteration and Timestep,443.0299985
+Sutter,Ag Contraction,Ag Change,2003,2004,517.188708,Normal,Iteration and Timestep,258.594354
+Tehama,Ag Contraction,Ag Change,2003,2004,1112.8865,Normal,Iteration and Timestep,556.44325
+Tulare,Ag Contraction,Ag Change,2003,2004,551.182332,Normal,Iteration and Timestep,275.591166
+Ventura,Ag Contraction,Ag Change,2003,2004,284.696601,Normal,Iteration and Timestep,142.3483005
+Yolo,Ag Contraction,Ag Change,2003,2004,771.7362019999999,Normal,Iteration and Timestep,385.86810099999997
+Yuba,Ag Contraction,Ag Change,2003,2004,592.4603040000001,Normal,Iteration and Timestep,296.23015200000003
+Alameda,Ag Contraction,Ag Change,2005,2006,161.8744,Normal,Iteration and Timestep,80.9372
+Amador,Ag Contraction,Ag Change,2005,2006,171.586864,Normal,Iteration and Timestep,85.793432
+Butte,Ag Contraction,Ag Change,2005,2006,706.17707,Normal,Iteration and Timestep,353.088535
+Colusa,Ag Contraction,Ag Change,2005,2006,557.859651,Normal,Iteration and Timestep,278.9298255
+Contra Costa,Ag Contraction,Ag Change,2005,2006,377.774381,Normal,Iteration and Timestep,188.8871905
+El Dorado,Ag Contraction,Ag Change,2005,2006,193.439908,Normal,Iteration and Timestep,96.719954
+Fresno,Ag Contraction,Ag Change,2005,2006,1007.2634539999999,Normal,Iteration and Timestep,503.63172699999996
+Glenn,Ag Contraction,Ag Change,2005,2006,335.687037,Normal,Iteration and Timestep,167.8435185
+Imperial,Ag Contraction,Ag Change,2005,2006,426.539044,Normal,Iteration and Timestep,213.269522
+Kern,Ag Contraction,Ag Change,2005,2006,1818.8612269999999,Normal,Iteration and Timestep,909.4306134999999
+Kings,Ag Contraction,Ag Change,2005,2006,2613.462188,Normal,Iteration and Timestep,1306.731094
+Lake,Ag Contraction,Ag Change,2005,2006,260.820127,Normal,Iteration and Timestep,130.4100635
+Los Angeles,Ag Contraction,Ag Change,2005,2006,497.966123,Normal,Iteration and Timestep,248.9830615
+Madera,Ag Contraction,Ag Change,2005,2006,783.269753,Normal,Iteration and Timestep,391.6348765
+Marin,Ag Contraction,Ag Change,2005,2006,60.298213999999994,Normal,Iteration and Timestep,30.149106999999997
+Mariposa,Ag Contraction,Ag Change,2005,2006,21.043672,Normal,Iteration and Timestep,10.521836
+Mendocino,Ag Contraction,Ag Change,2005,2006,0,NA,Iteration and Timestep,NA
+Merced,Ag Contraction,Ag Change,2005,2006,538.434723,Normal,Iteration and Timestep,269.2173615
+Modoc,Ag Contraction,Ag Change,2005,2006,1838.488498,Normal,Iteration and Timestep,919.244249
+Monterey,Ag Contraction,Ag Change,2005,2006,1173.5894,Normal,Iteration and Timestep,586.7947
+Napa,Ag Contraction,Ag Change,2005,2006,531.150375,Normal,Iteration and Timestep,265.5751875
+Nevada,Ag Contraction,Ag Change,2005,2006,142.44947200000001,Normal,Iteration and Timestep,71.22473600000001
+Orange,Ag Contraction,Ag Change,2005,2006,255.356866,Normal,Iteration and Timestep,127.678433
+Placer,Ag Contraction,Ag Change,2005,2006,413.386749,Normal,Iteration and Timestep,206.6933745
+Riverside,Ag Contraction,Ag Change,2005,2006,2365.592013,Normal,Iteration and Timestep,1182.7960065
+Sacramento,Ag Contraction,Ag Change,2005,2006,821.310237,Normal,Iteration and Timestep,410.6551185
+San Benito,Ag Contraction,Ag Change,2005,2006,894.7607459999999,Normal,Iteration and Timestep,447.38037299999996
+San Bernardino,Ag Contraction,Ag Change,2005,2006,842.9609379999999,Normal,Iteration and Timestep,421.48046899999997
+San Diego,Ag Contraction,Ag Change,2005,2006,392.343077,Normal,Iteration and Timestep,196.1715385
+San Joaquin,Ag Contraction,Ag Change,2005,2006,600.149338,Normal,Iteration and Timestep,300.074669
+San Luis Obispo,Ag Contraction,Ag Change,2005,2006,2010.8847339999998,Normal,Iteration and Timestep,1005.4423669999999
+San Mateo,Ag Contraction,Ag Change,2005,2006,156.411139,Normal,Iteration and Timestep,78.2055695
+Santa Barbara,Ag Contraction,Ag Change,2005,2006,714.068447,Normal,Iteration and Timestep,357.0342235
+Santa Clara,Ag Contraction,Ag Change,2005,2006,1150.319955,Normal,Iteration and Timestep,575.1599775
+Santa Cruz,Ag Contraction,Ag Change,2005,2006,434.835107,Normal,Iteration and Timestep,217.4175535
+Shasta,Ag Contraction,Ag Change,2005,2006,662.268639,Normal,Iteration and Timestep,331.1343195
+Sierra Valley,Ag Contraction,Ag Change,2005,2006,1.618744,Normal,Iteration and Timestep,0.809372
+Siskiyou,Ag Contraction,Ag Change,2005,2006,117.965969,Normal,Iteration and Timestep,58.9829845
+Solano,Ag Contraction,Ag Change,2005,2006,702.13021,Normal,Iteration and Timestep,351.065105
+Sonoma,Ag Contraction,Ag Change,2005,2006,372.715806,Normal,Iteration and Timestep,186.357903
+Stanislaus,Ag Contraction,Ag Change,2005,2006,1284.473364,Normal,Iteration and Timestep,642.236682
+Sutter,Ag Contraction,Ag Change,2005,2006,321.72537,Normal,Iteration and Timestep,160.862685
+Tehama,Ag Contraction,Ag Change,2005,2006,313.226964,Normal,Iteration and Timestep,156.613482
+Tulare,Ag Contraction,Ag Change,2005,2006,1259.382832,Normal,Iteration and Timestep,629.691416
+Ventura,Ag Contraction,Ag Change,2005,2006,533.173805,Normal,Iteration and Timestep,266.5869025
+Yolo,Ag Contraction,Ag Change,2005,2006,1483.5788759999998,Normal,Iteration and Timestep,741.7894379999999
+Yuba,Ag Contraction,Ag Change,2005,2006,336.091723,Normal,Iteration and Timestep,168.0458615
+Alameda,Ag Contraction,Ag Change,2007,2008,214.28123699999998,Normal,Iteration and Timestep,107.14061849999999
+Amador,Ag Contraction,Ag Change,2007,2008,36.017054,Normal,Iteration and Timestep,18.008527
+Butte,Ag Contraction,Ag Change,2007,2008,548.7542159999999,Normal,Iteration and Timestep,274.37710799999996
+Colusa,Ag Contraction,Ag Change,2007,2008,596.1024779999999,Normal,Iteration and Timestep,298.05123899999995
+Contra Costa,Ag Contraction,Ag Change,2007,2008,350.458076,Normal,Iteration and Timestep,175.229038
+El Dorado,Ag Contraction,Ag Change,2007,2008,165.516574,Normal,Iteration and Timestep,82.758287
+Fresno,Ag Contraction,Ag Change,2007,2008,946.762897,Normal,Iteration and Timestep,473.3814485
+Glenn,Ag Contraction,Ag Change,2007,2008,203.15237199999999,Normal,Iteration and Timestep,101.57618599999999
+Imperial,Ag Contraction,Ag Change,2007,2008,415.00549299999994,Normal,Iteration and Timestep,207.50274649999997
+Kern,Ag Contraction,Ag Change,2007,2008,6265.9556809999995,Normal,Iteration and Timestep,3132.9778404999997
+Kings,Ag Contraction,Ag Change,2007,2008,4658.542888999999,Normal,Iteration and Timestep,2329.2714444999997
+Lake,Ag Contraction,Ag Change,2007,2008,211.853121,Normal,Iteration and Timestep,105.9265605
+Los Angeles,Ag Contraction,Ag Change,2007,2008,846.603112,Normal,Iteration and Timestep,423.301556
+Madera,Ag Contraction,Ag Change,2007,2008,838.307049,Normal,Iteration and Timestep,419.1535245
+Marin,Ag Contraction,Ag Change,2007,2008,93.07777999999999,Normal,Iteration and Timestep,46.538889999999995
+Mariposa,Ag Contraction,Ag Change,2007,2008,0,NA,Iteration and Timestep,NA
+Mendocino,Ag Contraction,Ag Change,2007,2008,11.533551000000001,Normal,Iteration and Timestep,5.7667755000000005
+Merced,Ag Contraction,Ag Change,2007,2008,450.617861,Normal,Iteration and Timestep,225.3089305
+Modoc,Ag Contraction,Ag Change,2007,2008,216.304667,Normal,Iteration and Timestep,108.1523335
+Monterey,Ag Contraction,Ag Change,2007,2008,427.348416,Normal,Iteration and Timestep,213.674208
+Napa,Ag Contraction,Ag Change,2007,2008,264.664644,Normal,Iteration and Timestep,132.332322
+Nevada,Ag Contraction,Ag Change,2007,2008,335.282351,Normal,Iteration and Timestep,167.6411755
+Orange,Ag Contraction,Ag Change,2007,2008,498.573152,Normal,Iteration and Timestep,249.286576
+Placer,Ag Contraction,Ag Change,2007,2008,1235.1016719999998,Normal,Iteration and Timestep,617.5508359999999
+Riverside,Ag Contraction,Ag Change,2007,2008,237.348339,Normal,Iteration and Timestep,118.6741695
+Sacramento,Ag Contraction,Ag Change,2007,2008,314.845708,Normal,Iteration and Timestep,157.422854
+San Benito,Ag Contraction,Ag Change,2007,2008,1714.8569249999998,Normal,Iteration and Timestep,857.4284624999999
+San Bernardino,Ag Contraction,Ag Change,2007,2008,942.7160369999999,Normal,Iteration and Timestep,471.35801849999996
+San Diego,Ag Contraction,Ag Change,2007,2008,664.0897259999999,Normal,Iteration and Timestep,332.04486299999996
+San Joaquin,Ag Contraction,Ag Change,2007,2008,1023.653237,Normal,Iteration and Timestep,511.8266185
+San Luis Obispo,Ag Contraction,Ag Change,2007,2008,484.206799,Normal,Iteration and Timestep,242.1033995
+San Mateo,Ag Contraction,Ag Change,2007,2008,646.283542,Normal,Iteration and Timestep,323.141771
+Santa Barbara,Ag Contraction,Ag Change,2007,2008,1928.3287899999998,Normal,Iteration and Timestep,964.1643949999999
+Santa Clara,Ag Contraction,Ag Change,2007,2008,498.168466,Normal,Iteration and Timestep,249.084233
+Santa Cruz,Ag Contraction,Ag Change,2007,2008,211.043749,Normal,Iteration and Timestep,105.5218745
+Shasta,Ag Contraction,Ag Change,2007,2008,714.068447,Normal,Iteration and Timestep,357.0342235
+Sierra Valley,Ag Contraction,Ag Change,2007,2008,207.603918,Normal,Iteration and Timestep,103.801959
+Siskiyou,Ag Contraction,Ag Change,2007,2008,1842.940044,Normal,Iteration and Timestep,921.470022
+Solano,Ag Contraction,Ag Change,2007,2008,965.17611,Normal,Iteration and Timestep,482.588055
+Sonoma,Ag Contraction,Ag Change,2007,2008,328.20034599999997,Normal,Iteration and Timestep,164.10017299999998
+Stanislaus,Ag Contraction,Ag Change,2007,2008,917.625505,Normal,Iteration and Timestep,458.8127525
+Sutter,Ag Contraction,Ag Change,2007,2008,522.449626,Normal,Iteration and Timestep,261.224813
+Tehama,Ag Contraction,Ag Change,2007,2008,212.46015,Normal,Iteration and Timestep,106.230075
+Tulare,Ag Contraction,Ag Change,2007,2008,884.441253,Normal,Iteration and Timestep,442.2206265
+Ventura,Ag Contraction,Ag Change,2007,2008,485.825543,Normal,Iteration and Timestep,242.9127715
+Yolo,Ag Contraction,Ag Change,2007,2008,2513.707089,Normal,Iteration and Timestep,1256.8535445
+Yuba,Ag Contraction,Ag Change,2007,2008,318.487882,Normal,Iteration and Timestep,159.243941
+Alameda,Ag Contraction,Ag Change,2009,2010,49.978721,Normal,Iteration and Timestep,24.9893605
+Amador,Ag Contraction,Ag Change,2009,2010,148.317419,Normal,Iteration and Timestep,74.1587095
+Butte,Ag Contraction,Ag Change,2009,2010,801.682966,Normal,Iteration and Timestep,400.841483
+Colusa,Ag Contraction,Ag Change,2009,2010,292.587978,Normal,Iteration and Timestep,146.293989
+Contra Costa,Ag Contraction,Ag Change,2009,2010,146.901018,Normal,Iteration and Timestep,73.450509
+El Dorado,Ag Contraction,Ag Change,2009,2010,179.478241,Normal,Iteration and Timestep,89.7391205
+Fresno,Ag Contraction,Ag Change,2009,2010,1019.404034,Normal,Iteration and Timestep,509.702017
+Glenn,Ag Contraction,Ag Change,2009,2010,455.069407,Normal,Iteration and Timestep,227.5347035
+Imperial,Ag Contraction,Ag Change,2009,2010,233.099136,Normal,Iteration and Timestep,116.549568
+Kern,Ag Contraction,Ag Change,2009,2010,5474.592208,Normal,Iteration and Timestep,2737.296104
+Kings,Ag Contraction,Ag Change,2009,2010,3893.07932,Normal,Iteration and Timestep,1946.53966
+Lake,Ag Contraction,Ag Change,2009,2010,341.150298,Normal,Iteration and Timestep,170.575149
+Los Angeles,Ag Contraction,Ag Change,2009,2010,625.644556,Normal,Iteration and Timestep,312.822278
+Madera,Ag Contraction,Ag Change,2009,2010,998.360362,Normal,Iteration and Timestep,499.180181
+Marin,Ag Contraction,Ag Change,2009,2010,541.0651819999999,Normal,Iteration and Timestep,270.53259099999997
+Mariposa,Ag Contraction,Ag Change,2009,2010,1.821087,Normal,Iteration and Timestep,0.9105435
+Mendocino,Ag Contraction,Ag Change,2009,2010,49.371691999999996,Normal,Iteration and Timestep,24.685845999999998
+Merced,Ag Contraction,Ag Change,2009,2010,536.815979,Normal,Iteration and Timestep,268.4079895
+Modoc,Ag Contraction,Ag Change,2009,2010,304.728558,Normal,Iteration and Timestep,152.364279
+Monterey,Ag Contraction,Ag Change,2009,2010,510.916075,Normal,Iteration and Timestep,255.4580375
+Napa,Ag Contraction,Ag Change,2009,2010,126.869061,Normal,Iteration and Timestep,63.4345305
+Nevada,Ag Contraction,Ag Change,2009,2010,14.973381999999999,Normal,Iteration and Timestep,7.4866909999999995
+Orange,Ag Contraction,Ag Change,2009,2010,210.841406,Normal,Iteration and Timestep,105.420703
+Placer,Ag Contraction,Ag Change,2009,2010,389.510275,Normal,Iteration and Timestep,194.7551375
+Riverside,Ag Contraction,Ag Change,2009,2010,450.617861,Normal,Iteration and Timestep,225.3089305
+Sacramento,Ag Contraction,Ag Change,2009,2010,260.617784,Normal,Iteration and Timestep,130.308892
+San Benito,Ag Contraction,Ag Change,2009,2010,1189.77684,Normal,Iteration and Timestep,594.88842
+San Bernardino,Ag Contraction,Ag Change,2009,2010,531.352718,Normal,Iteration and Timestep,265.676359
+San Diego,Ag Contraction,Ag Change,2009,2010,694.03649,Normal,Iteration and Timestep,347.018245
+San Joaquin,Ag Contraction,Ag Change,2009,2010,664.6967549999999,Normal,Iteration and Timestep,332.34837749999997
+San Luis Obispo,Ag Contraction,Ag Change,2009,2010,1191.597927,Normal,Iteration and Timestep,595.7989635
+San Mateo,Ag Contraction,Ag Change,2009,2010,105.420703,Normal,Iteration and Timestep,52.7103515
+Santa Barbara,Ag Contraction,Ag Change,2009,2010,660.447552,Normal,Iteration and Timestep,330.223776
+Santa Clara,Ag Contraction,Ag Change,2009,2010,766.475284,Normal,Iteration and Timestep,383.237642
+Santa Cruz,Ag Contraction,Ag Change,2009,2010,267.09276,Normal,Iteration and Timestep,133.54638
+Shasta,Ag Contraction,Ag Change,2009,2010,603.184483,Normal,Iteration and Timestep,301.5922415
+Sierra Valley,Ag Contraction,Ag Change,2009,2010,73.450509,Normal,Iteration and Timestep,36.7252545
+Siskiyou,Ag Contraction,Ag Change,2009,2010,282.875514,Normal,Iteration and Timestep,141.437757
+Solano,Ag Contraction,Ag Change,2009,2010,1358.530902,Normal,Iteration and Timestep,679.265451
+Sonoma,Ag Contraction,Ag Change,2009,2010,285.910659,Normal,Iteration and Timestep,142.9553295
+Stanislaus,Ag Contraction,Ag Change,2009,2010,807.753256,Normal,Iteration and Timestep,403.876628
+Sutter,Ag Contraction,Ag Change,2009,2010,1325.751336,Normal,Iteration and Timestep,662.875668
+Tehama,Ag Contraction,Ag Change,2009,2010,253.131093,Normal,Iteration and Timestep,126.5655465
+Tulare,Ag Contraction,Ag Change,2009,2010,725.3996549999999,Normal,Iteration and Timestep,362.69982749999997
+Ventura,Ag Contraction,Ag Change,2009,2010,702.737239,Normal,Iteration and Timestep,351.3686195
+Yolo,Ag Contraction,Ag Change,2009,2010,1225.591551,Normal,Iteration and Timestep,612.7957755
+Yuba,Ag Contraction,Ag Change,2009,2010,664.899098,Normal,Iteration and Timestep,332.449549
+Alameda,Ag Contraction,Ag Change,2011,2012,79.318456,Normal,Iteration and Timestep,39.659228
+Amador,Ag Contraction,Ag Change,2011,2012,24.685845999999998,Normal,Iteration and Timestep,12.342922999999999
+Butte,Ag Contraction,Ag Change,2011,2012,302.502785,Normal,Iteration and Timestep,151.2513925
+Colusa,Ag Contraction,Ag Change,2011,2012,25.697561,Normal,Iteration and Timestep,12.8487805
+Contra Costa,Ag Contraction,Ag Change,2011,2012,260.010755,Normal,Iteration and Timestep,130.0053775
+El Dorado,Ag Contraction,Ag Change,2011,2012,27.316305,Normal,Iteration and Timestep,13.6581525
+Fresno,Ag Contraction,Ag Change,2011,2012,293.599693,Normal,Iteration and Timestep,146.7998465
+Glenn,Ag Contraction,Ag Change,2011,2012,154.792395,Normal,Iteration and Timestep,77.3961975
+Imperial,Ag Contraction,Ag Change,2011,2012,191.82116399999998,Normal,Iteration and Timestep,95.91058199999999
+Kern,Ag Contraction,Ag Change,2011,2012,4140.949495,Normal,Iteration and Timestep,2070.4747475
+Kings,Ag Contraction,Ag Change,2011,2012,5429.267376,Normal,Iteration and Timestep,2714.633688
+Lake,Ag Contraction,Ag Change,2011,2012,57.263068999999994,Normal,Iteration and Timestep,28.631534499999997
+Los Angeles,Ag Contraction,Ag Change,2011,2012,1011.310314,Normal,Iteration and Timestep,505.655157
+Madera,Ag Contraction,Ag Change,2011,2012,929.361399,Normal,Iteration and Timestep,464.6806995
+Marin,Ag Contraction,Ag Change,2011,2012,18.817899,Normal,Iteration and Timestep,9.4089495
+Mariposa,Ag Contraction,Ag Change,2011,2012,0,NA,Iteration and Timestep,NA
+Mendocino,Ag Contraction,Ag Change,2011,2012,36.826426,Normal,Iteration and Timestep,18.413213
+Merced,Ag Contraction,Ag Change,2011,2012,198.700826,Normal,Iteration and Timestep,99.350413
+Modoc,Ag Contraction,Ag Change,2011,2012,122.619858,Normal,Iteration and Timestep,61.309929
+Monterey,Ag Contraction,Ag Change,2011,2012,496.954408,Normal,Iteration and Timestep,248.477204
+Napa,Ag Contraction,Ag Change,2011,2012,68.39193399999999,Normal,Iteration and Timestep,34.195966999999996
+Nevada,Ag Contraction,Ag Change,2011,2012,2.832802,Normal,Iteration and Timestep,1.416401
+Orange,Ag Contraction,Ag Change,2011,2012,24.078817,Normal,Iteration and Timestep,12.0394085
+Placer,Ag Contraction,Ag Change,2011,2012,896.9865189999999,Normal,Iteration and Timestep,448.49325949999997
+Riverside,Ag Contraction,Ag Change,2011,2012,350.862762,Normal,Iteration and Timestep,175.431381
+Sacramento,Ag Contraction,Ag Change,2011,2012,491.895833,Normal,Iteration and Timestep,245.9479165
+San Benito,Ag Contraction,Ag Change,2011,2012,386.677473,Normal,Iteration and Timestep,193.3387365
+San Bernardino,Ag Contraction,Ag Change,2011,2012,240.181141,Normal,Iteration and Timestep,120.0905705
+San Diego,Ag Contraction,Ag Change,2011,2012,749.6808149999999,Normal,Iteration and Timestep,374.84040749999997
+San Joaquin,Ag Contraction,Ag Change,2011,2012,1008.679855,Normal,Iteration and Timestep,504.3399275
+San Luis Obispo,Ag Contraction,Ag Change,2011,2012,930.7778,Normal,Iteration and Timestep,465.3889
+San Mateo,Ag Contraction,Ag Change,2011,2012,40.873286,Normal,Iteration and Timestep,20.436643
+Santa Barbara,Ag Contraction,Ag Change,2011,2012,385.86810099999997,Normal,Iteration and Timestep,192.93405049999998
+Santa Clara,Ag Contraction,Ag Change,2011,2012,221.76792799999998,Normal,Iteration and Timestep,110.88396399999999
+Santa Cruz,Ag Contraction,Ag Change,2011,2012,57.060725999999995,Normal,Iteration and Timestep,28.530362999999998
+Shasta,Ag Contraction,Ag Change,2011,2012,208.008604,Normal,Iteration and Timestep,104.004302
+Sierra Valley,Ag Contraction,Ag Change,2011,2012,58.477126999999996,Normal,Iteration and Timestep,29.238563499999998
+Siskiyou,Ag Contraction,Ag Change,2011,2012,596.1024779999999,Normal,Iteration and Timestep,298.05123899999995
+Solano,Ag Contraction,Ag Change,2011,2012,505.25047099999995,Normal,Iteration and Timestep,252.62523549999997
+Sonoma,Ag Contraction,Ag Change,2011,2012,27.720990999999998,Normal,Iteration and Timestep,13.860495499999999
+Stanislaus,Ag Contraction,Ag Change,2011,2012,544.505013,Normal,Iteration and Timestep,272.2525065
+Sutter,Ag Contraction,Ag Change,2011,2012,1057.646861,Normal,Iteration and Timestep,528.8234305
+Tehama,Ag Contraction,Ag Change,2011,2012,70.010678,Normal,Iteration and Timestep,35.005339
+Tulare,Ag Contraction,Ag Change,2011,2012,395.378222,Normal,Iteration and Timestep,197.689111
+Ventura,Ag Contraction,Ag Change,2011,2012,253.33343599999998,Normal,Iteration and Timestep,126.66671799999999
+Yolo,Ag Contraction,Ag Change,2011,2012,1782.6418299999998,Normal,Iteration and Timestep,891.3209149999999
+Yuba,Ag Contraction,Ag Change,2011,2012,93.482466,Normal,Iteration and Timestep,46.741233
+Alameda,Ag Contraction,Ag Change,2013,2014,127.27374699999999,Normal,Iteration and Timestep,63.63687349999999
+Amador,Ag Contraction,Ag Change,2013,2014,46.134204,Normal,Iteration and Timestep,23.067102
+Butte,Ag Contraction,Ag Change,2013,2014,382.225927,Normal,Iteration and Timestep,191.1129635
+Colusa,Ag Contraction,Ag Change,2013,2014,2266.2416,Normal,Iteration and Timestep,1133.1208
+Contra Costa,Ag Contraction,Ag Change,2013,2014,42.49203,Normal,Iteration and Timestep,21.246015
+El Dorado,Ag Contraction,Ag Change,2013,2014,25.495217999999998,Normal,Iteration and Timestep,12.747608999999999
+Fresno,Ag Contraction,Ag Change,2013,2014,250.29829099999998,Normal,Iteration and Timestep,125.14914549999999
+Glenn,Ag Contraction,Ag Change,2013,2014,340.947955,Normal,Iteration and Timestep,170.4739775
+Imperial,Ag Contraction,Ag Change,2013,2014,206.996889,Normal,Iteration and Timestep,103.4984445
+Kern,Ag Contraction,Ag Change,2013,2014,4515.284044999999,Normal,Iteration and Timestep,2257.6420224999997
+Kings,Ag Contraction,Ag Change,2013,2014,4304.442639,Normal,Iteration and Timestep,2152.2213195
+Lake,Ag Contraction,Ag Change,2013,2014,51.799808,Normal,Iteration and Timestep,25.899904
+Los Angeles,Ag Contraction,Ag Change,2013,2014,655.3889770000001,Normal,Iteration and Timestep,327.69448850000003
+Madera,Ag Contraction,Ag Change,2013,2014,395.78290799999996,Normal,Iteration and Timestep,197.89145399999998
+Marin,Ag Contraction,Ag Change,2013,2014,42.694373,Normal,Iteration and Timestep,21.3471865
+Mariposa,Ag Contraction,Ag Change,2013,2014,2.6304589999999997,Normal,Iteration and Timestep,1.3152294999999998
+Mendocino,Ag Contraction,Ag Change,2013,2014,520.426196,Normal,Iteration and Timestep,260.213098
+Merced,Ag Contraction,Ag Change,2013,2014,169.96812,Normal,Iteration and Timestep,84.98406
+Modoc,Ag Contraction,Ag Change,2013,2014,442.119455,Normal,Iteration and Timestep,221.0597275
+Monterey,Ag Contraction,Ag Change,2013,2014,246.85846,Normal,Iteration and Timestep,123.42923
+Napa,Ag Contraction,Ag Change,2013,2014,291.576263,Normal,Iteration and Timestep,145.7881315
+Nevada,Ag Contraction,Ag Change,2013,2014,281.25676999999996,Normal,Iteration and Timestep,140.62838499999998
+Orange,Ag Contraction,Ag Change,2013,2014,92.268408,Normal,Iteration and Timestep,46.134204
+Placer,Ag Contraction,Ag Change,2013,2014,150.138506,Normal,Iteration and Timestep,75.069253
+Riverside,Ag Contraction,Ag Change,2013,2014,205.985174,Normal,Iteration and Timestep,102.992587
+Sacramento,Ag Contraction,Ag Change,2013,2014,404.686,Normal,Iteration and Timestep,202.343
+San Benito,Ag Contraction,Ag Change,2013,2014,522.2472829999999,Normal,Iteration and Timestep,261.12364149999996
+San Bernardino,Ag Contraction,Ag Change,2013,2014,298.860611,Normal,Iteration and Timestep,149.4303055
+San Diego,Ag Contraction,Ag Change,2013,2014,103.397273,Normal,Iteration and Timestep,51.6986365
+San Joaquin,Ag Contraction,Ag Change,2013,2014,109.872249,Normal,Iteration and Timestep,54.9361245
+San Luis Obispo,Ag Contraction,Ag Change,2013,2014,1920.032727,Normal,Iteration and Timestep,960.0163635
+San Mateo,Ag Contraction,Ag Change,2013,2014,73.652852,Normal,Iteration and Timestep,36.826426
+Santa Barbara,Ag Contraction,Ag Change,2013,2014,383.844671,Normal,Iteration and Timestep,191.9223355
+Santa Clara,Ag Contraction,Ag Change,2013,2014,173.20560799999998,Normal,Iteration and Timestep,86.60280399999999
+Santa Cruz,Ag Contraction,Ag Change,2013,2014,118.168312,Normal,Iteration and Timestep,59.084156
+Shasta,Ag Contraction,Ag Change,2013,2014,56.049011,Normal,Iteration and Timestep,28.0245055
+Sierra Valley,Ag Contraction,Ag Change,2013,2014,14.568696,Normal,Iteration and Timestep,7.284348
+Siskiyou,Ag Contraction,Ag Change,2013,2014,580.522067,Normal,Iteration and Timestep,290.2610335
+Solano,Ag Contraction,Ag Change,2013,2014,143.461187,Normal,Iteration and Timestep,71.7305935
+Sonoma,Ag Contraction,Ag Change,2013,2014,29.946763999999998,Normal,Iteration and Timestep,14.973381999999999
+Stanislaus,Ag Contraction,Ag Change,2013,2014,144.06821599999998,Normal,Iteration and Timestep,72.03410799999999
+Sutter,Ag Contraction,Ag Change,2013,2014,481.57634,Normal,Iteration and Timestep,240.78817
+Tehama,Ag Contraction,Ag Change,2013,2014,366.84785899999997,Normal,Iteration and Timestep,183.42392949999999
+Tulare,Ag Contraction,Ag Change,2013,2014,318.892568,Normal,Iteration and Timestep,159.446284
+Ventura,Ag Contraction,Ag Change,2013,2014,155.80411,Normal,Iteration and Timestep,77.902055
+Yolo,Ag Contraction,Ag Change,2013,2014,951.416786,Normal,Iteration and Timestep,475.708393
+Yuba,Ag Contraction,Ag Change,2013,2014,440.096025,Normal,Iteration and Timestep,220.0480125
+Alameda,Ag Contraction,Ag Change,2015,2016,56.65604,Normal,Iteration and Timestep,28.32802
+Amador,Ag Contraction,Ag Change,2015,2016,54.025580999999995,Normal,Iteration and Timestep,27.012790499999998
+Butte,Ag Contraction,Ag Change,2015,2016,243.620972,Normal,Iteration and Timestep,121.810486
+Colusa,Ag Contraction,Ag Change,2015,2016,478.945881,Normal,Iteration and Timestep,239.4729405
+Contra Costa,Ag Contraction,Ag Change,2015,2016,263.248243,Normal,Iteration and Timestep,131.6241215
+El Dorado,Ag Contraction,Ag Change,2015,2016,47.955291,Normal,Iteration and Timestep,23.9776455
+Fresno,Ag Contraction,Ag Change,2015,2016,1103.174036,Normal,Iteration and Timestep,551.587018
+Glenn,Ag Contraction,Ag Change,2015,2016,152.566622,Normal,Iteration and Timestep,76.283311
+Imperial,Ag Contraction,Ag Change,2015,2016,69.808335,Normal,Iteration and Timestep,34.9041675
+Kern,Ag Contraction,Ag Change,2015,2016,1759.979414,Normal,Iteration and Timestep,879.989707
+Kings,Ag Contraction,Ag Change,2015,2016,6067.659541,Normal,Iteration and Timestep,3033.8297705
+Lake,Ag Contraction,Ag Change,2015,2016,111.28864999999999,Normal,Iteration and Timestep,55.644324999999995
+Los Angeles,Ag Contraction,Ag Change,2015,2016,738.956636,Normal,Iteration and Timestep,369.478318
+Madera,Ag Contraction,Ag Change,2015,2016,459.116267,Normal,Iteration and Timestep,229.5581335
+Marin,Ag Contraction,Ag Change,2015,2016,104.206645,Normal,Iteration and Timestep,52.1033225
+Mariposa,Ag Contraction,Ag Change,2015,2016,42.289687,Normal,Iteration and Timestep,21.1448435
+Mendocino,Ag Contraction,Ag Change,2015,2016,243.01394299999998,Normal,Iteration and Timestep,121.50697149999999
+Merced,Ag Contraction,Ag Change,2015,2016,958.498791,Normal,Iteration and Timestep,479.2493955
+Modoc,Ag Contraction,Ag Change,2015,2016,170.979835,Normal,Iteration and Timestep,85.4899175
+Monterey,Ag Contraction,Ag Change,2015,2016,531.959747,Normal,Iteration and Timestep,265.9798735
+Napa,Ag Contraction,Ag Change,2015,2016,87.614519,Normal,Iteration and Timestep,43.8072595
+Nevada,Ag Contraction,Ag Change,2015,2016,4123.9526829999995,Normal,Iteration and Timestep,2061.9763414999998
+Orange,Ag Contraction,Ag Change,2015,2016,50.788092999999996,Normal,Iteration and Timestep,25.394046499999998
+Placer,Ag Contraction,Ag Change,2015,2016,608.850087,Normal,Iteration and Timestep,304.4250435
+Riverside,Ag Contraction,Ag Change,2015,2016,294.611408,Normal,Iteration and Timestep,147.305704
+Sacramento,Ag Contraction,Ag Change,2015,2016,315.857423,Normal,Iteration and Timestep,157.9287115
+San Benito,Ag Contraction,Ag Change,2015,2016,503.024698,Normal,Iteration and Timestep,251.512349
+San Bernardino,Ag Contraction,Ag Change,2015,2016,127.880776,Normal,Iteration and Timestep,63.940388
+San Diego,Ag Contraction,Ag Change,2015,2016,318.083196,Normal,Iteration and Timestep,159.041598
+San Joaquin,Ag Contraction,Ag Change,2015,2016,589.6275019999999,Normal,Iteration and Timestep,294.81375099999997
+San Luis Obispo,Ag Contraction,Ag Change,2015,2016,317.67851,Normal,Iteration and Timestep,158.839255
+San Mateo,Ag Contraction,Ag Change,2015,2016,45.324832,Normal,Iteration and Timestep,22.662416
+Santa Barbara,Ag Contraction,Ag Change,2015,2016,455.069407,Normal,Iteration and Timestep,227.5347035
+Santa Clara,Ag Contraction,Ag Change,2015,2016,312.21524899999997,Normal,Iteration and Timestep,156.10762449999999
+Santa Cruz,Ag Contraction,Ag Change,2015,2016,92.47075099999999,Normal,Iteration and Timestep,46.235375499999996
+Shasta,Ag Contraction,Ag Change,2015,2016,210.84140599999998,Normal,Iteration and Timestep,105.42070299999999
+Sierra Valley,Ag Contraction,Ag Change,2015,2016,74.259881,Normal,Iteration and Timestep,37.1299405
+Siskiyou,Ag Contraction,Ag Change,2015,2016,215.899981,Normal,Iteration and Timestep,107.9499905
+Solano,Ag Contraction,Ag Change,2015,2016,383.035299,Normal,Iteration and Timestep,191.5176495
+Sonoma,Ag Contraction,Ag Change,2015,2016,77.69971199999999,Normal,Iteration and Timestep,38.849855999999996
+Stanislaus,Ag Contraction,Ag Change,2015,2016,906.698983,Normal,Iteration and Timestep,453.3494915
+Sutter,Ag Contraction,Ag Change,2015,2016,297.84889599999997,Normal,Iteration and Timestep,148.92444799999998
+Tehama,Ag Contraction,Ag Change,2015,2016,291.576263,Normal,Iteration and Timestep,145.7881315
+Tulare,Ag Contraction,Ag Change,2015,2016,241.192856,Normal,Iteration and Timestep,120.596428
+Ventura,Ag Contraction,Ag Change,2015,2016,128.690148,Normal,Iteration and Timestep,64.345074
+Yolo,Ag Contraction,Ag Change,2015,2016,221.565585,Normal,Iteration and Timestep,110.7827925
+Yuba,Ag Contraction,Ag Change,2015,2016,45.324832,Normal,Iteration and Timestep,22.662416
+Kern,Ag Contraction,Ag Change,2017,2018,2348.999887,Normal,Iteration and Timestep,1174.4999435
+Nevada,Ag Contraction,Ag Change,2017,2018,77.497369,Normal,Iteration and Timestep,38.7486845
+Sacramento,Ag Contraction,Ag Change,2017,2018,1387.263608,Normal,Iteration and Timestep,693.631804
+San Mateo,Ag Contraction,Ag Change,2017,2018,95.505896,Normal,Iteration and Timestep,47.752948
+Stanislaus,Ag Contraction,Ag Change,2017,2018,422.087498,Normal,Iteration and Timestep,211.043749
+Alpine,Ag Contraction,Ag Change,1992,2016,0,NA,Iteration and Timestep,NA
+Calaveras,Ag Contraction,Ag Change,1992,2016,0,NA,Iteration and Timestep,NA
+Del Norte,Ag Contraction,Ag Change,1992,2016,0,NA,Iteration and Timestep,NA
+Humboldt,Ag Contraction,Ag Change,1992,2016,0,NA,Iteration and Timestep,NA
+Inyo,Ag Contraction,Ag Change,1992,2016,0,NA,Iteration and Timestep,NA
+Lassen,Ag Contraction,Ag Change,1992,2016,0,NA,Iteration and Timestep,NA
+Mono,Ag Contraction,Ag Change,1992,2016,0,NA,Iteration and Timestep,NA
+Plumas,Ag Contraction,Ag Change,1992,2016,0,NA,Iteration and Timestep,NA
+San Francisco,Ag Contraction,Ag Change,1992,2016,0,NA,Iteration and Timestep,NA
+Trinity,Ag Contraction,Ag Change,1992,2016,0,NA,Iteration and Timestep,NA
+Tuolumne,Ag Contraction,Ag Change,1992,2016,0,NA,Iteration and Timestep,NA

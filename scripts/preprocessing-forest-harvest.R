@@ -99,7 +99,11 @@ clearcut_zonal = as_tibble(zonal(clearcut, counties, "sum")) %>%
          ValueDistributionTypeID = "Normal",
          ValueDistributionFrequency = "Iteration and Timestep",
          ValueDistributionSD = Value*0.5) %>%
-  dplyr::select(SecondaryStratumID=Name, DistributionTypeID, ExternalVariableTypeID, ExternalVariableMin, ExternalVariableMax, Value, DistributionTypeID, ValueDistributionFrequency, ValueDistributionSD)
+  dplyr::select(SecondaryStratumID=Name, DistributionTypeID, ExternalVariableTypeID, ExternalVariableMin, ExternalVariableMax, Value, DistributionTypeID, ValueDistributionFrequency, ValueDistributionSD) %>%
+  mutate(Value = if_else(is.na(Value), 0, Value)) %>%
+  mutate(ValueDistributionTypeID = ifelse(Value==0, NA, "Normal")) %>%
+  mutate(ValueDistributionSD = ifelse(Value==0, NA, ValueDistributionSD)) %>%
+  mutate(ValueDistributionSD = ifelse(ValueDistributionSD==0, 1, ValueDistributionSD))
 write_csv(clearcut_zonal, "data/distributions/distribution-clearcut.csv")
 
 # Calculate Mean across all years
@@ -129,7 +133,11 @@ selection_zonal = as_tibble(zonal(selection, counties, "sum")) %>%
          ValueDistributionTypeID = "Normal",
          ValueDistributionFrequency = "Iteration and Timestep",
          ValueDistributionSD = Value*0.5) %>%
-  dplyr::select(SecondaryStratumID=Name, DistributionTypeID, ExternalVariableTypeID, ExternalVariableMin, ExternalVariableMax, Value, DistributionTypeID, ValueDistributionFrequency, ValueDistributionSD)
+  dplyr::select(SecondaryStratumID=Name, DistributionTypeID, ExternalVariableTypeID, ExternalVariableMin, ExternalVariableMax, Value, DistributionTypeID, ValueDistributionFrequency, ValueDistributionSD) %>%
+  mutate(Value = if_else(is.na(Value), 0, Value)) %>%
+  mutate(ValueDistributionTypeID = ifelse(Value==0, NA, "Normal")) %>%
+  mutate(ValueDistributionSD = ifelse(Value==0, NA, ValueDistributionSD)) %>%
+  mutate(ValueDistributionSD = ifelse(ValueDistributionSD==0, 1, ValueDistributionSD))
 write_csv(selection_zonal, "data/distributions/distribution-selection.csv")
 
 # Calculate Mean across all years
@@ -162,7 +170,7 @@ clearcut_ssp2 = clearcut_zonal_mean %>%
 # Create a transition targets file
 clearcut_ssp2_targets = tibble(SecondaryStratumID = clearcut_ssp2$SecondaryStratumID,
                                Timestep = clearcut_ssp2$Timestep,
-                               TransitionGroupID = "Management: Forest Clearcut",
+                               TransitionGroupID = "Management: Forest Clearcut [Type]",
                                Amount = clearcut_ssp2$MeanMult, 
                                DistributionType = "Normal",
                                DistributionFrequencyID = "Iteration and Timestep",
@@ -185,7 +193,7 @@ clearcut_ssp5 = clearcut_zonal_mean %>%
 # Create a transition targets file
 clearcut_ssp5_targets = tibble(SecondaryStratumID = clearcut_ssp5$SecondaryStratumID,
                                Timestep = clearcut_ssp5$Timestep,
-                               TransitionGroupID = "Management: Forest Clearcut",
+                               TransitionGroupID = "Management: Forest Clearcut [Type]",
                                Amount = clearcut_ssp5$MeanMult, 
                                DistributionType = "Normal",
                                DistributionFrequencyID = "Iteration and Timestep",
@@ -215,7 +223,7 @@ selection_ssp2 = selection_zonal_mean %>%
 # Create a transition targets file
 selection_ssp2_targets = tibble(SecondaryStratumID = selection_ssp2$SecondaryStratumID,
                                 Timestep = selection_ssp2$Timestep,
-                                TransitionGroupID = "Management: Forest Selection",
+                                TransitionGroupID = "Management: Forest Selection [Type]",
                                 Amount = selection_ssp2$MeanMult, 
                                 DistributionType = "Normal",
                                 DistributionFrequencyID = "Iteration and Timestep",
@@ -240,7 +248,7 @@ selection_ssp = bind_rows(selection_ssp2, selection_ssp5)
 # Create a transition targets file
 selection_ssp5_targets = tibble(SecondaryStratumID = selection_ssp5$SecondaryStratumID,
                                 Timestep = selection_ssp5$Timestep,
-                                TransitionGroupID = "Management: Forest Selection",
+                                TransitionGroupID = "Management: Forest Selection [Type]",
                                 Amount = selection_ssp5$MeanMult, 
                                 DistributionType = "Normal",
                                 DistributionFrequencyID = "Iteration and Timestep",

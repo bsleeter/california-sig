@@ -1,523 +1,523 @@
 SecondaryStratumID,Timestep,TransitionGroupID,Amount,DistributionType,DistributionFrequencyID,DistributionSD,DistributionMin,DistributionMax
-Alameda,2017,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Alameda,2021,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Alameda,2031,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Alameda,2041,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Alameda,2051,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Alameda,2061,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Alameda,2071,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Alameda,2081,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Alameda,2091,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Alpine,2017,Management: Forest Clearcut,8.917174550096183,Normal,Iteration and Timestep,37.83236756038268,0,160.5091419017313
-Alpine,2021,Management: Forest Clearcut,9.396592536660494,Normal,Iteration and Timestep,39.86636581631723,0,169.13866565988891
-Alpine,2031,Management: Forest Clearcut,8.845261852111536,Normal,Iteration and Timestep,37.52726782199249,0,159.21471333800764
-Alpine,2041,Management: Forest Clearcut,7.652709610532813,Normal,Iteration and Timestep,32.46769716035529,0,137.74877298959066
-Alpine,2051,Management: Forest Clearcut,7.814513180998269,Normal,Iteration and Timestep,33.15417157173321,0,140.66123725796885
-Alpine,2061,Management: Forest Clearcut,6.801742684381161,Normal,Iteration and Timestep,28.857350256071463,0,122.4313683188609
-Alpine,2071,Management: Forest Clearcut,4.752230791818732,Normal,Iteration and Timestep,20.16200771195125,0,85.54015425273718
-Alpine,2081,Management: Forest Clearcut,3.056289664347482,Normal,Iteration and Timestep,12.966738881582772,0,55.01321395825468
-Alpine,2091,Management: Forest Clearcut,1.3663412617082862,Normal,Iteration and Timestep,5.7968950294134745,0,24.59414271074915
-Amador,2017,Management: Forest Clearcut,98.08892005105803,Normal,Iteration and Timestep,149.65108780280258,0,481.52742570519393
-Amador,2021,Management: Forest Clearcut,103.36251790326546,Normal,Iteration and Timestep,157.6968452115554,0,507.4159969796667
-Amador,2031,Management: Forest Clearcut,97.2978803732269,Normal,Iteration and Timestep,148.44422419148964,0,477.644140014023
-Amador,2041,Management: Forest Clearcut,84.17980571586095,Normal,Iteration and Timestep,128.43040263721701,0,413.24631896877196
-Amador,2051,Management: Forest Clearcut,85.95964499098096,Normal,Iteration and Timestep,131.1458457626711,0,421.9837117739065
-Amador,2061,Management: Forest Clearcut,74.81916952819277,Normal,Iteration and Timestep,114.14918323668073,0,367.2941049565827
-Amador,2071,Management: Forest Clearcut,52.274538710006055,Normal,Iteration and Timestep,79.75357031426239,0,256.62046275821154
-Amador,2081,Management: Forest Clearcut,33.619186307822304,Normal,Iteration and Timestep,51.29170348079927,0,165.03964187476404
-Amador,2091,Management: Forest Clearcut,15.029753878791148,Normal,Iteration and Timestep,22.930408614945556,0,73.78242813224745
-Butte,2017,Management: Forest Clearcut,156.05055462668324,Normal,Iteration and Timestep,208.68407535562685,0,802.5457095086565
-Butte,2021,Management: Forest Clearcut,164.44036939155868,Normal,Iteration and Timestep,219.90364929947773,0,845.6933282994446
-Butte,2031,Management: Forest Clearcut,154.7920824119519,Normal,Iteration and Timestep,207.0011392640492,0,796.0735666900382
-Butte,2041,Management: Forest Clearcut,133.92241818432424,Normal,Iteration and Timestep,179.09244907872008,0,688.7438649479533
-Butte,2051,Management: Forest Clearcut,136.7539806674697,Normal,Iteration and Timestep,182.87905528476978,0,703.3061862898442
-Butte,2061,Management: Forest Clearcut,119.03049697667032,Normal,Iteration and Timestep,159.17770532838472,0,612.1568415943045
-Butte,2071,Management: Forest Clearcut,83.16403885682782,Normal,Iteration and Timestep,111.21402671842209,0,427.7007712636859
-Butte,2081,Management: Forest Clearcut,53.485069126080944,Normal,Iteration and Timestep,71.52478389204951,0,275.0660697912734
-Butte,2091,Management: Forest Clearcut,23.91097207989501,Normal,Iteration and Timestep,31.975785739975077,0,122.97071355374575
-Calaveras,2017,Management: Forest Clearcut,191.71925282706795,Normal,Iteration and Timestep,235.41519631920025,0,722.2911385577909
-Calaveras,2021,Management: Forest Clearcut,202.02673953820064,Normal,Iteration and Timestep,248.0719273041035,0,761.1239954695001
-Calaveras,2031,Management: Forest Clearcut,190.17312982039803,Normal,Iteration and Timestep,233.51668667146473,0,716.4662100210344
-Calaveras,2041,Management: Forest Clearcut,164.5332566264555,Normal,Iteration and Timestep,202.03306834651795,0,619.869478453158
-Calaveras,2051,Management: Forest Clearcut,168.01203339146278,Normal,Iteration and Timestep,206.3047150539228,0,632.9755676608598
-Calaveras,2061,Management: Forest Clearcut,146.23746771419496,Normal,Iteration and Timestep,179.56737084831468,0,550.9411574348741
-Calaveras,2071,Management: Forest Clearcut,102.17296202410274,Normal,Iteration and Timestep,125.45984588785335,0,384.9306941373173
-Calaveras,2081,Management: Forest Clearcut,65.71022778347087,Normal,Iteration and Timestep,80.68666002875814,0,247.55946281214605
-Calaveras,2091,Management: Forest Clearcut,29.376337126728153,Normal,Iteration and Timestep,36.07168330697423,0,110.67364219837118
-Colusa,2017,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Colusa,2021,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Colusa,2031,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Colusa,2041,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Colusa,2051,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Colusa,2061,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Colusa,2071,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Colusa,2081,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Colusa,2091,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Contra Costa,2017,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Contra Costa,2021,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Contra Costa,2031,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Contra Costa,2041,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Contra Costa,2051,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Contra Costa,2061,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Contra Costa,2071,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Contra Costa,2081,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Contra Costa,2091,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Del Norte,2017,Management: Forest Clearcut,107.00609460115422,Normal,Iteration and Timestep,126.14497697148408,0,401.27285475432825
-Del Norte,2021,Management: Forest Clearcut,112.75911043992595,Normal,Iteration and Timestep,132.92696498070364,0,422.8466641497223
-Del Norte,2031,Management: Forest Clearcut,106.14314222533844,Normal,Iteration and Timestep,125.12767877010113,0,398.0367833450191
-Del Norte,2041,Management: Forest Clearcut,91.83251532639378,Normal,Iteration and Timestep,108.25748359716745,0,344.37193247397664
-Del Norte,2051,Management: Forest Clearcut,93.77415817197924,Normal,Iteration and Timestep,110.54640455027906,0,351.6530931449221
-Del Norte,2061,Management: Forest Clearcut,81.62091221257394,Normal,Iteration and Timestep,96.2194548808027,0,306.07842079715226
-Del Norte,2071,Management: Forest Clearcut,57.02676950182479,Normal,Iteration and Timestep,67.22645614138902,0,213.85038563184295
-Del Norte,2081,Management: Forest Clearcut,36.67547597216979,Normal,Iteration and Timestep,43.23517355877478,0,137.5330348956367
-Del Norte,2091,Management: Forest Clearcut,16.396095140499433,Normal,Iteration and Timestep,19.328665826275785,0,61.48535677687288
-El Dorado,2017,Management: Forest Clearcut,338.852632903655,Normal,Iteration and Timestep,337.7603821479484,0,1123.5639933121192
-El Dorado,2021,Management: Forest Clearcut,357.07051639309884,Normal,Iteration and Timestep,355.91954247848327,0,1183.9706596192223
-El Dorado,2031,Management: Forest Clearcut,336.1199503802384,Normal,Iteration and Timestep,335.03650809836813,0,1114.5029933660535
-El Dorado,2041,Management: Forest Clearcut,290.80296520024694,Normal,Iteration and Timestep,289.8655967761627,0,964.2414109271346
-El Dorado,2051,Management: Forest Clearcut,296.9515008779342,Normal,Iteration and Timestep,295.99431338771825,0,984.6286608057819
-El Dorado,2061,Management: Forest Clearcut,258.46622200648414,Normal,Iteration and Timestep,257.6330871894633,0,857.0195782320263
-El Dorado,2071,Management: Forest Clearcut,180.58477008911183,Normal,Iteration and Timestep,180.0026767764268,0,598.7810797691602
-El Dorado,2081,Management: Forest Clearcut,116.13900724520433,Normal,Iteration and Timestep,115.76464710715973,0,385.09249770778274
-El Dorado,2091,Management: Forest Clearcut,51.92096794491487,Normal,Iteration and Timestep,51.75360694202435,0,172.15899897524406
-Fresno,2017,Management: Forest Clearcut,57.9616345756252,Normal,Iteration and Timestep,102.27918492640593,0,401.27285475432825
-Fresno,2021,Management: Forest Clearcut,61.07785148829322,Normal,Iteration and Timestep,107.77806583642776,0,422.8466641497223
-Fresno,2031,Management: Forest Clearcut,57.49420203872499,Normal,Iteration and Timestep,101.45435278990264,0,398.0367833450191
-Fresno,2041,Management: Forest Clearcut,49.74261246846329,Normal,Iteration and Timestep,87.77588652622337,0,344.37193247397664
-Fresno,2051,Management: Forest Clearcut,50.79433567648875,Normal,Iteration and Timestep,89.63175883335573,0,351.6530931449221
-Fresno,2061,Management: Forest Clearcut,44.211327448477554,Normal,Iteration and Timestep,78.01537291093462,0,306.07842079715226
-Fresno,2071,Management: Forest Clearcut,30.88950014682176,Normal,Iteration and Timestep,54.507657020591324,0,213.85038563184295
-Fresno,2081,Management: Forest Clearcut,19.865882818258637,Normal,Iteration and Timestep,35.05536580138913,0,137.5330348956367
-Fresno,2091,Management: Forest Clearcut,8.881218201103861,Normal,Iteration and Timestep,15.671810593562197,0,61.48535677687288
-Glenn,2017,Management: Forest Clearcut,49.04446002552901,Normal,Iteration and Timestep,103.50657906973855,0,321.0182838034626
-Glenn,2021,Management: Forest Clearcut,51.68125895163273,Normal,Iteration and Timestep,109.07144891219761,0,338.27733131977783
-Glenn,2031,Management: Forest Clearcut,48.64894018661345,Normal,Iteration and Timestep,102.67184859336969,0,318.4294266760153
-Glenn,2041,Management: Forest Clearcut,42.089902857930475,Normal,Iteration and Timestep,88.82923486025278,0,275.4975459791813
-Glenn,2051,Management: Forest Clearcut,42.97982249549048,Normal,Iteration and Timestep,90.70737843208272,0,281.3224745159377
-Glenn,2061,Management: Forest Clearcut,37.40958476409639,Normal,Iteration and Timestep,78.95159088988794,0,244.8627366377218
-Glenn,2071,Management: Forest Clearcut,26.137269355003028,Normal,Iteration and Timestep,55.16177231337545,0,171.08030850547436
-Glenn,2081,Management: Forest Clearcut,16.809593153911152,Normal,Iteration and Timestep,35.47604524567652,0,110.02642791650936
-Glenn,2091,Management: Forest Clearcut,7.514876939395574,Normal,Iteration and Timestep,15.859879051008326,0,49.1882854214983
-Humboldt,2017,Management: Forest Clearcut,1021.016485986013,Normal,Iteration and Timestep,993.5737645433094,0,4092.9831184941486
-Humboldt,2021,Management: Forest Clearcut,1075.9098454476266,Normal,Iteration and Timestep,1046.991708873595,0,4313.035974327167
-Humboldt,2031,Management: Forest Clearcut,1012.7824820667709,Normal,Iteration and Timestep,985.5610728937664,0,4059.9751901191953
-Humboldt,2041,Management: Forest Clearcut,876.2352504060071,Normal,Iteration and Timestep,852.6839363721815,0,3512.5937112345614
-Humboldt,2051,Management: Forest Clearcut,894.7617592243017,Normal,Iteration and Timestep,870.7124925836529,0,3586.8615500782053
-Humboldt,2061,Management: Forest Clearcut,778.7995373616429,Normal,Iteration and Timestep,757.8670851859248,0,3121.999892130953
-Humboldt,2071,Management: Forest Clearcut,544.1304256632448,Normal,Iteration and Timestep,529.5053731739545,0,2181.273933444798
-Humboldt,2081,Management: Forest Clearcut,349.9451665677867,Normal,Iteration and Timestep,340.5393951055697,0,1402.8369559354944
-Humboldt,2091,Management: Forest Clearcut,156.44607446559877,Normal,Iteration and Timestep,152.24114134131352,0,627.1506391241033
-Imperial,2017,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Imperial,2021,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Imperial,2031,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Imperial,2041,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Imperial,2051,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Imperial,2061,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Imperial,2071,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Imperial,2081,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Imperial,2091,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Inyo,2017,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Inyo,2021,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Inyo,2031,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Inyo,2041,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Inyo,2051,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Inyo,2061,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Inyo,2071,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Inyo,2081,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Inyo,2091,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Kern,2017,Management: Forest Clearcut,13.375761825144277,Normal,Iteration and Timestep,56.74855134057402,0,240.76371285259697
-Kern,2021,Management: Forest Clearcut,14.094888804990743,Normal,Iteration and Timestep,59.79954872447585,0,253.70799848983336
-Kern,2031,Management: Forest Clearcut,13.267892778167305,Normal,Iteration and Timestep,56.290901732988736,0,238.8220700070115
-Kern,2041,Management: Forest Clearcut,11.479064415799222,Normal,Iteration and Timestep,48.70154574053294,0,206.62315948438598
-Kern,2051,Management: Forest Clearcut,11.721769771497405,Normal,Iteration and Timestep,49.73125735759981,0,210.99185588695326
-Kern,2061,Management: Forest Clearcut,10.202614026571743,Normal,Iteration and Timestep,43.28602538410719,0,183.64705247829136
-Kern,2071,Management: Forest Clearcut,7.1283461877280985,Normal,Iteration and Timestep,30.243011567926875,0,128.31023137910577
-Kern,2081,Management: Forest Clearcut,4.584434496521224,Normal,Iteration and Timestep,19.45010832237416,0,82.51982093738202
-Kern,2091,Management: Forest Clearcut,2.049511892562429,Normal,Iteration and Timestep,8.695342544120212,0,36.89121406612372
-Kings,2017,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Kings,2021,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Kings,2031,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Kings,2041,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Kings,2051,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Kings,2061,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Kings,2071,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Kings,2081,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Kings,2091,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Lake,2017,Management: Forest Clearcut,8.917174550096183,Normal,Iteration and Timestep,25.952790036787906,0,80.25457095086566
-Lake,2021,Management: Forest Clearcut,9.396592536660494,Normal,Iteration and Timestep,27.348101329088333,0,84.56933282994446
-Lake,2031,Management: Forest Clearcut,8.845261852111536,Normal,Iteration and Timestep,25.74349334294284,0,79.60735666900382
-Lake,2041,Management: Forest Clearcut,7.652709610532813,Normal,Iteration and Timestep,22.272656503345537,0,68.87438649479533
-Lake,2051,Management: Forest Clearcut,7.814513180998269,Normal,Iteration and Timestep,22.74357406449693,0,70.33061862898442
-Lake,2061,Management: Forest Clearcut,6.801742684381161,Normal,Iteration and Timestep,19.79597895951228,0,61.21568415943045
-Lake,2071,Management: Forest Clearcut,4.752230791818732,Normal,Iteration and Timestep,13.831023184927963,0,42.77007712636859
-Lake,2081,Management: Forest Clearcut,3.056289664347482,Normal,Iteration and Timestep,8.89510948841521,0,27.50660697912734
-Lake,2091,Management: Forest Clearcut,1.3663412617082862,Normal,Iteration and Timestep,3.9766371830562113,0,12.297071355374575
-Lassen,2017,Management: Forest Clearcut,472.6102511550978,Normal,Iteration and Timestep,707.1242357437338,0,1926.1097028207757
-Lassen,2021,Management: Forest Clearcut,498.01940444300624,Normal,Iteration and Timestep,745.1416677729668,0,2029.6639879186669
-Lassen,2031,Management: Forest Clearcut,468.79887816191143,Normal,Iteration and Timestep,701.4216209393488,0,1910.576560056092
-Lassen,2041,Management: Forest Clearcut,405.5936093582392,Normal,Iteration and Timestep,606.8532587666318,0,1652.9852758750878
-Lassen,2051,Management: Forest Clearcut,414.1691985929083,Normal,Iteration and Timestep,619.684142076498,0,1687.934847095626
-Lassen,2061,Management: Forest Clearcut,360.49236227220155,Normal,Iteration and Timestep,539.3723169147431,0,1469.1764198263309
-Lassen,2071,Management: Forest Clearcut,251.8682319663928,Normal,Iteration and Timestep,376.8477949897721,0,1026.4818510328462
-Lassen,2081,Management: Forest Clearcut,161.98335221041657,Normal,Iteration and Timestep,242.3611291863604,0,660.1585674990562
-Lassen,2091,Management: Forest Clearcut,72.41608687053917,Normal,Iteration and Timestep,108.34968128331406,0,295.1297125289898
-Los Angeles,2017,Management: Forest Clearcut,66.87880912572138,Normal,Iteration and Timestep,114.32859440292106,0,401.27285475432825
-Los Angeles,2021,Management: Forest Clearcut,70.47444402495371,Normal,Iteration and Timestep,120.47529302673402,0,422.8466641497223
-Los Angeles,2031,Management: Forest Clearcut,66.33946389083651,Normal,Iteration and Timestep,113.4065896093491,0,398.0367833450191
-Los Angeles,2041,Management: Forest Clearcut,57.3953220789961,Normal,Iteration and Timestep,98.11667678261438,0,344.37193247397664
-Los Angeles,2051,Management: Forest Clearcut,58.60884885748701,Normal,Iteration and Timestep,100.19118756815125,0,351.6530931449221
-Los Angeles,2061,Management: Forest Clearcut,51.01307013285871,Normal,Iteration and Timestep,87.20628672534636,0,306.07842079715226
-Los Angeles,2071,Management: Forest Clearcut,35.641730938640485,Normal,Iteration and Timestep,60.92915010854596,0,213.85038563184295
-Los Angeles,2081,Management: Forest Clearcut,22.922172482606115,Normal,Iteration and Timestep,39.18520372680762,0,137.5330348956367
-Los Angeles,2091,Management: Forest Clearcut,10.247559462812145,Normal,Iteration and Timestep,17.518091077866934,0,61.48535677687288
-Madera,2017,Management: Forest Clearcut,49.04446002552901,Normal,Iteration and Timestep,91.8715937443623,0,321.0182838034626
-Madera,2021,Management: Forest Clearcut,51.68125895163273,Normal,Iteration and Timestep,96.81092674137102,0,338.27733131977783
-Madera,2031,Management: Forest Clearcut,48.64894018661345,Normal,Iteration and Timestep,91.13069379481098,0,318.4294266760153
-Madera,2041,Management: Forest Clearcut,42.089902857930475,Normal,Iteration and Timestep,78.84410296475178,0,275.4975459791813
-Madera,2051,Management: Forest Clearcut,42.97982249549048,Normal,Iteration and Timestep,80.51112785124222,0,281.3224745159377
-Madera,2061,Management: Forest Clearcut,37.40958476409639,Normal,Iteration and Timestep,70.07678689506129,0,244.8627366377218
-Madera,2071,Management: Forest Clearcut,26.137269355003028,Normal,Iteration and Timestep,48.96113833284899,0,171.08030850547436
-Madera,2081,Management: Forest Clearcut,16.809593153911152,Normal,Iteration and Timestep,31.488247855930624,0,110.02642791650936
-Madera,2091,Management: Forest Clearcut,7.514876939395574,Normal,Iteration and Timestep,14.077099041474867,0,49.1882854214983
-Marin,2017,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Marin,2021,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Marin,2031,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Marin,2041,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Marin,2051,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Marin,2061,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Marin,2071,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Marin,2081,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Marin,2091,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Mariposa,2017,Management: Forest Clearcut,35.66869820038473,Normal,Iteration and Timestep,49.41264009607554,0,160.5091419017313
-Mariposa,2021,Management: Forest Clearcut,37.586370146641976,Normal,Iteration and Timestep,52.06923364962799,0,169.13866565988891
-Mariposa,2031,Management: Forest Clearcut,35.38104740844614,Normal,Iteration and Timestep,49.01415106304267,0,159.21471333800764
-Mariposa,2041,Management: Forest Clearcut,30.610838442131254,Normal,Iteration and Timestep,42.40587459858096,0,137.74877298959066
-Mariposa,2051,Management: Forest Clearcut,31.258052723993075,Normal,Iteration and Timestep,43.30247492290491,0,140.66123725796885
-Mariposa,2061,Management: Forest Clearcut,27.206970737524642,Normal,Iteration and Timestep,37.69042104102536,0,122.4313683188609
-Mariposa,2071,Management: Forest Clearcut,19.00892316727493,Normal,Iteration and Timestep,26.333483599588643,0,85.54015425273718
-Mariposa,2081,Management: Forest Clearcut,12.225158657389928,Normal,Iteration and Timestep,16.93578390389686,0,55.01321395825468
-Mariposa,2091,Management: Forest Clearcut,5.465365046833145,Normal,Iteration and Timestep,7.571291627624477,0,24.59414271074915
-Mendocino,2017,Management: Forest Clearcut,361.14556927889544,Normal,Iteration and Timestep,282.40434001058446,0,802.5457095086565
-Mendocino,2021,Management: Forest Clearcut,380.56199773475004,Normal,Iteration and Timestep,297.5873690434116,0,845.6933282994446
-Mendocino,2031,Management: Forest Clearcut,358.2331050105172,Normal,Iteration and Timestep,280.1268856556604,0,796.0735666900382
-Mendocino,2041,Management: Forest Clearcut,309.934739226579,Normal,Iteration and Timestep,242.35910093650295,0,688.7438649479533
-Mendocino,2051,Management: Forest Clearcut,316.4877838304299,Normal,Iteration and Timestep,247.4833732350821,0,703.3061862898442
-Mendocino,2061,Management: Forest Clearcut,275.47057871743704,Normal,Iteration and Timestep,215.4092244032348,0,612.1568415943045
-Mendocino,2071,Management: Forest Clearcut,192.46534706865864,Normal,Iteration and Timestep,150.50177528789885,0,427.7007712636859
-Mendocino,2081,Management: Forest Clearcut,123.77973140607303,Normal,Iteration and Timestep,96.79181008427291,0,275.0660697912734
-Mendocino,2091,Management: Forest Clearcut,55.33682109918559,Normal,Iteration and Timestep,43.2716327435573,0,122.97071355374575
-Merced,2017,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Merced,2021,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Merced,2031,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Merced,2041,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Merced,2051,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Merced,2061,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Merced,2071,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Merced,2081,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Merced,2091,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Modoc,2017,Management: Forest Clearcut,84.71315822591374,Normal,Iteration and Timestep,229.43829671917572,0,963.0548514103879
-Modoc,2021,Management: Forest Clearcut,89.26762909827471,Normal,Iteration and Timestep,241.7736890159056,0,1014.8319939593334
-Modoc,2031,Management: Forest Clearcut,84.0299875950596,Normal,Iteration and Timestep,227.5879878746662,0,955.288280028046
-Modoc,2041,Management: Forest Clearcut,72.70074130006174,Normal,Iteration and Timestep,196.90369953655068,0,826.4926379375439
-Modoc,2051,Management: Forest Clearcut,74.23787521948356,Normal,Iteration and Timestep,201.066894436697,0,843.967423547813
-Modoc,2061,Management: Forest Clearcut,64.61655550162104,Normal,Iteration and Timestep,175.00837820985512,0,734.5882099131654
-Modoc,2071,Management: Forest Clearcut,45.14619252227796,Normal,Iteration and Timestep,122.27457614133489,0,513.2409255164231
-Modoc,2081,Management: Forest Clearcut,29.03475181130108,Normal,Iteration and Timestep,78.63812589165296,0,330.0792837495281
-Modoc,2091,Management: Forest Clearcut,12.980241986228718,Normal,Iteration and Timestep,35.155868045680144,0,147.5648562644949
-Mono,2017,Management: Forest Clearcut,4.4585872750480915,Normal,Iteration and Timestep,18.91618378019134,0,80.25457095086566
-Mono,2021,Management: Forest Clearcut,4.698296268330247,Normal,Iteration and Timestep,19.933182908158614,0,84.56933282994446
-Mono,2031,Management: Forest Clearcut,4.422630926055768,Normal,Iteration and Timestep,18.763633910996244,0,79.60735666900382
-Mono,2041,Management: Forest Clearcut,3.8263548052664067,Normal,Iteration and Timestep,16.233848580177646,0,68.87438649479533
-Mono,2051,Management: Forest Clearcut,3.9072565904991343,Normal,Iteration and Timestep,16.577085785866604,0,70.33061862898442
-Mono,2061,Management: Forest Clearcut,3.4008713421905803,Normal,Iteration and Timestep,14.428675128035731,0,61.21568415943045
-Mono,2071,Management: Forest Clearcut,2.376115395909366,Normal,Iteration and Timestep,10.081003855975625,0,42.77007712636859
-Mono,2081,Management: Forest Clearcut,1.528144832173741,Normal,Iteration and Timestep,6.483369440791386,0,27.50660697912734
-Mono,2091,Management: Forest Clearcut,0.6831706308541431,Normal,Iteration and Timestep,2.8984475147067372,0,12.297071355374575
-Monterey,2017,Management: Forest Clearcut,4.4585872750480915,Normal,Iteration and Timestep,18.91618378019134,0,80.25457095086566
-Monterey,2021,Management: Forest Clearcut,4.698296268330247,Normal,Iteration and Timestep,19.933182908158614,0,84.56933282994446
-Monterey,2031,Management: Forest Clearcut,4.422630926055768,Normal,Iteration and Timestep,18.763633910996244,0,79.60735666900382
-Monterey,2041,Management: Forest Clearcut,3.8263548052664067,Normal,Iteration and Timestep,16.233848580177646,0,68.87438649479533
-Monterey,2051,Management: Forest Clearcut,3.9072565904991343,Normal,Iteration and Timestep,16.577085785866604,0,70.33061862898442
-Monterey,2061,Management: Forest Clearcut,3.4008713421905803,Normal,Iteration and Timestep,14.428675128035731,0,61.21568415943045
-Monterey,2071,Management: Forest Clearcut,2.376115395909366,Normal,Iteration and Timestep,10.081003855975625,0,42.77007712636859
-Monterey,2081,Management: Forest Clearcut,1.528144832173741,Normal,Iteration and Timestep,6.483369440791386,0,27.50660697912734
-Monterey,2091,Management: Forest Clearcut,0.6831706308541431,Normal,Iteration and Timestep,2.8984475147067372,0,12.297071355374575
-Napa,2017,Management: Forest Clearcut,8.917174550096183,Normal,Iteration and Timestep,25.952790036787906,0,80.25457095086566
-Napa,2021,Management: Forest Clearcut,9.396592536660494,Normal,Iteration and Timestep,27.348101329088333,0,84.56933282994446
-Napa,2031,Management: Forest Clearcut,8.845261852111536,Normal,Iteration and Timestep,25.74349334294284,0,79.60735666900382
-Napa,2041,Management: Forest Clearcut,7.652709610532813,Normal,Iteration and Timestep,22.272656503345537,0,68.87438649479533
-Napa,2051,Management: Forest Clearcut,7.814513180998269,Normal,Iteration and Timestep,22.74357406449693,0,70.33061862898442
-Napa,2061,Management: Forest Clearcut,6.801742684381161,Normal,Iteration and Timestep,19.79597895951228,0,61.21568415943045
-Napa,2071,Management: Forest Clearcut,4.752230791818732,Normal,Iteration and Timestep,13.831023184927963,0,42.77007712636859
-Napa,2081,Management: Forest Clearcut,3.056289664347482,Normal,Iteration and Timestep,8.89510948841521,0,27.50660697912734
-Napa,2091,Management: Forest Clearcut,1.3663412617082862,Normal,Iteration and Timestep,3.9766371830562113,0,12.297071355374575
-Nevada,2017,Management: Forest Clearcut,84.71315822591374,Normal,Iteration and Timestep,104.71958819738617,0,321.0182838034626
-Nevada,2021,Management: Forest Clearcut,89.26762909827471,Normal,Iteration and Timestep,110.34967358434241,0,338.27733131977783
-Nevada,2031,Management: Forest Clearcut,84.0299875950596,Normal,Iteration and Timestep,103.87507538934271,0,318.4294266760153
-Nevada,2041,Management: Forest Clearcut,72.70074130006174,Normal,Iteration and Timestep,89.87023798928907,0,275.4975459791813
-Nevada,2051,Management: Forest Clearcut,74.23787521948356,Normal,Iteration and Timestep,91.7703918073868,0,281.3224745159377
-Nevada,2061,Management: Forest Clearcut,64.61655550162104,Normal,Iteration and Timestep,79.87683642744173,0,244.8627366377218
-Nevada,2071,Management: Forest Clearcut,45.14619252227796,Normal,Iteration and Timestep,55.80822139820378,0,171.08030850547436
-Nevada,2081,Management: Forest Clearcut,29.03475181130108,Normal,Iteration and Timestep,35.891794341846065,0,110.02642791650936
-Nevada,2091,Management: Forest Clearcut,12.980241986228718,Normal,Iteration and Timestep,16.045743352825298,0,49.1882854214983
-Orange,2017,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Orange,2021,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Orange,2031,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Orange,2041,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Orange,2051,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Orange,2061,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Orange,2071,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Orange,2081,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Orange,2091,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Placer,2017,Management: Forest Clearcut,120.38185642629848,Normal,Iteration and Timestep,151.39899906221805,0,561.7819966560596
-Placer,2021,Management: Forest Clearcut,126.85399924491668,Normal,Iteration and Timestep,159.53873019459536,0,591.9853298096111
-Placer,2031,Management: Forest Clearcut,119.41103500350575,Normal,Iteration and Timestep,150.17803939236143,0,557.2514966830267
-Placer,2041,Management: Forest Clearcut,103.31157974219299,Normal,Iteration and Timestep,129.9304582005729,0,482.1207054635673
-Placer,2051,Management: Forest Clearcut,105.49592794347663,Normal,Iteration and Timestep,132.67761745775024,0,492.31433040289096
-Placer,2061,Management: Forest Clearcut,91.82352623914568,Normal,Iteration and Timestep,115.48243544060314,0,428.50978911601317
-Placer,2071,Management: Forest Clearcut,64.15511568955289,Normal,Iteration and Timestep,80.68508484969013,0,299.3905398845801
-Placer,2081,Management: Forest Clearcut,41.25991046869101,Normal,Iteration and Timestep,51.89078596890538,0,192.54624885389137
-Placer,2091,Management: Forest Clearcut,18.44560703306186,Normal,Iteration and Timestep,23.198233727275344,0,86.07949948762203
-Plumas,2017,Management: Forest Clearcut,396.8142674792802,Normal,Iteration and Timestep,551.5540341122122,0,2327.382557575104
-Plumas,2021,Management: Forest Clearcut,418.14836788139206,Normal,Iteration and Timestep,581.2074768064172,0,2452.5106520683894
-Plumas,2031,Management: Forest Clearcut,393.6141524189634,Normal,Iteration and Timestep,547.1060177080814,0,2308.613343401111
-Plumas,2041,Management: Forest Clearcut,340.5455776687102,Normal,Iteration and Timestep,473.3430790062466,0,1997.3572083490644
-Plumas,2051,Management: Forest Clearcut,347.74583655442297,Normal,Iteration and Timestep,483.3511159155408,0,2039.5879402405483
-Plumas,2061,Management: Forest Clearcut,302.67754945496165,Normal,Iteration and Timestep,420.70821822403275,0,1775.254840623483
-Plumas,2071,Management: Forest Clearcut,211.47427023593357,Normal,Iteration and Timestep,293.9397507063066,0,1240.3322366646892
-Plumas,2081,Management: Forest Clearcut,136.00489006346297,Normal,Iteration and Timestep,189.04069717555657,0,797.6916023946928
-Plumas,2091,Management: Forest Clearcut,60.802186146018734,Normal,Iteration and Timestep,84.51231167848411,0,356.6150693058627
-Riverside,2017,Management: Forest Clearcut,66.87880912572138,Normal,Iteration and Timestep,129.84502732411096,0,401.27285475432825
-Riverside,2021,Management: Forest Clearcut,70.47444402495371,Normal,Iteration and Timestep,136.8259427716438,0,422.8466641497223
-Riverside,2031,Management: Forest Clearcut,66.33946389083651,Normal,Iteration and Timestep,128.79789000698102,0,398.0367833450191
-Riverside,2041,Management: Forest Clearcut,57.3953220789961,Normal,Iteration and Timestep,111.43286283124307,0,344.37193247397664
-Riverside,2051,Management: Forest Clearcut,58.60884885748701,Normal,Iteration and Timestep,113.78892179478541,0,351.6530931449221
-Riverside,2061,Management: Forest Clearcut,51.01307013285871,Normal,Iteration and Timestep,99.04173791187226,0,306.07842079715226
-Riverside,2071,Management: Forest Clearcut,35.641730938640485,Normal,Iteration and Timestep,69.19832437366934,0,213.85038563184295
-Riverside,2081,Management: Forest Clearcut,22.922172482606115,Normal,Iteration and Timestep,44.5033359780219,0,137.5330348956367
-Riverside,2091,Management: Forest Clearcut,10.247559462812145,Normal,Iteration and Timestep,19.895609025468612,0,61.48535677687288
-Sacramento,2017,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Sacramento,2021,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Sacramento,2031,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Sacramento,2041,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Sacramento,2051,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Sacramento,2061,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Sacramento,2071,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Sacramento,2081,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Sacramento,2091,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-San Benito,2017,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-San Benito,2021,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-San Benito,2031,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-San Benito,2041,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-San Benito,2051,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-San Benito,2061,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-San Benito,2071,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-San Benito,2081,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-San Benito,2091,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-San Bernardino,2017,Management: Forest Clearcut,102.54750732610611,Normal,Iteration and Timestep,139.83533302986592,0,481.52742570519393
-San Bernardino,2021,Management: Forest Clearcut,108.06081417159568,Normal,Iteration and Timestep,147.3533616873856,0,507.4159969796667
-San Bernardino,2031,Management: Forest Clearcut,101.72051129928266,Normal,Iteration and Timestep,138.70762873123795,0,477.644140014023
-San Bernardino,2041,Management: Forest Clearcut,88.00616052112736,Normal,Iteration and Timestep,120.00653244565778,0,413.24631896877196
-San Bernardino,2051,Management: Forest Clearcut,89.866901581480093,Normal,Iteration and Timestep,122.54386711757067,0,421.9837117739065
-San Bernardino,2061,Management: Forest Clearcut,78.22004087038334,Normal,Iteration and Timestep,106.66203157856035,0,367.2941049565827
-San Bernardino,2071,Management: Forest Clearcut,54.650654105915415,Normal,Iteration and Timestep,74.52245906766375,0,256.62046275821154
-San Bernardino,2081,Management: Forest Clearcut,35.14733113999604,Normal,Iteration and Timestep,47.92743269168791,0,165.03964187476404
-San Bernardino,2091,Management: Forest Clearcut,15.71292450964529,Normal,Iteration and Timestep,21.426381673931065,0,73.78242813224745
-San Diego,2017,Management: Forest Clearcut,66.87880912572138,Normal,Iteration and Timestep,103.91248878049615,0,401.27285475432825
-San Diego,2021,Management: Forest Clearcut,70.47444402495371,Normal,Iteration and Timestep,109.49918172568411,0,422.8466641497223
-San Diego,2031,Management: Forest Clearcut,66.33946389083651,Normal,Iteration and Timestep,103.07448483871795,0,398.0367833450191
-San Diego,2041,Management: Forest Clearcut,57.3953220789961,Normal,Iteration and Timestep,89.1775861375629,0,344.37193247397664
-San Diego,2051,Management: Forest Clearcut,58.60884885748701,Normal,Iteration and Timestep,91.06309500656383,0,351.6530931449221
-San Diego,2061,Management: Forest Clearcut,51.01307013285871,Normal,Iteration and Timestep,79.26120615985424,0,306.07842079715226
-San Diego,2071,Management: Forest Clearcut,35.641730938640485,Normal,Iteration and Timestep,55.3780938191757,0,213.85038563184295
-San Diego,2081,Management: Forest Clearcut,22.922172482606115,Normal,Iteration and Timestep,35.61516752557328,0,137.5330348956367
-San Diego,2091,Management: Forest Clearcut,10.247559462812145,Normal,Iteration and Timestep,15.9220748937857,0,61.48535677687288
-San Francisco,2017,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-San Francisco,2021,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-San Francisco,2031,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-San Francisco,2041,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-San Francisco,2051,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-San Francisco,2061,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-San Francisco,2071,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-San Francisco,2081,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-San Francisco,2091,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-San Joaquin,2017,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-San Joaquin,2021,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-San Joaquin,2031,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-San Joaquin,2041,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-San Joaquin,2051,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-San Joaquin,2061,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-San Joaquin,2071,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-San Joaquin,2081,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-San Joaquin,2091,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-San Luis Obispo,2017,Management: Forest Clearcut,49.04446002552901,Normal,Iteration and Timestep,208.07802158210472,0,882.8002804595222
-San Luis Obispo,2021,Management: Forest Clearcut,51.68125895163273,Normal,Iteration and Timestep,219.26501198974478,0,930.262661129389
-San Luis Obispo,2031,Management: Forest Clearcut,48.64894018661345,Normal,Iteration and Timestep,206.3999730209587,0,875.6809233590421
-San Luis Obispo,2041,Management: Forest Clearcut,42.089902857930475,Normal,Iteration and Timestep,178.57233438195414,0,757.6182514427486
-San Luis Obispo,2051,Management: Forest Clearcut,42.97982249549048,Normal,Iteration and Timestep,182.34794364453265,0,773.6368049188286
-San Luis Obispo,2061,Management: Forest Clearcut,37.40958476409639,Normal,Iteration and Timestep,158.71542640839303,0,673.372525753735
-San Luis Obispo,2071,Management: Forest Clearcut,26.137269355003028,Normal,Iteration and Timestep,110.89104241573187,0,470.47084839005447
-San Luis Obispo,2081,Management: Forest Clearcut,16.809593153911152,Normal,Iteration and Timestep,71.31706384870525,0,302.57267677040073
-San Luis Obispo,2091,Management: Forest Clearcut,7.514876939395574,Normal,Iteration and Timestep,31.88292266177411,0,135.26778490912034
-San Mateo,2017,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-San Mateo,2021,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-San Mateo,2031,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-San Mateo,2041,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-San Mateo,2051,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-San Mateo,2061,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-San Mateo,2071,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-San Mateo,2081,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-San Mateo,2091,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Santa Barbara,2017,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Santa Barbara,2021,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Santa Barbara,2031,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Santa Barbara,2041,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Santa Barbara,2051,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Santa Barbara,2061,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Santa Barbara,2071,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Santa Barbara,2081,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Santa Barbara,2091,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Santa Clara,2017,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Santa Clara,2021,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Santa Clara,2031,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Santa Clara,2041,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Santa Clara,2051,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Santa Clara,2061,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Santa Clara,2071,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Santa Clara,2081,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Santa Clara,2091,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Santa Cruz,2017,Management: Forest Clearcut,4.4585872750480915,Normal,Iteration and Timestep,18.91618378019134,0,80.25457095086566
-Santa Cruz,2021,Management: Forest Clearcut,4.698296268330247,Normal,Iteration and Timestep,19.933182908158614,0,84.56933282994446
-Santa Cruz,2031,Management: Forest Clearcut,4.422630926055768,Normal,Iteration and Timestep,18.763633910996244,0,79.60735666900382
-Santa Cruz,2041,Management: Forest Clearcut,3.8263548052664067,Normal,Iteration and Timestep,16.233848580177646,0,68.87438649479533
-Santa Cruz,2051,Management: Forest Clearcut,3.9072565904991343,Normal,Iteration and Timestep,16.577085785866604,0,70.33061862898442
-Santa Cruz,2061,Management: Forest Clearcut,3.4008713421905803,Normal,Iteration and Timestep,14.428675128035731,0,61.21568415943045
-Santa Cruz,2071,Management: Forest Clearcut,2.376115395909366,Normal,Iteration and Timestep,10.081003855975625,0,42.77007712636859
-Santa Cruz,2081,Management: Forest Clearcut,1.528144832173741,Normal,Iteration and Timestep,6.483369440791386,0,27.50660697912734
-Santa Cruz,2091,Management: Forest Clearcut,0.6831706308541431,Normal,Iteration and Timestep,2.8984475147067372,0,12.297071355374575
-Shasta,2017,Management: Forest Clearcut,419.1072038545206,Normal,Iteration and Timestep,510.2215553885151,0,1765.6005609190445
-Shasta,2021,Management: Forest Clearcut,441.6398492230432,Normal,Iteration and Timestep,537.6528218072525,0,1860.525322258778
-Shasta,2031,Management: Forest Clearcut,415.72730704924214,Normal,Iteration and Timestep,506.1068654257044,0,1751.3618467180843
-Shasta,2041,Management: Forest Clearcut,359.6773516950422,Normal,Iteration and Timestep,437.8715902090953,0,1515.2365028854972
-Shasta,2051,Management: Forest Clearcut,367.2821195069186,Normal,Iteration and Timestep,447.1296426254192,0,1547.2736098376572
-Shasta,2061,Management: Forest Clearcut,319.68190616591454,Normal,Iteration and Timestep,389.18109231583645,0,1346.74505150747
-Shasta,2071,Management: Forest Clearcut,223.3548472154804,Normal,Iteration and Timestep,271.9124283757342,0,940.9416967801089
-Shasta,2081,Management: Forest Clearcut,143.64561422433167,Normal,Iteration and Timestep,174.87432341945075,0,605.1453535408015
-Shasta,2091,Management: Forest Clearcut,64.21803930028945,Normal,Iteration and Timestep,78.17910929340151,0,270.5355698182407
-Sierra Valley,2017,Management: Forest Clearcut,164.9677291767794,Normal,Iteration and Timestep,183.57127740509696,0,642.0365676069252
-Sierra Valley,2021,Management: Forest Clearcut,173.83696192821915,Normal,Iteration and Timestep,193.44070092150005,0,676.5546626395557
-Sierra Valley,2031,Management: Forest Clearcut,163.63734426406342,Normal,Iteration and Timestep,182.09086387763648,0,636.8588533520306
-Sierra Valley,2041,Management: Forest Clearcut,141.57512779485705,Normal,Iteration and Timestep,157.5406728805839,0,550.99509195836265
-Sierra Valley,2051,Management: Forest Clearcut,144.56849384846797,Normal,Iteration and Timestep,160.87160331736993,0,562.6449490318754
-Sierra Valley,2061,Management: Forest Clearcut,125.83223966105147,Normal,Iteration and Timestep,140.02244613896843,0,489.7254732754436
-Sierra Valley,2071,Management: Forest Clearcut,87.91626964864653,Normal,Iteration and Timestep,97.83066060634536,0,342.1606170109487
-Sierra Valley,2081,Management: Forest Clearcut,56.54135879042842,Normal,Iteration and Timestep,62.91757491706952,0,220.05285583301873
-Sierra Valley,2091,Management: Forest Clearcut,25.277313341603293,Normal,Iteration and Timestep,28.127857021748728,0,98.3765708429966
-Siskiyou,2017,Management: Forest Clearcut,401.27285475432825,Normal,Iteration and Timestep,265.4616495490783,0,963.0548514103879
-Siskiyou,2021,Management: Forest Clearcut,422.8466641497223,Normal,Iteration and Timestep,279.73378124526533,0,1014.8319939593334
-Siskiyou,2031,Management: Forest Clearcut,398.0367833450191,Normal,Iteration and Timestep,263.32082979465025,0,955.288280028046
-Siskiyou,2041,Management: Forest Clearcut,344.37193247397664,Normal,Iteration and Timestep,227.81890220038508,0,826.4926379375439
-Siskiyou,2051,Management: Forest Clearcut,351.6530931449221,Normal,Iteration and Timestep,232.6357466478482,0,843.967423547813
-Siskiyou,2061,Management: Forest Clearcut,306.07842079715226,Normal,Iteration and Timestep,202.48586843965313,0,734.5882099131654
-Siskiyou,2071,Management: Forest Clearcut,213.85038563184295,Normal,Iteration and Timestep,141.47250543845368,0,513.2409255164231
-Siskiyou,2081,Management: Forest Clearcut,137.5330348956367,Normal,Iteration and Timestep,90.98483956319215,0,330.0792837495281
-Siskiyou,2091,Management: Forest Clearcut,61.48535677687288,Normal,Iteration and Timestep,40.675575334132965,0,147.5648562644949
-Solano,2017,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Solano,2021,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Solano,2031,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Solano,2041,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Solano,2051,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Solano,2061,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Solano,2071,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Solano,2081,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Solano,2091,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Sonoma,2017,Management: Forest Clearcut,44.585872750480924,Normal,Iteration and Timestep,83.59457726698592,0,240.76371285259697
-Sonoma,2021,Management: Forest Clearcut,46.982962683302475,Normal,Iteration and Timestep,88.0889093781142,0,253.70799848983336
-Sonoma,2031,Management: Forest Clearcut,44.226309260557684,Normal,Iteration and Timestep,82.92042745031667,0,238.8220700070115
-Sonoma,2041,Management: Forest Clearcut,38.26354805266407,Normal,Iteration and Timestep,71.74077632388509,0,206.62315948438598
-Sonoma,2051,Management: Forest Clearcut,39.07256590499134,Normal,Iteration and Timestep,73.25761341139089,0,210.99185588695326
-Sonoma,2061,Management: Forest Clearcut,34.00871342190581,Normal,Iteration and Timestep,63.7633368266324,0,183.64705247829136
-Sonoma,2071,Management: Forest Clearcut,23.76115395909366,Normal,Iteration and Timestep,44.550067051559026,0,128.31023137910577
-Sonoma,2081,Management: Forest Clearcut,15.281448321737411,Normal,Iteration and Timestep,28.651367208442753,0,82.51982093738202
-Sonoma,2091,Management: Forest Clearcut,6.831706308541431,Normal,Iteration and Timestep,12.808846516715583,0,36.89121406612372
-Stanislaus,2017,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Stanislaus,2021,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Stanislaus,2031,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Stanislaus,2041,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Stanislaus,2051,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Stanislaus,2061,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Stanislaus,2071,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Stanislaus,2081,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Stanislaus,2091,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Sutter,2017,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Sutter,2021,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Sutter,2031,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Sutter,2041,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Sutter,2051,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Sutter,2061,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Sutter,2071,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Sutter,2081,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Sutter,2091,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Tehama,2017,Management: Forest Clearcut,102.54750732610611,Normal,Iteration and Timestep,164.71589968450672,0,642.0365676069252
-Tehama,2021,Management: Forest Clearcut,108.06081417159568,Normal,Iteration and Timestep,173.5715932159318,0,676.5546626395557
-Tehama,2031,Management: Forest Clearcut,101.72051129928266,Normal,Iteration and Timestep,163.38754565479294,0,636.8588533520306
-Tehama,2041,Management: Forest Clearcut,88.00616052112736,Normal,Iteration and Timestep,141.35900799537305,0,550.99509195836265
-Tehama,2051,Management: Forest Clearcut,89.866901581480093,Normal,Iteration and Timestep,144.34780456222902,0,562.6449490318754
-Tehama,2061,Management: Forest Clearcut,78.22004087038334,Normal,Iteration and Timestep,125.6401519770935,0,489.7254732754436
-Tehama,2071,Management: Forest Clearcut,54.650654105915415,Normal,Iteration and Timestep,87.78206213025123,0,342.1606170109487
-Tehama,2081,Management: Forest Clearcut,35.14733113999604,Normal,Iteration and Timestep,56.45504626283497,0,220.05285583301873
-Tehama,2091,Management: Forest Clearcut,15.71292450964529,Normal,Iteration and Timestep,25.238726564561514,0,98.3765708429966
-Trinity,2017,Management: Forest Clearcut,338.852632903655,Normal,Iteration and Timestep,478.80963427789686,0,2086.618844722507
-Trinity,2021,Management: Forest Clearcut,357.07051639309884,Normal,Iteration and Timestep,504.55208773369776,0,2198.8026535785557
-Trinity,2031,Management: Forest Clearcut,336.1199503802384,Normal,Iteration and Timestep,474.9482662595267,0,2069.7912733940993
-Trinity,2041,Management: Forest Clearcut,290.80296520024694,Normal,Iteration and Timestep,410.913913288222,0,1790.7340488646785
-Trinity,2051,Management: Forest Clearcut,296.9515008779342,Normal,Iteration and Timestep,419.6019913295548,0,1828.596084353595
-Trinity,2061,Management: Forest Clearcut,258.46622200648414,Normal,Iteration and Timestep,365.2210584041753,0,1591.6077881451918
-Trinity,2071,Management: Forest Clearcut,180.58477008911183,Normal,Iteration and Timestep,255.17206988062648,0,1112.0220052855832
-Trinity,2081,Management: Forest Clearcut,116.13900724520433,Normal,Iteration and Timestep,164.10814078073076,0,715.1717814573109
-Trinity,2091,Management: Forest Clearcut,51.92096794491487,Normal,Iteration and Timestep,73.36599234903258,0,319.72385523973895
-Tulare,2017,Management: Forest Clearcut,80.25457095086566,Normal,Iteration and Timestep,143.03495923136427,0,561.7819966560596
-Tulare,2021,Management: Forest Clearcut,84.56933282994446,Normal,Iteration and Timestep,150.725010802943,0,591.9853298096111
-Tulare,2031,Management: Forest Clearcut,79.60735666900382,Normal,Iteration and Timestep,141.88145149562743,0,557.2514966830267
-Tulare,2041,Management: Forest Clearcut,68.87438649479533,Normal,Iteration and Timestep,122.75244821132537,0,482.1207054635673
-Tulare,2051,Management: Forest Clearcut,70.33061862898442,Normal,Iteration and Timestep,125.3478406167332,0,492.31433040289096
-Tulare,2061,Management: Forest Clearcut,61.21568415943045,Normal,Iteration and Timestep,109.10260667177313,0,428.50978911601317
-Tulare,2071,Management: Forest Clearcut,42.77007712636859,Normal,Iteration and Timestep,76.22763620327409,0,299.3905398845801
-Tulare,2081,Management: Forest Clearcut,27.50660697912734,Normal,Iteration and Timestep,49.02407876881436,0,192.54624885389137
-Tulare,2091,Management: Forest Clearcut,12.297071355374575,Normal,Iteration and Timestep,21.91664697899936,0,86.07949948762203
-Tuolumne,2017,Management: Forest Clearcut,254.13947467774125,Normal,Iteration and Timestep,440.6484547356189,0,1845.85513186991
-Tuolumne,2021,Management: Forest Clearcut,267.80288729482413,Normal,Iteration and Timestep,464.33923187194245,0,1945.0946550887224
-Tuolumne,2031,Management: Forest Clearcut,252.08996278517878,Normal,Iteration and Timestep,437.0948381651703,0,1830.969203387088
-Tuolumne,2041,Management: Forest Clearcut,218.1022239001852,Normal,Iteration and Timestep,378.1640300385654,0,1584.1108893802925
-Tuolumne,2051,Management: Forest Clearcut,222.71362565845067,Normal,Iteration and Timestep,386.1596673220746,0,1617.6042284666416
-Tuolumne,2061,Management: Forest Clearcut,193.8496665048631,Normal,Iteration and Timestep,336.112900621591,0,1407.9607356669003
-Tuolumne,2071,Management: Forest Clearcut,135.43857756683389,Normal,Iteration and Timestep,234.83482836380762,0,983.7117739064776
-Tuolumne,2081,Management: Forest Clearcut,87.10425543390325,Normal,Iteration and Timestep,151.0287042440629,0,632.6519605199288
-Tuolumne,2091,Management: Forest Clearcut,38.94072595868616,Normal,Iteration and Timestep,67.51871483852224,0,282.83264117361523
-Ventura,2017,Management: Forest Clearcut,4.4585872750480915,Normal,Iteration and Timestep,18.91618378019134,0,80.25457095086566
-Ventura,2021,Management: Forest Clearcut,4.698296268330247,Normal,Iteration and Timestep,19.933182908158614,0,84.56933282994446
-Ventura,2031,Management: Forest Clearcut,4.422630926055768,Normal,Iteration and Timestep,18.763633910996244,0,79.60735666900382
-Ventura,2041,Management: Forest Clearcut,3.8263548052664067,Normal,Iteration and Timestep,16.233848580177646,0,68.87438649479533
-Ventura,2051,Management: Forest Clearcut,3.9072565904991343,Normal,Iteration and Timestep,16.577085785866604,0,70.33061862898442
-Ventura,2061,Management: Forest Clearcut,3.4008713421905803,Normal,Iteration and Timestep,14.428675128035731,0,61.21568415943045
-Ventura,2071,Management: Forest Clearcut,2.376115395909366,Normal,Iteration and Timestep,10.081003855975625,0,42.77007712636859
-Ventura,2081,Management: Forest Clearcut,1.528144832173741,Normal,Iteration and Timestep,6.483369440791386,0,27.50660697912734
-Ventura,2091,Management: Forest Clearcut,0.6831706308541431,Normal,Iteration and Timestep,2.8984475147067372,0,12.297071355374575
-Yolo,2017,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Yolo,2021,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Yolo,2031,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Yolo,2041,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Yolo,2051,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Yolo,2061,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Yolo,2071,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Yolo,2081,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Yolo,2091,Management: Forest Clearcut,0,Normal,Iteration and Timestep,0,0,0
-Yuba,2017,Management: Forest Clearcut,102.54750732610611,Normal,Iteration and Timestep,160.0495115888077,0,481.52742570519393
-Yuba,2021,Management: Forest Clearcut,108.06081417159568,Normal,Iteration and Timestep,168.65432403981887,0,507.4159969796667
-Yuba,2031,Management: Forest Clearcut,101.72051129928266,Normal,Iteration and Timestep,158.758789721156,0,477.644140014023
-Yuba,2041,Management: Forest Clearcut,88.00616052112736,Normal,Iteration and Timestep,137.35431874926576,0,413.24631896877196
-Yuba,2051,Management: Forest Clearcut,89.866901581480093,Normal,Iteration and Timestep,140.258442951482,0,421.9837117739065
-Yuba,2061,Management: Forest Clearcut,78.22004087038334,Normal,Iteration and Timestep,122.08077664872091,0,367.2941049565827
-Yuba,2071,Management: Forest Clearcut,54.650654105915415,Normal,Iteration and Timestep,85.29520342064818,0,256.62046275821154
-Yuba,2081,Management: Forest Clearcut,35.14733113999604,Normal,Iteration and Timestep,54.85567937519618,0,165.03964187476404
-Yuba,2091,Management: Forest Clearcut,15.71292450964529,Normal,Iteration and Timestep,24.523715485381825,0,73.78242813224745
+Alameda,2017,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Alameda,2021,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Alameda,2031,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Alameda,2041,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Alameda,2051,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Alameda,2061,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Alameda,2071,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Alameda,2081,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Alameda,2091,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Alpine,2017,Management: Forest Clearcut [Type],8.917174550096183,Normal,Iteration and Timestep,37.83236756038268,0,160.5091419017313
+Alpine,2021,Management: Forest Clearcut [Type],9.396592536660494,Normal,Iteration and Timestep,39.86636581631723,0,169.13866565988891
+Alpine,2031,Management: Forest Clearcut [Type],8.845261852111536,Normal,Iteration and Timestep,37.52726782199249,0,159.21471333800764
+Alpine,2041,Management: Forest Clearcut [Type],7.652709610532813,Normal,Iteration and Timestep,32.46769716035529,0,137.74877298959066
+Alpine,2051,Management: Forest Clearcut [Type],7.814513180998269,Normal,Iteration and Timestep,33.15417157173321,0,140.66123725796885
+Alpine,2061,Management: Forest Clearcut [Type],6.801742684381161,Normal,Iteration and Timestep,28.857350256071463,0,122.4313683188609
+Alpine,2071,Management: Forest Clearcut [Type],4.752230791818732,Normal,Iteration and Timestep,20.16200771195125,0,85.54015425273718
+Alpine,2081,Management: Forest Clearcut [Type],3.056289664347482,Normal,Iteration and Timestep,12.966738881582772,0,55.01321395825468
+Alpine,2091,Management: Forest Clearcut [Type],1.3663412617082862,Normal,Iteration and Timestep,5.7968950294134745,0,24.59414271074915
+Amador,2017,Management: Forest Clearcut [Type],98.08892005105803,Normal,Iteration and Timestep,149.65108780280258,0,481.52742570519393
+Amador,2021,Management: Forest Clearcut [Type],103.36251790326546,Normal,Iteration and Timestep,157.6968452115554,0,507.4159969796667
+Amador,2031,Management: Forest Clearcut [Type],97.2978803732269,Normal,Iteration and Timestep,148.44422419148964,0,477.644140014023
+Amador,2041,Management: Forest Clearcut [Type],84.17980571586095,Normal,Iteration and Timestep,128.43040263721701,0,413.24631896877196
+Amador,2051,Management: Forest Clearcut [Type],85.95964499098096,Normal,Iteration and Timestep,131.1458457626711,0,421.9837117739065
+Amador,2061,Management: Forest Clearcut [Type],74.81916952819277,Normal,Iteration and Timestep,114.14918323668073,0,367.2941049565827
+Amador,2071,Management: Forest Clearcut [Type],52.274538710006055,Normal,Iteration and Timestep,79.75357031426239,0,256.62046275821154
+Amador,2081,Management: Forest Clearcut [Type],33.619186307822304,Normal,Iteration and Timestep,51.29170348079927,0,165.03964187476404
+Amador,2091,Management: Forest Clearcut [Type],15.029753878791148,Normal,Iteration and Timestep,22.930408614945556,0,73.78242813224745
+Butte,2017,Management: Forest Clearcut [Type],156.05055462668324,Normal,Iteration and Timestep,208.68407535562685,0,802.5457095086565
+Butte,2021,Management: Forest Clearcut [Type],164.44036939155868,Normal,Iteration and Timestep,219.90364929947773,0,845.6933282994446
+Butte,2031,Management: Forest Clearcut [Type],154.7920824119519,Normal,Iteration and Timestep,207.0011392640492,0,796.0735666900382
+Butte,2041,Management: Forest Clearcut [Type],133.92241818432424,Normal,Iteration and Timestep,179.09244907872008,0,688.7438649479533
+Butte,2051,Management: Forest Clearcut [Type],136.7539806674697,Normal,Iteration and Timestep,182.87905528476978,0,703.3061862898442
+Butte,2061,Management: Forest Clearcut [Type],119.03049697667032,Normal,Iteration and Timestep,159.17770532838472,0,612.1568415943045
+Butte,2071,Management: Forest Clearcut [Type],83.16403885682782,Normal,Iteration and Timestep,111.21402671842209,0,427.7007712636859
+Butte,2081,Management: Forest Clearcut [Type],53.485069126080944,Normal,Iteration and Timestep,71.52478389204951,0,275.0660697912734
+Butte,2091,Management: Forest Clearcut [Type],23.91097207989501,Normal,Iteration and Timestep,31.975785739975077,0,122.97071355374575
+Calaveras,2017,Management: Forest Clearcut [Type],191.71925282706795,Normal,Iteration and Timestep,235.41519631920025,0,722.2911385577909
+Calaveras,2021,Management: Forest Clearcut [Type],202.02673953820064,Normal,Iteration and Timestep,248.0719273041035,0,761.1239954695001
+Calaveras,2031,Management: Forest Clearcut [Type],190.17312982039803,Normal,Iteration and Timestep,233.51668667146473,0,716.4662100210344
+Calaveras,2041,Management: Forest Clearcut [Type],164.5332566264555,Normal,Iteration and Timestep,202.03306834651795,0,619.869478453158
+Calaveras,2051,Management: Forest Clearcut [Type],168.01203339146278,Normal,Iteration and Timestep,206.3047150539228,0,632.9755676608598
+Calaveras,2061,Management: Forest Clearcut [Type],146.23746771419496,Normal,Iteration and Timestep,179.56737084831468,0,550.9411574348741
+Calaveras,2071,Management: Forest Clearcut [Type],102.17296202410274,Normal,Iteration and Timestep,125.45984588785335,0,384.9306941373173
+Calaveras,2081,Management: Forest Clearcut [Type],65.71022778347087,Normal,Iteration and Timestep,80.68666002875814,0,247.55946281214605
+Calaveras,2091,Management: Forest Clearcut [Type],29.376337126728153,Normal,Iteration and Timestep,36.07168330697423,0,110.67364219837118
+Colusa,2017,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Colusa,2021,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Colusa,2031,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Colusa,2041,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Colusa,2051,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Colusa,2061,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Colusa,2071,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Colusa,2081,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Colusa,2091,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Contra Costa,2017,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Contra Costa,2021,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Contra Costa,2031,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Contra Costa,2041,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Contra Costa,2051,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Contra Costa,2061,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Contra Costa,2071,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Contra Costa,2081,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Contra Costa,2091,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Del Norte,2017,Management: Forest Clearcut [Type],107.00609460115422,Normal,Iteration and Timestep,126.14497697148408,0,401.27285475432825
+Del Norte,2021,Management: Forest Clearcut [Type],112.75911043992595,Normal,Iteration and Timestep,132.92696498070364,0,422.8466641497223
+Del Norte,2031,Management: Forest Clearcut [Type],106.14314222533844,Normal,Iteration and Timestep,125.12767877010113,0,398.0367833450191
+Del Norte,2041,Management: Forest Clearcut [Type],91.83251532639378,Normal,Iteration and Timestep,108.25748359716745,0,344.37193247397664
+Del Norte,2051,Management: Forest Clearcut [Type],93.77415817197924,Normal,Iteration and Timestep,110.54640455027906,0,351.6530931449221
+Del Norte,2061,Management: Forest Clearcut [Type],81.62091221257394,Normal,Iteration and Timestep,96.2194548808027,0,306.07842079715226
+Del Norte,2071,Management: Forest Clearcut [Type],57.02676950182479,Normal,Iteration and Timestep,67.22645614138902,0,213.85038563184295
+Del Norte,2081,Management: Forest Clearcut [Type],36.67547597216979,Normal,Iteration and Timestep,43.23517355877478,0,137.5330348956367
+Del Norte,2091,Management: Forest Clearcut [Type],16.396095140499433,Normal,Iteration and Timestep,19.328665826275785,0,61.48535677687288
+El Dorado,2017,Management: Forest Clearcut [Type],338.852632903655,Normal,Iteration and Timestep,337.7603821479484,0,1123.5639933121192
+El Dorado,2021,Management: Forest Clearcut [Type],357.07051639309884,Normal,Iteration and Timestep,355.91954247848327,0,1183.9706596192223
+El Dorado,2031,Management: Forest Clearcut [Type],336.1199503802384,Normal,Iteration and Timestep,335.03650809836813,0,1114.5029933660535
+El Dorado,2041,Management: Forest Clearcut [Type],290.80296520024694,Normal,Iteration and Timestep,289.8655967761627,0,964.2414109271346
+El Dorado,2051,Management: Forest Clearcut [Type],296.9515008779342,Normal,Iteration and Timestep,295.99431338771825,0,984.6286608057819
+El Dorado,2061,Management: Forest Clearcut [Type],258.46622200648414,Normal,Iteration and Timestep,257.6330871894633,0,857.0195782320263
+El Dorado,2071,Management: Forest Clearcut [Type],180.58477008911183,Normal,Iteration and Timestep,180.0026767764268,0,598.7810797691602
+El Dorado,2081,Management: Forest Clearcut [Type],116.13900724520433,Normal,Iteration and Timestep,115.76464710715973,0,385.09249770778274
+El Dorado,2091,Management: Forest Clearcut [Type],51.92096794491487,Normal,Iteration and Timestep,51.75360694202435,0,172.15899897524406
+Fresno,2017,Management: Forest Clearcut [Type],57.9616345756252,Normal,Iteration and Timestep,102.27918492640593,0,401.27285475432825
+Fresno,2021,Management: Forest Clearcut [Type],61.07785148829322,Normal,Iteration and Timestep,107.77806583642776,0,422.8466641497223
+Fresno,2031,Management: Forest Clearcut [Type],57.49420203872499,Normal,Iteration and Timestep,101.45435278990264,0,398.0367833450191
+Fresno,2041,Management: Forest Clearcut [Type],49.74261246846329,Normal,Iteration and Timestep,87.77588652622337,0,344.37193247397664
+Fresno,2051,Management: Forest Clearcut [Type],50.79433567648875,Normal,Iteration and Timestep,89.63175883335573,0,351.6530931449221
+Fresno,2061,Management: Forest Clearcut [Type],44.211327448477554,Normal,Iteration and Timestep,78.01537291093462,0,306.07842079715226
+Fresno,2071,Management: Forest Clearcut [Type],30.88950014682176,Normal,Iteration and Timestep,54.507657020591324,0,213.85038563184295
+Fresno,2081,Management: Forest Clearcut [Type],19.865882818258637,Normal,Iteration and Timestep,35.05536580138913,0,137.5330348956367
+Fresno,2091,Management: Forest Clearcut [Type],8.881218201103861,Normal,Iteration and Timestep,15.671810593562197,0,61.48535677687288
+Glenn,2017,Management: Forest Clearcut [Type],49.04446002552901,Normal,Iteration and Timestep,103.50657906973855,0,321.0182838034626
+Glenn,2021,Management: Forest Clearcut [Type],51.68125895163273,Normal,Iteration and Timestep,109.07144891219761,0,338.27733131977783
+Glenn,2031,Management: Forest Clearcut [Type],48.64894018661345,Normal,Iteration and Timestep,102.67184859336969,0,318.4294266760153
+Glenn,2041,Management: Forest Clearcut [Type],42.089902857930475,Normal,Iteration and Timestep,88.82923486025278,0,275.4975459791813
+Glenn,2051,Management: Forest Clearcut [Type],42.97982249549048,Normal,Iteration and Timestep,90.70737843208272,0,281.3224745159377
+Glenn,2061,Management: Forest Clearcut [Type],37.40958476409639,Normal,Iteration and Timestep,78.95159088988794,0,244.8627366377218
+Glenn,2071,Management: Forest Clearcut [Type],26.137269355003028,Normal,Iteration and Timestep,55.16177231337545,0,171.08030850547436
+Glenn,2081,Management: Forest Clearcut [Type],16.809593153911152,Normal,Iteration and Timestep,35.47604524567652,0,110.02642791650936
+Glenn,2091,Management: Forest Clearcut [Type],7.514876939395574,Normal,Iteration and Timestep,15.859879051008326,0,49.1882854214983
+Humboldt,2017,Management: Forest Clearcut [Type],1021.016485986013,Normal,Iteration and Timestep,993.5737645433094,0,4092.9831184941486
+Humboldt,2021,Management: Forest Clearcut [Type],1075.9098454476266,Normal,Iteration and Timestep,1046.991708873595,0,4313.035974327167
+Humboldt,2031,Management: Forest Clearcut [Type],1012.7824820667709,Normal,Iteration and Timestep,985.5610728937664,0,4059.9751901191953
+Humboldt,2041,Management: Forest Clearcut [Type],876.2352504060071,Normal,Iteration and Timestep,852.6839363721815,0,3512.5937112345614
+Humboldt,2051,Management: Forest Clearcut [Type],894.7617592243017,Normal,Iteration and Timestep,870.7124925836529,0,3586.8615500782053
+Humboldt,2061,Management: Forest Clearcut [Type],778.7995373616429,Normal,Iteration and Timestep,757.8670851859248,0,3121.999892130953
+Humboldt,2071,Management: Forest Clearcut [Type],544.1304256632448,Normal,Iteration and Timestep,529.5053731739545,0,2181.273933444798
+Humboldt,2081,Management: Forest Clearcut [Type],349.9451665677867,Normal,Iteration and Timestep,340.5393951055697,0,1402.8369559354944
+Humboldt,2091,Management: Forest Clearcut [Type],156.44607446559877,Normal,Iteration and Timestep,152.24114134131352,0,627.1506391241033
+Imperial,2017,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Imperial,2021,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Imperial,2031,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Imperial,2041,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Imperial,2051,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Imperial,2061,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Imperial,2071,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Imperial,2081,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Imperial,2091,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Inyo,2017,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Inyo,2021,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Inyo,2031,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Inyo,2041,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Inyo,2051,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Inyo,2061,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Inyo,2071,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Inyo,2081,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Inyo,2091,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Kern,2017,Management: Forest Clearcut [Type],13.375761825144277,Normal,Iteration and Timestep,56.74855134057402,0,240.76371285259697
+Kern,2021,Management: Forest Clearcut [Type],14.094888804990743,Normal,Iteration and Timestep,59.79954872447585,0,253.70799848983336
+Kern,2031,Management: Forest Clearcut [Type],13.267892778167305,Normal,Iteration and Timestep,56.290901732988736,0,238.8220700070115
+Kern,2041,Management: Forest Clearcut [Type],11.479064415799222,Normal,Iteration and Timestep,48.70154574053294,0,206.62315948438598
+Kern,2051,Management: Forest Clearcut [Type],11.721769771497405,Normal,Iteration and Timestep,49.73125735759981,0,210.99185588695326
+Kern,2061,Management: Forest Clearcut [Type],10.202614026571743,Normal,Iteration and Timestep,43.28602538410719,0,183.64705247829136
+Kern,2071,Management: Forest Clearcut [Type],7.1283461877280985,Normal,Iteration and Timestep,30.243011567926875,0,128.31023137910577
+Kern,2081,Management: Forest Clearcut [Type],4.584434496521224,Normal,Iteration and Timestep,19.45010832237416,0,82.51982093738202
+Kern,2091,Management: Forest Clearcut [Type],2.049511892562429,Normal,Iteration and Timestep,8.695342544120212,0,36.89121406612372
+Kings,2017,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Kings,2021,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Kings,2031,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Kings,2041,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Kings,2051,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Kings,2061,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Kings,2071,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Kings,2081,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Kings,2091,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Lake,2017,Management: Forest Clearcut [Type],8.917174550096183,Normal,Iteration and Timestep,25.952790036787906,0,80.25457095086566
+Lake,2021,Management: Forest Clearcut [Type],9.396592536660494,Normal,Iteration and Timestep,27.348101329088333,0,84.56933282994446
+Lake,2031,Management: Forest Clearcut [Type],8.845261852111536,Normal,Iteration and Timestep,25.74349334294284,0,79.60735666900382
+Lake,2041,Management: Forest Clearcut [Type],7.652709610532813,Normal,Iteration and Timestep,22.272656503345537,0,68.87438649479533
+Lake,2051,Management: Forest Clearcut [Type],7.814513180998269,Normal,Iteration and Timestep,22.74357406449693,0,70.33061862898442
+Lake,2061,Management: Forest Clearcut [Type],6.801742684381161,Normal,Iteration and Timestep,19.79597895951228,0,61.21568415943045
+Lake,2071,Management: Forest Clearcut [Type],4.752230791818732,Normal,Iteration and Timestep,13.831023184927963,0,42.77007712636859
+Lake,2081,Management: Forest Clearcut [Type],3.056289664347482,Normal,Iteration and Timestep,8.89510948841521,0,27.50660697912734
+Lake,2091,Management: Forest Clearcut [Type],1.3663412617082862,Normal,Iteration and Timestep,3.9766371830562113,0,12.297071355374575
+Lassen,2017,Management: Forest Clearcut [Type],472.6102511550978,Normal,Iteration and Timestep,707.1242357437338,0,1926.1097028207757
+Lassen,2021,Management: Forest Clearcut [Type],498.01940444300624,Normal,Iteration and Timestep,745.1416677729668,0,2029.6639879186669
+Lassen,2031,Management: Forest Clearcut [Type],468.79887816191143,Normal,Iteration and Timestep,701.4216209393488,0,1910.576560056092
+Lassen,2041,Management: Forest Clearcut [Type],405.5936093582392,Normal,Iteration and Timestep,606.8532587666318,0,1652.9852758750878
+Lassen,2051,Management: Forest Clearcut [Type],414.1691985929083,Normal,Iteration and Timestep,619.684142076498,0,1687.934847095626
+Lassen,2061,Management: Forest Clearcut [Type],360.49236227220155,Normal,Iteration and Timestep,539.3723169147431,0,1469.1764198263309
+Lassen,2071,Management: Forest Clearcut [Type],251.8682319663928,Normal,Iteration and Timestep,376.8477949897721,0,1026.4818510328462
+Lassen,2081,Management: Forest Clearcut [Type],161.98335221041657,Normal,Iteration and Timestep,242.3611291863604,0,660.1585674990562
+Lassen,2091,Management: Forest Clearcut [Type],72.41608687053917,Normal,Iteration and Timestep,108.34968128331406,0,295.1297125289898
+Los Angeles,2017,Management: Forest Clearcut [Type],66.87880912572138,Normal,Iteration and Timestep,114.32859440292106,0,401.27285475432825
+Los Angeles,2021,Management: Forest Clearcut [Type],70.47444402495371,Normal,Iteration and Timestep,120.47529302673402,0,422.8466641497223
+Los Angeles,2031,Management: Forest Clearcut [Type],66.33946389083651,Normal,Iteration and Timestep,113.4065896093491,0,398.0367833450191
+Los Angeles,2041,Management: Forest Clearcut [Type],57.3953220789961,Normal,Iteration and Timestep,98.11667678261438,0,344.37193247397664
+Los Angeles,2051,Management: Forest Clearcut [Type],58.60884885748701,Normal,Iteration and Timestep,100.19118756815125,0,351.6530931449221
+Los Angeles,2061,Management: Forest Clearcut [Type],51.01307013285871,Normal,Iteration and Timestep,87.20628672534636,0,306.07842079715226
+Los Angeles,2071,Management: Forest Clearcut [Type],35.641730938640485,Normal,Iteration and Timestep,60.92915010854596,0,213.85038563184295
+Los Angeles,2081,Management: Forest Clearcut [Type],22.922172482606115,Normal,Iteration and Timestep,39.18520372680762,0,137.5330348956367
+Los Angeles,2091,Management: Forest Clearcut [Type],10.247559462812145,Normal,Iteration and Timestep,17.518091077866934,0,61.48535677687288
+Madera,2017,Management: Forest Clearcut [Type],49.04446002552901,Normal,Iteration and Timestep,91.8715937443623,0,321.0182838034626
+Madera,2021,Management: Forest Clearcut [Type],51.68125895163273,Normal,Iteration and Timestep,96.81092674137102,0,338.27733131977783
+Madera,2031,Management: Forest Clearcut [Type],48.64894018661345,Normal,Iteration and Timestep,91.13069379481098,0,318.4294266760153
+Madera,2041,Management: Forest Clearcut [Type],42.089902857930475,Normal,Iteration and Timestep,78.84410296475178,0,275.4975459791813
+Madera,2051,Management: Forest Clearcut [Type],42.97982249549048,Normal,Iteration and Timestep,80.51112785124222,0,281.3224745159377
+Madera,2061,Management: Forest Clearcut [Type],37.40958476409639,Normal,Iteration and Timestep,70.07678689506129,0,244.8627366377218
+Madera,2071,Management: Forest Clearcut [Type],26.137269355003028,Normal,Iteration and Timestep,48.96113833284899,0,171.08030850547436
+Madera,2081,Management: Forest Clearcut [Type],16.809593153911152,Normal,Iteration and Timestep,31.488247855930624,0,110.02642791650936
+Madera,2091,Management: Forest Clearcut [Type],7.514876939395574,Normal,Iteration and Timestep,14.077099041474867,0,49.1882854214983
+Marin,2017,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Marin,2021,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Marin,2031,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Marin,2041,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Marin,2051,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Marin,2061,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Marin,2071,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Marin,2081,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Marin,2091,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Mariposa,2017,Management: Forest Clearcut [Type],35.66869820038473,Normal,Iteration and Timestep,49.41264009607554,0,160.5091419017313
+Mariposa,2021,Management: Forest Clearcut [Type],37.586370146641976,Normal,Iteration and Timestep,52.06923364962799,0,169.13866565988891
+Mariposa,2031,Management: Forest Clearcut [Type],35.38104740844614,Normal,Iteration and Timestep,49.01415106304267,0,159.21471333800764
+Mariposa,2041,Management: Forest Clearcut [Type],30.610838442131254,Normal,Iteration and Timestep,42.40587459858096,0,137.74877298959066
+Mariposa,2051,Management: Forest Clearcut [Type],31.258052723993075,Normal,Iteration and Timestep,43.30247492290491,0,140.66123725796885
+Mariposa,2061,Management: Forest Clearcut [Type],27.206970737524642,Normal,Iteration and Timestep,37.69042104102536,0,122.4313683188609
+Mariposa,2071,Management: Forest Clearcut [Type],19.00892316727493,Normal,Iteration and Timestep,26.333483599588643,0,85.54015425273718
+Mariposa,2081,Management: Forest Clearcut [Type],12.225158657389928,Normal,Iteration and Timestep,16.93578390389686,0,55.01321395825468
+Mariposa,2091,Management: Forest Clearcut [Type],5.465365046833145,Normal,Iteration and Timestep,7.571291627624477,0,24.59414271074915
+Mendocino,2017,Management: Forest Clearcut [Type],361.14556927889544,Normal,Iteration and Timestep,282.40434001058446,0,802.5457095086565
+Mendocino,2021,Management: Forest Clearcut [Type],380.56199773475004,Normal,Iteration and Timestep,297.5873690434116,0,845.6933282994446
+Mendocino,2031,Management: Forest Clearcut [Type],358.2331050105172,Normal,Iteration and Timestep,280.1268856556604,0,796.0735666900382
+Mendocino,2041,Management: Forest Clearcut [Type],309.934739226579,Normal,Iteration and Timestep,242.35910093650295,0,688.7438649479533
+Mendocino,2051,Management: Forest Clearcut [Type],316.4877838304299,Normal,Iteration and Timestep,247.4833732350821,0,703.3061862898442
+Mendocino,2061,Management: Forest Clearcut [Type],275.47057871743704,Normal,Iteration and Timestep,215.4092244032348,0,612.1568415943045
+Mendocino,2071,Management: Forest Clearcut [Type],192.46534706865864,Normal,Iteration and Timestep,150.50177528789885,0,427.7007712636859
+Mendocino,2081,Management: Forest Clearcut [Type],123.77973140607303,Normal,Iteration and Timestep,96.79181008427291,0,275.0660697912734
+Mendocino,2091,Management: Forest Clearcut [Type],55.33682109918559,Normal,Iteration and Timestep,43.2716327435573,0,122.97071355374575
+Merced,2017,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Merced,2021,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Merced,2031,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Merced,2041,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Merced,2051,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Merced,2061,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Merced,2071,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Merced,2081,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Merced,2091,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Modoc,2017,Management: Forest Clearcut [Type],84.71315822591374,Normal,Iteration and Timestep,229.43829671917572,0,963.0548514103879
+Modoc,2021,Management: Forest Clearcut [Type],89.26762909827471,Normal,Iteration and Timestep,241.7736890159056,0,1014.8319939593334
+Modoc,2031,Management: Forest Clearcut [Type],84.0299875950596,Normal,Iteration and Timestep,227.5879878746662,0,955.288280028046
+Modoc,2041,Management: Forest Clearcut [Type],72.70074130006174,Normal,Iteration and Timestep,196.90369953655068,0,826.4926379375439
+Modoc,2051,Management: Forest Clearcut [Type],74.23787521948356,Normal,Iteration and Timestep,201.066894436697,0,843.967423547813
+Modoc,2061,Management: Forest Clearcut [Type],64.61655550162104,Normal,Iteration and Timestep,175.00837820985512,0,734.5882099131654
+Modoc,2071,Management: Forest Clearcut [Type],45.14619252227796,Normal,Iteration and Timestep,122.27457614133489,0,513.2409255164231
+Modoc,2081,Management: Forest Clearcut [Type],29.03475181130108,Normal,Iteration and Timestep,78.63812589165296,0,330.0792837495281
+Modoc,2091,Management: Forest Clearcut [Type],12.980241986228718,Normal,Iteration and Timestep,35.155868045680144,0,147.5648562644949
+Mono,2017,Management: Forest Clearcut [Type],4.4585872750480915,Normal,Iteration and Timestep,18.91618378019134,0,80.25457095086566
+Mono,2021,Management: Forest Clearcut [Type],4.698296268330247,Normal,Iteration and Timestep,19.933182908158614,0,84.56933282994446
+Mono,2031,Management: Forest Clearcut [Type],4.422630926055768,Normal,Iteration and Timestep,18.763633910996244,0,79.60735666900382
+Mono,2041,Management: Forest Clearcut [Type],3.8263548052664067,Normal,Iteration and Timestep,16.233848580177646,0,68.87438649479533
+Mono,2051,Management: Forest Clearcut [Type],3.9072565904991343,Normal,Iteration and Timestep,16.577085785866604,0,70.33061862898442
+Mono,2061,Management: Forest Clearcut [Type],3.4008713421905803,Normal,Iteration and Timestep,14.428675128035731,0,61.21568415943045
+Mono,2071,Management: Forest Clearcut [Type],2.376115395909366,Normal,Iteration and Timestep,10.081003855975625,0,42.77007712636859
+Mono,2081,Management: Forest Clearcut [Type],1.528144832173741,Normal,Iteration and Timestep,6.483369440791386,0,27.50660697912734
+Mono,2091,Management: Forest Clearcut [Type],0.6831706308541431,Normal,Iteration and Timestep,2.8984475147067372,0,12.297071355374575
+Monterey,2017,Management: Forest Clearcut [Type],4.4585872750480915,Normal,Iteration and Timestep,18.91618378019134,0,80.25457095086566
+Monterey,2021,Management: Forest Clearcut [Type],4.698296268330247,Normal,Iteration and Timestep,19.933182908158614,0,84.56933282994446
+Monterey,2031,Management: Forest Clearcut [Type],4.422630926055768,Normal,Iteration and Timestep,18.763633910996244,0,79.60735666900382
+Monterey,2041,Management: Forest Clearcut [Type],3.8263548052664067,Normal,Iteration and Timestep,16.233848580177646,0,68.87438649479533
+Monterey,2051,Management: Forest Clearcut [Type],3.9072565904991343,Normal,Iteration and Timestep,16.577085785866604,0,70.33061862898442
+Monterey,2061,Management: Forest Clearcut [Type],3.4008713421905803,Normal,Iteration and Timestep,14.428675128035731,0,61.21568415943045
+Monterey,2071,Management: Forest Clearcut [Type],2.376115395909366,Normal,Iteration and Timestep,10.081003855975625,0,42.77007712636859
+Monterey,2081,Management: Forest Clearcut [Type],1.528144832173741,Normal,Iteration and Timestep,6.483369440791386,0,27.50660697912734
+Monterey,2091,Management: Forest Clearcut [Type],0.6831706308541431,Normal,Iteration and Timestep,2.8984475147067372,0,12.297071355374575
+Napa,2017,Management: Forest Clearcut [Type],8.917174550096183,Normal,Iteration and Timestep,25.952790036787906,0,80.25457095086566
+Napa,2021,Management: Forest Clearcut [Type],9.396592536660494,Normal,Iteration and Timestep,27.348101329088333,0,84.56933282994446
+Napa,2031,Management: Forest Clearcut [Type],8.845261852111536,Normal,Iteration and Timestep,25.74349334294284,0,79.60735666900382
+Napa,2041,Management: Forest Clearcut [Type],7.652709610532813,Normal,Iteration and Timestep,22.272656503345537,0,68.87438649479533
+Napa,2051,Management: Forest Clearcut [Type],7.814513180998269,Normal,Iteration and Timestep,22.74357406449693,0,70.33061862898442
+Napa,2061,Management: Forest Clearcut [Type],6.801742684381161,Normal,Iteration and Timestep,19.79597895951228,0,61.21568415943045
+Napa,2071,Management: Forest Clearcut [Type],4.752230791818732,Normal,Iteration and Timestep,13.831023184927963,0,42.77007712636859
+Napa,2081,Management: Forest Clearcut [Type],3.056289664347482,Normal,Iteration and Timestep,8.89510948841521,0,27.50660697912734
+Napa,2091,Management: Forest Clearcut [Type],1.3663412617082862,Normal,Iteration and Timestep,3.9766371830562113,0,12.297071355374575
+Nevada,2017,Management: Forest Clearcut [Type],84.71315822591374,Normal,Iteration and Timestep,104.71958819738617,0,321.0182838034626
+Nevada,2021,Management: Forest Clearcut [Type],89.26762909827471,Normal,Iteration and Timestep,110.34967358434241,0,338.27733131977783
+Nevada,2031,Management: Forest Clearcut [Type],84.0299875950596,Normal,Iteration and Timestep,103.87507538934271,0,318.4294266760153
+Nevada,2041,Management: Forest Clearcut [Type],72.70074130006174,Normal,Iteration and Timestep,89.87023798928907,0,275.4975459791813
+Nevada,2051,Management: Forest Clearcut [Type],74.23787521948356,Normal,Iteration and Timestep,91.7703918073868,0,281.3224745159377
+Nevada,2061,Management: Forest Clearcut [Type],64.61655550162104,Normal,Iteration and Timestep,79.87683642744173,0,244.8627366377218
+Nevada,2071,Management: Forest Clearcut [Type],45.14619252227796,Normal,Iteration and Timestep,55.80822139820378,0,171.08030850547436
+Nevada,2081,Management: Forest Clearcut [Type],29.03475181130108,Normal,Iteration and Timestep,35.891794341846065,0,110.02642791650936
+Nevada,2091,Management: Forest Clearcut [Type],12.980241986228718,Normal,Iteration and Timestep,16.045743352825298,0,49.1882854214983
+Orange,2017,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Orange,2021,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Orange,2031,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Orange,2041,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Orange,2051,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Orange,2061,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Orange,2071,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Orange,2081,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Orange,2091,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Placer,2017,Management: Forest Clearcut [Type],120.38185642629848,Normal,Iteration and Timestep,151.39899906221805,0,561.7819966560596
+Placer,2021,Management: Forest Clearcut [Type],126.85399924491668,Normal,Iteration and Timestep,159.53873019459536,0,591.9853298096111
+Placer,2031,Management: Forest Clearcut [Type],119.41103500350575,Normal,Iteration and Timestep,150.17803939236143,0,557.2514966830267
+Placer,2041,Management: Forest Clearcut [Type],103.31157974219299,Normal,Iteration and Timestep,129.9304582005729,0,482.1207054635673
+Placer,2051,Management: Forest Clearcut [Type],105.49592794347663,Normal,Iteration and Timestep,132.67761745775024,0,492.31433040289096
+Placer,2061,Management: Forest Clearcut [Type],91.82352623914568,Normal,Iteration and Timestep,115.48243544060314,0,428.50978911601317
+Placer,2071,Management: Forest Clearcut [Type],64.15511568955289,Normal,Iteration and Timestep,80.68508484969013,0,299.3905398845801
+Placer,2081,Management: Forest Clearcut [Type],41.25991046869101,Normal,Iteration and Timestep,51.89078596890538,0,192.54624885389137
+Placer,2091,Management: Forest Clearcut [Type],18.44560703306186,Normal,Iteration and Timestep,23.198233727275344,0,86.07949948762203
+Plumas,2017,Management: Forest Clearcut [Type],396.8142674792802,Normal,Iteration and Timestep,551.5540341122122,0,2327.382557575104
+Plumas,2021,Management: Forest Clearcut [Type],418.14836788139206,Normal,Iteration and Timestep,581.2074768064172,0,2452.5106520683894
+Plumas,2031,Management: Forest Clearcut [Type],393.6141524189634,Normal,Iteration and Timestep,547.1060177080814,0,2308.613343401111
+Plumas,2041,Management: Forest Clearcut [Type],340.5455776687102,Normal,Iteration and Timestep,473.3430790062466,0,1997.3572083490644
+Plumas,2051,Management: Forest Clearcut [Type],347.74583655442297,Normal,Iteration and Timestep,483.3511159155408,0,2039.5879402405483
+Plumas,2061,Management: Forest Clearcut [Type],302.67754945496165,Normal,Iteration and Timestep,420.70821822403275,0,1775.254840623483
+Plumas,2071,Management: Forest Clearcut [Type],211.47427023593357,Normal,Iteration and Timestep,293.9397507063066,0,1240.3322366646892
+Plumas,2081,Management: Forest Clearcut [Type],136.00489006346297,Normal,Iteration and Timestep,189.04069717555657,0,797.6916023946928
+Plumas,2091,Management: Forest Clearcut [Type],60.802186146018734,Normal,Iteration and Timestep,84.51231167848411,0,356.6150693058627
+Riverside,2017,Management: Forest Clearcut [Type],66.87880912572138,Normal,Iteration and Timestep,129.84502732411096,0,401.27285475432825
+Riverside,2021,Management: Forest Clearcut [Type],70.47444402495371,Normal,Iteration and Timestep,136.8259427716438,0,422.8466641497223
+Riverside,2031,Management: Forest Clearcut [Type],66.33946389083651,Normal,Iteration and Timestep,128.79789000698102,0,398.0367833450191
+Riverside,2041,Management: Forest Clearcut [Type],57.3953220789961,Normal,Iteration and Timestep,111.43286283124307,0,344.37193247397664
+Riverside,2051,Management: Forest Clearcut [Type],58.60884885748701,Normal,Iteration and Timestep,113.78892179478541,0,351.6530931449221
+Riverside,2061,Management: Forest Clearcut [Type],51.01307013285871,Normal,Iteration and Timestep,99.04173791187226,0,306.07842079715226
+Riverside,2071,Management: Forest Clearcut [Type],35.641730938640485,Normal,Iteration and Timestep,69.19832437366934,0,213.85038563184295
+Riverside,2081,Management: Forest Clearcut [Type],22.922172482606115,Normal,Iteration and Timestep,44.5033359780219,0,137.5330348956367
+Riverside,2091,Management: Forest Clearcut [Type],10.247559462812145,Normal,Iteration and Timestep,19.895609025468612,0,61.48535677687288
+Sacramento,2017,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Sacramento,2021,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Sacramento,2031,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Sacramento,2041,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Sacramento,2051,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Sacramento,2061,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Sacramento,2071,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Sacramento,2081,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Sacramento,2091,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+San Benito,2017,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+San Benito,2021,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+San Benito,2031,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+San Benito,2041,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+San Benito,2051,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+San Benito,2061,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+San Benito,2071,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+San Benito,2081,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+San Benito,2091,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+San Bernardino,2017,Management: Forest Clearcut [Type],102.54750732610611,Normal,Iteration and Timestep,139.83533302986592,0,481.52742570519393
+San Bernardino,2021,Management: Forest Clearcut [Type],108.06081417159568,Normal,Iteration and Timestep,147.3533616873856,0,507.4159969796667
+San Bernardino,2031,Management: Forest Clearcut [Type],101.72051129928266,Normal,Iteration and Timestep,138.70762873123795,0,477.644140014023
+San Bernardino,2041,Management: Forest Clearcut [Type],88.00616052112736,Normal,Iteration and Timestep,120.00653244565778,0,413.24631896877196
+San Bernardino,2051,Management: Forest Clearcut [Type],89.866901581480093,Normal,Iteration and Timestep,122.54386711757067,0,421.9837117739065
+San Bernardino,2061,Management: Forest Clearcut [Type],78.22004087038334,Normal,Iteration and Timestep,106.66203157856035,0,367.2941049565827
+San Bernardino,2071,Management: Forest Clearcut [Type],54.650654105915415,Normal,Iteration and Timestep,74.52245906766375,0,256.62046275821154
+San Bernardino,2081,Management: Forest Clearcut [Type],35.14733113999604,Normal,Iteration and Timestep,47.92743269168791,0,165.03964187476404
+San Bernardino,2091,Management: Forest Clearcut [Type],15.71292450964529,Normal,Iteration and Timestep,21.426381673931065,0,73.78242813224745
+San Diego,2017,Management: Forest Clearcut [Type],66.87880912572138,Normal,Iteration and Timestep,103.91248878049615,0,401.27285475432825
+San Diego,2021,Management: Forest Clearcut [Type],70.47444402495371,Normal,Iteration and Timestep,109.49918172568411,0,422.8466641497223
+San Diego,2031,Management: Forest Clearcut [Type],66.33946389083651,Normal,Iteration and Timestep,103.07448483871795,0,398.0367833450191
+San Diego,2041,Management: Forest Clearcut [Type],57.3953220789961,Normal,Iteration and Timestep,89.1775861375629,0,344.37193247397664
+San Diego,2051,Management: Forest Clearcut [Type],58.60884885748701,Normal,Iteration and Timestep,91.06309500656383,0,351.6530931449221
+San Diego,2061,Management: Forest Clearcut [Type],51.01307013285871,Normal,Iteration and Timestep,79.26120615985424,0,306.07842079715226
+San Diego,2071,Management: Forest Clearcut [Type],35.641730938640485,Normal,Iteration and Timestep,55.3780938191757,0,213.85038563184295
+San Diego,2081,Management: Forest Clearcut [Type],22.922172482606115,Normal,Iteration and Timestep,35.61516752557328,0,137.5330348956367
+San Diego,2091,Management: Forest Clearcut [Type],10.247559462812145,Normal,Iteration and Timestep,15.9220748937857,0,61.48535677687288
+San Francisco,2017,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+San Francisco,2021,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+San Francisco,2031,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+San Francisco,2041,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+San Francisco,2051,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+San Francisco,2061,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+San Francisco,2071,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+San Francisco,2081,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+San Francisco,2091,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+San Joaquin,2017,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+San Joaquin,2021,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+San Joaquin,2031,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+San Joaquin,2041,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+San Joaquin,2051,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+San Joaquin,2061,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+San Joaquin,2071,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+San Joaquin,2081,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+San Joaquin,2091,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+San Luis Obispo,2017,Management: Forest Clearcut [Type],49.04446002552901,Normal,Iteration and Timestep,208.07802158210472,0,882.8002804595222
+San Luis Obispo,2021,Management: Forest Clearcut [Type],51.68125895163273,Normal,Iteration and Timestep,219.26501198974478,0,930.262661129389
+San Luis Obispo,2031,Management: Forest Clearcut [Type],48.64894018661345,Normal,Iteration and Timestep,206.3999730209587,0,875.6809233590421
+San Luis Obispo,2041,Management: Forest Clearcut [Type],42.089902857930475,Normal,Iteration and Timestep,178.57233438195414,0,757.6182514427486
+San Luis Obispo,2051,Management: Forest Clearcut [Type],42.97982249549048,Normal,Iteration and Timestep,182.34794364453265,0,773.6368049188286
+San Luis Obispo,2061,Management: Forest Clearcut [Type],37.40958476409639,Normal,Iteration and Timestep,158.71542640839303,0,673.372525753735
+San Luis Obispo,2071,Management: Forest Clearcut [Type],26.137269355003028,Normal,Iteration and Timestep,110.89104241573187,0,470.47084839005447
+San Luis Obispo,2081,Management: Forest Clearcut [Type],16.809593153911152,Normal,Iteration and Timestep,71.31706384870525,0,302.57267677040073
+San Luis Obispo,2091,Management: Forest Clearcut [Type],7.514876939395574,Normal,Iteration and Timestep,31.88292266177411,0,135.26778490912034
+San Mateo,2017,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+San Mateo,2021,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+San Mateo,2031,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+San Mateo,2041,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+San Mateo,2051,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+San Mateo,2061,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+San Mateo,2071,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+San Mateo,2081,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+San Mateo,2091,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Santa Barbara,2017,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Santa Barbara,2021,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Santa Barbara,2031,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Santa Barbara,2041,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Santa Barbara,2051,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Santa Barbara,2061,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Santa Barbara,2071,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Santa Barbara,2081,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Santa Barbara,2091,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Santa Clara,2017,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Santa Clara,2021,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Santa Clara,2031,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Santa Clara,2041,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Santa Clara,2051,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Santa Clara,2061,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Santa Clara,2071,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Santa Clara,2081,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Santa Clara,2091,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Santa Cruz,2017,Management: Forest Clearcut [Type],4.4585872750480915,Normal,Iteration and Timestep,18.91618378019134,0,80.25457095086566
+Santa Cruz,2021,Management: Forest Clearcut [Type],4.698296268330247,Normal,Iteration and Timestep,19.933182908158614,0,84.56933282994446
+Santa Cruz,2031,Management: Forest Clearcut [Type],4.422630926055768,Normal,Iteration and Timestep,18.763633910996244,0,79.60735666900382
+Santa Cruz,2041,Management: Forest Clearcut [Type],3.8263548052664067,Normal,Iteration and Timestep,16.233848580177646,0,68.87438649479533
+Santa Cruz,2051,Management: Forest Clearcut [Type],3.9072565904991343,Normal,Iteration and Timestep,16.577085785866604,0,70.33061862898442
+Santa Cruz,2061,Management: Forest Clearcut [Type],3.4008713421905803,Normal,Iteration and Timestep,14.428675128035731,0,61.21568415943045
+Santa Cruz,2071,Management: Forest Clearcut [Type],2.376115395909366,Normal,Iteration and Timestep,10.081003855975625,0,42.77007712636859
+Santa Cruz,2081,Management: Forest Clearcut [Type],1.528144832173741,Normal,Iteration and Timestep,6.483369440791386,0,27.50660697912734
+Santa Cruz,2091,Management: Forest Clearcut [Type],0.6831706308541431,Normal,Iteration and Timestep,2.8984475147067372,0,12.297071355374575
+Shasta,2017,Management: Forest Clearcut [Type],419.1072038545206,Normal,Iteration and Timestep,510.2215553885151,0,1765.6005609190445
+Shasta,2021,Management: Forest Clearcut [Type],441.6398492230432,Normal,Iteration and Timestep,537.6528218072525,0,1860.525322258778
+Shasta,2031,Management: Forest Clearcut [Type],415.72730704924214,Normal,Iteration and Timestep,506.1068654257044,0,1751.3618467180843
+Shasta,2041,Management: Forest Clearcut [Type],359.6773516950422,Normal,Iteration and Timestep,437.8715902090953,0,1515.2365028854972
+Shasta,2051,Management: Forest Clearcut [Type],367.2821195069186,Normal,Iteration and Timestep,447.1296426254192,0,1547.2736098376572
+Shasta,2061,Management: Forest Clearcut [Type],319.68190616591454,Normal,Iteration and Timestep,389.18109231583645,0,1346.74505150747
+Shasta,2071,Management: Forest Clearcut [Type],223.3548472154804,Normal,Iteration and Timestep,271.9124283757342,0,940.9416967801089
+Shasta,2081,Management: Forest Clearcut [Type],143.64561422433167,Normal,Iteration and Timestep,174.87432341945075,0,605.1453535408015
+Shasta,2091,Management: Forest Clearcut [Type],64.21803930028945,Normal,Iteration and Timestep,78.17910929340151,0,270.5355698182407
+Sierra Valley,2017,Management: Forest Clearcut [Type],164.9677291767794,Normal,Iteration and Timestep,183.57127740509696,0,642.0365676069252
+Sierra Valley,2021,Management: Forest Clearcut [Type],173.83696192821915,Normal,Iteration and Timestep,193.44070092150005,0,676.5546626395557
+Sierra Valley,2031,Management: Forest Clearcut [Type],163.63734426406342,Normal,Iteration and Timestep,182.09086387763648,0,636.8588533520306
+Sierra Valley,2041,Management: Forest Clearcut [Type],141.57512779485705,Normal,Iteration and Timestep,157.5406728805839,0,550.99509195836265
+Sierra Valley,2051,Management: Forest Clearcut [Type],144.56849384846797,Normal,Iteration and Timestep,160.87160331736993,0,562.6449490318754
+Sierra Valley,2061,Management: Forest Clearcut [Type],125.83223966105147,Normal,Iteration and Timestep,140.02244613896843,0,489.7254732754436
+Sierra Valley,2071,Management: Forest Clearcut [Type],87.91626964864653,Normal,Iteration and Timestep,97.83066060634536,0,342.1606170109487
+Sierra Valley,2081,Management: Forest Clearcut [Type],56.54135879042842,Normal,Iteration and Timestep,62.91757491706952,0,220.05285583301873
+Sierra Valley,2091,Management: Forest Clearcut [Type],25.277313341603293,Normal,Iteration and Timestep,28.127857021748728,0,98.3765708429966
+Siskiyou,2017,Management: Forest Clearcut [Type],401.27285475432825,Normal,Iteration and Timestep,265.4616495490783,0,963.0548514103879
+Siskiyou,2021,Management: Forest Clearcut [Type],422.8466641497223,Normal,Iteration and Timestep,279.73378124526533,0,1014.8319939593334
+Siskiyou,2031,Management: Forest Clearcut [Type],398.0367833450191,Normal,Iteration and Timestep,263.32082979465025,0,955.288280028046
+Siskiyou,2041,Management: Forest Clearcut [Type],344.37193247397664,Normal,Iteration and Timestep,227.81890220038508,0,826.4926379375439
+Siskiyou,2051,Management: Forest Clearcut [Type],351.6530931449221,Normal,Iteration and Timestep,232.6357466478482,0,843.967423547813
+Siskiyou,2061,Management: Forest Clearcut [Type],306.07842079715226,Normal,Iteration and Timestep,202.48586843965313,0,734.5882099131654
+Siskiyou,2071,Management: Forest Clearcut [Type],213.85038563184295,Normal,Iteration and Timestep,141.47250543845368,0,513.2409255164231
+Siskiyou,2081,Management: Forest Clearcut [Type],137.5330348956367,Normal,Iteration and Timestep,90.98483956319215,0,330.0792837495281
+Siskiyou,2091,Management: Forest Clearcut [Type],61.48535677687288,Normal,Iteration and Timestep,40.675575334132965,0,147.5648562644949
+Solano,2017,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Solano,2021,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Solano,2031,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Solano,2041,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Solano,2051,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Solano,2061,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Solano,2071,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Solano,2081,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Solano,2091,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Sonoma,2017,Management: Forest Clearcut [Type],44.585872750480924,Normal,Iteration and Timestep,83.59457726698592,0,240.76371285259697
+Sonoma,2021,Management: Forest Clearcut [Type],46.982962683302475,Normal,Iteration and Timestep,88.0889093781142,0,253.70799848983336
+Sonoma,2031,Management: Forest Clearcut [Type],44.226309260557684,Normal,Iteration and Timestep,82.92042745031667,0,238.8220700070115
+Sonoma,2041,Management: Forest Clearcut [Type],38.26354805266407,Normal,Iteration and Timestep,71.74077632388509,0,206.62315948438598
+Sonoma,2051,Management: Forest Clearcut [Type],39.07256590499134,Normal,Iteration and Timestep,73.25761341139089,0,210.99185588695326
+Sonoma,2061,Management: Forest Clearcut [Type],34.00871342190581,Normal,Iteration and Timestep,63.7633368266324,0,183.64705247829136
+Sonoma,2071,Management: Forest Clearcut [Type],23.76115395909366,Normal,Iteration and Timestep,44.550067051559026,0,128.31023137910577
+Sonoma,2081,Management: Forest Clearcut [Type],15.281448321737411,Normal,Iteration and Timestep,28.651367208442753,0,82.51982093738202
+Sonoma,2091,Management: Forest Clearcut [Type],6.831706308541431,Normal,Iteration and Timestep,12.808846516715583,0,36.89121406612372
+Stanislaus,2017,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Stanislaus,2021,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Stanislaus,2031,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Stanislaus,2041,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Stanislaus,2051,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Stanislaus,2061,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Stanislaus,2071,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Stanislaus,2081,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Stanislaus,2091,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Sutter,2017,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Sutter,2021,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Sutter,2031,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Sutter,2041,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Sutter,2051,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Sutter,2061,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Sutter,2071,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Sutter,2081,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Sutter,2091,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Tehama,2017,Management: Forest Clearcut [Type],102.54750732610611,Normal,Iteration and Timestep,164.71589968450672,0,642.0365676069252
+Tehama,2021,Management: Forest Clearcut [Type],108.06081417159568,Normal,Iteration and Timestep,173.5715932159318,0,676.5546626395557
+Tehama,2031,Management: Forest Clearcut [Type],101.72051129928266,Normal,Iteration and Timestep,163.38754565479294,0,636.8588533520306
+Tehama,2041,Management: Forest Clearcut [Type],88.00616052112736,Normal,Iteration and Timestep,141.35900799537305,0,550.99509195836265
+Tehama,2051,Management: Forest Clearcut [Type],89.866901581480093,Normal,Iteration and Timestep,144.34780456222902,0,562.6449490318754
+Tehama,2061,Management: Forest Clearcut [Type],78.22004087038334,Normal,Iteration and Timestep,125.6401519770935,0,489.7254732754436
+Tehama,2071,Management: Forest Clearcut [Type],54.650654105915415,Normal,Iteration and Timestep,87.78206213025123,0,342.1606170109487
+Tehama,2081,Management: Forest Clearcut [Type],35.14733113999604,Normal,Iteration and Timestep,56.45504626283497,0,220.05285583301873
+Tehama,2091,Management: Forest Clearcut [Type],15.71292450964529,Normal,Iteration and Timestep,25.238726564561514,0,98.3765708429966
+Trinity,2017,Management: Forest Clearcut [Type],338.852632903655,Normal,Iteration and Timestep,478.80963427789686,0,2086.618844722507
+Trinity,2021,Management: Forest Clearcut [Type],357.07051639309884,Normal,Iteration and Timestep,504.55208773369776,0,2198.8026535785557
+Trinity,2031,Management: Forest Clearcut [Type],336.1199503802384,Normal,Iteration and Timestep,474.9482662595267,0,2069.7912733940993
+Trinity,2041,Management: Forest Clearcut [Type],290.80296520024694,Normal,Iteration and Timestep,410.913913288222,0,1790.7340488646785
+Trinity,2051,Management: Forest Clearcut [Type],296.9515008779342,Normal,Iteration and Timestep,419.6019913295548,0,1828.596084353595
+Trinity,2061,Management: Forest Clearcut [Type],258.46622200648414,Normal,Iteration and Timestep,365.2210584041753,0,1591.6077881451918
+Trinity,2071,Management: Forest Clearcut [Type],180.58477008911183,Normal,Iteration and Timestep,255.17206988062648,0,1112.0220052855832
+Trinity,2081,Management: Forest Clearcut [Type],116.13900724520433,Normal,Iteration and Timestep,164.10814078073076,0,715.1717814573109
+Trinity,2091,Management: Forest Clearcut [Type],51.92096794491487,Normal,Iteration and Timestep,73.36599234903258,0,319.72385523973895
+Tulare,2017,Management: Forest Clearcut [Type],80.25457095086566,Normal,Iteration and Timestep,143.03495923136427,0,561.7819966560596
+Tulare,2021,Management: Forest Clearcut [Type],84.56933282994446,Normal,Iteration and Timestep,150.725010802943,0,591.9853298096111
+Tulare,2031,Management: Forest Clearcut [Type],79.60735666900382,Normal,Iteration and Timestep,141.88145149562743,0,557.2514966830267
+Tulare,2041,Management: Forest Clearcut [Type],68.87438649479533,Normal,Iteration and Timestep,122.75244821132537,0,482.1207054635673
+Tulare,2051,Management: Forest Clearcut [Type],70.33061862898442,Normal,Iteration and Timestep,125.3478406167332,0,492.31433040289096
+Tulare,2061,Management: Forest Clearcut [Type],61.21568415943045,Normal,Iteration and Timestep,109.10260667177313,0,428.50978911601317
+Tulare,2071,Management: Forest Clearcut [Type],42.77007712636859,Normal,Iteration and Timestep,76.22763620327409,0,299.3905398845801
+Tulare,2081,Management: Forest Clearcut [Type],27.50660697912734,Normal,Iteration and Timestep,49.02407876881436,0,192.54624885389137
+Tulare,2091,Management: Forest Clearcut [Type],12.297071355374575,Normal,Iteration and Timestep,21.91664697899936,0,86.07949948762203
+Tuolumne,2017,Management: Forest Clearcut [Type],254.13947467774125,Normal,Iteration and Timestep,440.6484547356189,0,1845.85513186991
+Tuolumne,2021,Management: Forest Clearcut [Type],267.80288729482413,Normal,Iteration and Timestep,464.33923187194245,0,1945.0946550887224
+Tuolumne,2031,Management: Forest Clearcut [Type],252.08996278517878,Normal,Iteration and Timestep,437.0948381651703,0,1830.969203387088
+Tuolumne,2041,Management: Forest Clearcut [Type],218.1022239001852,Normal,Iteration and Timestep,378.1640300385654,0,1584.1108893802925
+Tuolumne,2051,Management: Forest Clearcut [Type],222.71362565845067,Normal,Iteration and Timestep,386.1596673220746,0,1617.6042284666416
+Tuolumne,2061,Management: Forest Clearcut [Type],193.8496665048631,Normal,Iteration and Timestep,336.112900621591,0,1407.9607356669003
+Tuolumne,2071,Management: Forest Clearcut [Type],135.43857756683389,Normal,Iteration and Timestep,234.83482836380762,0,983.7117739064776
+Tuolumne,2081,Management: Forest Clearcut [Type],87.10425543390325,Normal,Iteration and Timestep,151.0287042440629,0,632.6519605199288
+Tuolumne,2091,Management: Forest Clearcut [Type],38.94072595868616,Normal,Iteration and Timestep,67.51871483852224,0,282.83264117361523
+Ventura,2017,Management: Forest Clearcut [Type],4.4585872750480915,Normal,Iteration and Timestep,18.91618378019134,0,80.25457095086566
+Ventura,2021,Management: Forest Clearcut [Type],4.698296268330247,Normal,Iteration and Timestep,19.933182908158614,0,84.56933282994446
+Ventura,2031,Management: Forest Clearcut [Type],4.422630926055768,Normal,Iteration and Timestep,18.763633910996244,0,79.60735666900382
+Ventura,2041,Management: Forest Clearcut [Type],3.8263548052664067,Normal,Iteration and Timestep,16.233848580177646,0,68.87438649479533
+Ventura,2051,Management: Forest Clearcut [Type],3.9072565904991343,Normal,Iteration and Timestep,16.577085785866604,0,70.33061862898442
+Ventura,2061,Management: Forest Clearcut [Type],3.4008713421905803,Normal,Iteration and Timestep,14.428675128035731,0,61.21568415943045
+Ventura,2071,Management: Forest Clearcut [Type],2.376115395909366,Normal,Iteration and Timestep,10.081003855975625,0,42.77007712636859
+Ventura,2081,Management: Forest Clearcut [Type],1.528144832173741,Normal,Iteration and Timestep,6.483369440791386,0,27.50660697912734
+Ventura,2091,Management: Forest Clearcut [Type],0.6831706308541431,Normal,Iteration and Timestep,2.8984475147067372,0,12.297071355374575
+Yolo,2017,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Yolo,2021,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Yolo,2031,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Yolo,2041,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Yolo,2051,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Yolo,2061,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Yolo,2071,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Yolo,2081,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Yolo,2091,Management: Forest Clearcut [Type],0,Normal,Iteration and Timestep,0,0,0
+Yuba,2017,Management: Forest Clearcut [Type],102.54750732610611,Normal,Iteration and Timestep,160.0495115888077,0,481.52742570519393
+Yuba,2021,Management: Forest Clearcut [Type],108.06081417159568,Normal,Iteration and Timestep,168.65432403981887,0,507.4159969796667
+Yuba,2031,Management: Forest Clearcut [Type],101.72051129928266,Normal,Iteration and Timestep,158.758789721156,0,477.644140014023
+Yuba,2041,Management: Forest Clearcut [Type],88.00616052112736,Normal,Iteration and Timestep,137.35431874926576,0,413.24631896877196
+Yuba,2051,Management: Forest Clearcut [Type],89.866901581480093,Normal,Iteration and Timestep,140.258442951482,0,421.9837117739065
+Yuba,2061,Management: Forest Clearcut [Type],78.22004087038334,Normal,Iteration and Timestep,122.08077664872091,0,367.2941049565827
+Yuba,2071,Management: Forest Clearcut [Type],54.650654105915415,Normal,Iteration and Timestep,85.29520342064818,0,256.62046275821154
+Yuba,2081,Management: Forest Clearcut [Type],35.14733113999604,Normal,Iteration and Timestep,54.85567937519618,0,165.03964187476404
+Yuba,2091,Management: Forest Clearcut [Type],15.71292450964529,Normal,Iteration and Timestep,24.523715485381825,0,73.78242813224745

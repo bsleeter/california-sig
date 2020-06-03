@@ -1,49 +1,49 @@
 SecondaryStratumID,DistributionTypeID,ExternalVariableTypeID,ExternalVariableMin,ExternalVariableMax,Value,ValueDistributionTypeID,ValueDistributionFrequency,ValueDistributionSD
-Alameda,Ag Change: Pasture to Cropland,Ag Change,2001,2016,0,Normal,Iteration and Timestep,0
+Alameda,Ag Change: Pasture to Cropland,Ag Change,2001,2016,0,NA,Iteration and Timestep,NA
 Amador,Ag Change: Pasture to Cropland,Ag Change,2001,2016,6.666666666666666,Normal,Iteration and Timestep,11.547005383792515
-Butte,Ag Change: Pasture to Cropland,Ag Change,2001,2016,0,Normal,Iteration and Timestep,0
+Butte,Ag Change: Pasture to Cropland,Ag Change,2001,2016,0,NA,Iteration and Timestep,NA
 Contra Costa,Ag Change: Pasture to Cropland,Ag Change,2001,2016,6.666666666666666,Normal,Iteration and Timestep,11.547005383792515
 Fresno,Ag Change: Pasture to Cropland,Ag Change,2001,2016,20,Normal,Iteration and Timestep,20
 Glenn,Ag Change: Pasture to Cropland,Ag Change,2001,2016,33.333333333333336,Normal,Iteration and Timestep,11.547005383792515
-Humboldt,Ag Change: Pasture to Cropland,Ag Change,2001,2016,0,Normal,Iteration and Timestep,0
+Humboldt,Ag Change: Pasture to Cropland,Ag Change,2001,2016,0,NA,Iteration and Timestep,NA
 Imperial,Ag Change: Pasture to Cropland,Ag Change,2001,2016,246.66666666666669,Normal,Iteration and Timestep,174.73789896108207
-Inyo,Ag Change: Pasture to Cropland,Ag Change,2001,2016,0,Normal,Iteration and Timestep,0
+Inyo,Ag Change: Pasture to Cropland,Ag Change,2001,2016,0,NA,Iteration and Timestep,NA
 Kern,Ag Change: Pasture to Cropland,Ag Change,2001,2016,53.33333333333333,Normal,Iteration and Timestep,11.547005383792515
-Kings,Ag Change: Pasture to Cropland,Ag Change,2001,2016,20,Normal,Iteration and Timestep,0
+Kings,Ag Change: Pasture to Cropland,Ag Change,2001,2016,20,Normal,Iteration and Timestep,1
 Lake,Ag Change: Pasture to Cropland,Ag Change,2001,2016,33.333333333333336,Normal,Iteration and Timestep,41.63331998932266
 Lassen,Ag Change: Pasture to Cropland,Ag Change,2001,2016,93.33333333333334,Normal,Iteration and Timestep,41.63331998932266
 Los Angeles,Ag Change: Pasture to Cropland,Ag Change,2001,2016,13.333333333333332,Normal,Iteration and Timestep,11.547005383792515
 Madera,Ag Change: Pasture to Cropland,Ag Change,2001,2016,6.666666666666666,Normal,Iteration and Timestep,11.547005383792515
-Marin,Ag Change: Pasture to Cropland,Ag Change,2001,2016,0,Normal,Iteration and Timestep,0
+Marin,Ag Change: Pasture to Cropland,Ag Change,2001,2016,0,NA,Iteration and Timestep,NA
 Mendocino,Ag Change: Pasture to Cropland,Ag Change,2001,2016,26.666666666666664,Normal,Iteration and Timestep,11.547005383792515
 Merced,Ag Change: Pasture to Cropland,Ag Change,2001,2016,26.666666666666664,Normal,Iteration and Timestep,46.18802153517006
 Modoc,Ag Change: Pasture to Cropland,Ag Change,2001,2016,66.66666666666667,Normal,Iteration and Timestep,64.29100507328637
-Mono,Ag Change: Pasture to Cropland,Ag Change,2001,2016,0,Normal,Iteration and Timestep,0
+Mono,Ag Change: Pasture to Cropland,Ag Change,2001,2016,0,NA,Iteration and Timestep,NA
 Monterey,Ag Change: Pasture to Cropland,Ag Change,2001,2016,93.33333333333334,Normal,Iteration and Timestep,46.18802153517006
 Napa,Ag Change: Pasture to Cropland,Ag Change,2001,2016,6.666666666666666,Normal,Iteration and Timestep,11.547005383792515
-Orange,Ag Change: Pasture to Cropland,Ag Change,2001,2016,0,Normal,Iteration and Timestep,0
+Orange,Ag Change: Pasture to Cropland,Ag Change,2001,2016,0,NA,Iteration and Timestep,NA
 Placer,Ag Change: Pasture to Cropland,Ag Change,2001,2016,13.333333333333332,Normal,Iteration and Timestep,11.547005383792515
 Plumas,Ag Change: Pasture to Cropland,Ag Change,2001,2016,6.666666666666666,Normal,Iteration and Timestep,11.547005383792515
 Riverside,Ag Change: Pasture to Cropland,Ag Change,2001,2016,33.333333333333336,Normal,Iteration and Timestep,41.63331998932266
 Sacramento,Ag Change: Pasture to Cropland,Ag Change,2001,2016,53.33333333333333,Normal,Iteration and Timestep,75.71877794400365
-San Benito,Ag Change: Pasture to Cropland,Ag Change,2001,2016,0,Normal,Iteration and Timestep,0
+San Benito,Ag Change: Pasture to Cropland,Ag Change,2001,2016,0,NA,Iteration and Timestep,NA
 San Bernardino,Ag Change: Pasture to Cropland,Ag Change,2001,2016,13.333333333333332,Normal,Iteration and Timestep,11.547005383792515
 San Diego,Ag Change: Pasture to Cropland,Ag Change,2001,2016,26.666666666666664,Normal,Iteration and Timestep,23.09401076758503
 San Joaquin,Ag Change: Pasture to Cropland,Ag Change,2001,2016,53.33333333333333,Normal,Iteration and Timestep,61.10100926607787
 San Luis Obispo,Ag Change: Pasture to Cropland,Ag Change,2001,2016,86.66666666666666,Normal,Iteration and Timestep,23.09401076758503
-San Mateo,Ag Change: Pasture to Cropland,Ag Change,2001,2016,0,Normal,Iteration and Timestep,0
+San Mateo,Ag Change: Pasture to Cropland,Ag Change,2001,2016,0,NA,Iteration and Timestep,NA
 Santa Barbara,Ag Change: Pasture to Cropland,Ag Change,2001,2016,33.333333333333336,Normal,Iteration and Timestep,57.73502691896258
 Santa Clara,Ag Change: Pasture to Cropland,Ag Change,2001,2016,6.666666666666666,Normal,Iteration and Timestep,11.547005383792515
 Santa Cruz,Ag Change: Pasture to Cropland,Ag Change,2001,2016,20,Normal,Iteration and Timestep,34.64101615137754
-Shasta,Ag Change: Pasture to Cropland,Ag Change,2001,2016,80,Normal,Iteration and Timestep,0
+Shasta,Ag Change: Pasture to Cropland,Ag Change,2001,2016,80,Normal,Iteration and Timestep,1
 Sierra Valley,Ag Change: Pasture to Cropland,Ag Change,2001,2016,6.666666666666666,Normal,Iteration and Timestep,11.547005383792515
 Siskiyou,Ag Change: Pasture to Cropland,Ag Change,2001,2016,100,Normal,Iteration and Timestep,34.64101615137754
 Solano,Ag Change: Pasture to Cropland,Ag Change,2001,2016,13.333333333333332,Normal,Iteration and Timestep,23.09401076758503
 Sonoma,Ag Change: Pasture to Cropland,Ag Change,2001,2016,6.666666666666666,Normal,Iteration and Timestep,11.547005383792515
 Stanislaus,Ag Change: Pasture to Cropland,Ag Change,2001,2016,100,Normal,Iteration and Timestep,69.28203230275508
-Sutter,Ag Change: Pasture to Cropland,Ag Change,2001,2016,0,Normal,Iteration and Timestep,0
+Sutter,Ag Change: Pasture to Cropland,Ag Change,2001,2016,0,NA,Iteration and Timestep,NA
 Tehama,Ag Change: Pasture to Cropland,Ag Change,2001,2016,53.33333333333333,Normal,Iteration and Timestep,61.10100926607787
 Tulare,Ag Change: Pasture to Cropland,Ag Change,2001,2016,60,Normal,Iteration and Timestep,34.64101615137754
 Ventura,Ag Change: Pasture to Cropland,Ag Change,2001,2016,20,Normal,Iteration and Timestep,20
 Yolo,Ag Change: Pasture to Cropland,Ag Change,2001,2016,13.333333333333332,Normal,Iteration and Timestep,11.547005383792515
-Yuba,Ag Change: Pasture to Cropland,Ag Change,2001,2016,0,Normal,Iteration and Timestep,0
+Yuba,Ag Change: Pasture to Cropland,Ag Change,2001,2016,0,NA,Iteration and Timestep,NA

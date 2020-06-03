@@ -1,0 +1,3 @@
+# Syncrosim Generated Transition Group (Succession: Post Fire Recovery [Type]) Color Map (QGIS-compatible) Export File,,,,,
+INTERPOLATION:EXACT
+71,255,165,0,255,Succession: Post Fire Recovery

@@ -1,0 +1,3 @@
+# Syncrosim Generated Transition Group (Ag Contraction: Cropland to Forest: Hemlock/Sitka Spruce Group [Type]) Color Map (QGIS-compatible) Export File,,,,,
+INTERPOLATION:EXACT
+209,255,0,0,255,Ag Contraction: Cropland to Forest: Hemlock/Sitka Spruce Group

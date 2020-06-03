@@ -1,0 +1,3 @@
+# Syncrosim Generated Transition Group (Ag Contraction: Pasture to Shrubland: Salt Desert Scrub [Type]) Color Map (QGIS-compatible) Export File,,,,,
+INTERPOLATION:EXACT
+145,255,255,0,255,Ag Contraction: Pasture to Shrubland: Salt Desert Scrub

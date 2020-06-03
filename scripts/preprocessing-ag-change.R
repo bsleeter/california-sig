@@ -42,6 +42,10 @@ mergedData_Long_clean = mergedData_Long %>%
 zonal_ssp = read_csv("docs/ssp/iclus-ssp-zonal-county-summary.csv")
 
 
+counties_noFmmp = c("Alpine", "Calaveras", "Del Norte", "Humboldt", "Inyo", "Lassen", "Mono", "Plumas", "San Francisco", "Trinity", "Tuolumne" )
+
+
+
 
 # Historical Ag Contraction ----------------------------------------------------------
 
@@ -53,8 +57,18 @@ agContraction = mergedData_Long_clean %>%
   mutate(Transition = "Ag Contraction")
 
 # Create Ag Contraction Historical Distributions datasheet
+nofmmp = tibble(SecondaryStratumID = counties_noFmmp,
+                DistributionTypeID = "Ag Contraction",
+                ExternalVariableTypeID = "Ag Change",
+                ExternalVariableMin = 1992,
+                ExternalVariableMax = 2016,
+                Value = 0,
+                ValueDistributionTypeID = NA,
+                ValueDistributionFrequency = "Iteration and Timestep",
+                ValueDistributionSD = NA)
+
 dist_agcon_hist = tibble(SecondaryStratumID = agContraction$County,
-                         DistributionTypeID = "Ag Contraction: Cropland",
+                         DistributionTypeID = "Ag Contraction",
                          ExternalVariableTypeID = "Ag Change",
                          ExternalVariableMin = agContraction$ToYear-1,
                          ExternalVariableMax = agContraction$ToYear,
@@ -62,7 +76,14 @@ dist_agcon_hist = tibble(SecondaryStratumID = agContraction$County,
                          ValueDistributionTypeID = "Normal",
                          ValueDistributionFrequency = "Iteration and Timestep",
                          ValueDistributionSD = agContraction$Hectares*0.5)
-dist_agcon_hist = dist_agcon_hist %>% arrange(SecondaryStratumID, ExternalVariableMin)
+
+dist_agcon_hist = dist_agcon_hist %>% 
+  mutate(Value = if_else(is.na(Value), 0, Value)) %>%
+  mutate(ValueDistributionTypeID = ifelse(Value==0, NA, "Normal")) %>%
+  mutate(ValueDistributionSD = ifelse(Value==0, NA, ValueDistributionSD)) %>%
+  mutate(ValueDistributionSD = ifelse(ValueDistributionSD==0, 1, ValueDistributionSD)) %>%
+  bind_rows(nofmmp)
+
 write_csv(dist_agcon_hist, "data/distributions/distribution-ag-contraction.csv")
 
 
@@ -77,8 +98,18 @@ agExpansion = mergedData_Long_clean %>%
   mutate(Transition = "Ag Expansion")
 
 # Create Ag Expansion Historical Distributions datasheet
+nofmmp = tibble(SecondaryStratumID = counties_noFmmp,
+                DistributionTypeID = "Ag Expansion",
+                ExternalVariableTypeID = "Ag Change",
+                ExternalVariableMin = 1992,
+                ExternalVariableMax = 2016,
+                Value = 0,
+                ValueDistributionTypeID = NA,
+                ValueDistributionFrequency = "Iteration and Timestep",
+                ValueDistributionSD = NA)
+
 dist_agexp_hist = tibble(SecondaryStratumID = agExpansion$County,
-                         DistributionTypeID = "Ag Expansion: Cropland",
+                         DistributionTypeID = "Ag Expansion",
                          ExternalVariableTypeID = "Ag Change",
                          ExternalVariableMin = agExpansion$ToYear-1,
                          ExternalVariableMax = agExpansion$ToYear,
@@ -86,7 +117,14 @@ dist_agexp_hist = tibble(SecondaryStratumID = agExpansion$County,
                          ValueDistributionTypeID = "Normal",
                          ValueDistributionFrequency = "Iteration and Timestep",
                          ValueDistributionSD = agExpansion$Hectares*0.5)
-dist_agexp_hist = dist_agexp_hist %>% arrange(SecondaryStratumID, ExternalVariableMin)
+
+dist_agexp_hist = dist_agexp_hist %>% 
+  mutate(Value = if_else(is.na(Value), 0, Value)) %>%
+  mutate(ValueDistributionTypeID = ifelse(Value==0, NA, "Normal")) %>%
+  mutate(ValueDistributionSD = ifelse(Value==0, NA, ValueDistributionSD)) %>%
+  mutate(ValueDistributionSD = ifelse(ValueDistributionSD==0, 1, ValueDistributionSD)) %>%
+  bind_rows(nofmmp)
+
 write_csv(dist_agexp_hist, "data/distributions/distribution-ag-expansion.csv")
 
 
@@ -151,8 +189,9 @@ agExpansion_ssp2 = agE_ssp_fmmp_full %>%
 
 agExpansion_ssp2_tt = tibble(Timestep = agExpansion_ssp2$year,
                              SecondaryStratumID = agExpansion_ssp2$County,
-                             TransitionGroupID = "Ag Expansion: Cropland",
+                             TransitionGroupID = "Ag Expansion",
                              Amount = agExpansion_ssp2$MeanMult,
+                             DistributionType = "Normal",
                              DistributionFrequencyID = "Iteration and Timestep",
                              DistributionSD = agExpansion_ssp2$SdMult,
                              DistributionMin = agExpansion_ssp2$MinMult,
@@ -166,8 +205,9 @@ agExpansion_ssp5 = agE_ssp_fmmp_full %>%
 
 agExpansion_ssp5_tt = tibble(Timestep = agExpansion_ssp5$year,
                              SecondaryStratumID = agExpansion_ssp5$County,
-                             TransitionGroupID = "Ag Expansion: Cropland",
+                             TransitionGroupID = "Ag Expansion",
                              Amount = agExpansion_ssp5$MeanMult,
+                             DistributionType = "Normal",
                              DistributionFrequencyID = "Iteration and Timestep",
                              DistributionSD = agExpansion_ssp5$SdMult,
                              DistributionMin = agExpansion_ssp5$MinMult,
@@ -211,8 +251,9 @@ agContraction_ssp2 = agC_ssp_fmmp_full %>%
 
 agContraction_ssp2_tt = tibble(Timestep = agContraction_ssp2$year,
                              SecondaryStratumID = agContraction_ssp2$County,
-                             TransitionGroupID = "Ag Contraction: Cropland",
+                             TransitionGroupID = "Ag Contraction",
                              Amount = agContraction_ssp2$MeanMult,
+                             DistributionType = "Normal",
                              DistributionFrequencyID = "Iteration and Timestep",
                              DistributionSD = agContraction_ssp2$SdMult,
                              DistributionMin = agContraction_ssp2$MinMult,
@@ -226,8 +267,9 @@ agContraction_ssp5 = agC_ssp_fmmp_full %>%
 
 agContraction_ssp5_tt = tibble(Timestep = agContraction_ssp5$year,
                                SecondaryStratumID = agContraction_ssp5$County,
-                               TransitionGroupID = "Ag Contraction: Cropland",
+                               TransitionGroupID = "Ag Contraction",
                                Amount = agContraction_ssp5$MeanMult,
+                               DistributionType = "Normal",
                                DistributionFrequencyID = "Iteration and Timestep",
                                DistributionSD = agContraction_ssp5$SdMult,
                                DistributionMin = agContraction_ssp5$MinMult,
@@ -275,6 +317,111 @@ ggplot(df, aes(x=year, y=NetMean, color=scenario, fill=scenario)) +
   geom_ribbon(aes(ymin=NetMean-NetSd, ymax=NetMean+NetSd), alpha=0.5) +
   geom_line() +
   geom_point()
+
+
+
+
+
+
+
+
+
+# Ag Change Proportions ---------------------------------------------------
+
+
+
+
+# Get a list of state class types for Cropland and Pasture
+stateclass_haycrop = stateclass_df %>% filter(ID %in% c(81,82)) %>%
+  dplyr::select(Name, ID)
+
+# Create a transition type lookup table
+conttypes = tibble(FromStateClassID = c("Agriculture: Pasture", "Agriculture: Cropland"),
+                    TransitionGroupID = c("Ag Contraction: Pasture", "Ag Contraction: Cropland"))
+
+exptypes = tibble(ToStateClassID = c("Agriculture: Pasture", "Agriculture: Cropland"),
+                   TransitionGroupID = c("Ag Expansion: Pasture", "Ag Expansion: Cropland"))
+
+
+nlcd_change = read.csv("docs/nlcd/nlcd-change-dataframe.csv")
+
+
+# Create contigency table of amounts and probabilities and dataframe (using amounts; m variables)
+m1 = table(nlcd_change[,c("lc01", "lc06")])
+p1 = as.matrix(m1 / rowSums(m1))
+d1 = m1 %>% as_tibble() %>% dplyr::select(from=lc01, to=lc06, p1=n)
+
+m2 = table(nlcd_change[,c("lc06", "lc11")])
+p2 = as.matrix(m2 / rowSums(m2))
+d2 = m2 %>% as_tibble() %>% dplyr::select(from=lc06, to=lc11, p2=n)
+
+m3 = table(nlcd_change[,c("lc11", "lc16")])
+p3 = as.matrix(m3 / rowSums(m3))
+d3 = m3 %>% as_tibble() %>% dplyr::select(from=lc11, to=lc16, p3=n)
+
+
+# Merge into single data frame
+df = left_join(d1,d2) %>% left_join(d3)
+
+# Final formatting of dataframe Ag Contraction
+contraction_df = df %>% 
+  filter(from %in% c(81,82), !to %in% c(21,22,23,24,81,82)) %>% 
+  pivot_longer(cols = c(-from, -to), names_to = "period", values_to = "area") %>%
+  group_by(from, period) %>%
+  summarise(sum=sum(area)*100) %>%
+  group_by(from) %>%
+  summarise(mean=mean(sum), sd=sd(sum)) %>%
+  mutate(meanpct = mean/sum(mean), sdpct = sd/sum(mean)) %>%
+  mutate(from = as.numeric(from)) %>%
+  left_join(stateclass_haycrop, by = c("from"="ID")) %>% rename("FromStateClassID"="Name") %>%
+  dplyr::select(FromStateClassID, mean=meanpct, sd=sdpct) %>%
+  left_join(conttypes)
+
+contraction_multipliers = data.frame(TransitionGroupID = contraction_df$TransitionGroupID,
+                                     Amount = contraction_df$mean,
+                                     DistributionType = "Normal",
+                                     DistributionFrequencyID = "Iteration and Timestep",
+                                     DistributionSD = contraction_df$sd)
+
+# Final formatting of dataframe Ag Expansion
+expansion_df = df %>% 
+  filter(to %in% c(81,82), !from %in% c(21,22,23,24,81,82)) %>% 
+  pivot_longer(cols = c(-from, -to), names_to = "period", values_to = "area") %>%
+  group_by(to, period) %>%
+  summarise(sum=sum(area)*100) %>%
+  group_by(to) %>%
+  summarise(mean=mean(sum), sd=sd(sum)) %>%
+  mutate(meanpct = mean/sum(mean), sdpct = sd/sum(mean)) %>%
+  mutate(to = as.numeric(to)) %>%
+  left_join(stateclass_haycrop, by = c("to"="ID")) %>% rename("ToStateClassID"="Name") %>%
+  dplyr::select(ToStateClassID, mean=meanpct, sd=sdpct) %>%
+  left_join(exptypes)
+
+expansion_multipliers = data.frame(TransitionGroupID = paste0(expansion_df$TransitionGroupID, " [Type]"),
+                                   Amount = expansion_df$mean,
+                                   DistributionType = "Normal",
+                                   DistributionFrequencyID = "Iteration and Timestep",
+                                   DistributionSD = expansion_df$sd)
+
+cont_expansion_multipliers = bind_rows(contraction_multipliers, expansion_multipliers)
+write_csv(cont_expansion_multipliers, "data/transition-multipliers/transition-multipliers-ag-expansion-contraction-types.csv")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

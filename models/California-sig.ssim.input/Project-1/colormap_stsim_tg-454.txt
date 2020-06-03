@@ -1,0 +1,3 @@
+# Syncrosim Generated Transition Group (Ag Contraction: Cropland to Forest: White/Red/Jack Pine Group [Type]) Color Map (QGIS-compatible) Export File,,,,,
+INTERPOLATION:EXACT
+228,0,128,128,255,Ag Contraction: Cropland to Forest: White/Red/Jack Pine Group

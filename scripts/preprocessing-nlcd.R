@@ -52,3 +52,11 @@ v = tibble(
   lc16 = values(nlcd16))
 
 write_csv(v, "docs/nlcd/nlcd-change-dataframe.csv")
+
+
+
+
+
+
+
+
