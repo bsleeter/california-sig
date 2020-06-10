@@ -1,6 +1,0 @@
-# Syncrosim Generated Transition Group (Harvest) Color Map (QGIS-compatible) Export File,,,,,
-INTERPOLATION:EXACT
-41,0,128,0,255,Management: Forest Clearcut
-42,0,128,128,255,Management: Forest Selection
-45,128,0,128,255,Management: Forest Selection 20%
-44,255,255,0,255,Management: Forest Selection 85%

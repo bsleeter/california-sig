@@ -1,3 +1,0 @@
-# Syncrosim Generated Transition Group (Ag Contraction: Pasture to Forest: Elm/Ash/Cottonwood Group [Type]) Color Map (QGIS-compatible) Export File,,,,,
-INTERPOLATION:EXACT
-105,255,0,0,255,Ag Contraction: Pasture to Forest: Elm/Ash/Cottonwood Group

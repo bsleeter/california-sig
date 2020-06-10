@@ -1,3 +1,0 @@
-# Syncrosim Generated Transition Group (Ag Contraction: Cropland to Forest: Tropical Hardwoods Group [Type]) Color Map (QGIS-compatible) Export File,,,,,
-INTERPOLATION:EXACT
-224,128,128,128,255,Ag Contraction: Cropland to Forest: Tropical Hardwoods Group

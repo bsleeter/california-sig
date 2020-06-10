@@ -1,3 +1,0 @@
-# Syncrosim Generated Transition Group (Ag Change: Cropland to Pasture [Type]) Color Map (QGIS-compatible) Export File,,,,,
-INTERPOLATION:EXACT
-61,0,0,255,255,Ag Change: Cropland to Pasture

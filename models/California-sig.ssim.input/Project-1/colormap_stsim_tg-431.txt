@@ -1,3 +1,0 @@
-# Syncrosim Generated Transition Group (Ag Contraction: Cropland to Forest: Elm/Ash/Cottonwood Group [Type]) Color Map (QGIS-compatible) Export File,,,,,
-INTERPOLATION:EXACT
-205,0,255,255,255,Ag Contraction: Cropland to Forest: Elm/Ash/Cottonwood Group
