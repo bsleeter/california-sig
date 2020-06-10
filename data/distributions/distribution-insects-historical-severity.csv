@@ -1,0 +1,40 @@
+StratumID,DistributionTypeID,ExternalVariableTypeID,ExternalVariableMin,ExternalVariableMax,Value
+Cascades,Insect: High Severity,Insect,1998,2016,0.06395300736328285
+Cascades,Insect: Medium Severity,Insect,1998,2016,0.24000992802184162
+Cascades,Insect: Low Severity,Insect,1998,2016,0.6960370646148755
+Central Basin and Range,Insect: High Severity,Insect,1998,2016,0.10456273764258556
+Central Basin and Range,Insect: Medium Severity,Insect,1998,2016,0.3526615969581749
+Central Basin and Range,Insect: Low Severity,Insect,1998,2016,0.5427756653992396
+Central California Foothills and Coastal Mountains,Insect: High Severity,Insect,1998,2016,0.2389783065080476
+Central California Foothills and Coastal Mountains,Insect: Medium Severity,Insect,1998,2016,0.367739678096571
+Central California Foothills and Coastal Mountains,Insect: Low Severity,Insect,1998,2016,0.3932820153953814
+Central California Valley,Insect: High Severity,Insect,1998,2016,0.3333333333333333
+Central California Valley,Insect: Medium Severity,Insect,1998,2016,0
+Central California Valley,Insect: Low Severity,Insect,1998,2016,0.6666666666666666
+Coast Range,Insect: High Severity,Insect,1998,2016,0.05904365904365905
+Coast Range,Insect: Medium Severity,Insect,1998,2016,0.3093555093555094
+Coast Range,Insect: Low Severity,Insect,1998,2016,0.6316008316008316
+Eastern Cascades Slopes and Foothills,Insect: High Severity,Insect,1998,2016,0.08985090243264451
+Eastern Cascades Slopes and Foothills,Insect: Medium Severity,Insect,1998,2016,0.20612084750196183
+Eastern Cascades Slopes and Foothills,Insect: Low Severity,Insect,1998,2016,0.7040282500653937
+Klamath Mountains/California High North Coast Range,Insect: High Severity,Insect,1998,2016,0.1565121412803532
+Klamath Mountains/California High North Coast Range,Insect: Medium Severity,Insect,1998,2016,0.206401766004415
+Klamath Mountains/California High North Coast Range,Insect: Low Severity,Insect,1998,2016,0.6370860927152318
+Mojave Basin and Range,Insect: High Severity,Insect,1998,2016,0.1404255319148936
+Mojave Basin and Range,Insect: Medium Severity,Insect,1998,2016,0.37446808510638296
+Mojave Basin and Range,Insect: Low Severity,Insect,1998,2016,0.4851063829787234
+Northern Basin and Range,Insect: High Severity,Insect,1998,2016,0
+Northern Basin and Range,Insect: Medium Severity,Insect,1998,2016,0.26666666666666666
+Northern Basin and Range,Insect: Low Severity,Insect,1998,2016,0.7333333333333333
+Sierra Nevada,Insect: High Severity,Insect,1998,2016,0.2606912391993875
+Sierra Nevada,Insect: Medium Severity,Insect,1998,2016,0.2379142513398228
+Sierra Nevada,Insect: Low Severity,Insect,1998,2016,0.5013945094607897
+Sonoran Basin and Range,Insect: High Severity,Insect,1998,2016,0.006289308176100629
+Sonoran Basin and Range,Insect: Medium Severity,Insect,1998,2016,0.29559748427672955
+Sonoran Basin and Range,Insect: Low Severity,Insect,1998,2016,0.6981132075471698
+Southern California Mountains,Insect: High Severity,Insect,1998,2016,0.17957166392092258
+Southern California Mountains,Insect: Medium Severity,Insect,1998,2016,0.4557248764415156
+Southern California Mountains,Insect: Low Severity,Insect,1998,2016,0.36470345963756173
+Southern California/Northern Baja Coast,Insect: High Severity,Insect,1998,2016,0.0437956204379562
+Southern California/Northern Baja Coast,Insect: Medium Severity,Insect,1998,2016,0.1678832116788321
+Southern California/Northern Baja Coast,Insect: Low Severity,Insect,1998,2016,0.7883211678832117

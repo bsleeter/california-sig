@@ -1,0 +1,40 @@
+StratumID,DistributionTypeID,ExternalVariableTypeID,ExternalVariableMin,ExternalVariableMax,Value
+Cascades,Fire: High Severity,Fire,1999,2016,0.174279690794097
+Cascades,Fire: Medium Severity,Fire,1999,2016,0.252986647926915
+Cascades,Fire: Low Severity,Fire,1999,2016,0.5727336612789881
+Central Basin and Range,Fire: High Severity,Fire,1999,2016,0.12401574803149606
+Central Basin and Range,Fire: Medium Severity,Fire,1999,2016,0.27165354330708663
+Central Basin and Range,Fire: Low Severity,Fire,1999,2016,0.6043307086614174
+Central California Foothills and Coastal Mountains,Fire: High Severity,Fire,1999,2016,0.14599602911978823
+Central California Foothills and Coastal Mountains,Fire: Medium Severity,Fire,1999,2016,0.3015221707478491
+Central California Foothills and Coastal Mountains,Fire: Low Severity,Fire,1999,2016,0.5524818001323628
+Central California Valley,Fire: High Severity,Fire,1999,2016,0.08527131782945738
+Central California Valley,Fire: Medium Severity,Fire,1999,2016,0.13178294573643412
+Central California Valley,Fire: Low Severity,Fire,1999,2016,0.7829457364341086
+Coast Range,Fire: High Severity,Fire,1999,2016,0.11864406779661019
+Coast Range,Fire: Medium Severity,Fire,1999,2016,0.18361581920903955
+Coast Range,Fire: Low Severity,Fire,1999,2016,0.6977401129943503
+Eastern Cascades Slopes and Foothills,Fire: High Severity,Fire,1999,2016,0.1240677966101695
+Eastern Cascades Slopes and Foothills,Fire: Medium Severity,Fire,1999,2016,0.2671186440677966
+Eastern Cascades Slopes and Foothills,Fire: Low Severity,Fire,1999,2016,0.608813559322034
+Klamath Mountains/California High North Coast Range,Fire: High Severity,Fire,1999,2016,0.22991479001825932
+Klamath Mountains/California High North Coast Range,Fire: Medium Severity,Fire,1999,2016,0.2639987827145466
+Klamath Mountains/California High North Coast Range,Fire: Low Severity,Fire,1999,2016,0.5060864272671942
+Mojave Basin and Range,Fire: High Severity,Fire,1999,2016,0.030156815440289503
+Mojave Basin and Range,Fire: Medium Severity,Fire,1999,2016,0.23281061519903495
+Mojave Basin and Range,Fire: Low Severity,Fire,1999,2016,0.7370325693606755
+Northern Basin and Range,Fire: High Severity,Fire,1999,2016,0.016166281755196302
+Northern Basin and Range,Fire: Medium Severity,Fire,1999,2016,0.23441108545034642
+Northern Basin and Range,Fire: Low Severity,Fire,1999,2016,0.7494226327944573
+Sierra Nevada,Fire: High Severity,Fire,1999,2016,0.2274475741407123
+Sierra Nevada,Fire: Medium Severity,Fire,1999,2016,0.2912271994043926
+Sierra Nevada,Fire: Low Severity,Fire,1999,2016,0.48132522645489517
+Sonoran Basin and Range,Fire: High Severity,Fire,1999,2016,0.06273062730627307
+Sonoran Basin and Range,Fire: Medium Severity,Fire,1999,2016,0.21033210332103325
+Sonoran Basin and Range,Fire: Low Severity,Fire,1999,2016,0.7269372693726938
+Southern California Mountains,Fire: High Severity,Fire,1999,2016,0.3189438390611902
+Southern California Mountains,Fire: Medium Severity,Fire,1999,2016,0.33249511036602397
+Southern California Mountains,Fire: Low Severity,Fire,1999,2016,0.34856105057278564
+Southern California/Northern Baja Coast,Fire: High Severity,Fire,1999,2016,0.2015915119363395
+Southern California/Northern Baja Coast,Fire: Medium Severity,Fire,1999,2016,0.3306004340487099
+Southern California/Northern Baja Coast,Fire: Low Severity,Fire,1999,2016,0.4678080540149505

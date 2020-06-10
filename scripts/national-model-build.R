@@ -9,22 +9,58 @@ library(rsyncrosim)
 
 
 # ssimDir = "F:/national-assessment/data/ssim-libs/"
-ssimDir = "models/"
+ssimDir = "models/testing/"
 SyncroSimDir <- "C:/Program Files/SyncroSim/"
 mySession <- session(SyncroSimDir)
 
 # myLibrary = ssimLibrary(name = paste0(ssimDir,"Initial Stocks Model Conus.ssim"), session = mySession)
 # myLibrary = ssimLibrary(name = paste0(ssimDir,"Initial Stocks Model.ssim"), session = mySession)
 myLibrary = ssimLibrary(name = paste0(ssimDir,"California-sig.ssim"), session = mySession, addon = "stsimsf")
-myProject = project(myLibrary, project="California-sig")
+myProject = project(myLibrary, project="Definitions")
 dataDir = "data/"
 prefixDir = "D:/california-sig/"
+libpath = paste0(prefixDir, ssimDir, "california-sig.ssim")
 
+
+# Set up First Level Folder Structure -------------------------------------------------
+
+#create child folder for Working Scenarios
+args = list(create=NULL, folder=NULL, lib=libpath, name="working-scenarios", tpid=projectId(myProject))
+ret = command(args, session=mySession)
+working_scn_fid = as.numeric(strsplit(ret, ": ")[[1]][2])
+
+#create child folder for Sub Scenarios
+args = list(create=NULL, folder=NULL, lib=libpath, name="sub-scenarios", tpid=projectId(myProject))
+ret = command(args, session=mySession)
+sub_scn_fid = as.numeric(strsplit(ret, ": ")[[1]][2])
+
+#create child folder for Test Scenarios
+args = list(create=NULL, folder=NULL, lib=libpath, name="test-scenarios", tpid=projectId(myProject))
+ret = command(args, session=mySession)
+test_scn_fid = as.numeric(strsplit(ret, ": ")[[1]][2])
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#move the scenario there
+args = list(move=NULL, scenario=NULL, lib=libpath, sid=scenarioId(myScenario), tfid=working_scn_fid)
+command(args, session=mySession)
 
 # Definitions -------------------------------------------------------------
 
 
-##### ST-Sim Terminology #####
+##### Definitions ST-Sim Terminology #####
 sheetName <- "stsim_Terminology"
 mySheet <- datasheet(myProject, name=sheetName)
 mySheet$AmountLabel[1] <- "Area"
@@ -37,100 +73,106 @@ mySheet$SecondaryStratumLabel[1] <- "Ownership"
 mySheet$TimestepUnits[1] <- "Year"
 saveDatasheet(myProject, mySheet, sheetName)
 
-##### ST-Sim Primary Strata #####
+##### Definitions ST-Sim Primary Strata #####
 sheetName <- "stsim_Stratum"
 mySheet <- datasheet(myProject, name=sheetName, optional=T)
 mySheet = read.csv(paste0(dataDir,"definitions/ecoregions.csv")) %>% filter(ID %in% c(1,4,5,6,7,8,9,13,14,78,80,81,85))
 saveDatasheet(myProject, mySheet, name=sheetName)
 
-##### ST-Sim Secondary Strata ##### 
+##### Definitions ST-Sim Secondary Strata ##### 
 sheetName <- "stsim_SecondaryStratum"
 mySheet <- datasheet(myProject, name=sheetName, optional=T)
 mySheet = read.csv(paste0(dataDir,"definitions/counties.csv"))
 saveDatasheet(myProject, mySheet, name=sheetName)
 
-##### ST-Sim Tertiary Strata ##### 
+##### Definitions ST-Sim Tertiary Strata ##### 
 sheetName <- "stsim_TertiaryStratum"
 mySheet <- datasheet(myProject, name=sheetName, optional=T)
 mySheet = read.csv(paste0(dataDir, "definitions/land-managers-strata.csv"))
 saveDatasheet(myProject, mySheet, name=sheetName)
 
-##### ST-Sim State Label x #####
+##### Definitions ST-Sim State Label x #####
 sheetName <- "stsim_StateLabelX"
 mySheet <- datasheet(myProject, name=sheetName, optional=T)
 mySheet = read.csv(paste0(dataDir, "definitions/state-label-xid.csv"))
 saveDatasheet(myProject, mySheet, name=sheetName)
 
-##### ST-Sim State Label y #####
+##### Definitions ST-Sim State Label y #####
 sheetName <- "stsim_StateLabelY"
 mySheet <- datasheet(myProject, name=sheetName, optional=T)
 mySheet = read.csv(paste0(dataDir, "definitions/state-label-yid.csv"))
 saveDatasheet(myProject, mySheet, name=sheetName)
 
-##### ST-Sim State Class #####
+##### Definitions ST-Sim State Class #####
 sheetName <- "stsim_StateClass"
 mySheet <- datasheet(myProject, name=sheetName, optional=T)
 mySheet = read.csv(paste0(dataDir, "definitions/state-class-types.csv"))
 saveDatasheet(myProject, mySheet, name=sheetName)
 
-##### ST-Sim Transition Types #####
+##### Definitions ST-Sim Transition Types #####
 sheetName <- "stsim_TransitionType"
 mySheet <- datasheet(myProject, name=sheetName, optional=T)
 mySheet = read.csv(paste0(dataDir, "definitions/transition-type.csv"))
 saveDatasheet(myProject, mySheet, name=sheetName)
 
-##### ST-Sim Transition Groups #####
+##### Definitions ST-Sim Transition Groups #####
 sheetName <- "stsim_TransitionGroup"
 mySheet <- datasheet(myProject, name=sheetName, optional=T)
 mySheet = read.csv(paste0(dataDir, "definitions/transition-group.csv"))
 saveDatasheet(myProject, mySheet, name=sheetName, append=T)
 
-##### ST-Sim Transition Types by Group #####
+##### Definitions ST-Sim Transition Types by Group #####
 sheetName <- "stsim_TransitionTypeGroup"
 mySheet <- datasheet(myProject, name=sheetName, optional=T)
 mySheet = read.csv(paste0(dataDir, "definitions/transition-types-by-group.csv"))
 saveDatasheet(myProject, mySheet, name=sheetName, append=T)
 
-##### ST-Sim Transition Simulation Groups #####
+##### Definitions ST-Sim Transition Simulation Groups #####
 # Only used for projection models
 sheetName <- "stsim_TransitionSimulationGroup"
 mySheet <- datasheet(myProject, name=sheetName, optional=T)
 mySheet = read.csv(paste0(dataDir, "definitions/transition-simulation-groups.csv"))
 saveDatasheet(myProject, mySheet, name=sheetName, append=T)
 
-##### ST-Sim Age Type #####
+##### Definitions ST-Sim Transition Multiplier Types #####
+sheetName <- "stsim_TransitionMultiplierType"
+mySheet <- datasheet(myProject, name=sheetName, optional=T)
+mySheet = read.csv(paste0(dataDir, "definitions/transition-multiplier-types.csv"))
+saveDatasheet(myProject, mySheet, name=sheetName, append=T)
+
+##### Definitions ST-Sim Age Type #####
 sheetName <- "stsim_AgeType"
 mySheet <- datasheet(myProject, name=sheetName, optional=T)
 mySheet[1,"Frequency"] <- 1
 mySheet[1,"MaximumAge"] <- 300
 saveDatasheet(myProject, mySheet, name=sheetName)
 
-##### ST-Sim Age Group #####
+##### Definitions ST-Sim Age Group #####
 maxAge = 300
 sheetName <- "stsim_AgeGroup"
 mySheet <- datasheet(myProject, name=sheetName, optional=T)
 mySheet[1:(maxAge/20),"MaximumAge"] <- c(seq(from=20, to=(maxAge-1), by=20), maxAge-1)
 saveDatasheet(myProject, mySheet, name=sheetName)
 
-##### ST-Sim Attribute Groups #####
+##### Definitions ST-Sim Attribute Groups #####
 sheetName <- "stsim_AttributeGroup"
 mySheet <- datasheet(myProject, name=sheetName, optional=T)
 mySheet = read.csv(paste0(dataDir, "definitions/state-attribute-group.csv"))
 saveDatasheet(myProject, mySheet, name=sheetName)
 
-##### ST-Sim State Attribute Types #####
+##### Definitions ST-Sim State Attribute Types #####
 sheetName <- "stsim_StateAttributeType"
 mySheet <- datasheet(myProject, name=sheetName, optional=T)
 mySheet = read.csv(paste0(dataDir, "definitions/state-attribute-type.csv"))
 saveDatasheet(myProject, mySheet, name=sheetName)
 
-##### ST-Sim Distributions #####
+##### Definitions ST-Sim Distributions #####
 sheetName <- "corestime_DistributionType"
 mySheet <- datasheet(myProject, name=sheetName, optional=T)
 mySheet = read.csv(paste0(dataDir, "definitions/distributions.csv"))
 saveDatasheet(myProject, mySheet, name=sheetName, append=T)
 
-##### ST-Sim External Variables #####
+##### Definitions ST-Sim External Variables #####
 sheetName <- "corestime_ExternalVariableType"
 mySheet <- datasheet(myProject, name=sheetName, optional=T)
 mySheet = read.csv(paste0(dataDir, "definitions/external-variables.csv"))
@@ -138,25 +180,25 @@ saveDatasheet(myProject, mySheet, name=sheetName, append=F)
 
 
 
-##### SF Stock Types #####
+##### Definitions SF Stock Types #####
 sheetName <- "stsimsf_StockType"
 mySheet <- datasheet(myProject, name=sheetName, optional=T)
 mySheet = read.csv(paste0(dataDir, "definitions/stock-type.csv"))
 saveDatasheet(myProject, mySheet, name=sheetName)
 
-##### SF Stock Groups #####
+##### Definitions SF Stock Groups #####
 sheetName <- "stsimsf_StockGroup"
 mySheet <- datasheet(myProject, name=sheetName, optional=T)
 mySheet = read.csv(paste0(dataDir, "definitions/stock-group.csv"))
 saveDatasheet(myProject, mySheet, name=sheetName, append=T)
 
-##### SF Flow Types #####
+##### Definitions SF Flow Types #####
 sheetName <- "stsimsf_FlowType"
 mySheet <- datasheet(myProject, name=sheetName, optional=T)
 mySheet = read.csv(paste0(dataDir, "definitions/flow-type.csv"))
 saveDatasheet(myProject, mySheet, name=sheetName)
 
-##### SF Flow Groups #####
+##### Definitions SF Flow Groups #####
 sheetName <- "stsimsf_FlowGroup"
 mySheet <- datasheet(myProject, name=sheetName, optional=T)
 mySheet = read.csv(paste0(dataDir, "definitions/flow-group.csv"))
@@ -335,36 +377,100 @@ mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
 mySheet = read.csv(paste0(dataDir, "distributions/distribution-ag-contraction.csv"))
 saveDatasheet(myScenario, mySheet, sheetName)
 
-myScenario <- scenario(myProject, scenario = "Distirbutions [Fire]")
+
+# Fire Distributions
+myScenario <- scenario(myProject, scenario = "Distirbutions [Fire Historical Mean]")
 mergeDependencies(myScenario) = T
 sheetName <- "stsim_DistributionValue"
 mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
-mySheet1 = read.csv(paste0(dataDir, "distributions/distribution-fire-high-severity.csv"))
-mySheet2 = read.csv(paste0(dataDir, "distributions/distribution-fire-medium-severity.csv"))
-mySheet3 = read.csv(paste0(dataDir, "distributions/distribution-fire-low-severity.csv"))
-mySheet = rbind(mySheet1, mySheet2, mySheet3)
+mySheet = read.csv(paste0(dataDir, "distributions/distribution-fire-ecoregion-historical-mean.csv"))
+saveDatasheet(myScenario, mySheet, sheetName)
+
+myScenario <- scenario(myProject, scenario = "Distirbutions [Fire Annual Variability]")
+mergeDependencies(myScenario) = T
+sheetName <- "stsim_DistributionValue"
+mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
+mySheet = read.csv(paste0(dataDir, "distributions/distribution-fire-historical-ecoregion-variability.csv"))
+saveDatasheet(myScenario, mySheet, sheetName)
+
+myScenario <- scenario(myProject, scenario = "Distirbutions [Fire Severity]")
+mergeDependencies(myScenario) = T
+sheetName <- "stsim_DistributionValue"
+mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
+mySheet = read.csv(paste0(dataDir, "distributions/distribution-fire-historical-severity.csv"))
+saveDatasheet(myScenario, mySheet, sheetName)
+
+myScenario <- scenario(myProject, scenario = "Distirbutions [Fire]")
+mergeDependencies(myScenario) = T
+dependency(myScenario, c("Distirbutions [Fire Historical Mean]", 
+                         "Distirbutions [Fire Annual Variability]",
+                         "Distirbutions [Fire Severity]"))
+
+
+
+# Insect Distributions
+myScenario <- scenario(myProject, scenario = "Distirbutions [Insect Historical Mean]")
+mergeDependencies(myScenario) = T
+sheetName <- "stsim_DistributionValue"
+mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
+mySheet = read.csv(paste0(dataDir, "distributions/distribution-insects-ecoregion-historical-mean.csv"))
+saveDatasheet(myScenario, mySheet, sheetName)
+
+myScenario <- scenario(myProject, scenario = "Distirbutions [Insect Annual Variability]")
+mergeDependencies(myScenario) = T
+sheetName <- "stsim_DistributionValue"
+mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
+mySheet = read.csv(paste0(dataDir, "distributions/distribution-insects-historical-ecoregion-variability.csv"))
+saveDatasheet(myScenario, mySheet, sheetName)
+
+myScenario <- scenario(myProject, scenario = "Distirbutions [Insect Severity]")
+mergeDependencies(myScenario) = T
+sheetName <- "stsim_DistributionValue"
+mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
+mySheet = read.csv(paste0(dataDir, "distributions/distribution-insects-historical-severity.csv"))
 saveDatasheet(myScenario, mySheet, sheetName)
 
 myScenario <- scenario(myProject, scenario = "Distirbutions [Insect]")
 mergeDependencies(myScenario) = T
+dependency(myScenario, c("Distirbutions [Insect Historical Mean]", 
+                         "Distirbutions [Insect Annual Variability]",
+                         "Distirbutions [Insect Severity]"))
+
+
+
+
+# Harvest Distributions
+myScenario <- scenario(myProject, scenario = "Distirbutions [Harvest Historical Mean]")
+mergeDependencies(myScenario) = T
 sheetName <- "stsim_DistributionValue"
 mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
-mySheet1 = read.csv(paste0(dataDir, "distributions/distribution-insect-high-severity.csv"))
-mySheet2 = read.csv(paste0(dataDir, "distributions/distribution-insect-medium-severity.csv"))
-mySheet3 = read.csv(paste0(dataDir, "distributions/distribution-insect-low-severity.csv"))
-mySheet = rbind(mySheet1, mySheet2, mySheet3)
+mySheet = read.csv(paste0(dataDir, "distributions/distribution-harvest-county-historical-mean.csv"))
+saveDatasheet(myScenario, mySheet, sheetName)
+
+myScenario <- scenario(myProject, scenario = "Distirbutions [Harvest Annual Variability]")
+mergeDependencies(myScenario) = T
+sheetName <- "stsim_DistributionValue"
+mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
+mySheet = read.csv(paste0(dataDir, "distributions/distribution-harvest-historical-county-variability.csv"))
+saveDatasheet(myScenario, mySheet, sheetName)
+
+myScenario <- scenario(myProject, scenario = "Distirbutions [Harvest Type]")
+mergeDependencies(myScenario) = T
+sheetName <- "stsim_DistributionValue"
+mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
+mySheet = read.csv(paste0(dataDir, "distributions/distribution-harvest-historical-type.csv"))
 saveDatasheet(myScenario, mySheet, sheetName)
 
 myScenario <- scenario(myProject, scenario = "Distirbutions [Harvest]")
 mergeDependencies(myScenario) = T
-sheetName <- "stsim_DistributionValue"
-mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
-mySheet1 = read.csv(paste0(dataDir, "distributions/distribution-clearcut.csv"))
-mySheet2 = read.csv(paste0(dataDir, "distributions/distribution-selection.csv"))
-mySheet = rbind(mySheet1, mySheet2)
-saveDatasheet(myScenario, mySheet, sheetName)
+dependency(myScenario, c("Distirbutions [Harvest Historical Mean]", 
+                         "Distirbutions [Harvest Annual Variability]",
+                         "Distirbutions [Harvest Type]"))
 
 
+
+
+# Merge all Distribution Datasheets into single Sub-Scenario
 myScenario <- scenario(myProject, scenario = "Distributions")
 mergeDependencies(myScenario) = T
 dependency(myScenario, c("Distirbutions [Urbanization]", "Distirbutions [Intensification]", "Distirbutions [Ag Change]",
@@ -545,18 +651,14 @@ saveDatasheet(myScenario, mySheet, sheetName)
 myScenario <- scenario(myProject, scenario = "Transition Targets [Harvest SSP2]")
 sheetName <- "stsim_TransitionTarget"
 mySheet <- datasheet(myScenario, name = sheetName, empty = F, optional = T)
-mySheet1 <- read.csv(paste0(dataDir, "transition-targets/transition-targets-clearcut-ssp2.csv"))
-mySheet2 <- read.csv(paste0(dataDir, "transition-targets/transition-targets-selection-ssp2.csv"))
-mySheet <- rbind(mySheet1, mySheet2)
+mySheet <- read.csv(paste0(dataDir, "transition-targets/transition-targets-harvest-ssp2.csv"))
 saveDatasheet(myScenario, mySheet, sheetName)
 
 # SSP5
 myScenario <- scenario(myProject, scenario = "Transition Targets [Harvest SSP5]")
 sheetName <- "stsim_TransitionTarget"
 mySheet <- datasheet(myScenario, name = sheetName, empty = F, optional = T)
-mySheet1 <- read.csv(paste0(dataDir, "transition-targets/transition-targets-clearcut-ssp5.csv"))
-mySheet2 <- read.csv(paste0(dataDir, "transition-targets/transition-targets-selection-ssp5.csv"))
-mySheet <- rbind(mySheet1, mySheet2)
+mySheet <- read.csv(paste0(dataDir, "transition-targets/transition-targets-harvest-ssp5.csv"))
 saveDatasheet(myScenario, mySheet, sheetName)
 
 
@@ -592,10 +694,51 @@ mySheet <- datasheet(myScenario, name = sheetName, empty = F, optional = T)
 mySheet <- read.csv(paste0(dataDir, "transition-multipliers/transition-multipliers-ag-expansion-contraction-types.csv"))
 saveDatasheet(myScenario, mySheet, sheetName)
 
+# Harvest Multipliers (Allocates total Harvest Transition Target to different types of Harvest - for projection only)
+myScenario <- scenario(myProject, scenario = "Transition Multipliers [Harvest]")
+sheetName <- "stsim_TransitionMultiplierValue"
+mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
+mySheet = addRow(mySheet, data.frame(Timestep = 2017, TransitionGroupID = "Management: Forest Clearcut [Type]", DistributionType = "Harvest: Forest Clearcut"))
+mySheet = addRow(mySheet, data.frame(Timestep = 2017, TransitionGroupID = "Management: Forest Selection [Type]", DistributionType = "Harvest: Forest Selection"))
+mySheet = addRow(mySheet, data.frame(Timestep = 2002, TransitionGroupID = "Management: Forest Selection 20% [Type]", Amount = 0))
+mySheet = addRow(mySheet, data.frame(Timestep = 2002, TransitionGroupID = "Management: Forest Selection 85% [Type]", Amount = 0))
+mySheet = addRow(mySheet, data.frame(Timestep = 2002, TransitionGroupID = "Management: Salvage Logging [Type]", Amount = 0))
+saveDatasheet(myScenario, mySheet, sheetName)
+
+
+# Fire Projections based on historical data
+myScenario <- scenario(myProject, scenario = "Transition Multipliers [Fire]")
+sheetName <- "stsim_TransitionMultiplierValue"
+mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
+mySheet = addRow(mySheet, data.frame(Timestep = 2017, TransitionGroupID = "Fire", TransitionMultiplierTypeID = "Historical Mean", DistributionType = "Fire: Historical Mean"))
+mySheet = addRow(mySheet, data.frame(Timestep = 2017, TransitionGroupID = "Fire", TransitionMultiplierTypeID = "Annual Variability", DistributionType = "Fire: Annual Variability"))
+mySheet = addRow(mySheet, data.frame(Timestep = 2017, TransitionGroupID = "Fire: High Severity [Type]", TransitionMultiplierTypeID = "Severity", DistributionType = "Fire: High Severity"))
+mySheet = addRow(mySheet, data.frame(Timestep = 2017, TransitionGroupID = "Fire: Medium Severity [Type]", TransitionMultiplierTypeID = "Severity", DistributionType = "Fire: Medium Severity"))
+mySheet = addRow(mySheet, data.frame(Timestep = 2017, TransitionGroupID = "Fire: Low Severity [Type]", TransitionMultiplierTypeID = "Severity", DistributionType = "Fire: Low Severity"))
+saveDatasheet(myScenario, mySheet, sheetName)
+
+
+# Insect Projections based on historical data
+myScenario <- scenario(myProject, scenario = "Transition Multipliers [Insect]")
+sheetName <- "stsim_TransitionMultiplierValue"
+mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
+mySheet = addRow(mySheet, data.frame(Timestep = 2017, TransitionGroupID = "Insect", TransitionMultiplierTypeID = "Historical Mean", DistributionType = "Insect: Historical Mean"))
+mySheet = addRow(mySheet, data.frame(Timestep = 2017, TransitionGroupID = "Insect", TransitionMultiplierTypeID = "Annual Variability", DistributionType = "Insect: Annual Variability"))
+mySheet = addRow(mySheet, data.frame(Timestep = 2017, TransitionGroupID = "Insect: High Severity [Type]", TransitionMultiplierTypeID = "Severity", DistributionType = "Insect: High Severity"))
+mySheet = addRow(mySheet, data.frame(Timestep = 2017, TransitionGroupID = "Insect: Medium Severity [Type]", TransitionMultiplierTypeID = "Severity", DistributionType = "Insect: Medium Severity"))
+mySheet = addRow(mySheet, data.frame(Timestep = 2017, TransitionGroupID = "Insect: Low Severity [Type]", TransitionMultiplierTypeID = "Severity", DistributionType = "Insect: Low Severity"))
+saveDatasheet(myScenario, mySheet, sheetName)
+
+
+
 # Merge Transition Multipliers
 myScenario <- scenario(myProject, scenario = "Transition Multipliers")
 mergeDependencies(myScenario) = T
-dependency(myScenario, c("Transition Multipliers [Urbanization]", "Transition Multipliers [Ag Expansion Contraction]"))
+dependency(myScenario, c("Transition Multipliers [Urbanization]", 
+                         "Transition Multipliers [Ag Expansion Contraction]",
+                         "Transition Multipliers [Harvest]",
+                         "Transition Multipliers [Fire]", 
+                         "Transition Multipliers [Insect]"))
 
 
 
@@ -641,6 +784,9 @@ mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
 mySheet = addRow(mySheet, data.frame(Timestep = seq(1999,2016,1), TransitionGroupID = tg1, MultiplierFileName = paste0(dir1,list1)))
 mySheet = addRow(mySheet, data.frame(Timestep = seq(1999,2016,1), TransitionGroupID = tg2, MultiplierFileName = paste0(dir2,list2)))
 mySheet = addRow(mySheet, data.frame(Timestep = seq(1999,2016,1), TransitionGroupID = tg3, MultiplierFileName = paste0(dir3,list3)))
+mySheet = addRow(mySheet, data.frame(Timestep = 2017, TransitionGroupID = tg1, MultiplierFileName = paste0(prefixDir, dataDir,"spatial-multipliers/sm-fire-insect-reset.tif")))
+mySheet = addRow(mySheet, data.frame(Timestep = 2017, TransitionGroupID = tg2, MultiplierFileName = paste0(prefixDir, dataDir,"spatial-multipliers/sm-fire-insect-reset.tif")))
+mySheet = addRow(mySheet, data.frame(Timestep = 2017, TransitionGroupID = tg3, MultiplierFileName = paste0(prefixDir, dataDir,"spatial-multipliers/sm-fire-insect-reset.tif")))
 saveDatasheet(myScenario, mySheet, sheetName)
 
 
@@ -665,6 +811,9 @@ mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
 mySheet = addRow(mySheet, data.frame(Timestep = seq(1998,2016,1), TransitionGroupID = tg1, MultiplierFileName = paste0(dir1,list1)))
 mySheet = addRow(mySheet, data.frame(Timestep = seq(1998,2016,1), TransitionGroupID = tg2, MultiplierFileName = paste0(dir2,list2)))
 mySheet = addRow(mySheet, data.frame(Timestep = seq(1998,2016,1), TransitionGroupID = tg3, MultiplierFileName = paste0(dir3,list3)))
+mySheet = addRow(mySheet, data.frame(Timestep = 2017, TransitionGroupID = tg1, MultiplierFileName = paste0(prefixDir, dataDir,"spatial-multipliers/sm-fire-insect-reset.tif")))
+mySheet = addRow(mySheet, data.frame(Timestep = 2017, TransitionGroupID = tg2, MultiplierFileName = paste0(prefixDir, dataDir,"spatial-multipliers/sm-fire-insect-reset.tif")))
+mySheet = addRow(mySheet, data.frame(Timestep = 2017, TransitionGroupID = tg3, MultiplierFileName = paste0(prefixDir, dataDir,"spatial-multipliers/sm-fire-insect-reset.tif")))
 saveDatasheet(myScenario, mySheet, sheetName)
 
 
@@ -777,6 +926,8 @@ mergeDependencies(myScenario) = T
 dependency(myScenario, c("STSM Constants",
                          "Spatial Multipliers [Historical]",
                          "Transition Targets [Reference]"))
+
+
 
 
 

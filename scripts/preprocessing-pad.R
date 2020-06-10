@@ -5,6 +5,9 @@ library(fasterize)
 crs = "+proj=aea +lat_1=29.5 +lat_2=45.5 +lat_0=23 +lon_0=-96 +x_0=0 +y_0=0 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +datum=NAD83"
 eco = raster("data/initial-conditions/ic-ecoregion.tif")
 
+all_on = reclassify(eco, c(0,Inf,1))
+writeRaster(all_on, "data/spatial-multipliers/sm-fire-insect-reset.tif")
+
 pad = st_read("I:/GIS-Vector/Protected Areas/PADUS2_0_Shapefiles/PADUS2_0Designation.shp")
 pad = st_read("I:/GIS-Vector/Protected Areas/PADUS2_0_Shapefiles/PADUS2_0Easement.shp")
 pad$GAP_Sts = as.numeric(pad$GAP_Sts)

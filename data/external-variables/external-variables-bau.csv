@@ -60,7 +60,9 @@ Timestep,ExternalVariableTypeID,ExternalVariableValue,DistributionTypeID,Distrib
 2012,Fire,2012,,,,,
 2013,Fire,2013,,,,,
 2014,Fire,2014,,,,,
-2015,Fire,,Uniform Integer,Iteration and Timestep,,2001,2016
+2015,Fire,2015,,,,,
+2016,Fire,2016,,,,,
+2017,Fire,,Uniform Integer,Iteration and Timestep,,2001,2016
 2002,Forest Harvest,2002,,,,,
 2003,Forest Harvest,2003,,,,,
 2004,Forest Harvest,2004,,,,,
@@ -74,7 +76,9 @@ Timestep,ExternalVariableTypeID,ExternalVariableValue,DistributionTypeID,Distrib
 2012,Forest Harvest,2012,,,,,
 2013,Forest Harvest,2013,,,,,
 2014,Forest Harvest,2014,,,,,
-2015,Forest Harvest,,Uniform Integer,Iteration and Timestep,,2001,2016
+2015,Forest Harvest,2015,,,,,
+2016,Forest Harvest,2016,,,,,
+2017,Forest Harvest,,Uniform Integer,Iteration and Timestep,,2001,2016
 2002,Insect,2002,,,,,
 2003,Insect,2003,,,,,
 2004,Insect,2004,,,,,
@@ -89,4 +93,5 @@ Timestep,ExternalVariableTypeID,ExternalVariableValue,DistributionTypeID,Distrib
 2013,Insect,2013,,,,,
 2014,Insect,2014,,,,,
 2015,Insect,2015,,,,,
-2016,Insect,,Uniform Integer,Iteration and Timestep,,2001,2016
+2016,Insect,2016,,,,,
+2017,Insect,,Uniform Integer,Iteration and Timestep,,2001,2016

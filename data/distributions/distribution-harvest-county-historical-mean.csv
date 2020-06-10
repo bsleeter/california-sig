@@ -1,0 +1,59 @@
+SecondaryStratumID,DistributionTypeID,ExternalVariableTypeID,ExternalVariableMin,ExternalVariableMax,Value,ValueDistributionTypeID,ValueDistributionFrequency,ValueDistributionSD
+Alameda,Harvest: Historical Mean,Forest Harvest,1999,2016,0,NA,NA,NA
+Alpine,Harvest: Historical Mean,Forest Harvest,1999,2016,61.111111111111114,Normal,Iteration and Timestep,146.08172124206965
+Amador,Harvest: Historical Mean,Forest Harvest,1999,2016,416.6666666666667,Normal,Iteration and Timestep,311.0702587557238
+Butte,Harvest: Historical Mean,Forest Harvest,1999,2016,894.4444444444445,Normal,Iteration and Timestep,511.5975235903619
+Calaveras,Harvest: Historical Mean,Forest Harvest,1999,2016,1011.1111111111111,Normal,Iteration and Timestep,1125.5790085885412
+Colusa,Harvest: Historical Mean,Forest Harvest,1999,2016,250,Normal,Iteration and Timestep,888.6539722259397
+Contra Costa,Harvest: Historical Mean,Forest Harvest,1999,2016,5.555555555555555,Normal,Iteration and Timestep,23.57022603955158
+Del Norte,Harvest: Historical Mean,Forest Harvest,1999,2016,338.8888888888889,Normal,Iteration and Timestep,222.6548077152003
+El Dorado,Harvest: Historical Mean,Forest Harvest,1999,2016,2150,Normal,Iteration and Timestep,1139.7884220585956
+Fresno,Harvest: Historical Mean,Forest Harvest,1999,2016,1422.2222222222222,Normal,Iteration and Timestep,1307.2447700751718
+Glenn,Harvest: Historical Mean,Forest Harvest,1999,2016,288.8888888888889,Normal,Iteration and Timestep,227.23113107165702
+Humboldt,Harvest: Historical Mean,Forest Harvest,1999,2016,4316.666666666667,Normal,Iteration and Timestep,2044.2890321720222
+Imperial,Harvest: Historical Mean,Forest Harvest,1999,2016,44.44444444444444,Normal,Iteration and Timestep,188.56180831641265
+Inyo,Harvest: Historical Mean,Forest Harvest,1999,2016,0,NA,NA,NA
+Kern,Harvest: Historical Mean,Forest Harvest,1999,2016,355.55555555555554,Normal,Iteration and Timestep,360.10165594506657
+Kings,Harvest: Historical Mean,Forest Harvest,1999,2016,22.22222222222222,Normal,Iteration and Timestep,94.28090415820631
+Lake,Harvest: Historical Mean,Forest Harvest,1999,2016,366.6666666666667,Normal,Iteration and Timestep,494.67755392067386
+Lassen,Harvest: Historical Mean,Forest Harvest,1999,2016,4450,Normal,Iteration and Timestep,3460.576286587845
+Los Angeles,Harvest: Historical Mean,Forest Harvest,1999,2016,533.3333333333334,Normal,Iteration and Timestep,586.1138215097012
+Madera,Harvest: Historical Mean,Forest Harvest,1999,2016,533.3333333333334,Normal,Iteration and Timestep,359.7384670922507
+Marin,Harvest: Historical Mean,Forest Harvest,1999,2016,5.555555555555555,Normal,Iteration and Timestep,23.57022603955158
+Mariposa,Harvest: Historical Mean,Forest Harvest,1999,2016,477.77777777777777,Normal,Iteration and Timestep,390.4078644873778
+Mendocino,Harvest: Historical Mean,Forest Harvest,1999,2016,2661.1111111111113,Normal,Iteration and Timestep,1575.973607157657
+Merced,Harvest: Historical Mean,Forest Harvest,1999,2016,0,NA,NA,NA
+Modoc,Harvest: Historical Mean,Forest Harvest,1999,2016,1738.888888888889,Normal,Iteration and Timestep,1401.318240250057
+Mono,Harvest: Historical Mean,Forest Harvest,1999,2016,483.3333333333333,Normal,Iteration and Timestep,383.8657853683636
+Monterey,Harvest: Historical Mean,Forest Harvest,1999,2016,50,Normal,Iteration and Timestep,98.5184366143778
+Napa,Harvest: Historical Mean,Forest Harvest,1999,2016,77.77777777777777,Normal,Iteration and Timestep,64.67616667635545
+Nevada,Harvest: Historical Mean,Forest Harvest,1999,2016,788.8888888888889,Normal,Iteration and Timestep,502.802602933139
+Orange,Harvest: Historical Mean,Forest Harvest,1999,2016,38.888888888888886,Normal,Iteration and Timestep,69.78023391872253
+Placer,Harvest: Historical Mean,Forest Harvest,1999,2016,1127.7777777777778,Normal,Iteration and Timestep,574.7690641676734
+Plumas,Harvest: Historical Mean,Forest Harvest,1999,2016,4455.555555555556,Normal,Iteration and Timestep,2485.3032060784435
+Riverside,Harvest: Historical Mean,Forest Harvest,1999,2016,305.55555555555554,Normal,Iteration and Timestep,260.02765061617447
+Sacramento,Harvest: Historical Mean,Forest Harvest,1999,2016,0,NA,NA,NA
+San Benito,Harvest: Historical Mean,Forest Harvest,1999,2016,5.555555555555555,Normal,Iteration and Timestep,23.570226039551574
+San Bernardino,Harvest: Historical Mean,Forest Harvest,1999,2016,344.44444444444446,Normal,Iteration and Timestep,309.1206165165235
+San Diego,Harvest: Historical Mean,Forest Harvest,1999,2016,272.22222222222223,Normal,Iteration and Timestep,216.40255395784294
+San Francisco,Harvest: Historical Mean,Forest Harvest,1999,2016,0,NA,NA,NA
+San Joaquin,Harvest: Historical Mean,Forest Harvest,1999,2016,0,NA,NA,NA
+San Luis Obispo,Harvest: Historical Mean,Forest Harvest,1999,2016,216.66666666666666,Normal,Iteration and Timestep,820.5091676012202
+San Mateo,Harvest: Historical Mean,Forest Harvest,1999,2016,116.66666666666667,Normal,Iteration and Timestep,150.4893977113651
+Santa Barbara,Harvest: Historical Mean,Forest Harvest,1999,2016,16.666666666666668,Normal,Iteration and Timestep,51.44957554275268
+Santa Clara,Harvest: Historical Mean,Forest Harvest,1999,2016,77.77777777777777,Normal,Iteration and Timestep,126.28425245572248
+Santa Cruz,Harvest: Historical Mean,Forest Harvest,1999,2016,338.8888888888889,Normal,Iteration and Timestep,299.2911014358643
+Shasta,Harvest: Historical Mean,Forest Harvest,1999,2016,4316.666666666667,Normal,Iteration and Timestep,2273.6987228639027
+Sierra Valley,Harvest: Historical Mean,Forest Harvest,1999,2016,1116.6666666666667,Normal,Iteration and Timestep,550.133673595363
+Siskiyou,Harvest: Historical Mean,Forest Harvest,1999,2016,6216.666666666667,Normal,Iteration and Timestep,3093.1137937645403
+Solano,Harvest: Historical Mean,Forest Harvest,1999,2016,5.555555555555555,Normal,Iteration and Timestep,23.57022603955158
+Sonoma,Harvest: Historical Mean,Forest Harvest,1999,2016,322.22222222222223,Normal,Iteration and Timestep,228.95043274384693
+Stanislaus,Harvest: Historical Mean,Forest Harvest,1999,2016,5.555555555555555,Normal,Iteration and Timestep,23.57022603955158
+Sutter,Harvest: Historical Mean,Forest Harvest,1999,2016,0,NA,NA,NA
+Tehama,Harvest: Historical Mean,Forest Harvest,1999,2016,738.8888888888889,Normal,Iteration and Timestep,681.8132303246628
+Trinity,Harvest: Historical Mean,Forest Harvest,1999,2016,1344.4444444444443,Normal,Iteration and Timestep,802.3657829651029
+Tulare,Harvest: Historical Mean,Forest Harvest,1999,2016,772.2222222222222,Normal,Iteration and Timestep,754.4421823678391
+Tuolumne,Harvest: Historical Mean,Forest Harvest,1999,2016,2177.777777777778,Normal,Iteration and Timestep,2310.4762828461953
+Ventura,Harvest: Historical Mean,Forest Harvest,1999,2016,33.333333333333336,Normal,Iteration and Timestep,76.69649888473704
+Yolo,Harvest: Historical Mean,Forest Harvest,1999,2016,5.555555555555555,Normal,Iteration and Timestep,23.570226039551585
+Yuba,Harvest: Historical Mean,Forest Harvest,1999,2016,377.77777777777777,Normal,Iteration and Timestep,376.6033262724549

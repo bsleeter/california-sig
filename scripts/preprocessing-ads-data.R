@@ -81,70 +81,132 @@ writeRaster(adsLow, paste0(outdir, outfile, seq(1998,2016), ".tif"), format="GTi
 
 # Write Historical Distributions ------------------------------------------
 
-# Zonal summary by Ecoregion for high severity
-ads_high_zonal = as_tibble(zonal(adsHigh, ecoregions, "sum")) %>%
+# Average Insect Probability by Ecoregion (Base Insect Probability) ----------------------------------------------------------
+
+# Create stack and reclassify rasters to include all Insects
+ads_all = reclassify(adsStack, c(0.5,Inf,1))
+
+
+# Ecoregion Mean 
+ads_eco_mean = as_tibble(zonal(ads_all, ecoregions, "sum")) %>%
   pivot_longer(-zone, names_to = "Timestep", values_to = "Value") %>%
   mutate(Value = Value*100) %>%
   mutate(Timestep = as.numeric(str_remove(Timestep, pattern = "X"))) %>%
-  mutate(TransitionGroupID = "Insect: High Severity [Type]") %>%
+  mutate(TransitionGroupID = "Insects") %>%
   rename("ID"="zone") %>%
   left_join(ecoregion_df) %>%
-  mutate(DistributionTypeID = "Insect: High Severity",
-         ExternalVariableTypeID = "Insect",
-         ExternalVariableMin = Timestep,
-         ExternalVariableMax = Timestep,
-         Value = Value,
-         ValueDistributionTypeID = "Normal",
-         ValueDistributionFrequency = "Iteration and Timestep",
-         ValueDistributionSD = Value*0.5) %>%
-  dplyr::select(StratumID=Name, DistributionTypeID, ExternalVariableTypeID, ExternalVariableMin, ExternalVariableMax, Value, DistributionTypeID, ValueDistributionFrequency, ValueDistributionSD)
-write_csv(ads_high_zonal, "data/distributions/distribution-insect-high-severity.csv")
+  left_join(scVeg_zonal) %>%
+  group_by(Name, TransitionGroupID) %>%
+  summarise(MeanArea = mean(Value), SdArea = sd(Value), Area = mean(Area)) %>%
+  mutate(Pct=MeanArea/Area, PctSd=SdArea/Area)
+
+# Create Distributions datasheet
+dist_ads_eco_mean = tibble(StratumID = ads_eco_mean$Name,
+                            DistributionTypeID = "Insect: Historical Mean",
+                            ExternalVariableTypeID = "Insect",
+                            ExternalVariableMin = 1998,
+                            ExternalVariableMax = 2016,
+                            Value = ads_eco_mean$Pct,
+                            ValueDistributionTypeID = "Normal",
+                            ValueDistributionFrequency = "Iteration and Timestep",
+                            ValueDistributionSD = ads_eco_mean$PctSd) %>%
+  write_csv("data/distributions/distribution-insects-ecoregion-historical-mean.csv")
 
 
-# Zonal summary by Ecoregion for medium severity
-ads_medium_zonal = as_tibble(zonal(adsMed, ecoregions, "sum")) %>%
+
+
+
+
+
+# Annual Insect Probability by Timestep (Annual Probability Multiplier) -----------------
+
+ads_temporal_total = as_tibble(zonal(ads_all, ecoregions, "sum")) %>%
   pivot_longer(-zone, names_to = "Timestep", values_to = "Value") %>%
   mutate(Value = Value*100) %>%
   mutate(Timestep = as.numeric(str_remove(Timestep, pattern = "X"))) %>%
-  mutate(TransitionGroupID = "Insect: Medium Severity [Type]") %>%
+  mutate(TransitionGroupID = "Insect") %>%
   rename("ID"="zone") %>%
   left_join(ecoregion_df) %>%
-  mutate(DistributionTypeID = "Insect: Medium Severity",
-         ExternalVariableTypeID = "Insect",
-         ExternalVariableMin = Timestep,
-         ExternalVariableMax = Timestep,
-         Value = Value,
-         ValueDistributionTypeID = "Normal",
-         ValueDistributionFrequency = "Iteration and Timestep",
-         ValueDistributionSD = Value*0.5) %>%
-  dplyr::select(StratumID=Name, DistributionTypeID, ExternalVariableTypeID, ExternalVariableMin, ExternalVariableMax, Value, DistributionTypeID, ValueDistributionFrequency, ValueDistributionSD)
-write_csv(ads_medium_zonal, "data/distributions/distribution-insect-medium-severity.csv")
+  left_join(scVeg_zonal) %>%
+  group_by(Timestep, Name, TransitionGroupID) %>%
+  summarise(TotalAnnualArea=sum(Value), Area=sum(Area)) %>%
+  ungroup() %>%
+  mutate(MeanAnnualArea = mean(TotalAnnualArea)) %>%
+  mutate(RelativeMultiplier = TotalAnnualArea/MeanAnnualArea)
+
+dist_ads_temporal_total = tibble(StratumID = ads_temporal_total$Name,
+                                  DistributionTypeID = "Insect: Annual Variability",
+                                  ExternalVariableTypeID = "Insect",
+                                  ExternalVariableMin = ads_temporal_total$Timestep,
+                                  ExternalVariableMax = ads_temporal_total$Timestep,
+                                  Value = ads_temporal_total$RelativeMultiplier) %>%
+  write_csv("data/distributions/distribution-insects-historical-ecoregion-variability.csv")
 
 
-# Zonal summary by Ecoregion for low severity
-ads_low_zonal = as_tibble(zonal(adsLow, ecoregions, "sum")) %>%
+
+
+
+
+
+# Fire Severity Probability by Ecoregion (Fire Severity Multiplier) --------------------
+
+
+# High Severity
+
+ecoregion_high_mean = as_tibble(zonal(adsHigh, ecoregions, "sum")) %>%
   pivot_longer(-zone, names_to = "Timestep", values_to = "Value") %>%
   mutate(Value = Value*100) %>%
   mutate(Timestep = as.numeric(str_remove(Timestep, pattern = "X"))) %>%
-  mutate(TransitionGroupID = "Insect: Low Severity [Type]") %>%
+  mutate(TransitionGroupID = "Insect: High Severity") %>%
   rename("ID"="zone") %>%
-  left_join(ecoregion_df) %>%
-  mutate(DistributionTypeID = "Insect: Low Severity",
-         ExternalVariableTypeID = "Insect",
-         ExternalVariableMin = Timestep,
-         ExternalVariableMax = Timestep,
-         Value = Value,
-         ValueDistributionTypeID = "Normal",
-         ValueDistributionFrequency = "Iteration and Timestep",
-         ValueDistributionSD = Value*0.5) %>%
-  dplyr::select(StratumID=Name, DistributionTypeID, ExternalVariableTypeID, ExternalVariableMin, ExternalVariableMax, Value, DistributionTypeID, ValueDistributionFrequency, ValueDistributionSD)
-write_csv(ads_low_zonal, "data/distributions/distribution-insect-low-severity.csv")
+  group_by(ID,  TransitionGroupID) %>%
+  summarise(Mean = mean(Value)) %>%
+  left_join(ecoregion_df)
+
+# Medium Severity
+
+ecoregion_med_mean = as_tibble(zonal(adsMed, ecoregions, "sum")) %>%
+  pivot_longer(-zone, names_to = "Timestep", values_to = "Value") %>%
+  mutate(Value = Value*100) %>%
+  mutate(Timestep = as.numeric(str_remove(Timestep, pattern = "X"))) %>%
+  mutate(TransitionGroupID = "Insect: Medium Severity") %>%
+  rename("ID"="zone") %>%
+  group_by(ID,  TransitionGroupID) %>%
+  summarise(Mean = mean(Value)) %>%
+  left_join(ecoregion_df)
+
+# Low Severity
+
+ecoregion_low_mean = as_tibble(zonal(adsLow, ecoregions, "sum")) %>%
+  pivot_longer(-zone, names_to = "Timestep", values_to = "Value") %>%
+  mutate(Value = Value*100) %>%
+  mutate(Timestep = as.numeric(str_remove(Timestep, pattern = "X"))) %>%
+  mutate(TransitionGroupID = "Insect: Low Severity") %>%
+  rename("ID"="zone") %>%
+  group_by(ID,  TransitionGroupID) %>%
+  summarise(Mean = mean(Value)) %>%
+  left_join(ecoregion_df)
 
 
-# Merge high, medium, and low severity data frames together and plot to check for anomolies
-df = bind_rows(ads_high_zonal, ads_medium_zonal, ads_low_zonal)
 
-ggplot(df, aes(x=ExternalVariableMin, y=Value, color=DistributionTypeID)) +
-  geom_line() +
-  geom_point() +
-  facet_wrap(~PrimaryStratumID)
+# Merge Severities together
+ecoregion_severity_mean = bind_rows(ecoregion_high_mean, ecoregion_med_mean, ecoregion_low_mean) %>%
+  group_by(Name) %>%
+  mutate(Total = sum(Mean)) %>%
+  mutate(Prob = ifelse(Total==0, 0, Mean/Total)) %>%
+  arrange(Name)
+
+dist_ecoregion_severity_mean = tibble(StratumID = ecoregion_severity_mean$Name,
+                                      DistributionTypeID = ecoregion_severity_mean$TransitionGroupID,
+                                      ExternalVariableTypeID = "Insect",
+                                      ExternalVariableMin = 1998,
+                                      ExternalVariableMax = 2016,
+                                      Value = ecoregion_severity_mean$Prob) %>%
+  write_csv("data/distributions/distribution-insects-historical-severity.csv")
+
+
+
+
+
+
+
