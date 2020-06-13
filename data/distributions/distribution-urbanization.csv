@@ -23,21 +23,21 @@ Amador,Urbanization,Urbanization,2009,2010,68.189591,Normal,Iteration and Timest
 Amador,Urbanization,Urbanization,2011,2012,4.451546,Normal,Iteration and Timestep,2.225773
 Amador,Urbanization,Urbanization,2013,2014,3.035145,Normal,Iteration and Timestep,1.5175725
 Amador,Urbanization,Urbanization,2015,2016,168.349376,Normal,Iteration and Timestep,84.174688
-Butte,Urbanization,Urbanization,1993,1994,NA,Normal,Iteration and Timestep,NA
-Butte,Urbanization,Urbanization,1995,1996,NA,Normal,Iteration and Timestep,NA
-Butte,Urbanization,Urbanization,1997,1998,NA,Normal,Iteration and Timestep,NA
-Butte,Urbanization,Urbanization,1999,2000,NA,Normal,Iteration and Timestep,NA
-Butte,Urbanization,Urbanization,2001,2002,NA,Normal,Iteration and Timestep,NA
-Butte,Urbanization,Urbanization,2003,2004,NA,Normal,Iteration and Timestep,NA
+Butte,Urbanization,Urbanization,1993,1994,0,NA,Iteration and Timestep,NA
+Butte,Urbanization,Urbanization,1995,1996,0,NA,Iteration and Timestep,NA
+Butte,Urbanization,Urbanization,1997,1998,0,NA,Iteration and Timestep,NA
+Butte,Urbanization,Urbanization,1999,2000,0,NA,Iteration and Timestep,NA
+Butte,Urbanization,Urbanization,2001,2002,0,NA,Iteration and Timestep,NA
+Butte,Urbanization,Urbanization,2003,2004,0,NA,Iteration and Timestep,NA
 Butte,Urbanization,Urbanization,2005,2006,263.450586,Normal,Iteration and Timestep,131.725293
 Butte,Urbanization,Urbanization,2007,2008,131.725293,Normal,Iteration and Timestep,65.8626465
 Butte,Urbanization,Urbanization,2009,2010,155.399424,Normal,Iteration and Timestep,77.699712
 Butte,Urbanization,Urbanization,2011,2012,30.553793,Normal,Iteration and Timestep,15.2768965
 Butte,Urbanization,Urbanization,2013,2014,90.042635,Normal,Iteration and Timestep,45.0213175
 Butte,Urbanization,Urbanization,2015,2016,71.022393,Normal,Iteration and Timestep,35.5111965
-Colusa,Urbanization,Urbanization,1993,1994,NA,Normal,Iteration and Timestep,NA
-Colusa,Urbanization,Urbanization,1995,1996,NA,Normal,Iteration and Timestep,NA
-Colusa,Urbanization,Urbanization,1997,1998,NA,Normal,Iteration and Timestep,NA
+Colusa,Urbanization,Urbanization,1993,1994,0,NA,Iteration and Timestep,NA
+Colusa,Urbanization,Urbanization,1995,1996,0,NA,Iteration and Timestep,NA
+Colusa,Urbanization,Urbanization,1997,1998,0,NA,Iteration and Timestep,NA
 Colusa,Urbanization,Urbanization,1999,2000,80.330170999999993,Normal,Iteration and Timestep,40.165085499999996
 Colusa,Urbanization,Urbanization,2001,2002,38.849856,Normal,Iteration and Timestep,19.424928
 Colusa,Urbanization,Urbanization,2003,2004,39.052199,Normal,Iteration and Timestep,19.5260995
@@ -190,7 +190,7 @@ Mariposa,Urbanization,Urbanization,2009,2010,3.439831,Normal,Iteration and Times
 Mariposa,Urbanization,Urbanization,2011,2012,0.607029,Normal,Iteration and Timestep,0.3035145
 Mariposa,Urbanization,Urbanization,2013,2014,3.8445169999999997,Normal,Iteration and Timestep,1.9222584999999999
 Mariposa,Urbanization,Urbanization,2015,2016,14.16401,Normal,Iteration and Timestep,7.082005
-Mendocino,Urbanization,Urbanization,2005,2006,0,Normal,Iteration and Timestep,0
+Mendocino,Urbanization,Urbanization,2005,2006,0,NA,Iteration and Timestep,NA
 Mendocino,Urbanization,Urbanization,2007,2008,35.005339,Normal,Iteration and Timestep,17.5026695
 Mendocino,Urbanization,Urbanization,2009,2010,55.441981999999996,Normal,Iteration and Timestep,27.720990999999998
 Mendocino,Urbanization,Urbanization,2011,2012,10.319493,Normal,Iteration and Timestep,5.1597465
@@ -210,10 +210,10 @@ Merced,Urbanization,Urbanization,2013,2014,95.70823899999999,Normal,Iteration an
 Merced,Urbanization,Urbanization,2015,2016,433.418706,Normal,Iteration and Timestep,216.709353
 Modoc,Urbanization,Urbanization,1993,1994,5.058575,Normal,Iteration and Timestep,2.5292875
 Modoc,Urbanization,Urbanization,1995,1996,30.958479,Normal,Iteration and Timestep,15.4792395
-Modoc,Urbanization,Urbanization,1997,1998,0,Normal,Iteration and Timestep,0
+Modoc,Urbanization,Urbanization,1997,1998,0,NA,Iteration and Timestep,NA
 Modoc,Urbanization,Urbanization,1999,2000,0.809372,Normal,Iteration and Timestep,0.404686
 Modoc,Urbanization,Urbanization,2001,2002,73.652852,Normal,Iteration and Timestep,36.826426
-Modoc,Urbanization,Urbanization,2003,2004,0,Normal,Iteration and Timestep,0
+Modoc,Urbanization,Urbanization,2003,2004,0,NA,Iteration and Timestep,NA
 Modoc,Urbanization,Urbanization,2005,2006,46.134204,Normal,Iteration and Timestep,23.067102
 Modoc,Urbanization,Urbanization,2007,2008,0.809372,Normal,Iteration and Timestep,0.404686
 Modoc,Urbanization,Urbanization,2009,2010,45.729518,Normal,Iteration and Timestep,22.864759
@@ -427,12 +427,12 @@ Shasta,Urbanization,Urbanization,2009,2010,98.94572699999999,Normal,Iteration an
 Shasta,Urbanization,Urbanization,2011,2012,25.899904,Normal,Iteration and Timestep,12.949952
 Shasta,Urbanization,Urbanization,2013,2014,28.125677,Normal,Iteration and Timestep,14.0628385
 Shasta,Urbanization,Urbanization,2015,2016,91.05435,Normal,Iteration and Timestep,45.527175
-Sierra Valley,Urbanization,Urbanization,1993,1994,0,Normal,Iteration and Timestep,0
-Sierra Valley,Urbanization,Urbanization,1995,1996,0,Normal,Iteration and Timestep,0
-Sierra Valley,Urbanization,Urbanization,1997,1998,0,Normal,Iteration and Timestep,0
+Sierra Valley,Urbanization,Urbanization,1993,1994,0,NA,Iteration and Timestep,NA
+Sierra Valley,Urbanization,Urbanization,1995,1996,0,NA,Iteration and Timestep,NA
+Sierra Valley,Urbanization,Urbanization,1997,1998,0,NA,Iteration and Timestep,NA
 Sierra Valley,Urbanization,Urbanization,1999,2000,24.888189,Normal,Iteration and Timestep,12.4440945
-Sierra Valley,Urbanization,Urbanization,2001,2002,0,Normal,Iteration and Timestep,0
-Sierra Valley,Urbanization,Urbanization,2003,2004,0,Normal,Iteration and Timestep,0
+Sierra Valley,Urbanization,Urbanization,2001,2002,0,NA,Iteration and Timestep,NA
+Sierra Valley,Urbanization,Urbanization,2003,2004,0,NA,Iteration and Timestep,NA
 Sierra Valley,Urbanization,Urbanization,2005,2006,42.087344,Normal,Iteration and Timestep,21.043672
 Sierra Valley,Urbanization,Urbanization,2007,2008,6.272633,Normal,Iteration and Timestep,3.1363165
 Sierra Valley,Urbanization,Urbanization,2009,2010,2.02343,Normal,Iteration and Timestep,1.011715
@@ -560,3 +560,14 @@ Yuba,Urbanization,Urbanization,2009,2010,93.887152,Normal,Iteration and Timestep
 Yuba,Urbanization,Urbanization,2011,2012,24.888189,Normal,Iteration and Timestep,12.4440945
 Yuba,Urbanization,Urbanization,2013,2014,28.530362999999998,Normal,Iteration and Timestep,14.265181499999999
 Yuba,Urbanization,Urbanization,2015,2016,15.175725,Normal,Iteration and Timestep,7.5878625
+Alpine,Urbanization,Urbanization,1992,2016,0,NA,Iteration and Timestep,NA
+Calaveras,Urbanization,Urbanization,1992,2016,0,NA,Iteration and Timestep,NA
+Del Norte,Urbanization,Urbanization,1992,2016,0,NA,Iteration and Timestep,NA
+Humboldt,Urbanization,Urbanization,1992,2016,0,NA,Iteration and Timestep,NA
+Inyo,Urbanization,Urbanization,1992,2016,0,NA,Iteration and Timestep,NA
+Lassen,Urbanization,Urbanization,1992,2016,0,NA,Iteration and Timestep,NA
+Mono,Urbanization,Urbanization,1992,2016,0,NA,Iteration and Timestep,NA
+Plumas,Urbanization,Urbanization,1992,2016,0,NA,Iteration and Timestep,NA
+San Francisco,Urbanization,Urbanization,1992,2016,0,NA,Iteration and Timestep,NA
+Trinity,Urbanization,Urbanization,1992,2016,0,NA,Iteration and Timestep,NA
+Tuolumne,Urbanization,Urbanization,1992,2016,0,NA,Iteration and Timestep,NA

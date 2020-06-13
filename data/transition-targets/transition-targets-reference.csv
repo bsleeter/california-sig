@@ -1,31 +1,13 @@
 Iteration,Timestep,StratumID,SecondaryStratumID,TertiaryStratumID,TransitionGroupID,Amount,DistributionType,DistributionFrequencyID,DistributionSD,DistributionMin,DistributionMax
-,2002,,,,Urbanization: Open [Type],,Urbanization: Open,,,,
-,2002,,,,Urbanization: Low [Type],,Urbanization: Low,,,,
-,2002,,,,Urbanization: Medium [Type],,Urbanization: Medium,,,,
-,2002,,,,Urbanization: High [Type],,Urbanization: High,,,,
-,2002,,,,Intensification: Open to Low [Type],,Intensification: Open to Low,,,,
-,2002,,,,Intensification: Open to Medium [Type],,Intensification: Open to Medium,,,,
-,2002,,,,Intensification: Open to High [Type],,Intensification: Open to High,,,,
-,2002,,,,Intensification: Low to Medium [Type],,Intensification: Low to Medium,,,,
-,2002,,,,Intensification: Low to High [Type],,Intensification: Low to High,,,,
-,2002,,,,Intensification: Medium to High [Type],,Intensification: Medium to High,,,,
-,2015,,,,Fire: High Severity [Type],,Fire: High Severity,,,,
-,2015,,,,Fire: Medium Severity [Type],,Fire: Medium Severity,,,,
-,2015,,,,Fire: Low Severity [Type],,Fire: Low Severity,,,,
-,2015,,,,Insect: High Severity [Type],,Insect: High Severity,,,,
-,2015,,,,Insect: Medium Severity [Type],,Insect: Medium Severity,,,,
-,2015,,,,Insect: Low Severity [Type],,Insect: Low Severity,,,,
-,2015,,,,Management: Forest Clearcut [Type],,Management: Forest Clearcut,,,,
-,2015,,,,Management: Forest Selection [Type],,Management: Forest Selection,,,,
-,2002,,,,Ag Expansion: Pasture [Type],,Ag Expansion: Pasture,,,,
-,2002,,,,Ag Expansion: Cropland [Type],,Ag Expansion: Cropland,,,,
-,2002,,,,Ag Expansion: Orchard [Type],0,,,,,
-,2002,,,,Ag Expansion: Vineyard [Type],0,,,,,
-,2002,,,,Ag Contraction: Pasture,,Ag Contraction: Pasture,,,,
-,2002,,,,Ag Contraction: Cropland,,Ag Contraction: Cropland,,,,
-,2002,,,,Succession: Post Fire Recovery [Type],0,,,,,
-,2002,,,,Ag Change: Cropland to Pasture [Type],,Ag Change: Cropland to Pasture,,,,
-,2002,,,,Ag Change: Pasture to Cropland [Type],,Ag Change: Pasture to Cropland,,,,
-,2002,,,,Management: Forest Selection 20% [Type],0,,,,,
-,2002,,,,Management: Forest Selection 85% [Type],0,,,,,
-,2002,,,,Management: Salvage Logging [Type],0,,,,,
+NA,2002,NA,NA,NA,Intensification: Open to Low [Type],NA,Intensification: Open to Low,NA,NA,NA,NA
+NA,2002,NA,NA,NA,Intensification: Open to Medium [Type],NA,Intensification: Open to Medium,NA,NA,NA,NA
+NA,2002,NA,NA,NA,Intensification: Open to High [Type],NA,Intensification: Open to High,NA,NA,NA,NA
+NA,2002,NA,NA,NA,Intensification: Low to Medium [Type],NA,Intensification: Low to Medium,NA,NA,NA,NA
+NA,2002,NA,NA,NA,Intensification: Low to High [Type],NA,Intensification: Low to High,NA,NA,NA,NA
+NA,2002,NA,NA,NA,Intensification: Medium to High [Type],NA,Intensification: Medium to High,NA,NA,NA,NA
+NA,2002,NA,NA,NA,Ag Change: Cropland to Pasture [Type],NA,Ag Change: Cropland to Pasture,NA,NA,NA,NA
+NA,2002,NA,NA,NA,Ag Change: Pasture to Cropland [Type],NA,Ag Change: Pasture to Cropland,NA,NA,NA,NA
+NA,2002,NA,NA,NA,Ag Expansion,NA,Ag Expansion,NA,NA,NA,NA
+NA,2002,NA,NA,NA,Ag Contraction,NA,Ag Contraction,NA,NA,NA,NA
+NA,2002,NA,NA,NA,Urbanization,NA,Urbanization,NA,NA,NA,NA
+NA,2017,NA,NA,NA,Harvest,NA,Harvest: Historical Mean,NA,NA,NA,NA

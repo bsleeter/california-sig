@@ -1,0 +1,117 @@
+SecondaryStratumID,DistributionTypeID,ExternalVariableTypeID,ExternalVariableMin,ExternalVariableMax,Value
+Alameda,Harvest: Forest Clearcut,Forest Harvest,1999,2016,0
+Alameda,Harvest: Forest Selection,Forest Harvest,1999,2016,0
+Alpine,Harvest: Forest Clearcut,Forest Harvest,1999,2016,0.36363636363636365
+Alpine,Harvest: Forest Selection,Forest Harvest,1999,2016,0.6363636363636364
+Amador,Harvest: Forest Clearcut,Forest Harvest,1999,2016,0.5066666666666667
+Amador,Harvest: Forest Selection,Forest Harvest,1999,2016,0.49333333333333335
+Butte,Harvest: Forest Clearcut,Forest Harvest,1999,2016,0.7515527950310559
+Butte,Harvest: Forest Selection,Forest Harvest,1999,2016,0.24844720496894412
+Calaveras,Harvest: Forest Clearcut,Forest Harvest,1999,2016,0.46153846153846156
+Calaveras,Harvest: Forest Selection,Forest Harvest,1999,2016,0.5384615384615384
+Colusa,Harvest: Forest Clearcut,Forest Harvest,1999,2016,0.888888888888889
+Colusa,Harvest: Forest Selection,Forest Harvest,1999,2016,0.11111111111111112
+Contra Costa,Harvest: Forest Clearcut,Forest Harvest,1999,2016,1
+Contra Costa,Harvest: Forest Selection,Forest Harvest,1999,2016,0
+Del Norte,Harvest: Forest Clearcut,Forest Harvest,1999,2016,0.8196721311475409
+Del Norte,Harvest: Forest Selection,Forest Harvest,1999,2016,0.18032786885245902
+El Dorado,Harvest: Forest Clearcut,Forest Harvest,1999,2016,0.34108527131782945
+El Dorado,Harvest: Forest Selection,Forest Harvest,1999,2016,0.6589147286821706
+Fresno,Harvest: Forest Clearcut,Forest Harvest,1999,2016,0.12890625
+Fresno,Harvest: Forest Selection,Forest Harvest,1999,2016,0.87109375
+Glenn,Harvest: Forest Clearcut,Forest Harvest,1999,2016,0.4615384615384615
+Glenn,Harvest: Forest Selection,Forest Harvest,1999,2016,0.5384615384615383
+Humboldt,Harvest: Forest Clearcut,Forest Harvest,1999,2016,0.5740025740025739
+Humboldt,Harvest: Forest Selection,Forest Harvest,1999,2016,0.42599742599742596
+Imperial,Harvest: Forest Clearcut,Forest Harvest,1999,2016,1
+Imperial,Harvest: Forest Selection,Forest Harvest,1999,2016,0
+Inyo,Harvest: Forest Clearcut,Forest Harvest,1999,2016,0
+Inyo,Harvest: Forest Selection,Forest Harvest,1999,2016,0
+Kern,Harvest: Forest Clearcut,Forest Harvest,1999,2016,0.234375
+Kern,Harvest: Forest Selection,Forest Harvest,1999,2016,0.765625
+Kings,Harvest: Forest Clearcut,Forest Harvest,1999,2016,1
+Kings,Harvest: Forest Selection,Forest Harvest,1999,2016,0
+Lake,Harvest: Forest Clearcut,Forest Harvest,1999,2016,0.6060606060606061
+Lake,Harvest: Forest Selection,Forest Harvest,1999,2016,0.393939393939394
+Lassen,Harvest: Forest Clearcut,Forest Harvest,1999,2016,0.28214731585518105
+Lassen,Harvest: Forest Selection,Forest Harvest,1999,2016,0.717852684144819
+Los Angeles,Harvest: Forest Clearcut,Forest Harvest,1999,2016,0.35416666666666663
+Los Angeles,Harvest: Forest Selection,Forest Harvest,1999,2016,0.6458333333333333
+Madera,Harvest: Forest Clearcut,Forest Harvest,1999,2016,0.18750000000000003
+Madera,Harvest: Forest Selection,Forest Harvest,1999,2016,0.8125000000000001
+Marin,Harvest: Forest Clearcut,Forest Harvest,1999,2016,0
+Marin,Harvest: Forest Selection,Forest Harvest,1999,2016,1
+Mariposa,Harvest: Forest Clearcut,Forest Harvest,1999,2016,0.3023255813953489
+Mariposa,Harvest: Forest Selection,Forest Harvest,1999,2016,0.6976744186046512
+Mendocino,Harvest: Forest Clearcut,Forest Harvest,1999,2016,0.29645093945720247
+Mendocino,Harvest: Forest Selection,Forest Harvest,1999,2016,0.7035490605427974
+Merced,Harvest: Forest Clearcut,Forest Harvest,1999,2016,0
+Merced,Harvest: Forest Selection,Forest Harvest,1999,2016,0
+Modoc,Harvest: Forest Clearcut,Forest Harvest,1999,2016,0.3833865814696486
+Modoc,Harvest: Forest Selection,Forest Harvest,1999,2016,0.6166134185303515
+Mono,Harvest: Forest Clearcut,Forest Harvest,1999,2016,0.08045977011494251
+Mono,Harvest: Forest Selection,Forest Harvest,1999,2016,0.9195402298850575
+Monterey,Harvest: Forest Clearcut,Forest Harvest,1999,2016,1
+Monterey,Harvest: Forest Selection,Forest Harvest,1999,2016,0
+Napa,Harvest: Forest Clearcut,Forest Harvest,1999,2016,0.9285714285714286
+Napa,Harvest: Forest Selection,Forest Harvest,1999,2016,0.07142857142857142
+Nevada,Harvest: Forest Clearcut,Forest Harvest,1999,2016,0.2323943661971831
+Nevada,Harvest: Forest Selection,Forest Harvest,1999,2016,0.7676056338028169
+Orange,Harvest: Forest Clearcut,Forest Harvest,1999,2016,1
+Orange,Harvest: Forest Selection,Forest Harvest,1999,2016,0
+Placer,Harvest: Forest Clearcut,Forest Harvest,1999,2016,0.23645320197044337
+Placer,Harvest: Forest Selection,Forest Harvest,1999,2016,0.7635467980295566
+Plumas,Harvest: Forest Clearcut,Forest Harvest,1999,2016,0.2768079800498753
+Plumas,Harvest: Forest Selection,Forest Harvest,1999,2016,0.7231920199501246
+Riverside,Harvest: Forest Clearcut,Forest Harvest,1999,2016,0.6727272727272727
+Riverside,Harvest: Forest Selection,Forest Harvest,1999,2016,0.32727272727272727
+Sacramento,Harvest: Forest Clearcut,Forest Harvest,1999,2016,0
+Sacramento,Harvest: Forest Selection,Forest Harvest,1999,2016,0
+San Benito,Harvest: Forest Clearcut,Forest Harvest,1999,2016,1
+San Benito,Harvest: Forest Selection,Forest Harvest,1999,2016,0
+San Bernardino,Harvest: Forest Clearcut,Forest Harvest,1999,2016,0.5645161290322581
+San Bernardino,Harvest: Forest Selection,Forest Harvest,1999,2016,0.43548387096774194
+San Diego,Harvest: Forest Clearcut,Forest Harvest,1999,2016,0.9387755102040816
+San Diego,Harvest: Forest Selection,Forest Harvest,1999,2016,0.06122448979591837
+San Francisco,Harvest: Forest Clearcut,Forest Harvest,1999,2016,0
+San Francisco,Harvest: Forest Selection,Forest Harvest,1999,2016,0
+San Joaquin,Harvest: Forest Clearcut,Forest Harvest,1999,2016,0
+San Joaquin,Harvest: Forest Selection,Forest Harvest,1999,2016,0
+San Luis Obispo,Harvest: Forest Clearcut,Forest Harvest,1999,2016,1
+San Luis Obispo,Harvest: Forest Selection,Forest Harvest,1999,2016,0
+San Mateo,Harvest: Forest Clearcut,Forest Harvest,1999,2016,0.09523809523809523
+San Mateo,Harvest: Forest Selection,Forest Harvest,1999,2016,0.9047619047619048
+Santa Barbara,Harvest: Forest Clearcut,Forest Harvest,1999,2016,1
+Santa Barbara,Harvest: Forest Selection,Forest Harvest,1999,2016,0
+Santa Clara,Harvest: Forest Clearcut,Forest Harvest,1999,2016,0.21428571428571427
+Santa Clara,Harvest: Forest Selection,Forest Harvest,1999,2016,0.7857142857142857
+Santa Cruz,Harvest: Forest Clearcut,Forest Harvest,1999,2016,0.03278688524590164
+Santa Cruz,Harvest: Forest Selection,Forest Harvest,1999,2016,0.9672131147540984
+Shasta,Harvest: Forest Clearcut,Forest Harvest,1999,2016,0.4684684684684685
+Shasta,Harvest: Forest Selection,Forest Harvest,1999,2016,0.5315315315315315
+Sierra Valley,Harvest: Forest Clearcut,Forest Harvest,1999,2016,0.27860696517412936
+Sierra Valley,Harvest: Forest Selection,Forest Harvest,1999,2016,0.7213930348258707
+Siskiyou,Harvest: Forest Clearcut,Forest Harvest,1999,2016,0.29222520107238603
+Siskiyou,Harvest: Forest Selection,Forest Harvest,1999,2016,0.7077747989276139
+Solano,Harvest: Forest Clearcut,Forest Harvest,1999,2016,1
+Solano,Harvest: Forest Selection,Forest Harvest,1999,2016,0
+Sonoma,Harvest: Forest Clearcut,Forest Harvest,1999,2016,0.3103448275862069
+Sonoma,Harvest: Forest Selection,Forest Harvest,1999,2016,0.6896551724137931
+Stanislaus,Harvest: Forest Clearcut,Forest Harvest,1999,2016,1
+Stanislaus,Harvest: Forest Selection,Forest Harvest,1999,2016,0
+Sutter,Harvest: Forest Clearcut,Forest Harvest,1999,2016,0
+Sutter,Harvest: Forest Selection,Forest Harvest,1999,2016,0
+Tehama,Harvest: Forest Clearcut,Forest Harvest,1999,2016,0.5263157894736842
+Tehama,Harvest: Forest Selection,Forest Harvest,1999,2016,0.47368421052631576
+Trinity,Harvest: Forest Clearcut,Forest Harvest,1999,2016,0.6611570247933884
+Trinity,Harvest: Forest Selection,Forest Harvest,1999,2016,0.3388429752066116
+Tulare,Harvest: Forest Clearcut,Forest Harvest,1999,2016,0.26618705035971224
+Tulare,Harvest: Forest Selection,Forest Harvest,1999,2016,0.7338129496402878
+Tuolumne,Harvest: Forest Clearcut,Forest Harvest,1999,2016,0.2346938775510204
+Tuolumne,Harvest: Forest Selection,Forest Harvest,1999,2016,0.7653061224489797
+Ventura,Harvest: Forest Clearcut,Forest Harvest,1999,2016,0.5
+Ventura,Harvest: Forest Selection,Forest Harvest,1999,2016,0.5
+Yolo,Harvest: Forest Clearcut,Forest Harvest,1999,2016,1
+Yolo,Harvest: Forest Selection,Forest Harvest,1999,2016,0
+Yuba,Harvest: Forest Clearcut,Forest Harvest,1999,2016,0.5147058823529411
+Yuba,Harvest: Forest Selection,Forest Harvest,1999,2016,0.48529411764705876

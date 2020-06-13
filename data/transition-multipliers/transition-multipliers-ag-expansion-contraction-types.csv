@@ -1,0 +1,5 @@
+TransitionGroupID,Amount,DistributionType,DistributionFrequencyID,DistributionSD
+Ag Contraction: Pasture,0.2956204379562044,Normal,Iteration and Timestep,0.20069674576448937
+Ag Contraction: Cropland,0.7043795620437957,Normal,Iteration and Timestep,0.4889557593098891
+Ag Expansion: Pasture [Type],0.0437375745526839,Normal,Iteration and Timestep,0.005964214711729622
+Ag Expansion: Cropland [Type],0.9562624254473161,Normal,Iteration and Timestep,0.3460672450428245

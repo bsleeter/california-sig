@@ -1,0 +1,14 @@
+StratumID,DistributionTypeID,ExternalVariableTypeID,ExternalVariableMin,ExternalVariableMax,Value,ValueDistributionTypeID,ValueDistributionFrequency,ValueDistributionSD
+Cascades,Insect: Historical Mean,Insect,1998,2016,0.0469974804031355,Normal,Iteration and Timestep,0.04666086842107601
+Central Basin and Range,Insect: Historical Mean,Insect,1998,2016,0.005102139794750421,Normal,Iteration and Timestep,0.015299100460010772
+Central California Foothills and Coastal Mountains,Insect: Historical Mean,Insect,1998,2016,0.0022991372201999075,Normal,Iteration and Timestep,0.004310014905582504
+Central California Valley,Insect: Historical Mean,Insect,1998,2016,1.9680261353870777e-5,Normal,Iteration and Timestep,6.250278662860265e-5
+Coast Range,Insect: Historical Mean,Insect,1998,2016,0.010353259231835518,Normal,Iteration and Timestep,0.013442387055277075
+Eastern Cascades Slopes and Foothills,Insect: Historical Mean,Insect,1998,2016,0.027020818682037127,Normal,Iteration and Timestep,0.03638081635717834
+Klamath Mountains/California High North Coast Range,Insect: Historical Mean,Insect,1998,2016,0.014847031331169096,Normal,Iteration and Timestep,0.015838691934585834
+Mojave Basin and Range,Insect: Historical Mean,Insect,1998,2016,2.0541796436916143e-4,Normal,Iteration and Timestep,8.477304000983631e-4
+Northern Basin and Range,Insect: Historical Mean,Insect,1998,2016,2.484965955966403e-4,Normal,Iteration and Timestep,7.387715821660984e-4
+Sierra Nevada,Insect: Historical Mean,Insect,1998,2016,0.039274476744810403,Normal,Iteration and Timestep,0.05286039428124591
+Sonoran Basin and Range,Insect: Historical Mean,Insect,1998,2016,5.411900053438258e-4,Normal,Iteration and Timestep,0.0020805651834617843
+Southern California Mountains,Insect: Historical Mean,Insect,1998,2016,0.01688773274536944,Normal,Iteration and Timestep,0.03468629300217094
+Southern California/Northern Baja Coast,Insect: Historical Mean,Insect,1998,2016,6.94388127483578e-4,Normal,Iteration and Timestep,0.0013033736616149829

@@ -17,6 +17,7 @@ library(raster)
 library(sf)
 library(tidyverse)
 library(foreign)
+library(landscapemetrics)
 
 
 # Read in California Counties raster
@@ -44,13 +45,20 @@ rat = read.dbf(paste0(dirs[1], "/", dbf)[2]) %>% as_tibble()
 dist_type = unique(rat$Dist_Type)
 
 
+# Read in State Class Map
+sc = raster("data/initial-conditions/ic-state-class.tif")
 
-
+# Calculate the natural vegetation area for each ecoregion
+scVeg = reclassify(sc, c(0,32,0, 33,79,1, 80,99,0, 100,999,1))
+scVeg_zonal = data.frame(zonal(scVeg, ecoregions, sum)) %>%
+  rename("ID"="zone", "Area"="value") %>%
+  mutate(Area = Area*100)
 
 
 # Define Fire Types to be included and create raster stack----------------------------------------
 
 # Fire types
+fire_types_all = rat %>% filter(Dist_Type %in% c("Wildfire", "Wildland Fire Use", "Wildland Fire", "Prescribed Fire"), Severity %in% c("High", "Medium", "Low"))
 fire_types_high = rat %>% filter(Dist_Type %in% c("Wildfire", "Wildland Fire Use", "Wildland Fire", "Prescribed Fire"), Severity == "High")
 fire_types_med = rat %>% filter(Dist_Type %in% c("Wildfire", "Wildland Fire Use", "Wildland Fire", "Prescribed Fire"), Severity == "Medium")
 fire_types_low = rat %>% filter(Dist_Type %in% c("Wildfire", "Wildland Fire Use", "Wildland Fire", "Prescribed Fire"), Severity == "Low")
@@ -63,107 +71,240 @@ rstack = stack(files)
 
 
 
+# Average Fire Probability by Ecoregion (Base Fire Probability) ----------------------------------------------------------
 
-# High Severity Fire ----------------------------------------------
+# Create stack and reclassify rasters to include all fires
+rc = fire_types_all %>% dplyr::select(from=Value) %>% mutate(from=from-0.4, to=from+0.9, becomes=-1)
+fire_all = reclassify(rstack, rcl = rc)
+fire_all = reclassify(fire_all, c(-1.5,-0.5,1, 0,Inf,0))
 
-# Create stack and reclassify rasters to include high severity fire only
-outdir = "data/spatial-multipliers/fire-high-severity/"
-type = "fire-high-severity"
+
+# Ecoregion Mean 
+fire_eco_mean = as_tibble(zonal(fire_all, ecoregions, "sum")) %>%
+  pivot_longer(-zone, names_to = "Timestep", values_to = "Value") %>%
+  mutate(Value = Value*100) %>%
+  mutate(Timestep = as.numeric(str_remove(Timestep, pattern = "landfire.disturbance."))) %>%
+  mutate(TransitionGroupID = "Fire") %>%
+  rename("ID"="zone") %>%
+  left_join(ecoregion_df) %>%
+  left_join(scVeg_zonal) %>%
+  group_by(Name, TransitionGroupID) %>%
+  summarise(MeanBurnArea = mean(Value), SdBurnArea = sd(Value), Area = mean(Area)) %>%
+  mutate(Pct=MeanBurnArea/Area, PctSd=SdBurnArea/Area)
+
+# Create Distributions datasheet
+dist_fire_eco_mean = tibble(StratumID = fire_eco_mean$Name,
+                            DistributionTypeID = "Fire: Historical Mean",
+                            ExternalVariableTypeID = "Fire",
+                            ExternalVariableMin = 1999,
+                            ExternalVariableMax = 2016,
+                            Value = fire_eco_mean$Pct,
+                            ValueDistributionTypeID = "Normal",
+                            ValueDistributionFrequency = "Iteration and Timestep",
+                            ValueDistributionSD = fire_eco_mean$PctSd) %>%
+  write_csv("data/distributions/distribution-fire-ecoregion-historical-mean.csv")
+
+
+
+
+
+
+# Annual Fire Probability by Timestep (Annual Probability Multiplier) -----------------
+
+fire_temporal_total = as_tibble(zonal(fire_all, ecoregions, "sum")) %>%
+  pivot_longer(-zone, names_to = "Timestep", values_to = "Value") %>%
+  mutate(Value = Value*100) %>%
+  mutate(Timestep = as.numeric(str_remove(Timestep, pattern = "landfire.disturbance."))) %>%
+  mutate(TransitionGroupID = "Fire") %>%
+  rename("ID"="zone") %>%
+  left_join(ecoregion_df) %>%
+  left_join(scVeg_zonal) %>%
+  group_by(Timestep, Name, TransitionGroupID) %>%
+  summarise(TotalAnnualBurnArea=sum(Value), Area=sum(Area)) %>%
+  ungroup() %>%
+  mutate(MeanAnnualBurnArea = mean(TotalAnnualBurnArea)) %>%
+  mutate(RelativeMultiplier = TotalAnnualBurnArea/MeanAnnualBurnArea)
+
+dist_fire_temporal_total = tibble(StratumID = fire_temporal_total$Name,
+                                  DistributionTypeID = "Fire: Annual Variability",
+                                  ExternalVariableTypeID = "Fire",
+                                  ExternalVariableMin = fire_temporal_total$Timestep,
+                                  ExternalVariableMax = fire_temporal_total$Timestep,
+                                  Value = fire_temporal_total$RelativeMultiplier) %>%
+  write_csv("data/distributions/distribution-fire-historical-ecoregion-variability.csv")
+
+
+
+
+
+
+# Fire Severity Probability by Ecoregion (Fire Severity Multiplier) --------------------
+
+
+# High Severity
 rc = fire_types_high %>% dplyr::select(from=Value) %>% mutate(from=from-0.4, to=from+0.9, becomes=-1)
 fire_high = reclassify(rstack, rcl = rc)
 fire_high = reclassify(fire_high, c(-1.5,-0.5,1, 0,Inf,0))
 
-# Write out spatial multipliers
-writeRaster(fire_high, paste0(outdir, type, "-", seq(1999,2016), ".tif"), format="GTiff", bylayer=T, overwrite=T, options="COMPRESS=DEFLATE", datatype="INT1U")
-
-# Zonal summary by Ecoregion - Create historical distribution datasheet
-fire_high_zonal = as_tibble(zonal(fire_high, ecoregions, "sum")) %>%
+ecoregion_high_mean = as_tibble(zonal(fire_high, ecoregions, "sum")) %>%
   pivot_longer(-zone, names_to = "Timestep", values_to = "Value") %>%
   mutate(Value = Value*100) %>%
   mutate(Timestep = as.numeric(str_remove(Timestep, pattern = "landfire.disturbance."))) %>%
-  mutate(TransitionGroupID = "Fire: High Severity [Type]") %>%
+  mutate(TransitionGroupID = "Fire: High Severity") %>%
   rename("ID"="zone") %>%
-  left_join(ecoregion_df) %>%
-  mutate(DistributionTypeID = "Fire: High Severity",
-         ExternalVariableTypeID = "Fire",
-         ExternalVariableMin = Timestep,
-         ExternalVariableMax = Timestep,
-         Value = Value,
-         ValueDistributionTypeID = "Normal",
-         ValueDistributionFrequency = "Iteration and Timestep",
-         ValueDistributionSD = Value*0.5) %>%
-  dplyr::select(StratumID=Name, DistributionTypeID, ExternalVariableTypeID, ExternalVariableMin, ExternalVariableMax, Value, DistributionTypeID, ValueDistributionFrequency, ValueDistributionSD)
-write_csv(fire_high_zonal, "data/distributions/distribution-fire-high-severity.csv")
+  group_by(ID, TransitionGroupID) %>%
+  summarise(Mean = mean(Value)) %>%
+  left_join(ecoregion_df)
 
-
-
-
-
-
-# Medium Severity Fire ----------------------------------------------------
-
-# Create stack and reclassify rasters to include medium severity fire only
-outdir = "data/spatial-multipliers/fire-medium-severity/"
-type = "fire-medium-severity"
+# Medium Severity
 rc = fire_types_med %>% dplyr::select(from=Value) %>% mutate(from=from-0.4, to=from+0.9, becomes=-1)
 fire_med = reclassify(rstack, rcl = rc)
 fire_med = reclassify(fire_med, c(-1.5,-0.5,1, 0,Inf,0))
 
-# Write out spatial multipliers
-writeRaster(fire_med, paste0(outdir, type, "-", seq(1999,2016), ".tif"), format="GTiff", bylayer=T, overwrite=T, options="COMPRESS=DEFLATE", datatype="INT1U")
-
-# Zonal summary by Ecoregion - Create historical distribution datasheet
-fire_med_zonal = as_tibble(zonal(fire_med, ecoregions, "sum")) %>%
+ecoregion_med_mean = as_tibble(zonal(fire_med, ecoregions, "sum")) %>%
   pivot_longer(-zone, names_to = "Timestep", values_to = "Value") %>%
   mutate(Value = Value*100) %>%
   mutate(Timestep = as.numeric(str_remove(Timestep, pattern = "landfire.disturbance."))) %>%
-  mutate(TransitionGroupID = "Fire: Medium Severity [Type]") %>%
+  mutate(TransitionGroupID = "Fire: Medium Severity") %>%
   rename("ID"="zone") %>%
-  left_join(ecoregion_df) %>%
-  mutate(DistributionTypeID = "Fire: Medium Severity",
-         ExternalVariableTypeID = "Fire",
-         ExternalVariableMin = Timestep,
-         ExternalVariableMax = Timestep,
-         Value = Value,
-         ValueDistributionTypeID = "Normal",
-         ValueDistributionFrequency = "Iteration and Timestep",
-         ValueDistributionSD = Value*0.5) %>%
-  dplyr::select(StratumID=Name, DistributionTypeID, ExternalVariableTypeID, ExternalVariableMin, ExternalVariableMax, Value, DistributionTypeID, ValueDistributionFrequency, ValueDistributionSD)
-write_csv(fire_med_zonal, "data/distributions/distribution-fire-medium-severity.csv")
+  group_by(ID, TransitionGroupID) %>%
+  summarise(Mean = mean(Value)) %>%
+  left_join(ecoregion_df)
 
-
-
-
-
-
-
-# Low Severity Fire ----------------------------------------------------
-
-# Create stack and reclassify rasters to include low severity fire only
-outdir = "data/spatial-multipliers/fire-low-severity/"
-type = "fire-low-severity"
+# Low Severity
 rc = fire_types_low %>% dplyr::select(from=Value) %>% mutate(from=from-0.4, to=from+0.9, becomes=-1)
 fire_low = reclassify(rstack, rcl = rc)
 fire_low = reclassify(fire_low, c(-1.5,-0.5,1, 0,Inf,0))
 
-# Write out spatial multipliers
-writeRaster(fire_low, paste0(outdir, type, "-", seq(1999,2016), ".tif"), format="GTiff", bylayer=T, overwrite=T, options="COMPRESS=DEFLATE", datatype="INT1U")
-
-# Zonal summary by Ecoregion - Create historical distribution datasheet
-fire_low_zonal = as_tibble(zonal(fire_low, ecoregions, "sum")) %>%
+ecoregion_low_mean = as_tibble(zonal(fire_low, ecoregions, "sum")) %>%
   pivot_longer(-zone, names_to = "Timestep", values_to = "Value") %>%
   mutate(Value = Value*100) %>%
   mutate(Timestep = as.numeric(str_remove(Timestep, pattern = "landfire.disturbance."))) %>%
-  mutate(TransitionGroupID = "Fire: Low Severity [Type]") %>%
+  mutate(TransitionGroupID = "Fire: Low Severity") %>%
   rename("ID"="zone") %>%
-  left_join(ecoregion_df) %>%
-  mutate(DistributionTypeID = "Fire: Low Severity",
-         ExternalVariableTypeID = "Fire",
-         ExternalVariableMin = Timestep,
-         ExternalVariableMax = Timestep,
-         Value = Value,
-         ValueDistributionTypeID = "Normal",
-         ValueDistributionFrequency = "Iteration and Timestep",
-         ValueDistributionSD = Value*0.5) %>%
-  dplyr::select(StratumID=Name, DistributionTypeID, ExternalVariableTypeID, ExternalVariableMin, ExternalVariableMax, Value, DistributionTypeID, ValueDistributionFrequency, ValueDistributionSD)
-write_csv(fire_low_zonal, "data/distributions/distribution-fire-low-severity.csv")
+  group_by(ID, TransitionGroupID) %>%
+  summarise(Mean = mean(Value)) %>%
+  left_join(ecoregion_df)
+
+
+
+# Merge Severities together
+ecoregion_severity_mean = bind_rows(ecoregion_high_mean, ecoregion_med_mean, ecoregion_low_mean) %>%
+  group_by(Name) %>%
+  mutate(Total = sum(Mean)) %>%
+  mutate(Prob = Mean/Total) %>%
+  arrange(Name)
+
+dist_ecoregion_severity_mean = tibble(StratumID = ecoregion_severity_mean$Name,
+                                      DistributionTypeID = ecoregion_severity_mean$TransitionGroupID,
+                                      ExternalVariableTypeID = "Fire",
+                                      ExternalVariableMin = 1999,
+                                      ExternalVariableMax = 2016,
+                                      Value = ecoregion_severity_mean$Prob) %>%
+  write_csv("data/distributions/distribution-fire-historical-severity.csv")
+
+
+
+
+
+
+# Fire Size Distribution --------------------------------------------------
+
+# MTBS data downloaded from https://www.mtbs.gov/direct-download on 2020-06-10
+ca_bound = read_sf("I:/GIS-Vector/Boundary and Census/Tiger/tl_2009_us_state_conus.shp") %>%
+  filter(NAME == "California")
+
+# Define Size Class Bins
+size_classes = tibble(min = c(1,501,1001,1501,2001,2501,5001,10001,20001,30001,40001,50001,60001,70001,80001,90001,100001,200001),
+                      max = c(500,1000,1500,2000,2500,5000,10000,20000,30000,40000,50000,60000,70000,80000,90000,100000,200000,250000))
+
+mtbs_perim = read_sf("I:/GIS-Vector/MTBS/mtbs_perimeter_data/mtbs_perims_DD.shp")
+mtbs_perim = st_intersection(mtbs_perim, ca_bound)
+
+mtbs_perim1 = mtbs_perim %>% arrange(-Acres) %>%
+  mutate(Hectares = Acres * 0.404686) %>%
+  mutate(MinSize = if_else(Hectares>=1 & Hectares<500, 1, 0), MaxSize = if_else(Hectares>=1 & Hectares<500, 500, 0)) %>%
+  mutate(MinSize = if_else(Hectares>=500 & Hectares<1000, 500, 0), MaxSize = if_else(Hectares>=500 & Hectares<1000, 500, 0)) %>%
+  mutate(MinSize = if_else(Hectares>=1000 & Hectares<2000, 1000, 0), MaxSize = if_else(Hectares>=1000 & Hectares<2000, 500, 0)) %>%
+  mutate(MinSize = if_else(Hectares>=2000 & Hectares<5000, 2000, 0), MaxSize = if_else(Hectares>=2000 & Hectares<5000, 500, 0)) %>%
+  mutate(MinSize = if_else(Hectares>=5000 & Hectares<10000, 5000, 0), MaxSize = if_else(Hectares>=5000 & Hectares<10000, 500, 0)) %>%
+  mutate(MinSize = if_else(Hectares>=10000 & Hectares<20000, 10000, 0), MaxSize = if_else(Hectares>=10000 & Hectares<20000, 500, 0)) %>%
+  mutate(MinSize = if_else(Hectares>=20000 & Hectares<50000, 20000, 0), MaxSize = if_else(Hectares>=20000 & Hectares<50000, 500, 0)) %>%
+  mutate(MinSize = if_else(Hectares>=50000 & Hectares<100000, 50000, 0), MaxSize = if_else(Hectares>=50000 & Hectares<100000, 500, 0)) %>%
+  mutate(MinSize = if_else(Hectares>=100000 & Hectares<200000, 100000, 0), MaxSize = if_else(Hectares>=100000 & Hectares<200000, 500, 0)) %>%
+  mutate(MinSize = if_else(Hectares>=200000 & Hectares<500000, 200000, 0), MaxSize = if_else(Hectares>=200000 & Hectares<500000, 500, 0))
+
+mtbs_perim1 = mtbs_perim %>% 
+  as_tibble() %>%
+  dplyr::select(-geometry) %>%
+  arrange(-Acres) %>%
+  mutate(Hectares = Acres * 0.404686) %>%
+  mutate(MinSize = if_else(Hectares>=1 & Hectares<500, 1, 
+                           if_else(Hectares>=500 & Hectares<1000, 500, 
+                                   if_else(Hectares>=1000 & Hectares<2000, 1000, 
+                                           if_else(Hectares>=2000 & Hectares<5000, 2000, 
+                                                   if_else(Hectares>=5000 & Hectares<10000, 5000, 
+                                                           if_else(Hectares>=10000 & Hectares<20000, 10000, 
+                                                                   if_else(Hectares>=20000 & Hectares<50000, 20000, 
+                                                                           if_else(Hectares>=50000 & Hectares<100000, 50000, 
+                                                                                   if_else(Hectares>=100000 & Hectares<200000, 100000, 
+                                                                                           if_else(Hectares>=200000 & Hectares<500000, 200000, 0)))))))))), 
+         MaxSize = if_else(Hectares>=1 & Hectares<500, 500, 
+                           if_else(Hectares>=500 & Hectares<1000, 1000, 
+                                   if_else(Hectares>=1000 & Hectares<2000, 2000, 
+                                           if_else(Hectares>=2000 & Hectares<5000, 5000, 
+                                                   if_else(Hectares>=5000 & Hectares<10000, 10000, 
+                                                           if_else(Hectares>=10000 & Hectares<20000, 20000, 
+                                                                   if_else(Hectares>=20000 & Hectares<50000, 50000, 
+                                                                           if_else(Hectares>=50000 & Hectares<100000, 100000, 
+                                                                                   if_else(Hectares>=100000 & Hectares<200000, 200000, 
+                                                                                           if_else(Hectares>=200000 & Hectares<500000, 500000, 0)))))))))))
+
+
+
+mtbs_perim2 = mtbs_perim1 %>%
+  group_by(MinSize, MaxSize) %>%
+  summarise(n = n()) %>%
+  ungroup() %>%
+  mutate(freq = n / sum(n))
+
+
+
+
+
+
+
+df = lsm_p_area(fire_all, directions = 8) %>% filter(class == 1)
+
+df1 = df %>%
+  rename("Hectares" = "value") %>%
+  mutate(MinSize = if_else(Hectares>=1 & Hectares<500, 1, 
+                           if_else(Hectares>=500 & Hectares<1000, 500, 
+                                   if_else(Hectares>=1000 & Hectares<2000, 1000, 
+                                           if_else(Hectares>=2000 & Hectares<5000, 2000, 
+                                                   if_else(Hectares>=5000 & Hectares<10000, 5000, 
+                                                           if_else(Hectares>=10000 & Hectares<20000, 10000, 
+                                                                   if_else(Hectares>=20000 & Hectares<50000, 20000, 
+                                                                           if_else(Hectares>=50000 & Hectares<100000, 50000, 
+                                                                                   if_else(Hectares>=100000 & Hectares<200000, 100000, 
+                                                                                           if_else(Hectares>=200000 & Hectares<500000, 200000, 0)))))))))), 
+         MaxSize = if_else(Hectares>=1 & Hectares<500, 500, 
+                           if_else(Hectares>=500 & Hectares<1000, 1000, 
+                                   if_else(Hectares>=1000 & Hectares<2000, 2000, 
+                                           if_else(Hectares>=2000 & Hectares<5000, 5000, 
+                                                   if_else(Hectares>=5000 & Hectares<10000, 10000, 
+                                                           if_else(Hectares>=10000 & Hectares<20000, 20000, 
+                                                                   if_else(Hectares>=20000 & Hectares<50000, 50000, 
+                                                                           if_else(Hectares>=50000 & Hectares<100000, 100000, 
+                                                                                   if_else(Hectares>=100000 & Hectares<200000, 200000, 
+                                                                                           if_else(Hectares>=200000 & Hectares<500000, 500000, 0)))))))))))
+
+df2 = df1 %>%
+  group_by(maxsize) %>%
+  summarise(freq=sum(class)) %>%
+  mutate(pct = freq/sum(freq))
+  
+hist(df1$maxsize)
+
+
+

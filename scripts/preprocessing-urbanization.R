@@ -35,6 +35,8 @@ mergedData_Long = read_csv("docs/fmmp/fmmp-conversion-totals.csv")
 zonal_ssp = read_csv("docs/ssp/iclus-ssp-zonal-county-summary.csv")
 
 
+counties_noFmmp = c("Alpine", "Calaveras", "Del Norte", "Humboldt", "Inyo", "Lassen", "Mono", "Plumas", "San Francisco", "Trinity", "Tuolumne" )
+
 
 # Historical Urbanization -------------------------------------------------
 
@@ -46,6 +48,16 @@ urbanGain$FromYear = as.numeric(urbanGain$FromYear)
 urbanGain$ToYear = as.numeric(urbanGain$ToYear)
 
 # Create Urbanization Historical Distributions datasheet and write to disk
+nofmmp = tibble(SecondaryStratumID = counties_noFmmp,
+                              DistributionTypeID = "Urbanization",
+                              ExternalVariableTypeID = "Urbanization",
+                              ExternalVariableMin = 1992,
+                              ExternalVariableMax = 2016,
+                              Value = 0,
+                              ValueDistributionTypeID = NA,
+                              ValueDistributionFrequency = "Iteration and Timestep",
+                              ValueDistributionSD = NA)
+
 dist_urb_hist = tibble(SecondaryStratumID = urbanGain$County,
                        DistributionTypeID = "Urbanization",
                        ExternalVariableTypeID = "Urbanization",
@@ -55,16 +67,22 @@ dist_urb_hist = tibble(SecondaryStratumID = urbanGain$County,
                        ValueDistributionTypeID = "Normal",
                        ValueDistributionFrequency = "Iteration and Timestep",
                        ValueDistributionSD = urbanGain$Hectares*0.5)
-dist_urb_hist = dist_urb_hist %>% arrange(SecondaryStratumID, ExternalVariableMin)
+dist_urb_hist = dist_urb_hist %>% arrange(SecondaryStratumID, ExternalVariableMin) %>%
+  mutate(Value = if_else(is.na(Value), 0, Value)) %>%
+  mutate(ValueDistributionTypeID = ifelse(Value==0, NA, "Normal")) %>%
+  mutate(ValueDistributionSD = ifelse(Value==0, NA, ValueDistributionSD)) %>%
+  mutate(ValueDistributionSD = ifelse(ValueDistributionSD==0, 1, ValueDistributionSD)) %>%
+  bind_rows(nofmmp)
+
 write_csv(dist_urb_hist, "data/distributions/distribution-urbanization.csv")
+
+
 
 # Create mean historical urbanization for each county
 urbanGainMean = urbanGain %>%
   group_by(County) %>%
   summarise(Mean=mean(Hectares, na.rm=T), Sd=sd(Hectares, na.rm=T), Min=min(Hectares, na.rm=T), Max=max(Hectares, na.rm=T))
 urbanGainMean  
-
-
 
 
 

@@ -164,7 +164,11 @@ dist_pastcrop_hist = tibble(SecondaryStratumID = pastcrop_hist_mean$Name,
                        ValueDistributionTypeID = "Normal",
                        ValueDistributionFrequency = "Iteration and Timestep",
                        ValueDistributionSD = pastcrop_hist_mean$sd)
-dist_pastcrop_hist = dist_pastcrop_hist %>% arrange(SecondaryStratumID, ExternalVariableMin)
+dist_pastcrop_hist = dist_pastcrop_hist %>% 
+  mutate(Value = if_else(is.na(Value), 0, Value)) %>%
+  mutate(ValueDistributionTypeID = ifelse(Value==0, NA, "Normal")) %>%
+  mutate(ValueDistributionSD = ifelse(Value==0, NA, ValueDistributionSD)) %>%
+  mutate(ValueDistributionSD = ifelse(ValueDistributionSD==0, 1, ValueDistributionSD))
 write_csv(dist_pastcrop_hist, "data/distributions/distribution-ag-change-pasture-cropland.csv")
 
 
@@ -187,5 +191,9 @@ dist_croppast_hist = tibble(SecondaryStratumID = croppast_hist_mean$Name,
                             ValueDistributionTypeID = "Normal",
                             ValueDistributionFrequency = "Iteration and Timestep",
                             ValueDistributionSD = croppast_hist_mean$sd)
-dist_croppast_hist = dist_croppast_hist %>% arrange(SecondaryStratumID, ExternalVariableMin)
+dist_croppast_hist = dist_croppast_hist %>% 
+  mutate(Value = if_else(is.na(Value), 0, Value)) %>%
+  mutate(ValueDistributionTypeID = ifelse(Value==0, NA, "Normal")) %>%
+  mutate(ValueDistributionSD = ifelse(Value==0, NA, ValueDistributionSD)) %>%
+  mutate(ValueDistributionSD = ifelse(ValueDistributionSD==0, 1, ValueDistributionSD))
 write_csv(dist_croppast_hist, "data/distributions/distribution-ag-change-cropland-pasture.csv")
