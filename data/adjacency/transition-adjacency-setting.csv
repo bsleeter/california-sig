@@ -44,22 +44,9 @@ Ag Contraction: Pasture to Forest: Western Oak Group [Type],Forest: Western Oak 
 Ag Contraction: Pasture to Forest: Western White Pine Group [Type],Forest: Western White Pine Group,1500,5
 Ag Contraction: Pasture to Forest: White/Red/Jack Pine Group [Type],Forest: White/Red/Jack Pine Group,1500,5
 Ag Contraction: Pasture to Grassland: All [Type],Grassland: All,1500,5
-Ag Contraction: Pasture to Shrubland: Big Sagebrush [Type],Shrubland: Big Sagebrush,1500,5
-Ag Contraction: Pasture to Shrubland: Blackbrush [Type],Shrubland: Blackbrush,1500,5
 Ag Contraction: Pasture to Shrubland: Chaparral [Type],Shrubland: Chaparral,1500,5
-Ag Contraction: Pasture to Shrubland: Creosotebush [Type],Shrubland: Creosotebush,1500,5
-Ag Contraction: Pasture to Shrubland: Deciduous Shrub [Type],Shrubland: Deciduous Shrub,1500,5
 Ag Contraction: Pasture to Shrubland: Desert Scrub [Type],Shrubland: Desert Scrub,1500,5
-Ag Contraction: Pasture to Shrubland: Grassland and Steppe [Type],Shrubland: Grassland and Steppe,1500,5
-Ag Contraction: Pasture to Shrubland: Greasewood [Type],Shrubland: Greasewood,1500,5
-Ag Contraction: Pasture to Shrubland: Low Sagebrush [Type],Shrubland: Low Sagebrush,1500,5
-Ag Contraction: Pasture to Shrubland: Mesquite [Type],Shrubland: Mesquite,1500,5
 Ag Contraction: Pasture to Shrubland: Pacific Coastal Shrub [Type],Shrubland: Pacific Coastal Shrub,1500,5
-Ag Contraction: Pasture to Shrubland: Pinyon Juniper Shrubland [Type],Shrubland: Pinyon Juniper Shrubland,1500,5
-Ag Contraction: Pasture to Shrubland: Pocosin [Type],Shrubland: Pocosin,1500,5
-Ag Contraction: Pasture to Shrubland: Salt Desert Scrub [Type],Shrubland: Salt Desert Scrub,1500,5
-Ag Contraction: Pasture to Shrubland: Sand Shrubland [Type],Shrubland: Sand Shrubland,1500,5
-Ag Contraction: Pasture to Shrubland: Succulent [Type],Shrubland: Succulent,1500,5
 Ag Contraction: Pasture to Wetland: Herbaceous [Type],Wetland: Herbaceous,1500,5
 Ag Contraction: Pasture to Wetland: Woody [Type],Wetland: Woody,1500,5
 Ag Contraction: Cropland to Forest: Alder/Maple Group [Type],Forest: Alder/Maple Group,1500,5
@@ -91,21 +78,8 @@ Ag Contraction: Cropland to Forest: Western Oak Group [Type],Forest: Western Oak
 Ag Contraction: Cropland to Forest: Western White Pine Group [Type],Forest: Western White Pine Group,1500,5
 Ag Contraction: Cropland to Forest: White/Red/Jack Pine Group [Type],Forest: White/Red/Jack Pine Group,1500,5
 Ag Contraction: Cropland to Grassland: All [Type],Grassland: All,1500,5
-Ag Contraction: Cropland to Shrubland: Big Sagebrush [Type],Shrubland: Big Sagebrush,1500,5
-Ag Contraction: Cropland to Shrubland: Blackbrush [Type],Shrubland: Blackbrush,1500,5
 Ag Contraction: Cropland to Shrubland: Chaparral [Type],Shrubland: Chaparral,1500,5
-Ag Contraction: Cropland to Shrubland: Creosotebush [Type],Shrubland: Creosotebush,1500,5
-Ag Contraction: Cropland to Shrubland: Deciduous Shrub [Type],Shrubland: Deciduous Shrub,1500,5
 Ag Contraction: Cropland to Shrubland: Desert Scrub [Type],Shrubland: Desert Scrub,1500,5
-Ag Contraction: Cropland to Shrubland: Grassland and Steppe [Type],Shrubland: Grassland and Steppe,1500,5
-Ag Contraction: Cropland to Shrubland: Greasewood [Type],Shrubland: Greasewood,1500,5
-Ag Contraction: Cropland to Shrubland: Low Sagebrush [Type],Shrubland: Low Sagebrush,1500,5
-Ag Contraction: Cropland to Shrubland: Mesquite [Type],Shrubland: Mesquite,1500,5
 Ag Contraction: Cropland to Shrubland: Pacific Coastal Shrub [Type],Shrubland: Pacific Coastal Shrub,1500,5
-Ag Contraction: Cropland to Shrubland: Pinyon Juniper Shrubland [Type],Shrubland: Pinyon Juniper Shrubland,1500,5
-Ag Contraction: Cropland to Shrubland: Pocosin [Type],Shrubland: Pocosin,1500,5
-Ag Contraction: Cropland to Shrubland: Salt Desert Scrub [Type],Shrubland: Salt Desert Scrub,1500,5
-Ag Contraction: Cropland to Shrubland: Sand Shrubland [Type],Shrubland: Sand Shrubland,1500,5
-Ag Contraction: Cropland to Shrubland: Succulent [Type],Shrubland: Succulent,1500,5
 Ag Contraction: Cropland to Wetland: Herbaceous [Type],Wetland: Herbaceous,1500,5
 Ag Contraction: Cropland to Wetland: Woody [Type],Wetland: Woody,1500,5

@@ -1,59 +1,46 @@
-Name,Description
-Alder/Maple Group,
-All,
-Aspen/Birch Group,
-Big Sagebrush,
-Blackbrush,
-California Mixed Conifer Group,
-Chaparral,
-Creosotebush,
-Cropland,
-Deciduous Shrub,
-Desert Scrub,
-Douglas-fir Group,
-Elm/Ash/Cottonwood Group,
-Exotic Hardwoods Group,
-Exotic Softwoods Group,
-Fir/Spruce/Mountain Hemlock Group,
-Grassland and Steppe,
-Greasewood,
-Hemlock/Sitka Spruce Group,
-Herbaceous,
-High Intensity,
-Loblolly/Shortleaf Pine Group,
-Lodgepole Pine Group,
-Longleaf/Slash Pine Group,
-Low Intensity,
-Low Sagebrush,
-Maple/Beech/Birch Group,
-Medium Intensity,
-Mesquite,
-Oak/Gum/Cypress Group,
-Oak/Hickory Group,
-Oak/Pine Group,
-Open Space,
-Orchard,
-Other Western Hardwoods Group,
-Other Western Softwood Group,
-Pacific Coastal Shrub,
-Pasture,
-Pinyon Juniper Shrubland,
-Pinyon/Juniper Group,
-Pocosin,
-Ponderosa Pine Group,
-Post Fire Grass,
-Post Fire Shrub,
-Redwood Group,
-Salt Desert Scrub,
-Sand Shrubland,
-Spruce/Fir Group,
-Succulent,
-Tanoak/Laurel Group,
-Transportation,
-Tropical Hardwoods Group,
-Vineyard,
-Western Larch Group,
-Western Oak Group,
-Western White Pine Group,
-White/Red/Jack Pine Group,
-Woody,
+Name
+All
+Open Space
+Low Intensity
+Medium Intensity
+High Intensity
+Transportation
+Desert Scrub
+Pacific Coastal Shrub
+Chaparral
+Pasture
+Cropland
+Orchard
+Vineyard
+Woody
+Herbaceous
+White/Red/Jack Pine Group
+Spruce/Fir Group
+Longleaf/Slash Pine Group
+Loblolly/Shortleaf Pine Group
+Pinyon/Juniper Group
+Douglas-fir Group
+Ponderosa Pine Group
+Western White Pine Group
+Fir/Spruce/Mountain Hemlock Group
+Lodgepole Pine Group
+Hemlock/Sitka Spruce Group
+Western Larch Group
+Redwood Group
+Other Western Softwood Group
+California Mixed Conifer Group
+Exotic Softwoods Group
+Oak/Pine Group
+Oak/Hickory Group
+Oak/Gum/Cypress Group
+Elm/Ash/Cottonwood Group
+Maple/Beech/Birch Group
+Aspen/Birch Group
+Alder/Maple Group
+Western Oak Group
+Tanoak/Laurel Group
+Other Western Hardwoods Group
+Tropical Hardwoods Group
+Exotic Hardwoods Group
+Post Fire Shrub
+Post Fire Grass

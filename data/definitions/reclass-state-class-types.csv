@@ -7,52 +7,43 @@
 "6","Developed: High Intensity","Developed","High Intensity",NA,24,NA,NA,NA,NA
 "7","Developed: Transportation","Developed","Transportation",NA,25,NA,NA,NA,NA
 "8","Barren: All","Barren","All",NA,31,NA,NA,NA,NA
-"9","Shrubland: Low Sagebrush","Shrubland","Low Sagebrush","Desert Scrub",50,51,NA,NA,NA
-"10","Shrubland: Desert Scrub","Shrubland","Desert Scrub",NA,51,NA,NA,NA,NA
-"11","Shrubland: Salt Desert Scrub","Shrubland","Salt Desert Scrub","Desert Scrub",52,51,NA,NA,NA
-"12","Shrubland: Creosotebush","Shrubland","Creosotebush","Desert Scrub",53,51,NA,NA,NA
-"13","Shrubland: Blackbrush","Shrubland","Blackbrush","Desert Scrub",55,51,NA,NA,NA
-"14","Shrubland: Big Sagebrush","Shrubland","Big Sagebrush","Desert Scrub",56,51,NA,NA,NA
-"15","Shrubland: Deciduous Shrub","Shrubland","Deciduous Shrub","Desert Scrub",57,51,NA,NA,NA
-"16","Shrubland: Pacific Coastal Shrub","Shrubland","Pacific Coastal Shrub",NA,58,NA,NA,NA,NA
-"17","Shrubland: Mesquite","Shrubland","Mesquite","Desert Scrub",60,51,NA,NA,NA
-"18","Shrubland: Chaparral","Shrubland","Chaparral",NA,61,NA,NA,NA,NA
-"19","Shrubland: Grassland and Steppe","Shrubland","Grassland and Steppe","Desert Scrub",62,51,NA,NA,NA
-"20","Shrubland: Greasewood","Shrubland","Greasewood","Desert Scrub",63,51,NA,NA,NA
-"21","Grassland: All","Grassland","All",NA,71,NA,NA,NA,NA
-"22","Agriculture: Pasture","Agriculture","Pasture",NA,81,NA,NA,NA,NA
-"23","Agriculture: Cropland","Agriculture","Cropland",NA,82,NA,NA,NA,NA
-"24","Agriculture: Orchard","Agriculture","Orchard",NA,83,NA,NA,NA,NA
-"25","Agriculture: Vineyard","Agriculture","Vineyard",NA,84,NA,NA,NA,NA
-"26","Wetland: Woody","Wetland","Woody",NA,90,NA,NA,NA,NA
-"27","Wetland: Herbaceous","Wetland","Herbaceous",NA,95,NA,NA,NA,NA
-"28","Forest: White/Red/Jack Pine Group","Forest","White/Red/Jack Pine Group",NA,100,NA,NA,NA,NA
-"29","Forest: Spruce/Fir Group","Forest","Spruce/Fir Group",NA,120,NA,NA,NA,NA
-"30","Forest: Longleaf/Slash Pine Group","Forest","Longleaf/Slash Pine Group",NA,140,NA,NA,NA,NA
-"31","Forest: Loblolly/Shortleaf Pine Group","Forest","Loblolly/Shortleaf Pine Group",NA,160,NA,NA,NA,NA
-"32","Forest: Pinyon/Juniper Group","Forest","Pinyon/Juniper Group",NA,180,NA,NA,NA,NA
-"33","Forest: Douglas-fir Group","Forest","Douglas-fir Group",NA,200,NA,NA,NA,NA
-"34","Forest: Ponderosa Pine Group","Forest","Ponderosa Pine Group",NA,220,NA,NA,NA,NA
-"35","Forest: Western White Pine Group","Forest","Western White Pine Group",NA,240,NA,NA,NA,NA
-"36","Forest: Fir/Spruce/Mountain Hemlock Group","Forest","Fir/Spruce/Mountain Hemlock Group",NA,260,NA,NA,NA,NA
-"37","Forest: Lodgepole Pine Group","Forest","Lodgepole Pine Group",NA,280,NA,NA,NA,NA
-"38","Forest: Hemlock/Sitka Spruce Group","Forest","Hemlock/Sitka Spruce Group",NA,300,NA,NA,NA,NA
-"39","Forest: Western Larch Group","Forest","Western Larch Group",NA,320,NA,NA,NA,NA
-"40","Forest: Redwood Group","Forest","Redwood Group",NA,340,NA,NA,NA,NA
-"41","Forest: Other Western Softwood Group","Forest","Other Western Softwood Group",NA,360,NA,NA,NA,NA
-"42","Forest: California Mixed Conifer Group","Forest","California Mixed Conifer Group",NA,370,NA,NA,NA,NA
-"43","Forest: Exotic Softwoods Group","Forest","Exotic Softwoods Group",NA,380,NA,NA,NA,NA
-"44","Forest: Oak/Pine Group","Forest","Oak/Pine Group",NA,400,NA,NA,NA,NA
-"45","Forest: Oak/Hickory Group","Forest","Oak/Hickory Group",NA,500,NA,NA,NA,NA
-"46","Forest: Oak/Gum/Cypress Group","Forest","Oak/Gum/Cypress Group",NA,600,NA,NA,NA,NA
-"47","Forest: Elm/Ash/Cottonwood Group","Forest","Elm/Ash/Cottonwood Group",NA,700,NA,NA,NA,NA
-"48","Forest: Maple/Beech/Birch Group","Forest","Maple/Beech/Birch Group",NA,800,NA,NA,NA,NA
-"49","Forest: Aspen/Birch Group","Forest","Aspen/Birch Group",NA,900,NA,NA,NA,NA
-"50","Forest: Alder/Maple Group","Forest","Alder/Maple Group",NA,910,NA,NA,NA,NA
-"51","Forest: Western Oak Group","Forest","Western Oak Group",NA,920,NA,NA,NA,NA
-"52","Forest: Tanoak/Laurel Group","Forest","Tanoak/Laurel Group",NA,940,NA,NA,NA,NA
-"53","Forest: Other Western Hardwoods Group","Forest","Other Western Hardwoods Group",NA,950,NA,NA,NA,NA
-"54","Forest: Tropical Hardwoods Group","Forest","Tropical Hardwoods Group",NA,980,NA,NA,NA,NA
-"55","Forest: Exotic Hardwoods Group","Forest","Exotic Hardwoods Group",NA,990,NA,NA,NA,NA
-"56","Shrubland: Post Fire Shrub","Shrubland","Post Fire Shrub",NA,1000,NA,NA,NA,NA
-"57","Grassland: Post Fire Grass","Grassland","Post Fire Grass",NA,1001,NA,NA,NA,NA
+"9","Shrubland: Desert Scrub","Shrubland","Desert Scrub",NA,51,NA,NA,NA,NA
+"10","Shrubland: Pacific Coastal Shrub","Shrubland","Pacific Coastal Shrub",NA,58,NA,NA,NA,NA
+"11","Shrubland: Chaparral","Shrubland","Chaparral",NA,61,NA,NA,NA,NA
+"12","Grassland: All","Grassland","All",NA,71,NA,NA,NA,NA
+"13","Agriculture: Pasture","Agriculture","Pasture",NA,81,NA,NA,NA,NA
+"14","Agriculture: Cropland","Agriculture","Cropland",NA,82,NA,NA,NA,NA
+"15","Agriculture: Orchard","Agriculture","Orchard",NA,83,NA,NA,NA,NA
+"16","Agriculture: Vineyard","Agriculture","Vineyard",NA,84,NA,NA,NA,NA
+"17","Wetland: Woody","Wetland","Woody",NA,90,NA,NA,NA,NA
+"18","Wetland: Herbaceous","Wetland","Herbaceous",NA,95,NA,NA,NA,NA
+"19","Forest: White/Red/Jack Pine Group","Forest","White/Red/Jack Pine Group",NA,100,NA,NA,NA,NA
+"20","Forest: Spruce/Fir Group","Forest","Spruce/Fir Group",NA,120,NA,NA,NA,NA
+"21","Forest: Longleaf/Slash Pine Group","Forest","Longleaf/Slash Pine Group",NA,140,NA,NA,NA,NA
+"22","Forest: Loblolly/Shortleaf Pine Group","Forest","Loblolly/Shortleaf Pine Group",NA,160,NA,NA,NA,NA
+"23","Forest: Pinyon/Juniper Group","Forest","Pinyon/Juniper Group",NA,180,NA,NA,NA,NA
+"24","Forest: Douglas-fir Group","Forest","Douglas-fir Group",NA,200,NA,NA,NA,NA
+"25","Forest: Ponderosa Pine Group","Forest","Ponderosa Pine Group",NA,220,NA,NA,NA,NA
+"26","Forest: Western White Pine Group","Forest","Western White Pine Group",NA,240,NA,NA,NA,NA
+"27","Forest: Fir/Spruce/Mountain Hemlock Group","Forest","Fir/Spruce/Mountain Hemlock Group",NA,260,NA,NA,NA,NA
+"28","Forest: Lodgepole Pine Group","Forest","Lodgepole Pine Group",NA,280,NA,NA,NA,NA
+"29","Forest: Hemlock/Sitka Spruce Group","Forest","Hemlock/Sitka Spruce Group",NA,300,NA,NA,NA,NA
+"30","Forest: Western Larch Group","Forest","Western Larch Group",NA,320,NA,NA,NA,NA
+"31","Forest: Redwood Group","Forest","Redwood Group",NA,340,NA,NA,NA,NA
+"32","Forest: Other Western Softwood Group","Forest","Other Western Softwood Group",NA,360,NA,NA,NA,NA
+"33","Forest: California Mixed Conifer Group","Forest","California Mixed Conifer Group",NA,370,NA,NA,NA,NA
+"34","Forest: Exotic Softwoods Group","Forest","Exotic Softwoods Group",NA,380,NA,NA,NA,NA
+"35","Forest: Oak/Pine Group","Forest","Oak/Pine Group",NA,400,NA,NA,NA,NA
+"36","Forest: Oak/Hickory Group","Forest","Oak/Hickory Group",NA,500,NA,NA,NA,NA
+"37","Forest: Oak/Gum/Cypress Group","Forest","Oak/Gum/Cypress Group",NA,600,NA,NA,NA,NA
+"38","Forest: Elm/Ash/Cottonwood Group","Forest","Elm/Ash/Cottonwood Group",NA,700,NA,NA,NA,NA
+"39","Forest: Maple/Beech/Birch Group","Forest","Maple/Beech/Birch Group",NA,800,NA,NA,NA,NA
+"40","Forest: Aspen/Birch Group","Forest","Aspen/Birch Group",NA,900,NA,NA,NA,NA
+"41","Forest: Alder/Maple Group","Forest","Alder/Maple Group",NA,910,NA,NA,NA,NA
+"42","Forest: Western Oak Group","Forest","Western Oak Group",NA,920,NA,NA,NA,NA
+"43","Forest: Tanoak/Laurel Group","Forest","Tanoak/Laurel Group",NA,940,NA,NA,NA,NA
+"44","Forest: Other Western Hardwoods Group","Forest","Other Western Hardwoods Group",NA,950,NA,NA,NA,NA
+"45","Forest: Tropical Hardwoods Group","Forest","Tropical Hardwoods Group",NA,980,NA,NA,NA,NA
+"46","Forest: Exotic Hardwoods Group","Forest","Exotic Hardwoods Group",NA,990,NA,NA,NA,NA
+"47","Grassland: Post Fire Grass","Grassland","Post Fire Grass",NA,1001,NA,NA,NA,NA
+"48","Shrubland: Post Fire Shrub","Shrubland","Post Fire Shrub",NA,1001,NA,NA,NA,NA

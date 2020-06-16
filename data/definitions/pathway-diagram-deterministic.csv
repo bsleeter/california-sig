@@ -39,23 +39,10 @@ Iteration,Timestep,StratumIDSource,StateClassIDSource,StratumIDDest,StateClassID
 ,,,Forest: White/Red/Jack Pine Group,,Forest: White/Red/Jack Pine Group,,,B1
 ,,,Grassland: All,,Grassland: All,,,D9
 ,,,Grassland: Post Fire Grass,,,,,G8
-,,,Shrubland: Big Sagebrush,,Shrubland: Big Sagebrush,,,I4
-,,,Shrubland: Blackbrush,,Shrubland: Blackbrush,,,J2
 ,,,Shrubland: Chaparral,,Shrubland: Chaparral,,,J5
-,,,Shrubland: Creosotebush,,Shrubland: Creosotebush,,,J1
-,,,Shrubland: Deciduous Shrub,,Shrubland: Deciduous Shrub,,,J3
 ,,,Shrubland: Desert Scrub,,Shrubland: Desert Scrub,,,I2
-,,,Shrubland: Grassland and Steppe,,Shrubland: Grassland and Steppe,,,J6
-,,,Shrubland: Greasewood,,Shrubland: Greasewood,,,J7
-,,,Shrubland: Low Sagebrush,,Shrubland: Low Sagebrush,,,I1
-,,,Shrubland: Mesquite,,Shrubland: Mesquite,,,I6
 ,,,Shrubland: Pacific Coastal Shrub,,Shrubland: Pacific Coastal Shrub,,,I5
-,,,Shrubland: Pinyon Juniper Shrubland,,Shrubland: Pinyon Juniper Shrubland,,,K2
-,,,Shrubland: Pocosin,,Shrubland: Pocosin,,,K1
 ,,,Shrubland: Post Fire Shrub,,,,,F8
-,,,Shrubland: Salt Desert Scrub,,Shrubland: Salt Desert Scrub,,,I7
-,,,Shrubland: Sand Shrubland,,Shrubland: Sand Shrubland,,,J4
-,,,Shrubland: Succulent,,Shrubland: Succulent,,,I3
 ,,,Snow/Ice: All,,Snow/Ice: All,,,B9
 ,,,Water: All,,Water: All,,,A9
 ,,,Wetland: Herbaceous,,Wetland: Herbaceous,,,F9

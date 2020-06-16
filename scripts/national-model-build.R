@@ -521,7 +521,7 @@ mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
 mySheet[1, "StratumFileName"] <- paste0(prefixDir, dataDir, "initial-conditions/ic-ecoregion.tif")
 mySheet[1, "SecondaryStratumFileName"] <- paste0(prefixDir, dataDir, "initial-conditions/ic-counties.tif")
 mySheet[1, "TertiaryStratumFileName"] <- paste0(prefixDir, dataDir, "initial-conditions/ic-land-managers.tif")
-mySheet[1, "StateClassFileName"] <- paste0(prefixDir, dataDir, "initial-conditions/ic-state-class.tif")
+mySheet[1, "StateClassFileName"] <- paste0(prefixDir, dataDir, "initial-conditions/ic-state-class-3shrub.tif")
 mySheet[1, "AgeFileName"] <- paste0(prefixDir, dataDir, "initial-conditions/ic-age.tif")
 saveDatasheet(myScenario, mySheet, sheetName)
 
@@ -857,7 +857,7 @@ myScenario <- scenario(myProject, scenario = "State Attributes [Adjacency]")
 mergeDependencies(myScenario) = T
 sheetName <- "stsim_StateAttributeValue"
 mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
-mySheet = read.csv("F:/national-assessment/data/state-attributes/state-attribute-values-adjacency.csv") 
+mySheet = read.csv(paste0(dataDir, "state-attributes/state-attribute-values-adjacency.csv")) 
 saveDatasheet(myScenario, mySheet, sheetName)
 
 # Fire as last disturbance
@@ -865,7 +865,7 @@ myScenario <- scenario(myProject, scenario = "State Attributes [Fire]")
 mergeDependencies(myScenario) = T
 sheetName <- "stsim_StateAttributeValue"
 mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
-mySheet = read.csv("F:/national-assessment/data/state-attributes/state-attribute-values-fire.csv") 
+mySheet = read.csv(paste0(dataDir, "state-attributes/state-attribute-values-fire.csv")) 
 saveDatasheet(myScenario, mySheet, sheetName)
 
 # Harvest as last disturbance
@@ -873,7 +873,7 @@ myScenario <- scenario(myProject, scenario = "State Attributes [Harvest]")
 mergeDependencies(myScenario) = T
 sheetName <- "stsim_StateAttributeValue"
 mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
-mySheet = read.csv("F:/national-assessment/data/state-attributes/state-attribute-values-harvest.csv") 
+mySheet = read.csv(paste0(dataDir, "state-attributes/state-attribute-values-harvest.csv")) 
 saveDatasheet(myScenario, mySheet, sheetName)
 
 # Merge State Attributes
