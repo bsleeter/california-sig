@@ -29,6 +29,10 @@ vignettes/*.pdf
 *.knit.md
 # R Environment Variables
 .Renviron
+<<<<<<< HEAD
+.DS_Store
+=======
 California-sig.ssim
 models/California-sig.ssim
 california-sig.git
+>>>>>>> 8329726ab92ee48f731947db8e6a7382d76ced49
