@@ -1,14 +1,14 @@
-StratumID,DistributionTypeID,ExternalVariableTypeID,ExternalVariableMin,ExternalVariableMax,Value,ValueDistributionTypeID,ValueDistributionFrequency,ValueDistributionSD
-Cascades,Fire: Historical Mean,Fire,1999,2016,0.005840392697662201,Normal,Iteration and Timestep,0.00680535127875437
-Central Basin and Range,Fire: Historical Mean,Fire,1999,2016,0.002600647090142114,Normal,Iteration and Timestep,0.0023876341222934475
-Central California Foothills and Coastal Mountains,Fire: Historical Mean,Fire,1999,2016,0.006415318643060331,Normal,Iteration and Timestep,0.005191516723195886
-Central California Valley,Fire: Historical Mean,Fire,1999,2016,0.0035730607835805393,Normal,Iteration and Timestep,0.004805720996379471
-Coast Range,Fire: Historical Mean,Fire,1999,2016,0.001608593707399531,Normal,Iteration and Timestep,0.00274320210135093
-Eastern Cascades Slopes and Foothills,Fire: Historical Mean,Fire,1999,2016,0.005502212075770124,Normal,Iteration and Timestep,0.0062379993716908284
-Klamath Mountains/California High North Coast Range,Fire: Historical Mean,Fire,1999,2016,0.011368157396740389,Normal,Iteration and Timestep,0.014204597100520803
-Mojave Basin and Range,Fire: Historical Mean,Fire,1999,2016,7.649026848176505e-4,Normal,Iteration and Timestep,0.0014813148411965944
-Northern Basin and Range,Fire: Historical Mean,Fire,1999,2016,0.015143566607211556,Normal,Iteration and Timestep,0.04802878316805749
-Sierra Nevada,Fire: Historical Mean,Fire,1999,2016,0.009135323856809267,Normal,Iteration and Timestep,0.00572248167548288
-Sonoran Basin and Range,Fire: Historical Mean,Fire,1999,2016,9.736503625141018e-4,Normal,Iteration and Timestep,0.0017166867645880888
-Southern California Mountains,Fire: Historical Mean,Fire,1999,2016,0.026276375490066516,Normal,Iteration and Timestep,0.030077681180255892
-Southern California/Northern Baja Coast,Fire: Historical Mean,Fire,1999,2016,0.022186911487758948,Normal,Iteration and Timestep,0.037410076635057625
+StratumID,DistributionTypeID,ExternalVariableTypeID,ExternalVariableMin,ExternalVariableMax,Value
+Cascades,Fire: Historical Mean,Fire,1999,2016,0.005840392697662201
+Central Basin and Range,Fire: Historical Mean,Fire,1999,2016,0.002600647090142114
+Central California Foothills and Coastal Mountains,Fire: Historical Mean,Fire,1999,2016,0.006415318643060331
+Central California Valley,Fire: Historical Mean,Fire,1999,2016,0.0035730607835805393
+Coast Range,Fire: Historical Mean,Fire,1999,2016,0.001608593707399531
+Eastern Cascades Slopes and Foothills,Fire: Historical Mean,Fire,1999,2016,0.005502212075770124
+Klamath Mountains/California High North Coast Range,Fire: Historical Mean,Fire,1999,2016,0.011368157396740389
+Mojave Basin and Range,Fire: Historical Mean,Fire,1999,2016,7.649026848176505e-4
+Northern Basin and Range,Fire: Historical Mean,Fire,1999,2016,0.015143566607211556
+Sierra Nevada,Fire: Historical Mean,Fire,1999,2016,0.009135323856809267
+Sonoran Basin and Range,Fire: Historical Mean,Fire,1999,2016,9.736503625141018e-4
+Southern California Mountains,Fire: Historical Mean,Fire,1999,2016,0.026276375490066516
+Southern California/Northern Baja Coast,Fire: Historical Mean,Fire,1999,2016,0.022186911487758948

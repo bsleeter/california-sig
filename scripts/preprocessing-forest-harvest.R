@@ -281,6 +281,81 @@ write_csv(harvest_ssp5_targets, "data/transition-targets/transition-targets-harv
 
 
 
+# Calculate Size Distributions --------------------------------------------
+
+# Clearcut
+df = lsm_p_area(clearcut, directions = 8) %>% filter(class == 1)
+
+df1 = df %>%
+  rename("Hectares" = "value") %>%
+  arrange(Hectares) %>%
+  mutate(MaxSize = if_else(Hectares>0 & Hectares<=101, 100, 
+                           if_else(Hectares>101 & Hectares<=201, 200, 
+                                   if_else(Hectares>201 & Hectares<=301, 300, 
+                                           if_else(Hectares>301 & Hectares<=401, 400, 
+                                                   if_else(Hectares>401, 500, 0))))))
+
+df2 = df1 %>%
+  group_by(MaxSize) %>%
+  summarise(n=n()) %>%
+  ungroup() %>%
+  mutate(freq = n / sum(n))
+
+clearcut_size_distribution = data.frame(Timestep = 2017,
+                                    TransitionGroupID = "Management: Forest Clearcut [Type]",
+                                    MaximumArea = df2$MaxSize,
+                                    RelativeAmount = df2$freq)
+write_csv(clearcut_size_distribution, "data/size-distribution/size-distribution-clearcut.csv")
+
+
+
+# Selection
+df = lsm_p_area(selection, directions = 8) %>% filter(class == 1)
+
+df1 = df %>%
+  rename("Hectares" = "value") %>%
+  arrange(Hectares) %>%
+  mutate(MaxSize = if_else(Hectares>0 & Hectares<=101, 100, 
+                           if_else(Hectares>101 & Hectares<=201, 200, 
+                                   if_else(Hectares>201 & Hectares<=301, 300, 
+                                           if_else(Hectares>301 & Hectares<=401, 400,
+                                                   if_else(Hectares>401 & Hectares<=501, 500,
+                                                           if_else(Hectares>501 & Hectares<=601, 600,
+                                                                   if_else(Hectares>601 & Hectares<=701, 700,
+                                                                           if_else(Hectares>701 & Hectares<=801, 800,
+                                                                                   if_else(Hectares>801 & Hectares<=901, 900,
+                                                                                           if_else(Hectares>901 & Hectares<=1001, 1000,
+                                                                                                   if_else(Hectares>1001 & Hectares<=2001, 2000,
+                                                                                                           if_else(Hectares>2001 & Hectares<=3001, 3000,
+                                                                                                                   if_else(Hectares>3001 & Hectares<=4001, 4000,
+                                                                                                                           if_else(Hectares>4001, max(Hectares), 0)))))))))))))))
+
+df2 = df1 %>%
+  group_by(MaxSize) %>%
+  summarise(n=n()) %>%
+  ungroup() %>%
+  mutate(freq = n / sum(n))
+
+selection_size_distribution = data.frame(Timestep = 2017,
+                                        TransitionGroupID = "Management: Forest Selection [Type]",
+                                        MaximumArea = df2$MaxSize,
+                                        RelativeAmount = df2$freq)
+write_csv(clearcut_size_distribution, "data/size-distribution/size-distribution-selection.csv")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Data for Plotting -------------------------------------------------------
 

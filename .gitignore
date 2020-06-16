@@ -1,5 +1,6 @@
 # Model files
 /models/testing/
+/docs/spei/
 # History files
 .Rhistory
 .Rapp.history

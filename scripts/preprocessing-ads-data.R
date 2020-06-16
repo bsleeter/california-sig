@@ -106,10 +106,7 @@ dist_ads_eco_mean = tibble(StratumID = ads_eco_mean$Name,
                             ExternalVariableTypeID = "Insect",
                             ExternalVariableMin = 1998,
                             ExternalVariableMax = 2016,
-                            Value = ads_eco_mean$Pct,
-                            ValueDistributionTypeID = "Normal",
-                            ValueDistributionFrequency = "Iteration and Timestep",
-                            ValueDistributionSD = ads_eco_mean$PctSd) %>%
+                            Value = ads_eco_mean$Pct) %>%
   write_csv("data/distributions/distribution-insects-ecoregion-historical-mean.csv")
 
 
@@ -130,7 +127,7 @@ ads_temporal_total = as_tibble(zonal(ads_all, ecoregions, "sum")) %>%
   left_join(scVeg_zonal) %>%
   group_by(Timestep, Name, TransitionGroupID) %>%
   summarise(TotalAnnualArea=sum(Value), Area=sum(Area)) %>%
-  ungroup() %>%
+  group_by(Name) %>%
   mutate(MeanAnnualArea = mean(TotalAnnualArea)) %>%
   mutate(RelativeMultiplier = TotalAnnualArea/MeanAnnualArea)
 
@@ -207,6 +204,45 @@ dist_ecoregion_severity_mean = tibble(StratumID = ecoregion_severity_mean$Name,
 
 
 
+# Calculate Size Distribution ---------------------------------------------
+
+# Use the Insect rasters to create age distribution
+df = lsm_p_area(ads_all, directions = 8) %>% filter(class == 1)
+
+df1 = df %>%
+  rename("Hectares" = "value") %>%
+  arrange(-Hectares) %>%
+  mutate(MinSize = if_else(Hectares>=1 & Hectares<500, 1, 
+                           if_else(Hectares>=500 & Hectares<1000, 500, 
+                                   if_else(Hectares>=1000 & Hectares<2000, 1000, 
+                                           if_else(Hectares>=2000 & Hectares<5000, 2000, 
+                                                   if_else(Hectares>=5000 & Hectares<10000, 5000, 
+                                                           if_else(Hectares>=10000 & Hectares<20000, 10000, 
+                                                                   if_else(Hectares>=20000 & Hectares<50000, 20000, 
+                                                                           if_else(Hectares>=50000 & Hectares<100000, 50000, 
+                                                                                   if_else(Hectares>=100000 & Hectares<200000, 100000, 
+                                                                                           if_else(Hectares>=200000 & Hectares<500000, 200000, 0)))))))))), 
+         MaxSize = if_else(Hectares>=1 & Hectares<500, 500, 
+                           if_else(Hectares>=500 & Hectares<1000, 1000, 
+                                   if_else(Hectares>=1000 & Hectares<2000, 2000, 
+                                           if_else(Hectares>=2000 & Hectares<5000, 5000, 
+                                                   if_else(Hectares>=5000 & Hectares<10000, 10000, 
+                                                           if_else(Hectares>=10000 & Hectares<20000, 20000, 
+                                                                   if_else(Hectares>=20000 & Hectares<50000, 50000, 
+                                                                           if_else(Hectares>=50000 & Hectares<100000, 100000, 
+                                                                                   if_else(Hectares>=100000 & Hectares<200000, 200000, 
+                                                                                           if_else(Hectares>=200000 & Hectares<500000, 500000, 0)))))))))))
+
+df2 = df1 %>%
+  group_by(MinSize, MaxSize) %>%
+  summarise(n=n()) %>%
+  ungroup() %>%
+  mutate(freq = n / sum(n))
 
 
+insect_size_distribution = data.frame(Timestep = 2017,
+                                    TransitionGroupID = "Insect",
+                                    MaximumArea = df2$MaxSize,
+                                    RelativeAmount = df2$freq)
+write_csv(insect_size_distribution, "data/size-distribution/size-distribution-insect.csv")
 

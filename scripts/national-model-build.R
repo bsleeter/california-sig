@@ -15,7 +15,7 @@ mySession <- session(SyncroSimDir)
 
 # myLibrary = ssimLibrary(name = paste0(ssimDir,"Initial Stocks Model Conus.ssim"), session = mySession)
 # myLibrary = ssimLibrary(name = paste0(ssimDir,"Initial Stocks Model.ssim"), session = mySession)
-myLibrary = ssimLibrary(name = paste0(ssimDir,"California-sig.ssim"), session = mySession, addon = "stsimsf")
+myLibrary = ssimLibrary(name = paste0(ssimDir,"california-sig.ssim"), session = mySession, addon = "stsimsf")
 myProject = project(myLibrary, project="Definitions")
 dataDir = "data/"
 prefixDir = "D:/california-sig/"
@@ -893,7 +893,103 @@ dependency(myScenario, c("State Attributes [Adjacency]", "State Attributes [Harv
 
 # Transition Size Distribution -------------------------------------------------------
 
+# Fire
+myScenario = scenario(myProject, scenario = "Transition Size Distribution [Fire]")
+mergeDependencies(myScenario) = T
+sheetName <- "stsim_TransitionSizeDistribution"
+mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
+mySheet = read.csv("data/size-distribution/size-distribution-fire.csv")
+saveDatasheet(myScenario, mySheet, sheetName)
 
+sheetName <- "stsim_TransitionSizePrioritization"
+mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
+mySheet = addRow(mySheet, data.frame(TransitionGroupID = "Fire", Priority = "Largest", MaximizeFidelityToDistribution = T))
+saveDatasheet(myScenario, mySheet, sheetName)
+
+# Insect
+myScenario = scenario(myProject, scenario = "Transition Size Distribution [Insect]")
+mergeDependencies(myScenario) = T
+sheetName <- "stsim_TransitionSizeDistribution"
+mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
+mySheet = read.csv("data/size-distribution/size-distribution-insect.csv")
+saveDatasheet(myScenario, mySheet, sheetName)
+
+sheetName <- "stsim_TransitionSizePrioritization"
+mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
+mySheet = addRow(mySheet, data.frame(TransitionGroupID = "Insect", Priority = "Largest", MaximizeFidelityToDistribution = T))
+saveDatasheet(myScenario, mySheet, sheetName)
+
+# Clearcut
+myScenario = scenario(myProject, scenario = "Transition Size Distribution [Clearcut]")
+mergeDependencies(myScenario) = T
+sheetName <- "stsim_TransitionSizeDistribution"
+mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
+mySheet = read.csv("data/size-distribution/size-distribution-clearcut.csv")
+saveDatasheet(myScenario, mySheet, sheetName)
+
+sheetName <- "stsim_TransitionSizePrioritization"
+mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
+mySheet = addRow(mySheet, data.frame(TransitionGroupID = "Management: Forest Clearcut [Type]", Priority = "Smallest", MaximizeFidelityToTotalArea = T))
+saveDatasheet(myScenario, mySheet, sheetName)
+
+# Selection
+myScenario = scenario(myProject, scenario = "Transition Size Distribution [Selection]")
+mergeDependencies(myScenario) = T
+sheetName <- "stsim_TransitionSizeDistribution"
+mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
+mySheet = read.csv("data/size-distribution/size-distribution-selection.csv")
+saveDatasheet(myScenario, mySheet, sheetName)
+
+sheetName <- "stsim_TransitionSizePrioritization"
+mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
+mySheet = addRow(mySheet, data.frame(TransitionGroupID = "Management: Forest Selection [Type]", Priority = "Smallest", MaximizeFidelityToTotalArea = T))
+saveDatasheet(myScenario, mySheet, sheetName)
+
+
+# Merge Transition Size Distributions
+myScenario <- scenario(myProject, scenario = "Transition Size Distribution")
+mergeDependencies(myScenario) = T
+dependency(myScenario, c("Transition Size Distribution [Fire]",
+                         "Transition Size Distribution [Insect]",
+                         "Transition Size Distribution [Clearcut]",
+                         "Transition Size Distribution [Selection]"))
+
+
+
+
+
+
+# Transition Slope Multipliers --------------------------------------------
+
+# ca_dem = raster("I:/GIS-Raster/DEM/NED/conus_ned_alb_250m.img")
+# ca_dem = projectRaster(ca_dem, counties)
+# ca_dem = mask(ca_dem, counties)
+# plot(ca_dem)
+# writeRaster(ca_dem, "data/initial-conditions/ic-dem.tif", overwrite=T, format="GTiff", datatype="INT2S")
+# ca_dem = raster("data/initial-conditions/ic-dem.tif")
+
+myScenario = scenario(myProject, scenario = "Transition Slope Multipliers")
+mergeDependencies(myScenario) = T
+sheetName <- "stsim_TransitionSlopeMultiplier"
+mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
+mySheet = addRow(mySheet, data.frame(Timestep = 2017, TransitionGroupID = "Fire", Slope = -90, Amount = 5))
+mySheet = addRow(mySheet, data.frame(Timestep = 2017, TransitionGroupID = "Fire", Slope = -16, Amount = 1))
+mySheet = addRow(mySheet, data.frame(Timestep = 2017, TransitionGroupID = "Fire", Slope = -0, Amount = 17))
+mySheet = addRow(mySheet, data.frame(Timestep = 2017, TransitionGroupID = "Fire", Slope = 16, Amount = 34))
+mySheet = addRow(mySheet, data.frame(Timestep = 2017, TransitionGroupID = "Fire", Slope = 25, Amount = 100))
+mySheet = addRow(mySheet, data.frame(Timestep = 2017, TransitionGroupID = "Fire", Slope = 35, Amount = 200))
+mySheet = addRow(mySheet, data.frame(Timestep = 2017, TransitionGroupID = "Fire", Slope = 45, Amount = 300))
+mySheet = addRow(mySheet, data.frame(Timestep = 2017, TransitionGroupID = "Fire", Slope = 55, Amount = 400))
+mySheet = addRow(mySheet, data.frame(Timestep = 2017, TransitionGroupID = "Fire", Slope = 90, Amount = 500))
+saveDatasheet(myScenario, mySheet, sheetName)
+
+sheetName = "stsim_DigitalElevationModel"
+mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
+mySheet = addRow(mySheet, data.frame(DigitalElevationModelFileName = "D:/california-sig/data/initial-conditions/ic-dem.tif"))
+saveDatasheet(myScenario, mySheet, sheetName)
+
+
+datasheet(myScenario)
 
 
 
@@ -912,6 +1008,8 @@ dependency(myScenario, c("Run Control Reference [Spatial; 2001-2016; 1 MC]",
                          "Pathway Diagram",
                          "Distributions",
                          "Transition Multipliers",
+                         "Transition Size Distribution",
+                         "Transition Slope Multipliers",
                          "State Attributes with Harvest"))
 
 
@@ -921,7 +1019,7 @@ dependency(myScenario, c("Run Control Reference [Spatial; 2001-2016; 1 MC]",
 
 # Test Scenario -----------------------------------------------------------
 
-myScenario <- scenario(myProject, scenario = "Historical Scenario [2001-2016; 1 MC]")
+myScenario <- scenario(myProject, scenario = "Historical Scenario [2001-2020; 1 MC]")
 mergeDependencies(myScenario) = T
 dependency(myScenario, c("STSM Constants",
                          "Spatial Multipliers [Historical]",

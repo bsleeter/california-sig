@@ -94,4 +94,4 @@ Timestep,ExternalVariableTypeID,ExternalVariableValue,DistributionTypeID,Distrib
 2014,Insect,2014,,,,,
 2015,Insect,2015,,,,,
 2016,Insect,2016,,,,,
-2017,Insect,,Uniform Integer,Iteration and Timestep,,2001,2016
+2017,Insect,,Uniform Integer,Iteration and Timestep,,2006,2014
