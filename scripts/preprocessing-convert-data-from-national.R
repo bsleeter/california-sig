@@ -42,8 +42,9 @@ writeRaster(ca_land, "data/initial-conditions/ic-land-managers.tif")
 list_stocks = list.files("F:/national-assessment/data/initial-stocks/mapped")[c(7:11,14:17,19:21,24:25)]
 us_stocks = stack(paste0("F:/national-assessment/data/initial-stocks/mapped/", list_stocks))
 ca_stocks = projectRaster(us_stocks, ca_counties)
+ca_stocks[is.na(ca_stocks)] = 0
 ca_stocks = mask(ca_stocks, ca_counties)
-plot(ca_stocks)
+plot(ca_stocks$Biomass_Coarse_Root_.Type.)
 writeRaster(ca_stocks, format="GTiff", overwrite=T, bylayer=T, filename=paste0("data/initial-stocks/", list_stocks))
 
 

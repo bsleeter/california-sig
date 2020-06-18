@@ -1009,7 +1009,8 @@ dependency(myScenario, c("Run Control Reference [Spatial; 2001-2016; 1 MC]",
                          "Transition Multipliers",
                          "Transition Size Distribution",
                          "Transition Slope Multipliers",
-                         "State Attributes with Harvest"))
+                         "State Attributes with Harvest",
+                         "Spatial Multipliers [Historical]"))
 
 
 
@@ -1021,7 +1022,6 @@ dependency(myScenario, c("Run Control Reference [Spatial; 2001-2016; 1 MC]",
 myScenario <- scenario(myProject, scenario = "Historical Scenario [2001-2020; 1 MC]")
 mergeDependencies(myScenario) = T
 dependency(myScenario, c("STSM Constants",
-                         "Spatial Multipliers [Historical]",
                          "Transition Targets [Reference]"))
 
 
@@ -1139,46 +1139,228 @@ saveDatasheet(myScenario, mySheet, sheetName)
 
 
 ##### SF Flow Spatial Multipliers #####
-indir = paste0(prefixDir, dataDir,"flow-spatial-multipliers/growth")
+# Historical Growth
+indir = paste0(prefixDir, dataDir,"flow-spatial-multipliers/")
+gcm = "historical"
+var = "growth"
+
+myScenario <- scenario(myProject, scenario = paste0("SF Flow Spatial Multipliers [", gcm, "; ", var, "]"))
+mergeDependencies(myScenario) = TRUE
+sheetName <- "stsimsf_FlowSpatialMultiplier"
+mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
+list = list.files(path = paste0(indir, var, "/", gcm), pattern = "*.tif")
+mySheet = data.frame(Timestep = seq(2002,2017), FlowGroupID = "Net Growth: Total", MultiplierFileName = paste0(indir, var, "/", gcm, "/", list))
+saveDatasheet(myScenario, mySheet, sheetName)
+
+# Historical q10Fast
+indir = paste0(prefixDir, dataDir,"flow-spatial-multipliers/")
+gcm = "historical"
+var = "q10Fast"
+
+myScenario <- scenario(myProject, scenario = paste0("SF Flow Spatial Multipliers [", gcm, "; ", var, "]"))
+mergeDependencies(myScenario) = TRUE
+sheetName <- "stsimsf_FlowSpatialMultiplier"
+mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
+list = list.files(path = paste0(indir, var, "/", gcm), pattern = "*.tif")
+mySheet = data.frame(Timestep = seq(2002,2017), FlowGroupID = "Q10 Fast Flows", MultiplierFileName = paste0(indir, var, "/", gcm, "/", list))
+saveDatasheet(myScenario, mySheet, sheetName)
+
+# Historical q10Slow
+indir = paste0(prefixDir, dataDir,"flow-spatial-multipliers/")
+gcm = "historical"
+var = "q10Slow"
+
+myScenario <- scenario(myProject, scenario = paste0("SF Flow Spatial Multipliers [", gcm, "; ", var, "]"))
+mergeDependencies(myScenario) = TRUE
+sheetName <- "stsimsf_FlowSpatialMultiplier"
+mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
+list = list.files(path = paste0(indir, var, "/", gcm), pattern = "*.tif")
+mySheet = data.frame(Timestep = seq(2002,2017), FlowGroupID = "Q10 Slow Flows", MultiplierFileName = paste0(indir, var, "/", gcm, "/", list))
+saveDatasheet(myScenario, mySheet, sheetName)
+
+
+myScenario <- scenario(myProject, scenario = "SF Flow Spatial Multipliers [Historical]")
+mergeDependencies(myScenario) = TRUE
+dependency(myScenario, c("SF Flow Spatial Multipliers [historical; Growth]",
+                         "SF Flow Spatial Multipliers [historical; q10Fast]",
+                         "SF Flow Spatial Multipliers [historical; q10Slow]"))
+
+
+
+
+
+
+
+
+
+
+# Climate Models RCP45
+rcp = "rcp45"
+var = "growth"
+indir = paste0(prefixDir, dataDir,"flow-spatial-multipliers/", var, "/")
 gcmList = list.dirs(indir, recursive = F, full.names = F)
-gcm = "historical"
-rcp = ""
+gcmList = gcmList[-12] # Remove the historical folder
 
-myScenario <- scenario(myProject, scenario = paste0("SF Flow Spatial Multipliers [", gcm, "; Growth]"))
+foreach(i = gcmList) %do% {
+  
+  #i = gcmList[2]
+  myScenario <- scenario(myProject, scenario = paste0("SF Flow Spatial Multipliers [", i, ".", rcp, ".", var, "]"))
+  mergeDependencies(myScenario) = TRUE
+  sheetName <- "stsimsf_FlowSpatialMultiplier"
+  mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
+  list = list.files(path = paste0(indir, i, "/", rcp), pattern = "*.tif")[17:98] # Add only the 2018-2099 dates
+  mySheet = data.frame(Timestep = seq(2018,2099), FlowGroupID = "Net Growth: Total", MultiplierFileName = paste0(indir, i, "/", rcp, "/", list))
+  saveDatasheet(myScenario, mySheet, sheetName)
+  
+}
+
+rcp = "rcp85"
+var = "growth"
+indir = paste0(prefixDir, dataDir,"flow-spatial-multipliers/", var, "/")
+gcmList = list.dirs(indir, recursive = F, full.names = F)
+gcmList = gcmList[-12]
+
+foreach(i = gcmList) %do% {
+  
+  #i = gcmList[2]
+  myScenario <- scenario(myProject, scenario = paste0("SF Flow Spatial Multipliers [", i, ".", rcp, ".", var, "]"))
+  mergeDependencies(myScenario) = TRUE
+  sheetName <- "stsimsf_FlowSpatialMultiplier"
+  mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
+  list = list.files(path = paste0(indir, i, "/", rcp), pattern = "*.tif")[17:98]
+  mySheet = data.frame(Timestep = seq(2018,2099), FlowGroupID = "Net Growth: Total", MultiplierFileName = paste0(indir, i, "/", rcp, "/", list))
+  saveDatasheet(myScenario, mySheet, sheetName)
+  
+}
+
+
+rcp = "rcp45"
+var = "q10Fast"
+indir = paste0(prefixDir, dataDir,"flow-spatial-multipliers/", var, "/")
+gcmList = list.dirs(indir, recursive = F, full.names = F)
+gcmList = gcmList[-12] # Remove the historical folder
+
+foreach(i = gcmList) %do% {
+  
+  #i = gcmList[2]
+  myScenario <- scenario(myProject, scenario = paste0("SF Flow Spatial Multipliers [", i, ".", rcp, ".", var, "]"))
+  mergeDependencies(myScenario) = TRUE
+  sheetName <- "stsimsf_FlowSpatialMultiplier"
+  mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
+  list = list.files(path = paste0(indir, i, "/", rcp), pattern = "*.tif")[17:98] # Add only the 2018-2099 dates
+  mySheet = data.frame(Timestep = seq(2018,2099), FlowGroupID = "Q10 Fast Flows", MultiplierFileName = paste0(indir, i, "/", rcp, "/", list))
+  saveDatasheet(myScenario, mySheet, sheetName)
+  
+}
+
+rcp = "rcp85"
+var = "q10Fast"
+indir = paste0(prefixDir, dataDir,"flow-spatial-multipliers/", var, "/")
+gcmList = list.dirs(indir, recursive = F, full.names = F)
+gcmList = gcmList[-12]
+
+foreach(i = gcmList) %do% {
+  
+  #i = gcmList[2]
+  myScenario <- scenario(myProject, scenario = paste0("SF Flow Spatial Multipliers [", i, ".", rcp, ".", var, "]"))
+  mergeDependencies(myScenario) = TRUE
+  sheetName <- "stsimsf_FlowSpatialMultiplier"
+  mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
+  list = list.files(path = paste0(indir, i, "/", rcp), pattern = "*.tif")[17:98]
+  mySheet = data.frame(Timestep = seq(2018,2099), FlowGroupID = "Q10 Fast Flows", MultiplierFileName = paste0(indir, i, "/", rcp, "/", list))
+  saveDatasheet(myScenario, mySheet, sheetName)
+  
+}
+
+# Q10 Slow
+rcp = "rcp45"
+var = "q10Slow"
+indir = paste0(prefixDir, dataDir,"flow-spatial-multipliers/", var, "/")
+gcmList = list.dirs(indir, recursive = F, full.names = F)
+gcmList = gcmList[-12] # Remove the historical folder
+
+foreach(i = gcmList) %do% {
+  
+  #i = gcmList[2]
+  myScenario <- scenario(myProject, scenario = paste0("SF Flow Spatial Multipliers [", i, ".", rcp, ".", var, "]"))
+  mergeDependencies(myScenario) = TRUE
+  sheetName <- "stsimsf_FlowSpatialMultiplier"
+  mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
+  list = list.files(path = paste0(indir, i, "/", rcp), pattern = "*.tif")[17:98] # Add only the 2018-2099 dates
+  mySheet = data.frame(Timestep = seq(2018,2099), FlowGroupID = "Q10 Slow Flows", MultiplierFileName = paste0(indir, i, "/", rcp, "/", list))
+  saveDatasheet(myScenario, mySheet, sheetName)
+  
+}
+
+rcp = "rcp85"
+var = "q10Slow"
+indir = paste0(prefixDir, dataDir,"flow-spatial-multipliers/", var, "/")
+gcmList = list.dirs(indir, recursive = F, full.names = F)
+gcmList = gcmList[-12]
+
+foreach(i = gcmList) %do% {
+  
+  #i = gcmList[2]
+  myScenario <- scenario(myProject, scenario = paste0("SF Flow Spatial Multipliers [", i, ".", rcp, ".", var, "]"))
+  mergeDependencies(myScenario) = TRUE
+  sheetName <- "stsimsf_FlowSpatialMultiplier"
+  mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
+  list = list.files(path = paste0(indir, i, "/", rcp), pattern = "*.tif")[17:98]
+  mySheet = data.frame(Timestep = seq(2018,2099), FlowGroupID = "Q10 Slow Flows", MultiplierFileName = paste0(indir, i, "/", rcp, "/", list))
+  saveDatasheet(myScenario, mySheet, sheetName)
+  
+}
+
+
+
+
+
+
+# Create SF Constants -----------------------------------------------------
+
+myScenario <- scenario(myProject, scenario = paste0("SF Constants"))
 mergeDependencies(myScenario) = TRUE
-sheetName <- "stsimsf_FlowSpatialMultiplier"
+dependency(myScenario, c("SF Initial Stocks [Spatial; Mapped Age]",
+                         "Flow Pathways",
+                         "SF Stock Group Membership",
+                         "SF Flow Group Membership",
+                         "SF Flow Order",
+                         "SF Output Options",
+                         "SF Flow Multipliers",
+                         "SF Flow Spatial Multipliers [Historical]"))
+
+
+
+
+
+# Create Test Stock Flow Scenarios ----------------------------------------
+
+myScenario <- scenario(myProject, scenario = paste0("Historical Scenario Carbon [2001-2020; 1 MC]"))
+mergeDependencies(myScenario) = TRUE
+dependency(myScenario, c("STSM Constants",
+                         "SF Constants",
+                         "Transition Targets [Reference]",
+                         "Spatial Multiprocessing [Counties]"))
+
+
+
+
+
+# Multiprocessing with Secondary Stratum ----------------------------------
+
+myScenario = scenario(myProject, scenario = "Spatial Multiprocessing [Counties]")
+sheetName <- "corestime_Multiprocessing"
 mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
-list = list.files(path = "F:/national-assessment/data/flow-spatial-multipliers/growth/historical/", pattern = "*.tif")
-mySheet = data.frame(Timestep = seq(2002,2017), FlowGroupID = "Net Growth: Total", MultiplierFileName = paste(indir,gcm,"/",rcp,list, sep="")[1:16])
+mySheet[1, "MaskFileName"] <- paste0(prefixDir, dataDir, "initial-conditions/multi-processing-raster.tif")
 saveDatasheet(myScenario, mySheet, sheetName)
 
-indir = "F:/national-assessment/data/flow-spatial-multipliers/q10Fast/"
-gcm = "historical"
-rcp = ""
+datasheet(myScenario)
 
-myScenario <- scenario(myProject, scenario = "SF Flow Spatial Multipliers [Q10 Fast]")
-mergeDependencies(myScenario) = TRUE
-sheetName <- "stsimsf_FlowSpatialMultiplier"
-mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
-list = list.files(path = "F:/national-assessment/data/flow-spatial-multipliers/q10Fast/historical/", pattern = "*.tif")
-mySheet = data.frame(Timestep = seq(2002,2014), FlowGroupID = "Q10 Fast Flows", MultiplierFileName = paste(indir,gcm,"/",rcp,list, sep="")[1:13])
-saveDatasheet(myScenario, mySheet, sheetName)
 
-indir = "F:/national-assessment/data/flow-spatial-multipliers/q10Slow/"
-gcm = "historical"
-rcp = ""
 
-myScenario <- scenario(myProject, scenario = "SF Flow Spatial Multipliers [Q10 Slow]")
-mergeDependencies(myScenario) = TRUE
-sheetName <- "stsimsf_FlowSpatialMultiplier"
-mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
-list = list.files(path = "F:/national-assessment/data/flow-spatial-multipliers/q10Slow/historical/", pattern = "*.tif")
-mySheet = data.frame(Timestep = seq(2002,2014), FlowGroupID = "Q10 Slow Flows", MultiplierFileName = paste(indir,gcm,"/",rcp,list, sep="")[1:13])
-saveDatasheet(myScenario, mySheet, sheetName)
 
-myScenario = scenario(myProject, scenario = "SF Flow Spatial Multipliers")
-mergeDependencies(myScenario) = TRUE
-dependency(myScenario, c("SF Flow Spatial Multipliers [Growth]", "SF Flow Spatial Multipliers [Q10 Fast]", "SF Flow Spatial Multipliers [Q10 Slow]"))
+
+# Create Final Scenarios --------------------------------------------------
 
 
 
