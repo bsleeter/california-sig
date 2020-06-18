@@ -148,11 +148,10 @@ mySheet[1,"MaximumAge"] <- 300
 saveDatasheet(myProject, mySheet, name=sheetName)
 
 ##### Definitions ST-Sim Age Group #####
-maxAge = 300
 sheetName <- "stsim_AgeGroup"
 mySheet <- datasheet(myProject, name=sheetName, optional=T)
-mySheet[1:(maxAge/20),"MaximumAge"] <- c(seq(from=20, to=(maxAge-1), by=20), maxAge-1)
-saveDatasheet(myProject, mySheet, name=sheetName)
+mySheet = read.csv(paste0(dataDir, "definitions/age-groups.csv"))
+saveDatasheet(myProject, mySheet, name=sheetName, append=T)
 
 ##### Definitions ST-Sim Attribute Groups #####
 sheetName <- "stsim_AttributeGroup"
@@ -1034,44 +1033,25 @@ dependency(myScenario, c("STSM Constants",
 ####################################
 
 ##### SF Initial Stocks #####
-# Imputed Age
-myScenario <- scenario(myProject, scenario = "SF Initial Stocks [Spatial]")
-sheetName <- "stsimsf_InitialStockSpatial"
-mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
-mySheet = addRow(mySheet, data.frame(StockTypeID = "Biomass: Fine Root", RasterFileName = "F:/national-assessment/data/initial-stocks/imputed/Biomass Fine Root [Type].tif"))
-mySheet = addRow(mySheet, data.frame(StockTypeID = "Biomass: Coarse Root", RasterFileName = "F:/national-assessment/data/initial-stocks/imputed/Biomass Coarse Root [Type].tif"))
-mySheet = addRow(mySheet, data.frame(StockTypeID = "Biomass: Foliage", RasterFileName = "F:/national-assessment/data/initial-stocks/imputed/Biomass Foliage [Type].tif"))
-mySheet = addRow(mySheet, data.frame(StockTypeID = "Biomass: Merchantable", RasterFileName = "F:/national-assessment/data/initial-stocks/imputed/Biomass Merchantable [Type].tif"))
-mySheet = addRow(mySheet, data.frame(StockTypeID = "Biomass: Other Wood", RasterFileName = "F:/national-assessment/data/initial-stocks/imputed/Biomass Other Wood [Type].tif"))
-mySheet = addRow(mySheet, data.frame(StockTypeID = "DOM: Aboveground Very Fast", RasterFileName = "F:/national-assessment/data/initial-stocks/imputed/DOM Aboveground Very Fast [Type].tif"))
-mySheet = addRow(mySheet, data.frame(StockTypeID = "DOM: Belowground Very Fast", RasterFileName = "F:/national-assessment/data/initial-stocks/imputed/DOM Belowground Very Fast [Type].tif"))
-mySheet = addRow(mySheet, data.frame(StockTypeID = "DOM: Aboveground Fast", RasterFileName = "F:/national-assessment/data/initial-stocks/imputed/DOM Aboveground Fast [Type].tif"))
-mySheet = addRow(mySheet, data.frame(StockTypeID = "DOM: Belowground Fast", RasterFileName = "F:/national-assessment/data/initial-stocks/imputed/DOM Belowground Fast [Type].tif"))
-mySheet = addRow(mySheet, data.frame(StockTypeID = "DOM: Aboveground Medium", RasterFileName = "F:/national-assessment/data/initial-stocks/imputed/DOM Aboveground Medium [Type].tif"))
-mySheet = addRow(mySheet, data.frame(StockTypeID = "DOM: Aboveground Slow", RasterFileName = "F:/national-assessment/data/initial-stocks/imputed/DOM Aboveground Slow [Type].tif"))
-mySheet = addRow(mySheet, data.frame(StockTypeID = "DOM: Belowground Slow", RasterFileName = "F:/national-assessment/data/initial-stocks/imputed/DOM Belowground Slow [Type].tif"))
-mySheet = addRow(mySheet, data.frame(StockTypeID = "DOM: Snag Branch", RasterFileName = "F:/national-assessment/data/initial-stocks/imputed/DOM Snag Branch [Type].tif"))
-mySheet = addRow(mySheet, data.frame(StockTypeID = "DOM: Snag Stem", RasterFileName = "F:/national-assessment/data/initial-stocks/imputed/DOM Snag Stem [Type].tif"))
-saveDatasheet(myScenario, mySheet, sheetName)
 
 # Mapped Age
 myScenario <- scenario(myProject, scenario = "SF Initial Stocks [Spatial; Mapped Age]")
 sheetName <- "stsimsf_InitialStockSpatial"
 mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
-mySheet = addRow(mySheet, data.frame(StockTypeID = "Biomass: Fine Root", RasterFileName = "F:/national-assessment/data/initial-stocks/mapped/Biomass Fine Root [Type].tif"))
-mySheet = addRow(mySheet, data.frame(StockTypeID = "Biomass: Coarse Root", RasterFileName = "F:/national-assessment/data/initial-stocks/mapped/Biomass Coarse Root [Type].tif"))
-mySheet = addRow(mySheet, data.frame(StockTypeID = "Biomass: Foliage", RasterFileName = "F:/national-assessment/data/initial-stocks/mapped/Biomass Foliage [Type].tif"))
-mySheet = addRow(mySheet, data.frame(StockTypeID = "Biomass: Merchantable", RasterFileName = "F:/national-assessment/data/initial-stocks/mapped/Biomass Merchantable [Type].tif"))
-mySheet = addRow(mySheet, data.frame(StockTypeID = "Biomass: Other Wood", RasterFileName = "F:/national-assessment/data/initial-stocks/mapped/Biomass Other Wood [Type].tif"))
-mySheet = addRow(mySheet, data.frame(StockTypeID = "DOM: Aboveground Very Fast", RasterFileName = "F:/national-assessment/data/initial-stocks/mapped/DOM Aboveground Very Fast [Type].tif"))
-mySheet = addRow(mySheet, data.frame(StockTypeID = "DOM: Belowground Very Fast", RasterFileName = "F:/national-assessment/data/initial-stocks/mapped/DOM Belowground Very Fast [Type].tif"))
-mySheet = addRow(mySheet, data.frame(StockTypeID = "DOM: Aboveground Fast", RasterFileName = "F:/national-assessment/data/initial-stocks/mapped/DOM Aboveground Fast [Type].tif"))
-mySheet = addRow(mySheet, data.frame(StockTypeID = "DOM: Belowground Fast", RasterFileName = "F:/national-assessment/data/initial-stocks/mapped/DOM Belowground Fast [Type].tif"))
-mySheet = addRow(mySheet, data.frame(StockTypeID = "DOM: Aboveground Medium", RasterFileName = "F:/national-assessment/data/initial-stocks/mapped/DOM Aboveground Medium [Type].tif"))
-mySheet = addRow(mySheet, data.frame(StockTypeID = "DOM: Aboveground Slow", RasterFileName = "F:/national-assessment/data/initial-stocks/mapped/DOM Aboveground Slow [Type].tif"))
-mySheet = addRow(mySheet, data.frame(StockTypeID = "DOM: Belowground Slow", RasterFileName = "F:/national-assessment/data/initial-stocks/mapped/DOM Belowground Slow [Type].tif"))
-mySheet = addRow(mySheet, data.frame(StockTypeID = "DOM: Snag Branch", RasterFileName = "F:/national-assessment/data/initial-stocks/mapped/DOM Snag Branch [Type].tif"))
-mySheet = addRow(mySheet, data.frame(StockTypeID = "DOM: Snag Stem", RasterFileName = "F:/national-assessment/data/initial-stocks/mapped/DOM Snag Stem [Type].tif"))
+mySheet = addRow(mySheet, data.frame(StockTypeID = "Biomass: Fine Root", RasterFileName = paste0(prefixDir, dataDir,"initial-stocks/Biomass Fine Root [Type].tif")))
+mySheet = addRow(mySheet, data.frame(StockTypeID = "Biomass: Coarse Root", RasterFileName = paste0(prefixDir, dataDir,"initial-stocks/Biomass Coarse Root [Type].tif")))
+mySheet = addRow(mySheet, data.frame(StockTypeID = "Biomass: Foliage", RasterFileName = paste0(prefixDir, dataDir,"initial-stocks/Biomass Foliage [Type].tif")))
+mySheet = addRow(mySheet, data.frame(StockTypeID = "Biomass: Merchantable", RasterFileName = paste0(prefixDir, dataDir,"initial-stocks/Biomass Merchantable [Type].tif")))
+mySheet = addRow(mySheet, data.frame(StockTypeID = "Biomass: Other Wood", RasterFileName = paste0(prefixDir, dataDir,"initial-stocks/Biomass Other Wood [Type].tif")))
+mySheet = addRow(mySheet, data.frame(StockTypeID = "DOM: Aboveground Very Fast", RasterFileName = paste0(prefixDir, dataDir,"initial-stocks/DOM Aboveground Very Fast [Type].tif")))
+mySheet = addRow(mySheet, data.frame(StockTypeID = "DOM: Belowground Very Fast", RasterFileName = paste0(prefixDir, dataDir,"initial-stocks/DOM Belowground Very Fast [Type].tif")))
+mySheet = addRow(mySheet, data.frame(StockTypeID = "DOM: Aboveground Fast", RasterFileName = paste0(prefixDir, dataDir,"initial-stocks/DOM Aboveground Fast [Type].tif")))
+mySheet = addRow(mySheet, data.frame(StockTypeID = "DOM: Belowground Fast", RasterFileName = paste0(prefixDir, dataDir,"initial-stocks/DOM Belowground Fast [Type].tif")))
+mySheet = addRow(mySheet, data.frame(StockTypeID = "DOM: Aboveground Medium", RasterFileName = paste0(prefixDir, dataDir,"initial-stocks/DOM Aboveground Medium [Type].tif")))
+mySheet = addRow(mySheet, data.frame(StockTypeID = "DOM: Aboveground Slow", RasterFileName = paste0(prefixDir, dataDir,"initial-stocks/DOM Aboveground Slow [Type].tif")))
+mySheet = addRow(mySheet, data.frame(StockTypeID = "DOM: Belowground Slow", RasterFileName = paste0(prefixDir, dataDir,"initial-stocks/DOM Belowground Slow [Type].tif")))
+mySheet = addRow(mySheet, data.frame(StockTypeID = "DOM: Snag Branch", RasterFileName = paste0(prefixDir, dataDir,"initial-stocks/DOM Snag Branch [Type].tif")))
+mySheet = addRow(mySheet, data.frame(StockTypeID = "DOM: Snag Stem", RasterFileName = paste0(prefixDir, dataDir,"initial-stocks/DOM Snag Stem [Type].tif")))
 saveDatasheet(myScenario, mySheet, sheetName)
 
 ##### SF Flow Pathways Diagram #####
@@ -1081,11 +1061,11 @@ myScenario <- scenario(myProject, scenario = "Flow Pathways [Base Flows]")
 mergeDependencies(myScenario) = TRUE
 sheetName <- "stsimsf_FlowPathwayDiagram"
 mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
-mySheet = read.csv("F:/national-assessment/data/stock-flow-model/flow-pathway-diagram.csv")
+mySheet = read.csv(paste0(dataDir,"stock-flow-model/flow-pathway-diagram.csv"))
 saveDatasheet(myScenario, mySheet, sheetName)
 sheetName <- "stsimsf_FlowPathway"
 mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
-mySheet = read.csv("F:/national-assessment/data/stock-flow-model/flow-pathways.csv")
+mySheet = read.csv(paste0(dataDir,"stock-flow-model/flow-pathways.csv"))
 saveDatasheet(myScenario, mySheet, sheetName)
 
 # Transition-triggered flows
@@ -1093,11 +1073,11 @@ myScenario <- scenario(myProject, scenario = "Flow Pathways [Transition Flows]")
 mergeDependencies(myScenario) = TRUE
 sheetName <- "stsimsf_FlowPathwayDiagram"
 mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
-mySheet = read.csv("F:/national-assessment/data/stock-flow-model/flow-pathway-diagram.csv")
+mySheet = read.csv(paste0(dataDir,"stock-flow-model/flow-pathway-diagram.csv"))
 saveDatasheet(myScenario, mySheet, sheetName)
 sheetName <- "stsimsf_FlowPathway"
 mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
-mySheet = read.csv("F:/national-assessment/data/stock-flow-model/flow-pathways-lulc-disturbance.csv")
+mySheet = read.csv(paste0(dataDir,"stock-flow-model/flow-pathways-lulc-disturbance.csv"))
 saveDatasheet(myScenario, mySheet, sheetName)
 
 # Merge Flow Pathways Sub-Scenarios
@@ -1109,21 +1089,21 @@ dependency(myScenario, c("Flow Pathways [Base Flows]", "Flow Pathways [Transitio
 myScenario <- scenario(myProject, scenario = "SF Stock Group Membership")
 sheetName <- "stsimsf_StockTypeGroupMembership"
 mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
-mySheet = read.csv("F:/national-assessment/data/stock-flow-model/stock-type-group-membership.csv")
+mySheet = read.csv(paste0(dataDir,"stock-flow-model/stock-type-group-membership.csv"))
 saveDatasheet(myScenario, mySheet, sheetName)
 
 ##### SF Flow Group Membership #####
 myScenario <- scenario(myProject, scenario = "SF Flow Group Membership")
 sheetName <- "stsimsf_FlowTypeGroupMembership"
 mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
-mySheet = read.csv("F:/national-assessment/data/stock-flow-model/flow-type-group-membership.csv")
+mySheet = read.csv(paste0(dataDir,"stock-flow-model/flow-type-group-membership.csv"))
 saveDatasheet(myScenario, mySheet, sheetName)
 
 ##### SF Flow Flow Order #####
 myScenario <- scenario(myProject, scenario = "SF Flow Order")
 sheetName <- "stsimsf_FlowOrder"
 mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
-mySheet = read.csv("F:/national-assessment/data/stock-flow-model/flow-order.csv")
+mySheet = read.csv(paste0(dataDir,"stock-flow-model/flow-order.csv"))
 saveDatasheet(myScenario, mySheet, sheetName)
 
 myScenario <- scenario(myProject, scenario = "SF Flow Order")
@@ -1147,28 +1127,24 @@ mySheet[1,"SpatialOutputFLTimesteps"] = 1
 saveDatasheet(myScenario, mySheet, sheetName)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+##### SF Flow Multipliers #####
+myScenario <- scenario(myProject, scenario = "SF Flow Multipliers")
+sheetName <- "stsimsf_FlowMultiplier"
+mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
+mySheet = addRow(mySheet, data.frame(Timestep = 2002, FlowGroupID = "Net Growth: Total", Value = 0.01))
+mySheet = addRow(mySheet, data.frame(Timestep = 2002, FlowGroupID = "Q10 Fast Flows", Value = 0.01))
+mySheet = addRow(mySheet, data.frame(Timestep = 2002, FlowGroupID = "Q10 Slow Flows", Value = 0.01))
+saveDatasheet(myScenario, mySheet, sheetName)
 
 
 
 ##### SF Flow Spatial Multipliers #####
-indir = "F:/national-assessment/data/flow-spatial-multipliers/growth/"
+indir = paste0(prefixDir, dataDir,"flow-spatial-multipliers/growth")
+gcmList = list.dirs(indir, recursive = F, full.names = F)
 gcm = "historical"
 rcp = ""
 
-myScenario <- scenario(myProject, scenario = "SF Flow Spatial Multipliers [Growth]")
+myScenario <- scenario(myProject, scenario = paste0("SF Flow Spatial Multipliers [", gcm, "; Growth]"))
 mergeDependencies(myScenario) = TRUE
 sheetName <- "stsimsf_FlowSpatialMultiplier"
 mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
@@ -1206,67 +1182,30 @@ dependency(myScenario, c("SF Flow Spatial Multipliers [Growth]", "SF Flow Spatia
 
 
 
-##### SF Flow Multipliers #####
-myScenario <- scenario(myProject, scenario = "SF Flow Multipliers")
-sheetName <- "stsimsf_FlowMultiplier"
-mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
-mySheet = addRow(mySheet, data.frame(Timestep = 2002, FlowGroupID = "Net Growth: Total", Value = 0.01))
-mySheet = addRow(mySheet, data.frame(Timestep = 2002, FlowGroupID = "Q10 Fast Flows", Value = 0.01))
-mySheet = addRow(mySheet, data.frame(Timestep = 2002, FlowGroupID = "Q10 Slow Flows", Value = 0.01))
-saveDatasheet(myScenario, mySheet, sheetName)
 
 
-##### Create a multi-processing mask file #####
 
-eco = raster("F:/national-assessment/data/initial-conditions/ic-ecoregion.tif")
-r1 = reclassify(eco, c(9.5,76.6,NA, 78.5,84.6,NA))
-r1 = reclassify(r1, c(0,85,1))
 
-r2 = reclassify(eco, c(0,11.6,NA, 14.5,79.6,NA, 80.5,85.6,NA))
-r2 = reclassify(r2, c(0,85,2))
 
-r3 = reclassify(eco, c(-Inf,9.5,NA, 11.5,14.5,NA, 17.5,40.5,NA, 41.5,85.5,NA))
-r3 = reclassify(r3, c(0,85,3))
 
-r4 = reclassify(eco, c(-Inf,17.5,NA, 23.5,78.5,NA, 79.5,80.5,NA, 81.5,85.5,NA))
-r4 = reclassify(r4, c(0,85,4))
 
-r5 = reclassify(eco, c(-Inf,41,NA, 43,45,NA, 46.5,85,NA))
-r5 = reclassify(r5, c(0,85,5))
 
-r6 = reclassify(eco, c(-Inf,46.5,NA, 57.5,85,NA))
-r6 = reclassify(r6, c(0,85,6))
 
-r7 = reclassify(eco, c(-Inf,23.5,NA, 30.5,43.5,NA, 44.5,85.5,NA))
-r7 = reclassify(r7, c(0,85,7))
 
-r8 = reclassify(eco, c(-Inf,30.5,NA, 40.5,71.5,NA, 74.5,85.5,NA))
-r8 = reclassify(r8, c(0,85,8))
 
-r9 = reclassify(eco, c(-Inf,57.5,NA, 62.5,63.5,NA, 64.5,65.5,NA, 71.5,81.5,NA, 84.5,85.5,NA))
-r9 = reclassify(r9, c(0,85,9))
 
-r10 = reclassify(eco, c(-Inf,44.5,NA, 45.5,62.5,NA, 63.5,64.5,NA, 65.5,74.5,NA, 76.5,85.5,NA))
-r10 = reclassify(r10, c(0,85,10))
 
-plot(r10)
 
-mpRegions = mean(r1,r2,r3,r4,r5,r6,r7,r8,r9,r10, na.rm=TRUE)
-plot(mpRegions)
-writeRaster(mpRegions, "F:/national-assessment/data/spatial-multiprocessing/multi-processing-regions.tif", overwrite=T, format="GTiff")
 
-writeRaster(r1, "F:/national-assessment/data/spatial-multiprocessing/r1-pacific-coast.tif", overwrite=T, format="GTiff")
-writeRaster(r2, "F:/national-assessment/data/spatial-multiprocessing/r2-basin-range.tif", overwrite=T, format="GTiff")
-writeRaster(r3, "F:/national-assessment/data/spatial-multiprocessing/r3-northern-rockies.tif", overwrite=T, format="GTiff")
-writeRaster(r4, "F:/national-assessment/data/spatial-multiprocessing/r4-interior-plateau.tif", overwrite=T, format="GTiff")
-writeRaster(r5, "F:/national-assessment/data/spatial-multiprocessing/r5-northern-plains.tif", overwrite=T, format="GTiff")
-writeRaster(r6, "F:/national-assessment/data/spatial-multiprocessing/r6-great-lakes.tif", overwrite=T, format="GTiff")
-writeRaster(r7, "F:/national-assessment/data/spatial-multiprocessing/r7-great-plains.tif", overwrite=T, format="GTiff")
-writeRaster(r8, "F:/national-assessment/data/spatial-multiprocessing/r8-eastern-plains.tif", overwrite=T, format="GTiff")
-writeRaster(r9, "F:/national-assessment/data/spatial-multiprocessing/r9-north-east.tif", overwrite=T, format="GTiff")
-writeRaster(r10, "F:/national-assessment/data/spatial-multiprocessing/r10-south-east.tif", overwrite=T, format="GTiff")
 
-testRegions = mean(r1,r3, na.rm=TRUE)
-plot(testRegions)
-writeRaster(testRegions, "F:/national-assessment/data/spatial-multiprocessing/multi-processing-regions-test.tif", overwrite=T, format="GTiff")
+
+
+
+
+
+
+
+
+
+
 

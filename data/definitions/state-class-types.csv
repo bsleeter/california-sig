@@ -1,49 +1,49 @@
-Name,StateLabelXID,StateLabelYID,ID,Legend,Description,IsAutoName
-Water: All,Water,All,11,NA,NA,NA
-Snow/Ice: All,Snow/Ice,All,12,NA,NA,NA
-Developed: Open Space,Developed,Open Space,21,NA,NA,NA
-Developed: Low Intensity,Developed,Low Intensity,22,NA,NA,NA
-Developed: Medium Intensity,Developed,Medium Intensity,23,NA,NA,NA
-Developed: High Intensity,Developed,High Intensity,24,NA,NA,NA
-Developed: Transportation,Developed,Transportation,25,NA,NA,NA
-Barren: All,Barren,All,31,NA,NA,NA
-Shrubland: Desert Scrub,Shrubland,Desert Scrub,51,NA,NA,NA
-Shrubland: Pacific Coastal Shrub,Shrubland,Pacific Coastal Shrub,58,NA,NA,NA
-Shrubland: Chaparral,Shrubland,Chaparral,61,NA,NA,NA
-Grassland: All,Grassland,All,71,NA,NA,NA
-Agriculture: Pasture,Agriculture,Pasture,81,NA,NA,NA
-Agriculture: Cropland,Agriculture,Cropland,82,NA,NA,NA
-Agriculture: Orchard,Agriculture,Orchard,83,NA,NA,NA
-Agriculture: Vineyard,Agriculture,Vineyard,84,NA,NA,NA
-Wetland: Woody,Wetland,Woody,90,NA,NA,NA
-Wetland: Herbaceous,Wetland,Herbaceous,95,NA,NA,NA
-Forest: White/Red/Jack Pine Group,Forest,White/Red/Jack Pine Group,100,NA,NA,NA
-Forest: Spruce/Fir Group,Forest,Spruce/Fir Group,120,NA,NA,NA
-Forest: Longleaf/Slash Pine Group,Forest,Longleaf/Slash Pine Group,140,NA,NA,NA
-Forest: Loblolly/Shortleaf Pine Group,Forest,Loblolly/Shortleaf Pine Group,160,NA,NA,NA
-Forest: Pinyon/Juniper Group,Forest,Pinyon/Juniper Group,180,NA,NA,NA
-Forest: Douglas-fir Group,Forest,Douglas-fir Group,200,NA,NA,NA
-Forest: Ponderosa Pine Group,Forest,Ponderosa Pine Group,220,NA,NA,NA
-Forest: Western White Pine Group,Forest,Western White Pine Group,240,NA,NA,NA
-Forest: Fir/Spruce/Mountain Hemlock Group,Forest,Fir/Spruce/Mountain Hemlock Group,260,NA,NA,NA
-Forest: Lodgepole Pine Group,Forest,Lodgepole Pine Group,280,NA,NA,NA
-Forest: Hemlock/Sitka Spruce Group,Forest,Hemlock/Sitka Spruce Group,300,NA,NA,NA
-Forest: Western Larch Group,Forest,Western Larch Group,320,NA,NA,NA
-Forest: Redwood Group,Forest,Redwood Group,340,NA,NA,NA
-Forest: Other Western Softwood Group,Forest,Other Western Softwood Group,360,NA,NA,NA
-Forest: California Mixed Conifer Group,Forest,California Mixed Conifer Group,370,NA,NA,NA
-Forest: Exotic Softwoods Group,Forest,Exotic Softwoods Group,380,NA,NA,NA
-Forest: Oak/Pine Group,Forest,Oak/Pine Group,400,NA,NA,NA
-Forest: Oak/Hickory Group,Forest,Oak/Hickory Group,500,NA,NA,NA
-Forest: Oak/Gum/Cypress Group,Forest,Oak/Gum/Cypress Group,600,NA,NA,NA
-Forest: Elm/Ash/Cottonwood Group,Forest,Elm/Ash/Cottonwood Group,700,NA,NA,NA
-Forest: Maple/Beech/Birch Group,Forest,Maple/Beech/Birch Group,800,NA,NA,NA
-Forest: Aspen/Birch Group,Forest,Aspen/Birch Group,900,NA,NA,NA
-Forest: Alder/Maple Group,Forest,Alder/Maple Group,910,NA,NA,NA
-Forest: Western Oak Group,Forest,Western Oak Group,920,NA,NA,NA
-Forest: Tanoak/Laurel Group,Forest,Tanoak/Laurel Group,940,NA,NA,NA
-Forest: Other Western Hardwoods Group,Forest,Other Western Hardwoods Group,950,NA,NA,NA
-Forest: Tropical Hardwoods Group,Forest,Tropical Hardwoods Group,980,NA,NA,NA
-Forest: Exotic Hardwoods Group,Forest,Exotic Hardwoods Group,990,NA,NA,NA
-Shrubland: Post Fire Shrub,Shrubland,Post Fire Shrub,1000,NA,NA,NA
-Grassland: Post Fire Grass,Grassland,Post Fire Grass,1001,NA,NA,NA
+Name,StateLabelXID,StateLabelYID,ID,Color,Legend,Description,IsAutoName
+Water: All,Water,All,11,"255,84,117,168",NA,NA,NA
+Snow/Ice: All,Snow/Ice,All,12,"255,250,250,250",NA,NA,NA
+Developed: Open Space,Developed,Open Space,21,"255,232,209,209",NA,NA,NA
+Developed: Low Intensity,Developed,Low Intensity,22,"255,226,158,140",NA,NA,NA
+Developed: Medium Intensity,Developed,Medium Intensity,23,"255,255,0,0",NA,NA,NA
+Developed: High Intensity,Developed,High Intensity,24,"255,181,0,0",NA,NA,NA
+Developed: Transportation,Developed,Transportation,25,"255,103,0,0",NA,NA,NA
+Barren: All,Barren,All,31,"255,210,205,192",NA,NA,NA
+Shrubland: Desert Scrub,Shrubland,Desert Scrub,51,"255,220,202,143",NA,NA,NA
+Shrubland: Pacific Coastal Shrub,Shrubland,Pacific Coastal Shrub,58,"200,220,202,143",NA,NA,NA
+Shrubland: Chaparral,Shrubland,Chaparral,61,"150,220,202,143",NA,NA,NA
+Grassland: All,Grassland,All,71,"255,253,233,170",NA,NA,NA
+Agriculture: Pasture,Agriculture,Pasture,81,"255,251,246,93",NA,NA,NA
+Agriculture: Cropland,Agriculture,Cropland,82,"255,202,145,70",NA,NA,NA
+Agriculture: Orchard,Agriculture,Orchard,83,"255,152,105,44",NA,NA,NA
+Agriculture: Vineyard,Agriculture,Vineyard,84,"255,112,78,33",NA,NA,NA
+Wetland: Woody,Wetland,Woody,90,"255,200,230,248",NA,NA,NA
+Wetland: Herbaceous,Wetland,Herbaceous,95,"255,100,179,213",NA,NA,NA
+Forest: White/Red/Jack Pine Group,Forest,White/Red/Jack Pine Group,100,"255,177,222,211",NA,NA,NA
+Forest: Spruce/Fir Group,Forest,Spruce/Fir Group,120,"255,255,244,80",NA,NA,NA
+Forest: Longleaf/Slash Pine Group,Forest,Longleaf/Slash Pine Group,140,"255,250,168,95",NA,NA,NA
+Forest: Loblolly/Shortleaf Pine Group,Forest,Loblolly/Shortleaf Pine Group,160,"255,254,208,149",NA,NA,NA
+Forest: Pinyon/Juniper Group,Forest,Pinyon/Juniper Group,180,"255,231,217,147",NA,NA,NA
+Forest: Douglas-fir Group,Forest,Douglas-fir Group,200,"255,204,231,211",NA,NA,NA
+Forest: Ponderosa Pine Group,Forest,Ponderosa Pine Group,220,"255,163,191,115",NA,NA,NA
+Forest: Western White Pine Group,Forest,Western White Pine Group,240,"255,43,147,209",NA,NA,NA
+Forest: Fir/Spruce/Mountain Hemlock Group,Forest,Fir/Spruce/Mountain Hemlock Group,260,"255,255,204,78",NA,NA,NA
+Forest: Lodgepole Pine Group,Forest,Lodgepole Pine Group,280,"255,185,136,96",NA,NA,NA
+Forest: Hemlock/Sitka Spruce Group,Forest,Hemlock/Sitka Spruce Group,300,"255,106,193,123",NA,NA,NA
+Forest: Western Larch Group,Forest,Western Larch Group,320,"225,221,89,73",NA,NA,NA
+Forest: Redwood Group,Forest,Redwood Group,340,"255,61,154,80",NA,NA,NA
+Forest: Other Western Softwood Group,Forest,Other Western Softwood Group,360,"255,92,129,56",NA,NA,NA
+Forest: California Mixed Conifer Group,Forest,California Mixed Conifer Group,370,"255,56,129,78",NA,NA,NA
+Forest: Exotic Softwoods Group,Forest,Exotic Softwoods Group,380,"255,109,192,0",NA,NA,NA
+Forest: Oak/Pine Group,Forest,Oak/Pine Group,400,"255,99,175,94",NA,NA,NA
+Forest: Oak/Hickory Group,Forest,Oak/Hickory Group,500,"255,198,222,137",NA,NA,NA
+Forest: Oak/Gum/Cypress Group,Forest,Oak/Gum/Cypress Group,600,"255,107,167,174",NA,NA,NA
+Forest: Elm/Ash/Cottonwood Group,Forest,Elm/Ash/Cottonwood Group,700,"255,176,88,64",NA,NA,NA
+Forest: Maple/Beech/Birch Group,Forest,Maple/Beech/Birch Group,800,"255,150,181,131",NA,NA,NA
+Forest: Aspen/Birch Group,Forest,Aspen/Birch Group,900,"255,158,118,180",NA,NA,NA
+Forest: Alder/Maple Group,Forest,Alder/Maple Group,910,"255,202,82,163",NA,NA,NA
+Forest: Western Oak Group,Forest,Western Oak Group,920,"255,202,142,163",NA,NA,NA
+Forest: Tanoak/Laurel Group,Forest,Tanoak/Laurel Group,940,"255,160,82,133",NA,NA,NA
+Forest: Other Western Hardwoods Group,Forest,Other Western Hardwoods Group,950,"255,202,142,163",NA,NA,NA
+Forest: Tropical Hardwoods Group,Forest,Tropical Hardwoods Group,980,"255,0,83,89",NA,NA,NA
+Forest: Exotic Hardwoods Group,Forest,Exotic Hardwoods Group,990,"255,213,83,89",NA,NA,NA
+Shrubland: Post Fire Shrub,Shrubland,Post Fire Shrub,1000,"255,255,0,128",NA,NA,NA
+Grassland: Post Fire Grass,Grassland,Post Fire Grass,1001,"255,128,0,255",NA,NA,NA

@@ -1,101 +1,101 @@
 Name,ID,Color,Legend,Description
-Urbanization: Open,1,,,NLCD Change
-Urbanization: Low,2,,,NLCD Change
-Urbanization: Medium,3,,,NLCD Change
-Urbanization: High,4,,,NLCD Change
-Intensification: Open to Low,11,,,NLCD Change
-Intensification: Open to Medium,12,,,NLCD Change
-Intensification: Open to High,13,,,NLCD Change
-Intensification: Low to Medium,14,,,NLCD Change
-Intensification: Low to High,15,,,NLCD Change
-Intensification: Medium to High,16,,,NLCD Change
-Fire: High Severity,21,,,Landfire Disturbance data
-Fire: Medium Severity,22,,,Landfire Disturbance data
-Fire: Low Severity,23,,,Landfire Disturbance data
-Insect: High Severity,31,,,Based on ADS data with mortality > 30%
-Insect: Medium Severity,32,,,Based on ADS data with mortality 10-30%
-Insect: Low Severity,33,,,Based on ADS data with mortality 4-10%
-Management: Forest Clearcut,41,,,Landfire Disturbance data
-Management: Forest Selection,42,,,Landfire Disturbance data
-Management: Salvage Logging,43,,,
-Management: Forest Selection 85%,44,,,
-Management: Forest Selection 20%,45,,,
-Ag Expansion: Pasture,51,,,NLCD Change
-Ag Expansion: Cropland,52,,,NLCD Change
-Ag Expansion: Orchard,53,,,
-Ag Expansion: Vineyard,54,,,
-Ag Contraction: Pasture to Forest: Alder/Maple Group,101,,,
-Ag Contraction: Pasture to Forest: Aspen/Birch Group,102,,,
-Ag Contraction: Pasture to Forest: California Mixed Conifer Group,103,,,
-Ag Contraction: Pasture to Forest: Douglas-fir Group,104,,,
-Ag Contraction: Pasture to Forest: Elm/Ash/Cottonwood Group,105,,,
-Ag Contraction: Pasture to Forest: Exotic Hardwoods Group,106,,,
-Ag Contraction: Pasture to Forest: Exotic Softwoods Group,107,,,
-Ag Contraction: Pasture to Forest: Fir/Spruce/Mountain Hemlock Group,108,,,
-Ag Contraction: Pasture to Forest: Hemlock/Sitka Spruce Group,109,,,
-Ag Contraction: Pasture to Forest: Loblolly/Shortleaf Pine Group,110,,,
-Ag Contraction: Pasture to Forest: Lodgepole Pine Group,111,,,
-Ag Contraction: Pasture to Forest: Longleaf/Slash Pine Group,112,,,
-Ag Contraction: Pasture to Forest: Maple/Beech/Birch Group,113,,,
-Ag Contraction: Pasture to Forest: Oak/Gum/Cypress Group,114,,,
-Ag Contraction: Pasture to Forest: Oak/Hickory Group,115,,,
-Ag Contraction: Pasture to Forest: Oak/Pine Group,116,,,
-Ag Contraction: Pasture to Forest: Other Western Hardwoods Group,117,,,
-Ag Contraction: Pasture to Forest: Other Western Softwood Group,118,,,
-Ag Contraction: Pasture to Forest: Pinyon/Juniper Group,119,,,
-Ag Contraction: Pasture to Forest: Ponderosa Pine Group,120,,,
-Ag Contraction: Pasture to Forest: Redwood Group,121,,,
-Ag Contraction: Pasture to Forest: Spruce/Fir Group,122,,,
-Ag Contraction: Pasture to Forest: Tanoak/Laurel Group,123,,,
-Ag Contraction: Pasture to Forest: Tropical Hardwoods Group,124,,,
-Ag Contraction: Pasture to Forest: Western Larch Group,125,,,
-Ag Contraction: Pasture to Forest: Western Oak Group,126,,,
-Ag Contraction: Pasture to Forest: Western White Pine Group,127,,,
-Ag Contraction: Pasture to Forest: White/Red/Jack Pine Group,128,,,
-Ag Contraction: Pasture to Grassland: All,129,,,
-Ag Contraction: Pasture to Grassland: Post Fire Grass,130,,,
-Ag Contraction: Pasture to Shrubland: Chaparral,133,,,
-Ag Contraction: Pasture to Shrubland: Desert Scrub,136,,,
-Ag Contraction: Pasture to Shrubland: Pacific Coastal Shrub,141,,,
-Ag Contraction: Pasture to Shrubland: Post Fire Shrub,144,,,
-Ag Contraction: Pasture to Wetland: Herbaceous,148,,,
-Ag Contraction: Pasture to Wetland: Woody,149,,,
-Ag Contraction: Cropland to Forest: Alder/Maple Group,201,,,
-Ag Contraction: Cropland to Forest: Aspen/Birch Group,202,,,
-Ag Contraction: Cropland to Forest: California Mixed Conifer Group,203,,,
-Ag Contraction: Cropland to Forest: Douglas-fir Group,204,,,
-Ag Contraction: Cropland to Forest: Elm/Ash/Cottonwood Group,205,,,
-Ag Contraction: Cropland to Forest: Exotic Hardwoods Group,206,,,
-Ag Contraction: Cropland to Forest: Exotic Softwoods Group,207,,,
-Ag Contraction: Cropland to Forest: Fir/Spruce/Mountain Hemlock Group,208,,,
-Ag Contraction: Cropland to Forest: Hemlock/Sitka Spruce Group,209,,,
-Ag Contraction: Cropland to Forest: Loblolly/Shortleaf Pine Group,210,,,
-Ag Contraction: Cropland to Forest: Lodgepole Pine Group,211,,,
-Ag Contraction: Cropland to Forest: Longleaf/Slash Pine Group,212,,,
-Ag Contraction: Cropland to Forest: Maple/Beech/Birch Group,213,,,
-Ag Contraction: Cropland to Forest: Oak/Gum/Cypress Group,214,,,
-Ag Contraction: Cropland to Forest: Oak/Hickory Group,215,,,
-Ag Contraction: Cropland to Forest: Oak/Pine Group,216,,,
-Ag Contraction: Cropland to Forest: Other Western Hardwoods Group,217,,,
-Ag Contraction: Cropland to Forest: Other Western Softwood Group,218,,,
-Ag Contraction: Cropland to Forest: Pinyon/Juniper Group,219,,,
-Ag Contraction: Cropland to Forest: Ponderosa Pine Group,220,,,
-Ag Contraction: Cropland to Forest: Redwood Group,221,,,
-Ag Contraction: Cropland to Forest: Spruce/Fir Group,222,,,
-Ag Contraction: Cropland to Forest: Tanoak/Laurel Group,223,,,
-Ag Contraction: Cropland to Forest: Tropical Hardwoods Group,224,,,
-Ag Contraction: Cropland to Forest: Western Larch Group,225,,,
-Ag Contraction: Cropland to Forest: Western Oak Group,226,,,
-Ag Contraction: Cropland to Forest: Western White Pine Group,227,,,
-Ag Contraction: Cropland to Forest: White/Red/Jack Pine Group,228,,,
-Ag Contraction: Cropland to Grassland: All,229,,,
-Ag Contraction: Cropland to Grassland: Post Fire Grass,230,,,
-Ag Contraction: Cropland to Shrubland: Chaparral,233,,,
-Ag Contraction: Cropland to Shrubland: Desert Scrub,236,,,
-Ag Contraction: Cropland to Shrubland: Pacific Coastal Shrub,241,,,
-Ag Contraction: Cropland to Shrubland: Post Fire Shrub,244,,,
-Ag Contraction: Cropland to Wetland: Herbaceous,248,,,
-Ag Contraction: Cropland to Wetland: Woody,249,,,
-Succession: Post Fire Recovery,71,,,
-Ag Change: Cropland to Pasture,61,,,
-Ag Change: Pasture to Cropland,62,,,
+Urbanization: Open,1,"255,232,209,209",,NLCD Change
+Urbanization: Low,2,"255,226,158,140",,NLCD Change
+Urbanization: Medium,3,"255,255,0,0",,NLCD Change
+Urbanization: High,4,"255,181,0,0",,NLCD Change
+Intensification: Open to Low,11,"255,226,158,140",,NLCD Change
+Intensification: Open to Medium,12,"255,255,0,0",,NLCD Change
+Intensification: Open to High,13,"255,181,0,0",,NLCD Change
+Intensification: Low to Medium,14,"255,255,0,0",,NLCD Change
+Intensification: Low to High,15,"255,181,0,0",,NLCD Change
+Intensification: Medium to High,16,"255,181,0,0",,NLCD Change
+Fire: High Severity,21,"100,0,0,0",,Landfire Disturbance data
+Fire: Medium Severity,22,"255,20,20,0",,Landfire Disturbance data
+Fire: Low Severity,23,"255,170,170,0",,Landfire Disturbance data
+Insect: High Severity,31,"90,35,100,0",,Based on ADS data with mortality > 30%
+Insect: Medium Severity,32,"175,75,190,0",,Based on ADS data with mortality 10-30%
+Insect: Low Severity,33,"230,170,240,0",,Based on ADS data with mortality 4-10%
+Management: Forest Clearcut,41,"220,40,220,0",,Landfire Disturbance data
+Management: Forest Selection,42,"200,170,240,0",,Landfire Disturbance data
+Management: Salvage Logging,43,"170,170,240,0",,
+Management: Forest Selection 85%,44,"185,60,185,0",,
+Management: Forest Selection 20%,45,"235,200,235,0",,
+Ag Expansion: Pasture,51,"255,251,246,93",,NLCD Change
+Ag Expansion: Cropland,52,"255,202,145,70",,NLCD Change
+Ag Expansion: Orchard,53,"255,152,105,44",,
+Ag Expansion: Vineyard,54,"255,112,78,33",,
+Ag Contraction: Pasture to Forest: Alder/Maple Group,101,"255,177,222,211",,
+Ag Contraction: Pasture to Forest: Aspen/Birch Group,102,"255,255,244,80",,
+Ag Contraction: Pasture to Forest: California Mixed Conifer Group,103,"255,250,168,95",,
+Ag Contraction: Pasture to Forest: Douglas-fir Group,104,"255,254,208,149",,
+Ag Contraction: Pasture to Forest: Elm/Ash/Cottonwood Group,105,"255,231,217,147",,
+Ag Contraction: Pasture to Forest: Exotic Hardwoods Group,106,"255,204,231,211",,
+Ag Contraction: Pasture to Forest: Exotic Softwoods Group,107,"255,163,191,115",,
+Ag Contraction: Pasture to Forest: Fir/Spruce/Mountain Hemlock Group,108,"255,43,147,209",,
+Ag Contraction: Pasture to Forest: Hemlock/Sitka Spruce Group,109,"255,255,204,78",,
+Ag Contraction: Pasture to Forest: Loblolly/Shortleaf Pine Group,110,"255,185,136,96",,
+Ag Contraction: Pasture to Forest: Lodgepole Pine Group,111,"255,106,193,123",,
+Ag Contraction: Pasture to Forest: Longleaf/Slash Pine Group,112,"225,221,89,73",,
+Ag Contraction: Pasture to Forest: Maple/Beech/Birch Group,113,"255,61,154,80",,
+Ag Contraction: Pasture to Forest: Oak/Gum/Cypress Group,114,"255,92,129,56",,
+Ag Contraction: Pasture to Forest: Oak/Hickory Group,115,"255,56,129,78",,
+Ag Contraction: Pasture to Forest: Oak/Pine Group,116,"255,109,192,0",,
+Ag Contraction: Pasture to Forest: Other Western Hardwoods Group,117,"255,99,175,94",,
+Ag Contraction: Pasture to Forest: Other Western Softwood Group,118,"255,198,222,137",,
+Ag Contraction: Pasture to Forest: Pinyon/Juniper Group,119,"255,107,167,174",,
+Ag Contraction: Pasture to Forest: Ponderosa Pine Group,120,"255,176,88,64",,
+Ag Contraction: Pasture to Forest: Redwood Group,121,"255,150,181,131",,
+Ag Contraction: Pasture to Forest: Spruce/Fir Group,122,"255,158,118,180",,
+Ag Contraction: Pasture to Forest: Tanoak/Laurel Group,123,"255,202,82,163",,
+Ag Contraction: Pasture to Forest: Tropical Hardwoods Group,124,"255,202,142,163",,
+Ag Contraction: Pasture to Forest: Western Larch Group,125,"255,160,82,133",,
+Ag Contraction: Pasture to Forest: Western Oak Group,126,"255,202,142,163",,
+Ag Contraction: Pasture to Forest: Western White Pine Group,127,"255,0,83,89",,
+Ag Contraction: Pasture to Forest: White/Red/Jack Pine Group,128,"255,213,83,89",,
+Ag Contraction: Pasture to Grassland: All,129,"255,253,233,170",,
+Ag Contraction: Pasture to Grassland: Post Fire Grass,130,"255,128,0,255",,
+Ag Contraction: Pasture to Shrubland: Chaparral,133,"255,220,202,143",,
+Ag Contraction: Pasture to Shrubland: Desert Scrub,136,"200,220,202,143",,
+Ag Contraction: Pasture to Shrubland: Pacific Coastal Shrub,141,"150,220,202,143",,
+Ag Contraction: Pasture to Shrubland: Post Fire Shrub,144,"255,255,0,128",,
+Ag Contraction: Pasture to Wetland: Herbaceous,148,"255,200,230,248",,
+Ag Contraction: Pasture to Wetland: Woody,149,"255,100,179,213",,
+Ag Contraction: Cropland to Forest: Alder/Maple Group,201,"255,177,222,211",,
+Ag Contraction: Cropland to Forest: Aspen/Birch Group,202,"255,255,244,80",,
+Ag Contraction: Cropland to Forest: California Mixed Conifer Group,203,"255,250,168,95",,
+Ag Contraction: Cropland to Forest: Douglas-fir Group,204,"255,254,208,149",,
+Ag Contraction: Cropland to Forest: Elm/Ash/Cottonwood Group,205,"255,231,217,147",,
+Ag Contraction: Cropland to Forest: Exotic Hardwoods Group,206,"255,204,231,211",,
+Ag Contraction: Cropland to Forest: Exotic Softwoods Group,207,"255,163,191,115",,
+Ag Contraction: Cropland to Forest: Fir/Spruce/Mountain Hemlock Group,208,"255,43,147,209",,
+Ag Contraction: Cropland to Forest: Hemlock/Sitka Spruce Group,209,"255,255,204,78",,
+Ag Contraction: Cropland to Forest: Loblolly/Shortleaf Pine Group,210,"255,185,136,96",,
+Ag Contraction: Cropland to Forest: Lodgepole Pine Group,211,"255,106,193,123",,
+Ag Contraction: Cropland to Forest: Longleaf/Slash Pine Group,212,"225,221,89,73",,
+Ag Contraction: Cropland to Forest: Maple/Beech/Birch Group,213,"255,61,154,80",,
+Ag Contraction: Cropland to Forest: Oak/Gum/Cypress Group,214,"255,92,129,56",,
+Ag Contraction: Cropland to Forest: Oak/Hickory Group,215,"255,56,129,78",,
+Ag Contraction: Cropland to Forest: Oak/Pine Group,216,"255,109,192,0",,
+Ag Contraction: Cropland to Forest: Other Western Hardwoods Group,217,"255,99,175,94",,
+Ag Contraction: Cropland to Forest: Other Western Softwood Group,218,"255,198,222,137",,
+Ag Contraction: Cropland to Forest: Pinyon/Juniper Group,219,"255,107,167,174",,
+Ag Contraction: Cropland to Forest: Ponderosa Pine Group,220,"255,176,88,64",,
+Ag Contraction: Cropland to Forest: Redwood Group,221,"255,150,181,131",,
+Ag Contraction: Cropland to Forest: Spruce/Fir Group,222,"255,158,118,180",,
+Ag Contraction: Cropland to Forest: Tanoak/Laurel Group,223,"255,202,82,163",,
+Ag Contraction: Cropland to Forest: Tropical Hardwoods Group,224,"255,202,142,163",,
+Ag Contraction: Cropland to Forest: Western Larch Group,225,"255,160,82,133",,
+Ag Contraction: Cropland to Forest: Western Oak Group,226,"255,202,142,163",,
+Ag Contraction: Cropland to Forest: Western White Pine Group,227,"255,0,83,89",,
+Ag Contraction: Cropland to Forest: White/Red/Jack Pine Group,228,"255,213,83,89",,
+Ag Contraction: Cropland to Grassland: All,229,"255,253,233,170",,
+Ag Contraction: Cropland to Grassland: Post Fire Grass,230,"255,128,0,255",,
+Ag Contraction: Cropland to Shrubland: Chaparral,233,"255,220,202,143",,
+Ag Contraction: Cropland to Shrubland: Desert Scrub,236,"200,220,202,143",,
+Ag Contraction: Cropland to Shrubland: Pacific Coastal Shrub,241,"150,220,202,143",,
+Ag Contraction: Cropland to Shrubland: Post Fire Shrub,244,"255,255,0,128",,
+Ag Contraction: Cropland to Wetland: Herbaceous,248,"255,200,230,248",,
+Ag Contraction: Cropland to Wetland: Woody,249,"255,100,179,213",,
+Succession: Post Fire Recovery,71,"100,180,115,0",,
+Ag Change: Cropland to Pasture,61,"255,251,246,93",,
+Ag Change: Pasture to Cropland,62,"255,202,145,70",,

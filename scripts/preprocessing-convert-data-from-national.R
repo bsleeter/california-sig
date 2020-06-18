@@ -1,9 +1,10 @@
 
 
 
-library(tidyverse)
+
 library(raster)
 library(sf)
+library(tidyverse)
 library(doParallel)
 library(foreach)
 
@@ -48,56 +49,83 @@ writeRaster(ca_stocks, format="GTiff", overwrite=T, bylayer=T, filename=paste0("
 
 
 
+
+
+
+
+library(doParallel)
+library(foreach)
+
+
+
 ##### Subset spatial flow multipliers to California ##### 
 dir = getwd()
-gcmList = list.files("F:/national-assessment/data/flow-spatial-multipliers/q10Slow")
+gcmList = list.files("F:/national-assessment/data/flow-spatial-multipliers/growth")
 rcpList = c("rcp45", "rcp85")
 
-indir = "F:/national-assessment/data/flow-spatial-multipliers/q10Slow/"
-outdir = "data/flow-spatial-multipliers/q10Slow/"
+
+
+# newDirs = (paste0(prefixDir, outdir, gcmList))
+# foreach(i =  newDirs) %do%
+#   dir.create(i)
+
+
+
 
 cl = makeCluster(21)
 registerDoParallel(cl)
 startTime = Sys.time()
 
-rcp = "rcp85" # Run code for each RCP
+rcp = "rcp45" # Run code for each RCP
 var = "q10Slow"
+indir = "F:/national-assessment/data/flow-spatial-multipliers/q10Slow/"
+outdir = "data/flow-spatial-multipliers/q10Slow/"
+
 foreach(i = gcmList, .packages="raster") %dopar% {
   #i = "bcc-csm1-1"
   r = stack(paste(indir, i, "/", rcp, "/", i, ".", rcp, ".", var, "_", seq(2002,2099,1), ".tif", sep=""))
   r = projectRaster(r, ca_counties)
   r = mask(r, ca_counties)
-  writeRaster(r, filename=paste(outdir, i, "/", rcp, "/", names(r), sep=""), format = "GTiff", bylayer=T, overwrite=T, options="COMPRESS=DEFLATE", datatype="INT2S")
+  writeRaster(r, filename=paste0(outdir, i, "/", rcp, "/", i, ".", rcp, ".", var, ".", seq(2002,2099,1), ".tif"), format = "GTiff", bylayer=T, overwrite=T, options="COMPRESS=DEFLATE", datatype="INT2S")
 }
 
 stopCluster(cl)
 
 endTime = Sys.time()
 time = endTime-startTime
+time
+
+
 
 # Historical Growth data
+var = "growth"
+gcm = "historical"
 list_hist = list.files("F:/national-assessment/data/flow-spatial-multipliers/growth/historical")
 hist_growth = stack(paste0("F:/national-assessment/data/flow-spatial-multipliers/growth/historical/", list_hist))
 hist_growth = projectRaster(hist_growth, ca_counties)
 hist_growth = mask(hist_growth, ca_counties)
 plot(hist_growth)
-writeRaster(hist_growth, format="GTiff", overwrite=T, bylayer=T, filename=paste0("data/flow-spatial-multipliers/growth/historical/", list_hist), options="COMPRESS=DEFLATE", datatype="INT2S")
+writeRaster(hist_growth, format="GTiff", overwrite=T, bylayer=T, filename=paste0("data/flow-spatial-multipliers/", var, "/", gcm, "/", gcm, ".", var, ".", seq(2002,2017,1), ".tif"), options="COMPRESS=DEFLATE", datatype="INT2S")
 
 # Historical Q10 Fast data
+var = "q10Fast"
+gcm = "historical"
 list_hist = list.files("F:/national-assessment/data/flow-spatial-multipliers/q10Fast/historical")
 hist_q10Fast = stack(paste0("F:/national-assessment/data/flow-spatial-multipliers/q10Fast/historical/", list_hist))
 hist_q10Fast = projectRaster(hist_q10Fast, ca_counties)
 hist_q10Fast = mask(hist_q10Fast, ca_counties)
 plot(hist_q10Fast)
-writeRaster(hist_q10Fast, format="GTiff", overwrite=T, bylayer=T, filename=paste0("data/flow-spatial-multipliers/q10Fast/historical/", list_hist), options="COMPRESS=DEFLATE", datatype="INT2S")
+writeRaster(hist_q10Fast, format="GTiff", overwrite=T, bylayer=T, filename=paste0("data/flow-spatial-multipliers/", var, "/", gcm, "/", gcm, ".", var, ".", seq(2002,2017,1), ".tif"), options="COMPRESS=DEFLATE", datatype="INT2S")
 
 # Historical Q10 Slow data
+var = "q10Slow"
+gcm = "historical"
 list_hist = list.files("F:/national-assessment/data/flow-spatial-multipliers/q10Slow/historical")
 hist_q10Slow = stack(paste0("F:/national-assessment/data/flow-spatial-multipliers/q10Slow/historical/", list_hist))
 hist_q10Slow = projectRaster(hist_q10Slow, ca_counties)
 hist_q10Slow = mask(hist_q10Slow, ca_counties)
 plot(hist_q10Slow)
-writeRaster(hist_q10Slow, format="GTiff", overwrite=T, bylayer=T, filename=paste0("data/flow-spatial-multipliers/q10Slow/historical/", list_hist), options="COMPRESS=DEFLATE", datatype="INT2S")
+writeRaster(hist_q10Slow, format="GTiff", overwrite=T, bylayer=T, filename=paste0("data/flow-spatial-multipliers/", var, "/", gcm, "/", gcm, ".", var, ".", seq(2002,2017,1), ".tif"), options="COMPRESS=DEFLATE", datatype="INT2S")
 
 
 
