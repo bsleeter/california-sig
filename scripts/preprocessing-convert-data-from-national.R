@@ -30,6 +30,8 @@ writeRaster(ca_ecoregions, "data/initial-conditions/ic-ecoregion.tif")
 ca_age = projectRaster(us_age, ca_counties, method="ngb")
 ca_age = mask(ca_age, ca_counties) 
 plot(ca_age)
+freq(ca_age)
+hist(ca_age)
 writeRaster(ca_age, "data/initial-conditions/ic-age.tif")
 
 ca_land = projectRaster(us_land, ca_counties, method="ngb")

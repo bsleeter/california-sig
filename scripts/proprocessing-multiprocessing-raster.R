@@ -17,6 +17,9 @@ rcl = as.matrix(counties_tbl)
 
 
 mpRaster = reclassify(counties, rcl)
+NAvalue(mpRaster) = -9999
 plot(mpRaster)
 hist(mpRaster)
+freq(mpRaster)
 writeRaster(mpRaster, "data/initial-conditions/multi-processing-raster.tif", format="GTiff", overwrite=T)
+

@@ -526,9 +526,14 @@ saveDatasheet(myScenario, mySheet, sheetName)
 
 
 ##### ST-Sim Output options #####
+datasheet(myScenario)
+
+
 myScenario <- scenario(myProject, scenario = "Output Options [Spatial]")
+
+# Tabular Output
 sheetName <- "stsim_OutputOptions"
-mySheet <- datasheet(myScenario, name = sheetName, empty = T, optional = T)
+mySheet <- datasheet(myScenario, name = sheetName, empty = F, optional = T)
 mySheet[1, "SummaryOutputSC"] <- T
 mySheet[1, "SummaryOutputSCTimesteps"] <- 1
 mySheet[1, "SummaryOutputSCZeroValues"] <- F
@@ -543,16 +548,35 @@ mySheet[1, "SummaryOutputTA"] <- T
 mySheet[1, "SummaryOutputTATimesteps"] <- 1
 mySheet[1, "SummaryOutputOmitSS"] <- F
 mySheet[1, "SummaryOutputOmitTS"] <- F
+saveDatasheet(myScenario, mySheet, sheetName)
+
+# Spatial Output
+sheetName <- "stsim_OutputOptionsSpatial"
+mySheet <- datasheet(myScenario, name = sheetName, empty = F, optional = T)
 mySheet[1, "RasterOutputSC"] <- T
 mySheet[1, "RasterOutputSCTimesteps"] <- 1
 mySheet[1, "RasterOutputTR"] <- T
 mySheet[1, "RasterOutputTRTimesteps"] <- 1
-mySheet[1, "RasterOutputAATP"] <- T
-mySheet[1, "RasterOutputAATPTimesteps"] <- 1
 mySheet[1, "RasterOutputTransitionEvents"] <- T
 mySheet[1, "RasterOutputTransitionEventTimesteps"] <- 1
 mySheet[1, "RasterOutputAge"] <- T
 mySheet[1, "RasterOutputAgeTimesteps"] <- 1
+saveDatasheet(myScenario, mySheet, sheetName)
+
+# Spatial Average Output
+sheetName <- "stsim_OutputOptionsSpatialAverage"
+mySheet <- datasheet(myScenario, name = sheetName, empty = F, optional = T)
+mySheet[1, "AvgRasterOutputSC"] <- T
+mySheet[1, "AvgRasterOutputSCTimesteps"] <- 1
+mySheet[1, "AvgRasterOutputSCCumulative"] <- T
+
+mySheet[1, "AvgRasterOutputAge"] <- T
+mySheet[1, "AvgRasterOutputAgeTimesteps"] <- 1
+mySheet[1, "AvgRasterOutputAgeCumulative"] <- T
+
+mySheet[1, "AvgRasterOutputTP"] <- T
+mySheet[1, "AvgRasterOutputTPTimesteps"] <- 1
+mySheet[1, "AvgRasterOutputTPCumulative"] <- T
 saveDatasheet(myScenario, mySheet, sheetName)
 
 
@@ -1124,6 +1148,12 @@ mySheet[1,"SpatialOutputST"] = T
 mySheet[1,"SpatialOutputFL"] = T
 mySheet[1,"SpatialOutputSTTimesteps"] = 1
 mySheet[1,"SpatialOutputFLTimesteps"] = 1
+mySheet[1,"AvgSpatialOutputST "] = T
+mySheet[1,"AvgSpatialOutputSTTimesteps "] = 1
+mySheet[1,"AvgSpatialOutputSTAcrossTimesteps "] = T
+mySheet[1,"AvgSpatialOutputFL "] = T
+mySheet[1,"AvgSpatialOutputFLTimesteps "] = 1
+mySheet[1,"AvgSpatialOutputFLAcrossTimesteps "] = T
 saveDatasheet(myScenario, mySheet, sheetName)
 
 
