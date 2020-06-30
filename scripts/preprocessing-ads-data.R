@@ -18,12 +18,22 @@
 library(raster)
 library(sf)
 library(tidyverse)
+library(fasterize)
 
 # Read in California Ecoregions Raster
 ecoregions = raster("data/initial-conditions/ic-ecoregion.tif")
 
 # Read in California Ecoregions Table
 ecoregion_df = read_csv("data/definitions/ecoregions.csv")
+
+# Read in State Class Map
+sc = raster("data/initial-conditions/ic-state-class.tif")
+
+# Calculate the natural vegetation area for each ecoregion
+scVeg = reclassify(sc, c(0,32,0, 33,79,1, 80,99,0, 100,999,1))
+scVeg_zonal = data.frame(zonal(scVeg, ecoregions, sum)) %>%
+  rename("ID"="zone", "Area"="value") %>%
+  mutate(Area = Area*100)
 
 # Set Severity breakpoints
 b1 = 3 # Top break point (trees/acre) for low severity
